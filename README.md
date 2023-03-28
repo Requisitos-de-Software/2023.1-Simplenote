@@ -1,42 +1,5 @@
 # 2023.1-Grupo05
 
-<a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com">
-    <img src="Docs/FGAtlasLogo-01.jpg" alt="Logo" width="550" height="430">
-  </a>
-
-  <h3 align="center">FGAtlas</h3>
-
-  <p align="center">
-    Um incrível mapa para se localizar na FGA!
-    <br />
-    <a href="https://github.com/fga-eps-mds/2022-2-FGAtlas/issues">Reportar Bug</a>
-    ·
-    <a href="https://github.com/fga-eps-mds/2022-2-FGAtlas/issues">Recomendar Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Conteúdo</summary>
-  <ol>
-    <li>
-      <a href="#Sobre-o-projeto">Sobre o projeto</a>
-    </li>
-    <li><a href="#Contribuidores">Contribuidores</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
 
