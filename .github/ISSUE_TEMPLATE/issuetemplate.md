@@ -1,5 +1,5 @@
 ---
-name: 'issuetemplate '
+name: 'Issue Template '
 about: Este é o template geral de issues no qual o projeto utiliza
 title: ''
 labels: ''
