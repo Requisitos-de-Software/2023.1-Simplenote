@@ -27,6 +27,7 @@
                 <h5 class="text-center">Ian da Costa</h5>
             </a>
         </td>
+        <td align="center">
             <a href="https://github.com/bot-do-jao">
                 <img style="border-radius: 50%;" src="https://github.com/bot-do-jao.png" width="150px;"/>
                 <h5 class="text-center">João Pedro</h5>
