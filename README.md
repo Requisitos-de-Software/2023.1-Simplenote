@@ -21,7 +21,6 @@
             </a>
         </td>
         <td align="center">
-        <td align="center">
             <a href="https://github.com/ian-dcg">
                 <img style="border-radius: 50%;" src="https://github.com/ian-dcg.png" width="150px;"/>
                 <h5 class="text-center">Ian da Costa</h5>
