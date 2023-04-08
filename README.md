@@ -1,7 +1,5 @@
 # Requisitos de software - 2023.1 - Grupo 5 
-<div align="center"> 
-    ## Crunchyroll
-<\div>
+## Crunchyroll
 
 <div align="center">
     <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Crunchyroll-Logo.png" style="width:15vw"/>
