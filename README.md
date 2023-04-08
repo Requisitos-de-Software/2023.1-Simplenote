@@ -1,7 +1,14 @@
-# 2023.1-Grupo05
+# Requisitos de software - 2023.1 - Grupo 5 
+## Crunchyroll
+
+<div style="text-align: center">
+<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Crunchyroll-Logo.png,format" style="width:15vw"/>
+
+<p> Figura 1: Logo Crunchyroll . Fonte: <a href="https://logosmarcas.net/wp-content/uploads/2021/03/Crunchyroll-Logo.png"></a></p>
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
+Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefactos do mesmo para a disciplina de Requisitos de software da turma 2023.1 ministrada pelo professor André Barros. Crunchroll é um app de streaming voltado para o publico jovem, no qual há o enfoque na cultura oriental, disponível para Android,IOS e Desktop.
 
 ## :smile: Contribuidores
 
