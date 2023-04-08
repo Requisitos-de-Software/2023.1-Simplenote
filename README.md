@@ -4,6 +4,7 @@
 <div align="center">
     <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Crunchyroll-Logo.png" style="width:15vw"/>
     <p> Figura 1: Logo Crunchyroll . Fonte: <a href="https://logosmarcas.net">Logomarcas</a></p>
+    <div>
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
