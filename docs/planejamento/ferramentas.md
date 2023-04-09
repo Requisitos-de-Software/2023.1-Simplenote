@@ -8,7 +8,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| ![Github](../img/github-icon.png) | Github  | Utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.  |
+| ![Github](../img/github-icon.png) | Github  | Utilizado como repositório dos documentos produzidos e para o versionamento deles.  |
 | ![Youtube](../img/youtube-icon.png) | Youtube | Utilizado para hospedar as gravações do projeto. |
 | ![VsCode](../img/vscode-icon.png) | Visual Studio Code  | Utilizado para manipulação dos arquivos do projeto. |
 | ![Lucidchart](../img/lucidchart.png) | Lucidchart | Utilizado para elaboração de diagramas.  |
