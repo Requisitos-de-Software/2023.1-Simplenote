@@ -19,7 +19,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 
 
 <div>
-<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
+<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
 </div>
 
 ## Bibliografia
@@ -33,3 +33,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 [7] Ferramenta OBS studio, disponível no [link](https://obsproject.com/). <br/>
 [8] Ferramenta WhatsApp, disponível no [link](https://www.whatsapp.com/). <br/>
 [9] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 16 de novembro de 2022. <br/>
+
+| Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 09/04/2023 | Criação do doc e adição das ferramentas | João | Kauã |
