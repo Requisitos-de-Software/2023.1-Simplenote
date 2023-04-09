@@ -4,17 +4,21 @@
 
 Este documento é referente ao cronograma que será seguido pela equipe durante o semestre de 2023.1 da disciplina de Requisitos de Software, com a finalizade de realizar o estudo da plantaforma Crunchyroll.
 O mesmo apresenta as datas limites de entrega e revisão, juntamente com os autores e revisores, para cada etapa do desenvolvimento do projeto.
- 
+
+## Cronograma geral
+
+
+## Cronogramas de cada ponto de controle
 ## Cronograma Ponto de Controle 1
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :----------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
-|       Metodologias       |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
-|  Ferramentas do projeto  |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
+|       Metodologias       |       31/03/2023       |     06/04/2023      |     Kauã             |João |
+|  Ferramentas do projeto  |       31/03/2023       |     06/04/2023      |     Kauã     |João |
 | Cronograma de atividades |       15/04/2023       |     16/04/2023      |        Kauã e João   |     Beatriz   |
 |   Organização de Equipe  |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
-|     App selecionado      |       15/04/2023       |     16/04/2023      |     Ana e Mylena     |Ian e Leonardo |
-|       Rich Picture       |       15/04/2023       |     16/04/2023      |     Ana e Mylena     |Ian e Leonardo |
+|     App selecionado      |       15/04/2023       |     16/04/2023      |     Beatriz     |Ian e Leonardo |
+|       Rich Picture       |       15/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
 | Gravação da apresentação |       16/04/2023       |          -          | Todos os integrantes |       -       |
 
 **Tabela 1: Cronograma do Ponto de Controle 1**
