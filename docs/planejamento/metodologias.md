@@ -1,6 +1,6 @@
 ## Introdução
 
-Para a realização de nossas atividades, utilizamos o método ágil Scrumban, assim, estimulando a construção sistemática dos artefactos necessários para a disciplina. Assim, este documento salienta os métodos as métodologias, práticas e práticas do grupo. 
+Para a realização de nossas atividades, utilizamos o método ágil Scrumban, assim, estimulando a construção sistemática dos artefactos necessários para a disciplina. Assim, este documento salienta os métodos as metodologias e práticas do grupo. 
 
 ## Scrumban
 
