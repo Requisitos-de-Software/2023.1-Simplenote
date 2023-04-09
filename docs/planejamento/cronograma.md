@@ -10,7 +10,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |        Atividade         | Descrição | Data Limite de Entrega |      
 | :----------------------: | :--------------------: | :-----------------: | 
 |       Entrega 1 – planejamento     |      App selecionado, tecnologias utilizadas, metodologia, reuniões, cronograma do projeto e rich Picture.|     17/04/2023      |    
-| Entrega 2 - Elicitação   |       Técnicas e Priorização Perfil dos usuários, personas, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no projeto      |     01/05/2023      |   
+| Entrega 2 - Elicitação   |       Técnicas e Priorização. Perfil dos usuários, personas, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no projeto      |     01/05/2023      |   
 | Entrega 3 -  Modelagem de Requisitos |       Cenários, Léxico, Use Case, Especificação Suplementar.|     17/05/2023      |    
 |   Entrega 4 - Modelagem de Requisitos   |       Ágil (Histórias de Usuário, Backlogs, NFR Framework).      |     24/05/2023      |   
 |     Entrega 5-  Análise de Requisitos      |       Verificação e Validação|     14/06/2023      |  
