@@ -111,4 +111,4 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã |Beatriz|
+| `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
