@@ -103,6 +103,14 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 **Tabela 7: Cronograma da Entrega Final**
 
+## Atividades extras
+
+Referentes a atividades importantes para o grupo nas quais foram discutidas durante as reuniões iniciais
+
+| Atividade | autor |
+| Produção de atas | Mylena|
+| Gravação das apresentações e reuniões| João|
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 09 de Abril de 2023;
