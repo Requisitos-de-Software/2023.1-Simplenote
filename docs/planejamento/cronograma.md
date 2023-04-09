@@ -108,6 +108,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 Referentes a atividades importantes para o grupo nas quais foram discutidas durante as reuniões iniciais
 
 | Atividade | autor |
+| :-------------------------------------------: | :--------------------: |
 | Produção de atas | Mylena|
 | Gravação das apresentações e reuniões| João|
 
