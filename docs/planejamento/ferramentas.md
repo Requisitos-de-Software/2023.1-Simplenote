@@ -13,7 +13,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 | ![VsCode](../img/vscode-icon.png) | Visual Studio Code  | Utilizado para manipulação dos arquivos do projeto. |
 | ![Lucidchart](../img/lucidchart.png) | Lucidchart | Utilizado para elaboração de diagramas.  |
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png) | This Person Doesn't Exist | Utilizado para geração de imagens para as personas. |
-| ![Figma](../img/figma-icon.png) | Figma  | Ferramenta para prototipagem |
+| ![Figma](../img/figma-icon.jpeg) | Figma  | Ferramenta para prototipagem |
 | ![OBS](../img/OBS-studio.png) | OBS studio | Utilizado para gravar as reuniões da disciplina |
 | ![Whatsapp](../img/whatsapp.png) | WhatsApp | Meio de comunicação escolhido pelo grupo |
 
