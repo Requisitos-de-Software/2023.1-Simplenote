@@ -32,7 +32,9 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 [6] Ferramenta Figma, disponível no [link](https://www.figma.com). <br/>
 [7] Ferramenta OBS studio, disponível no [link](https://obsproject.com/). <br/>
 [8] Ferramenta WhatsApp, disponível no [link](https://www.whatsapp.com/). <br/>
-[9] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 16 de novembro de 2022. <br/>
+[9] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
+
+## Histórico de Versão
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
