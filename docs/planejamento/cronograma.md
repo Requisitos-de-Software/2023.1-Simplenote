@@ -111,6 +111,7 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | :-------------------------------------------: | :--------------------: |
 | Produção de atas | Mylena|
 | Gravação das apresentações e reuniões| João|
+| Criação da gitpage|Ana e Mylena|
 
 ## Bibliografia
 
