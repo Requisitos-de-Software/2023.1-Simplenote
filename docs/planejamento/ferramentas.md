@@ -11,7 +11,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 | ![Github](../img/github-icon.png) | Github  | Utilizado como repositório dos documentos produzidos e para o versionamento deles.  |
 | ![Youtube](../img/youtube-icon.png) | Youtube | Utilizado para hospedar as gravações do projeto. |
 | ![VsCode](../img/vscode-icon.png) | Visual Studio Code  | Utilizado para manipulação dos arquivos do projeto. |
-| ![Lucidchart](../img/lucidchart.png) | Lucidchart | Utilizado para elaboração de diagramas.  |
+| ![Lucidchart](../img/lucidchart.png width='15vd') | Lucidchart | Utilizado para elaboração de diagramas.  |
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png) | This Person Doesn't Exist | Utilizado para geração de imagens para as personas. |
 | ![Figma](../img/figma-icon.jpeg) | Figma  | Ferramenta para prototipagem |
 | ![OBS](../img/OBS-studio.png) | OBS studio | Utilizado para gravar as reuniões da disciplina |
