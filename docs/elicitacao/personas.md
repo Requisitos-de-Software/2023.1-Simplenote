@@ -148,7 +148,7 @@ Como componentes do elenco de personas, temos:
 ### Walter Assis da Gama (Seu Nenê) - Anti-persona
 
 <div align="center">
-<img src="../img/seu-nene.png" width="400" height="300">
+<img src="../img/seu-nene.PNG" width="400" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
@@ -172,7 +172,7 @@ Como componentes do elenco de personas, temos:
 | **Objetivos**       | Após a sua aposentadoria, seu Nenê constantemente se sente mal por não estar ocupado com algo, o mesmo deseja algo para se ocupar. |
 | **Habilidades**     | Bastante força devido ao seu modo de vida.  |
 | **Rotina**         | Seu nenê é bastante ocupado apesar de sua idade, pela manhã ele faz a sua comida, pela tarde ele se dirige para a rua com a finalidade de encontrar algum serviço, ele volta para casa à noite a fim de descansar, ele dorme cedo, entre 22:00 e 22:30. |
-| **Relacionamentos** | Conversa com seus netos (Gabriel PEC e Alex Teixeira) e seus amigos de bairro.   |
+| **Relacionamentos** | Conversa com seus netos e seus amigos de bairro.   |
 | **Requisitos**      | Seu Nenê quer descansar quando chega em casa e se sente motivado a ver animes para conversar com seus netos, entretanto, ele precisa de facilidade. |
 | **Expectativas**    | Seu Nenê quer viver uma vida feliz até o final de sua existência. |
 
