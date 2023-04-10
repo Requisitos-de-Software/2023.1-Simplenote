@@ -40,3 +40,5 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologias: planejamento/metodologias.md
+  -Pré-rastreabilidade:
+      -Rich Picture: docs/pré-rastreabilidade/Rich_picture_v1.md
