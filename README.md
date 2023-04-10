@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
-Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefactos do mesmo para a disciplina de Requisitos de software da turma 2023.1 ministrada pelo professor André Barros. Crunchroll é um app de streaming voltado para o publico jovem, no qual há o enfoque na cultura oriental, disponível para Android,IOS e Desktop.
+    Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Crunchyroll é um aplicativo de streaming voltado para o público jovem, no qual há enfoque na cultura oriental, disponível para Android, iOS e Desktop.
 
 ## :smile: Contribuidores
 
