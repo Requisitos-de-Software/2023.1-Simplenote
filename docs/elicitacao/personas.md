@@ -30,7 +30,7 @@ A principio, a dupla realizou uma busca sistemática de 4 imagens no site [This 
 
 Como componentes do elenco de personas, temos:
 
-### Enzo Gabriel
+### Enzo Gabriel - Persona primária
 
 <center>
 <img src="../img/enzo.png">
