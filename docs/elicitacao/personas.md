@@ -21,7 +21,7 @@ A principio, a dupla realizou uma busca sistemática de 4 imagens no site [This 
 - História
 - Objetivo
 - Habilidades
-- Tarefas
+- Rotina
 - Relacionamentos
 - Requisitos
 - Expectativas
@@ -32,47 +32,162 @@ Como componentes do elenco de personas, temos:
 
 ### Enzo Gabriel - Persona primária
 
-<center>
-<img src="../img/enzo.png">
-</center>
+<div align="center">
+<img src="../img/enzo.png" width="300" height="300">
+</div>
+<div align="center">
 <figcaption align='center'>
-    <b>Figura 1: Primeira persona.</b>
+    <b>Figura 1: Primeira persona-primária.</b>
     <br><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>
 </figcaption>
+</div>
+
+<br>
 
 
 |        Caracteristica       |  Resposta   |
 | :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            | Enzo Gabriel    |
-| **Idade**            |          16 Anos     | 
-| **Gênero**       | Masculino      |
-| **Localidade**            |        São paulo, São Paulo, Brasil       |                                                                                        
-| **Particularidades**            |        Palmeirense, usuário de discord       |    
-| **Escolaridade**            |        Ensino médio incompleto       |    
-| **Profissão**            |        Estudante       |   
-| **História**            |           Enzo Gabriel é repetente do fundamental 2 devido ao seu vício em jogos online, mais precisamente COD. Seu principal hobby é assistir animes pelo discord com seus amigos (Léo Pelé e Ivan).    |    
+| **Nome**            | Enzo Gabriel.    |
+| **Idade**            |          16 Anos.     | 
+| **Gênero**       | Masculino.      |
+| **Localidade**            |        São paulo, São Paulo, Brasil.       |                                                                                        
+| **Particularidades**            |        Palmeirense e Usuário de discord.       |    
+| **Escolaridade**            |        Ensino médio incompleto.       |    
+| **Profissão**            |        Estudante.       |   
+| **História**            |       Enzo Gabriel é repetente do fundamental 2 devido ao seu vício em jogos online. Seu principal hobby é assistir animes pelo discord com seus amigos.    |    
 | **Objetivos**       | Busca fugir de suas obrigações escolares, vendo animes com seus amigos. Além disso, busca assistir o máximo de animes o possível. |
 | **Habilidades**     | Extraordinariamente bom em matemática.  |
-| **Tarefas**         | De manhã ele vai para a escola, volta por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
+| **Rotina**         | De manhã ele vai para a escola, volta por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
 | **Relacionamentos** | Conversa com colegas do discord e sua meia dúzia de amigos escolares.   |
 | **Requisitos**      | Ele gostaria de assistir mais animes dublados, um site mais veloz e que coubesse mais usuários ao mesmo tempo e gostaria que ele tivesse a possibilidade de transmitir tela para seus amigos do discord. |
 | **Expectativas**    | Quer assistir o máximo de animes o possível. |
 
 <div style="text-align: center">
 <p>Tabela 1: Persona 1 - Enzo Gabriel</p>
-<p>Fonte: Kauã Vinícus</p>
+<p>Fonte: Kauã Vinícius</p>
 </div>
 
+<br>
 
+### Alicia Kane - Persona primária
+
+<div align="center">
+<img src="../img/alicia.png" width="300" height="300">
+</div>
+<div align="center">
+<figcaption align='center'>
+    <b>Figura 2: Segunda persona-primária.</b>
+    <br><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Alicia Kane.    |
+| **Idade**            |          25 anos.     | 
+| **Gênero**       | Feminino.      |
+| **Localidade**            |        Londres, Inglaterra ,Reino Unido.       |                                                                                        
+| **Particularidades**            |        Ativista social e Universitária de ciências físicas em cambridge.    |    
+| **Escolaridade**            |        Cursando o ensino superior.       |    
+| **Profissão**            |        Estudante e estagiária.   |   
+| **História**            | Alicia desde pequena sempre gostou de assistir desenhos, determinado dia, ela encontrou um anime chamado “Steins Gate”, no qual lida com diversos eventos curiosos da área da física, se apaixonando assim, pela sua área de atuação, ela até hoje é aficionada por desenhos japoneses que envolvem ciência    | 
+| **Objetivos**       | Entender mais sobre a física de uma forma divertida. |
+| **Habilidades**     | Alto conhecimento a respeito de ciências físicas e conhece muitos animes.  |
+| **Rotina**         | Pela manhã acorda, estuda até meio dia, almoça e pela tarde vai para o seu estágio, volta para casa e assiste quantos episódios de anime ela conseguir. Eventualmente, ela assiste seus animes no metrô ou no ônibus. |
+| **Relacionamentos** | Conversa com seus amigos, pais e colegas de faculdade e estágio.   |
+| **Requisitos**      | Site mais rápido, poder baixar os animes para assistir off-line, algoritmo mais preciso, um sistema de favoritos mais abrangente, e uma funcionalidade para restringir animes sugeridos. |
+| **Expectativas**    | Espera a evolução do algoritmo do site e busca mais animes. |
+
+<div style="text-align: center">
+<p>Tabela 2: Persona 2 - Alicia Kane</p>
+<p>Fonte: Kauã Vinícius</p>
+</div>
+
+<br>
+
+### Valentina Becker - Persona Secundária
+
+<div align="center">
+<img src="../img/valentina.png" width="300" height="300">
+</div>
+<div align="center">
+<figcaption align='center'>
+    <b>Figura 3: Primeira persona secundária.</b>
+    <br><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Valentina Becker.    |
+| **Idade**            |          10 anos.     | 
+| **Gênero**       | Feminino.      |
+| **Localidade**            |        Porto Alegre, Rio grande do Sul,Brasil.       |                                                                                      | **Particularidades**            |       Gosta da Sakura de "Naruto" e de anime de romance.     |    
+| **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
+| **Profissão**            |        Estudante.   |   
+| **História**            | Valentina é filha de classe média-alta Porto-alegrense, devido ao desleixo dos pais, ela possui assinatura no aplicativo, porém, apenas a empregada possui o login de sua conta na qual controla os horários.  | 
+| **Objetivos**       | Apenas se divertir. |
+| **Habilidades**     | Capacidade alta de aprendizado.  |
+| **Rotina**         | Assiste animes no lugar da televisão desde quando acorda até as 11:00, toma banho, almoça e vai para o colégio no período da tarde, chega em casa 17:00, faz seus afazeres e vai dormir. |
+| **Relacionamentos** | Conversa com seus pais, empregada e suas colegas de escola.   |
+| **Requisitos**      | Spin-off dos animes, sistema de login facilitado, mais “animes bons”. |
+| **Expectativas**    | Espera mais animes a cada dia que passa. |
+
+<div style="text-align: center">
+<p>Tabela 3: Persona 3 - Valentina Becker</p>
+<p>Fonte: Kauã Vinícius</p>
+</div>
+
+<br>
+
+### Walter Assis da Gama (Seu Nenê) - Anti-persona
+
+<div align="center">
+<img src="../img/seu-nene.png" width="300" height="300">
+</div>
+<div align="center">
+<figcaption align='center'>
+    <b>Figura 3: Anti-persona.</b>
+</figcaption>
+</div>
+
+<br>
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Walter Assis da Gama (Seu Nenê).    |
+| **Idade**            |          70 anos.    | 
+| **Gênero**       | Masculino.      |
+| **Localidade**            |      São Cristóvão, Rio de Janeiro, Brasil.      |        
+| **Particularidades**            |       Viúvo.    |    
+| **Escolaridade**            |        Ensino médio incompleto.      |    
+| **Profissão**            |        Aposentado.   |   
+| **História**            | Seu Nenê é aposentado, mas devido a sua infância conturbada e a força de vontade, está sempre atrás de alguma fonte de renda além de sua aposentadoria.  | 
+| **Objetivos**       | Após a sua aposentadoria, seu Nenê constantemente se sente mal por não estar ocupado com algo, o mesmo deseja algo para se ocupar. |
+| **Habilidades**     | Bastante força devido ao seu modo de vida.  |
+| **Rotina**         | Seu nenê é bastante ocupado apesar de sua idade, pela manhã ele faz a sua comida, pela tarde ele se dirige para a rua com a finalidade de encontrar algum serviço, ele volta para casa à noite a fim de descansar, ele dorme cedo, entre 22:00 e 22:30. |
+| **Relacionamentos** | Conversa com seus netos (Gabriel PEC e Alex Teixeira) e seus amigos de bairro.   |
+| **Requisitos**      | Seu Nenê quer descansar quando chega em casa e se sente motivado a ver animes para conversar com seus netos, entretanto, ele precisa de facilidade. |
+| **Expectativas**    | Seu Nenê quer viver uma vida feliz até o final de sua existência. |
+
+<div style="text-align: center">
+<p>Tabela 4: Persona 4 - Walter Assis da Gama (Seu Nenê)</p>
+<p>Fonte: Kauã Vinícius</p>
+</div>
 
 ## Bibliografia
 
 [1] This Person Doest Not Exist. Acesso em: 09 de Abril de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
 
-[2] https://brasil.uxdesign.cc/antipersona-qual-%C3%A9-o-impacto-na-cria%C3%A7%C3%A3o-de-um-produto-ou-servi%C3%A7o-a976f5f4ecbd
+[2] https://brasil.uxdesign.cc/antipersona-qual-%C3%A9-o-impacto-na-cria%C3%A7%C3%A3o-de-um-produto-ou-servi%C3%A7o-a976f5f4ecbd. Acesso em: 09 de Abril de 2022
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                                              | Autor(es)        | Revisor(es)  |
 | ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| `1.0`  | 24/11/2022 | Criação do documento e inicio da criação das personas                                             |Kauã        | João |
+| `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas                                             |Kauã        | João |
