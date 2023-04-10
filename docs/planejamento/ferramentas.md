@@ -28,7 +28,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 [2] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
 [3] Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
 [4] Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
-[5] Ferramenta This Person Doesn't Exist, disponível no [link](https://thispersondoesnotexist.com/). <br/>
+[5] Ferramenta This Person Doesn't Exist, disponível no [link](https://this-person-does-not-exist.com/en). <br/>
 [6] Ferramenta Figma, disponível no [link](https://www.figma.com). <br/>
 [7] Ferramenta OBS studio, disponível no [link](https://obsproject.com/). <br/>
 [8] Ferramenta WhatsApp, disponível no [link](https://www.whatsapp.com/). <br/>
