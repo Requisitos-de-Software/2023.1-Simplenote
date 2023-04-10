@@ -33,7 +33,7 @@ Como componentes do elenco de personas, temos:
 ### Enzo Gabriel
 
 <center>
-<img src="../img/enzo.png">
+<img src="../img/enzo.png width="50%" height="50%">
 </center>
 <figcaption align='center'>
     <b>Figura 1: Primeira persona.</b>
