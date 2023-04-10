@@ -152,7 +152,7 @@ Como componentes do elenco de personas, temos:
 </div>
 <div align="center">
 <figcaption align='center'>
-    <b>Figura 3: Anti-persona.</b>
+    <b>Figura 4: Anti-persona.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
