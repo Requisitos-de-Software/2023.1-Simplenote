@@ -35,10 +35,10 @@ theme:
 nav: 
   - Home: index.md
   - Atas: atas.md
-  - Elicitacao: elicitacao/personas.md
+  - Elicitação: elicitacao/personas.md
   - Planejamento: 
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologias: planejamento/metodologias.md
-  -Pré-rastreabilidade:
-      -Rich Picture: docs/pré-rastreabilidade/Rich_picture_v1.md
+  - Pré-rastreabilidade:
+      - Rich Picture: pré-rastreabilidade/rich_picture.md
