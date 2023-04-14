@@ -36,15 +36,16 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |                    Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :---------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
-|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Kauã         |       João      |
-| StoryTelling |       28/04/2023       |     29/04/2023     | João | Ana |
-| Personas |       28/04/2023       |     29/04/2023      | Ana | Beatriz |
-| Questionário |       28/04/2023      |     29/04/2023     | Beatriz | Ian |
-| Introspecção |       28/04/2023       |     29/04/2023     | Ian | Kauã |
-| Glossário |       28/04/2023       |     29/04/2023      | Kauã | Leonardo |
-| Entrevista	 |       28/04/2023       |     29/04/2023      | Leonardo | Mylena |
-| Brainstorming	 |       28/04/2023       |     29/04/2023      | Mylena | João |
-|                   Priorização                   |       28/04/2023        |     29/04/2023       |    João |     Ana  |
+|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Todos do grupo       |       -    |
+| StoryTelling |       28/04/2023       |     29/04/2023     | Leonardo | Ian |
+| Personas |       28/04/2023       |     29/04/2023      | Ian | João  |
+| Questionário |       28/04/2023      |     29/04/2023     | Mylena | Kauã  |
+| Introspecção |       28/04/2023       |     29/04/2023     | Beatriz | Leonardo |
+| Glossário |       28/04/2023       |     29/04/2023      | Leonardo | Kauã |
+| Entrevista	 |       28/04/2023       |     29/04/2023      | Ana | Beatriz |
+| Brainstorming	 |       28/04/2023       |     29/04/2023      | Ian | Ana |
+|                   Frist things Frist                  |       28/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
+|                   Escala de três níveis                 |       28/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 |            Gravação da apresentação             |       30/04/2023      |          -          | Todos os integrantes| - |
 
 
@@ -54,10 +55,10 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |         Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
 | :-----------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
-|       Casos de uso        |       08/05/2023    | 09/05/2023|Ana  |   Beatriz|
-|         Cenários          |       14/05/2023|    15/05/2023|  Beatriz|Ian|
-|          Léxico           |       08/05/2023      |     09/05/2023      |       Ian    |   Kauã|
-| Especificação Suplementar |       14/05/2023       |      15/05/2023      |      Kauã  | Leonardo|
+|       Casos de uso        |       08/05/2023    | 09/05/2023| Ian | Mylena  |
+|         Cenários          |       14/05/2023|    15/05/2023| Mylena | Kauã|
+|          Léxico           |       08/05/2023      |     09/05/2023      |     João     | Ana  |
+| Especificação Suplementar |       14/05/2023       |      15/05/2023      |    Kauã    |  Leonardo |
 | Gravação da apresentação  |       16/05/2023|       -          | Todos os integrantes |      -       |
 
 
@@ -67,9 +68,9 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |          Autor(es)           |     Revisor(es)      |
 | :----------------------: | :--------------------: | :-----------------: | :--------------------------: | :------------------: |
-|   Histórias de Usuário   |      18/05/2023       |     19/05/2023     | Leonardo |       Mylena       |
-|         Backlog          |       21/05/2023       |     22/05/2023      |       Mylena       |    Ana     |
-|      NFR Framework       |       21/05/2023       |     22/05/2023      |           Ana           |         Beatriz         |
+|   Histórias de Usuário   |      18/05/2023       |     19/05/2023     | Kauã e João |      Mylena    |
+|         Backlog          |       21/05/2023       |     22/05/2023      |     Ian      |    João    |
+|      NFR Framework       |       21/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
 | Gravação da apresentação |       23/05/2023      |          -          |     Todos os integrantes     |          -           |
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
@@ -78,8 +79,8 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
-| Verificação dos requisitos |       31/05/2023      |     01/06/2023      | Beatriz |    Ian    |
-|  Validação dos requisitos  |       04/06/2023       |     05/06/2023      |  Ian  | Kauã |
+| Verificação dos requisitos |       31/05/2023      |     01/06/2023      | João,Beatriz e Ian| Ana,Leonardo,Kauã e Mylena|
+|  Validação dos requisitos  |       04/06/2023       |     05/06/2023      | Ana,Leonardo,Kauã e Mylena|João, Beatriz e Ian|
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
 
 **Tabela 5: Cronograma do Ponto de Controle 5**
@@ -88,8 +89,8 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |                 Atividade                  | Data Limite de Entrega | Data Limite Revisão |        Autor(es)        | Revisor(es)  |
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
-|               Backward From                |       18/06/2023       |     19/06/2023      | Kauã |   Leonardo   |
-|                Forward From                |       18/06/2023       |     19/06/2023      |    Leonardo     |     Mylena     |
+|               Backward From                |       18/06/2023       |     19/06/2023      | Ana|Ian|
+|                Forward From                |       18/06/2023       |     19/06/2023      |    Leonardo     |     Beatriz|
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
 
 **Tabela 6: Cronograma do Ponto de Controle 6**
