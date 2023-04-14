@@ -123,3 +123,4 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
+| `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
