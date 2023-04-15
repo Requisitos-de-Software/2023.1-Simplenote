@@ -10,7 +10,7 @@ Uma rich picture retrata os principais stakeholders, suas inter-relações e sua
  - Setas: Indicam a direção das informações;
  - Fronteira: Delimita a área de atuação do app.
  
-## Rich picture versão 1.0
+## Rich picture versão 1.1
 ![Rich Picture V 1.1 Autora: Beatriz Nascimento/ Leonardo Machado](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Crunchyroll/main/docs/pr%C3%A9-rastreabilidade/RichPictureV1.1.jpg)
 
 ![Legenda Rich Picture](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Crunchyroll/main/docs/pr%C3%A9-rastreabilidade/LegendaRP.jpg)
