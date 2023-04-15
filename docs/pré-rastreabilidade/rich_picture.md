@@ -28,6 +28,6 @@ Uma rich picture retrata os principais stakeholders, suas inter-relações e sua
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
-|1.0 | 10/04/2023 | Criação da 1º versão| Beatriz |Leonardo e Ian |
-|1.1| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
+|`1.0` | 10/04/2023 | Criação da 1º versão| Beatriz |Leonardo e Ian |
+|`1.1`| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
 
