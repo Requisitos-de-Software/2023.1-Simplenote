@@ -11,7 +11,9 @@ Uma rich picture retrata os principais stakeholders, suas inter-relações e sua
  - Fronteira: Delimita a área de atuação do app.
  
 ## Rich picture versão 1.0
-![Rich Picture V 1.0 Autora: Beatriz Nascimento](https://user-images.githubusercontent.com/86479209/230997225-a62eccf7-86c7-4f4f-ac28-1042131150cb.png)
+![Rich Picture V 1.1 Autora: Beatriz Nascimento/ Leonardo Machado](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Crunchyroll/main/docs/pr%C3%A9-rastreabilidade/RichPictureV1.1.jpg)
+
+![Legenda Rich Picture](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Crunchyroll/main/docs/pr%C3%A9-rastreabilidade/LegendaRP.jpg)
 ## Bibliografia
 [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
