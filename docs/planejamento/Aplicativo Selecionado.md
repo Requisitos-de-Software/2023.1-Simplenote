@@ -4,7 +4,7 @@
 
 Durante a fase inicial do projeto, os alunos apresentaram individualmente sugestões de aplicativos com o objetivo de serem trabalhados pelo grupo durante a disciplina de Requisitos de Software. 
 Com base nessas escolhas, foram discutidas ideias a respeito de qual aplicativo seria mais adequado para ser abordado durante a disciplina. 
-A sugestão feita por cada membro do grupo pode ser observada na abaixo.
+A sugestão feita por cada membro do grupo pode ser observada a abaixo.
 
 | Nome          | Aplicativo           | 
 | ------------- |:-------------:| 
