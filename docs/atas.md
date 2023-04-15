@@ -21,6 +21,6 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| 1.0 |15/04/2022|Atas das reuniões realizadas para a entrega 1| Mylena| Todos
+| `1.0` |15/04/2022|Atas das reuniões realizadas para a entrega 1| Mylena| Todos
 
 
