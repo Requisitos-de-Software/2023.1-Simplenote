@@ -10,7 +10,7 @@ A sugestão feita por cada membro do grupo pode ser observada na abaixo.
 | ------------- |:-------------:| 
 | Ana Beatriz  | Pinterest   | 
 | Beatriz      | Crunchyroll |  
-| Ian          | Shopee     |  
+| Ian          | Shopee   |  
 | João         | chess.com   |   
 | Kauã         | Twitch      |   
 | Leornado     | Desmos      |  
