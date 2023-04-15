@@ -34,4 +34,4 @@ O serviço está disponível em diversos idiomas, como inglês, espanhol, franc�
 tais como smartphones, tablets e smart TVs. 
   </p>
 
-Porque o Crunchyroll?
+### Porque o Crunchyroll?
