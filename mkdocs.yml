@@ -2,22 +2,30 @@ site_name: Crunchyroll
 
 repo_name: 2023.1-Crunchyroll
 repo_url: https://github.com/Requisitos-de-Software/2023.1-Crunchyroll
+site_url: https://2023.1-Crunchyroll.com/
 
 copyright: Copyright &copy; 2023 Crunchyroll
 
 theme:
   name: material
-  language: pt
+  language: pt-BR
   logo: img/Crunchyroll.png
   favicon: img/Crunchyroll.png
-   # Palette toggle for light mode
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+   
   palette:
+    # Palette toggle for light mode
     - scheme: default
       primary: deep orange
       toggle:
         icon: material/brightness-7 
         name: Dark mode
-# Palette toggle for dark mode
+
+    # Palette toggle for dark mode
     - scheme: slate
       primary: deep orange
       toggle:
@@ -27,10 +35,6 @@ theme:
   font:
     text: "Montserrat"
     code: "sans-serif"
-
-  features:
-    - navigation.tabs
-    - navigation.section
 
 nav: 
   - Home: index.md

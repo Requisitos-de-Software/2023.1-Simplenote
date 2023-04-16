@@ -40,19 +40,19 @@ Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.
         </td>
         <td align="center">
             <a href="https://github.com/kaua-pt">
-                <img style="border-radius: 50%;" src="https://github.com/kaua-pt.png" width="180px;"/>
+                <img style="border-radius: 50%;" src="https://github.com/kaua-pt.png" width="220px;"/>
                 <h5 class="text-center">Kauã Vinícius ✠ </h5>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/leonardogonmac">
-                <img style="border-radius: 50%;" src="https://github.com/leonardogonmac.png" width="75px;"/>
+                <img style="border-radius: 50%;" src="https://github.com/leonardogonmac.png" width="190px;"/>
                 <h5 class="text-center">Leonardo Gonçalves</h5>
             </a>
         </td>
          <td align="center">
             <a href="https://github.com/Mylena-angelica">
-                <img style="border-radius: 50%;" src="https://github.com/Mylena-angelica.png" width="150px;"/>
+                <img style="border-radius: 50%;" src="https://github.com/Mylena-angelica.png" width="200px;"/>
                 <h5 class="text-center">Mylena Angelica</h5>
             </a>
         </td>
