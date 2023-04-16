@@ -7,7 +7,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
-Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefactos do mesmo para a disciplina de Requisitos de software da turma 2023.1 ministrada pelo professor André Barros. Crunchroll é um app de streaming voltado para o publico jovem, no qual há o enfoque na cultura oriental, disponível para Android,IOS e Desktop.
+Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Crunchyroll é um aplicativo de streaming voltado para o público jovem, no qual há enfoque na cultura oriental, disponível para Android, iOS e Desktop.
 
 ## Contribuidores
 
@@ -63,9 +63,3 @@ Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.
 <p align="center">Requisitos de <i>Software</i><br /><br />
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>
-
-
-<div align="center">
-    <img src="https://unbbr-my.sharepoint.com/personal/211029497_aluno_unb_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F211029497%5Faluno%5Funb%5Fbr%2FDocuments%2F5%C2%BA%20semestre%2FRequisitos%2Fatas%2FDecis%C3%B5es%20iniciais%2Epdf&parent=%2Fpersonal%2F211029497%5Faluno%5Funb%5Fbr%2FDocuments%2F5%C2%BA%20semestre%2FRequisitos%2Fatas&ga=1" style="width:15vw"/>
-    <p> Figura 1: Logo Crunchyroll . Fonte: <a href="https://logosmarcas.net">Logomarcas</a></p> 
-</div>
