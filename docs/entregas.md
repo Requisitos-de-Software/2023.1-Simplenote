@@ -22,4 +22,4 @@ Release
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| 1.0 |17/04/2022|Entrega 1| Mylena| Todos
+| `1.0`|17/04/2022|Entrega 1| Mylena| Todos
