@@ -33,6 +33,7 @@ Como componentes do elenco de personas, temos:
 ### Enzo Gabriel - Persona primária
 
 <div align="center">
+
 <img src="../img/enzo.png" width="300" height="300">
 </div>
 <div align="center">
@@ -148,7 +149,8 @@ Como componentes do elenco de personas, temos:
 ### Walter Assis da Gama (Seu Nenê) - Anti-persona
 
 <div align="center">
-<img src="../img/seu-nene.PNG" width="400" height="300">
+
+<img src="../img/seu-nene.png" width="400" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>

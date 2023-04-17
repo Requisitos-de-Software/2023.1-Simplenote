@@ -1,0 +1,48 @@
+site_name: Crunchyroll
+
+repo_name: 2023.1-Crunchyroll
+repo_url: https://github.com/Requisitos-de-Software/2023.1-Crunchyroll
+site_url: https://2023.1-Crunchyroll.com/
+
+copyright: Copyright &copy; 2023 Crunchyroll
+
+theme:
+  name: material
+  language: pt-BR
+  logo: img/Crunchyroll.png
+  favicon: img/Crunchyroll.png
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+   
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/brightness-7 
+        name: Dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+nav: 
+  - Home: index.md
+  - Atas: atas.md
+  - Elicitação: elicitacao/personas.md
+  - Planejamento: 
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologias: planejamento/metodologias.md
+  - Pré-rastreabilidade:
+      - Rich Picture: pré-rastreabilidade/rich_picture.md
