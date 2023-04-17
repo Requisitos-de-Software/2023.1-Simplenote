@@ -59,10 +59,6 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |         Cenários          |       13/05/2023|    15/05/2023| Mylena | Kauã|
 |          Léxico           |       07/05/2023      |     09/05/2023      |     João     | Ana  |
 | Especificação Suplementar |       13/05/2023       |      15/05/2023      |    Kauã    |  Leonardo |
-|       Casos de uso        |       08/05/2023    | 09/05/2023| Ian | Mylena  |
-|         Cenários          |       14/05/2023|    15/05/2023| Mylena | Kauã|
-|          Léxico           |       08/05/2023      |     09/05/2023      |     João     | Ana  |
-| Especificação Suplementar |       14/05/2023       |      15/05/2023      |    Kauã    |  Leonardo |
 | Gravação da apresentação  |       16/05/2023|       -          | Todos os integrantes |      -       |
 
 
@@ -75,9 +71,6 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |   Histórias de Usuário   |      17/05/2023       |     19/05/2023     | Kauã e João |      Mylena    | 
 |         Backlog          |       20/05/2023       |     22/05/2023      |     Ian      |    João    |
 |      NFR Framework       |       20/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
-|   Histórias de Usuário   |      18/05/2023       |     19/05/2023     | Kauã e João |      Mylena    |
-|         Backlog          |       21/05/2023       |     22/05/2023      |     Ian      |    João    |
-|      NFR Framework       |       21/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
 | Gravação da apresentação |       23/05/2023      |          -          |     Todos os integrantes     |          -           |
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
@@ -88,8 +81,6 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
 | Verificação dos requisitos |       30/05/2023      |     01/06/2023      | João,Beatriz e Ian| Ana,Leonardo,Kauã e Mylena|
 |  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | Ana,Leonardo,Kauã e Mylena|João, Beatriz e Ian|
-| Verificação dos requisitos |       31/05/2023      |     01/06/2023      | João,Beatriz e Ian| Ana,Leonardo,Kauã e Mylena|
-|  Validação dos requisitos  |       04/06/2023       |     05/06/2023      | Ana,Leonardo,Kauã e Mylena|João, Beatriz e Ian|
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
 
 **Tabela 5: Cronograma do Ponto de Controle 5**
@@ -100,8 +91,6 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
 |               Backward From                |       17/06/2023       |     19/06/2023      | Ana|Ian|
 |                Forward From                |       17/06/2023       |     19/06/2023      |    Leonardo     |     Beatriz|
-|               Backward From                |       18/06/2023       |     19/06/2023      | Ana|Ian|
-|                Forward From                |       18/06/2023       |     19/06/2023      |    Leonardo     |     Beatriz|
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
 
 **Tabela 6: Cronograma do Ponto de Controle 6**
