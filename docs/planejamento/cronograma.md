@@ -113,6 +113,7 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | Produção de atas | Mylena|
 | Gravação das apresentações e reuniões| João|
 | Criação da gitpage|Ana e Mylena|
+| Atualizar o cronograma realizado | Todos|
 
 ## Bibliografia
 
@@ -125,4 +126,5 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
 | `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
 |`1.2`| 15/04/2023| Versão atualizada| Mylena| Todos do grupo|
+
 
