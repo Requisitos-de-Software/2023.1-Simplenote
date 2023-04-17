@@ -1,9 +1,9 @@
-# Cronograma
+# Cronograma realizado
 
 ## Introdução
 
-Este documento é referente ao cronograma que será seguido pela equipe durante o semestre de 2023.1 da disciplina de Requisitos de Software, com a finalizade de realizar o estudo da plantaforma Crunchyroll.
-O mesmo apresenta as datas limites de entrega e revisão, juntamente com os autores e revisores, para cada etapa do desenvolvimento do projeto.
+Este documento é referente ao cronograma que foi efetivamente seguido durante o semestre de 2023.1 da disciplina de Requisitos de Software, com a finalizade de realizar o estudo da plantaforma Crunchyroll.
+Ele está em constante mudança até a entrega final.
 
 ## Cronograma geral
 
