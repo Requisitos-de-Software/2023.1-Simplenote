@@ -26,7 +26,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |  Ferramentas do projeto  |       09/04/2023       |     11/04/2023      |     João     |Kauã |
 | Cronograma de atividades |       14/04/2023       |     16/04/2023      |        Kauã e João   |     Beatriz e João  |
 |   Organização de Equipe  |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
-|     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz     |Ian e Leonardo |
+|     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz e Leonardo    |Ian |
 |       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
 | Gravação da apresentação |       16/04/2023       |          -          | Todos os integrantes |       -       |
 
