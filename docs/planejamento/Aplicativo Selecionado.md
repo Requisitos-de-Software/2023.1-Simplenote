@@ -40,3 +40,12 @@ Inicialmente, cada integrante no grupo propôs uma aplicação para trabalharmos
 Picture individualmente. Após a proposição, fizemos uma votação sobre qual aplicação iríamos trabalhar, e a mais votada foi a Crunchyroll.
 
 O Crunchyroll é uma plataforma que já era conhecida pela maioria dos integrantes do grupo. Devido a isso, pensamos que trabalhar com uma aplicação de conhecimento geral do grupo causaria menos transtornos. O Crunchyroll, por ser um serviço de streaming que atua em vários países, possui um volume de usuários muito grande, que é um fator que consideramos importante na escolha. Também, é um aplicativo de fácil uso e bastante acessível, além de não ter sido trabalhado na disciplina de requisitos.
+
+### Bibliografia
+[1] QUEM somos. Crunchyroll. Disponível em: https://www.crunchyroll.com/pt-br/about/who/index.html. 
+### Histórico de versão
+| Versão | Data | Descrição| Autor(es)| Revisor(es)
+|--|--|--|--|--|
+| `1.0` |15/04/2022|O que é e porque| Beatriz e Leonardo| Ian
+
+
