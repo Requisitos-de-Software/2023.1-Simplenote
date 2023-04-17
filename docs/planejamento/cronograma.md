@@ -47,17 +47,6 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | Frist things Frist  |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 | Escala de três níveis |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 |  Gravação da apresentação  |       30/04/2023      |          -          | Todos os integrantes| - |
-| StoryTelling |       28/04/2023       |     29/04/2023     | Leonardo | Ian |
-| Personas |       28/04/2023       |     29/04/2023      | Ian | João  |
-| Questionário |       28/04/2023      |     29/04/2023     | Mylena | Kauã  |
-| Introspecção |       28/04/2023       |     29/04/2023     | Beatriz | Leonardo |
-| Glossário |       28/04/2023       |     29/04/2023      | Leonardo | Kauã |
-| Entrevista	 |       28/04/2023       |     29/04/2023      | Ana | Beatriz |
-| Brainstorming	 |       28/04/2023       |     29/04/2023      | Ian | Ana |
-|                   Frist things Frist                  |       28/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
-|                   Escala de três níveis                 |       28/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
-|            Gravação da apresentação             |       30/04/2023      |          -          | Todos os integrantes| - |
-
 
 
 **Tabela 2: Cronograma do Ponto de Controle 2**
@@ -83,8 +72,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |          Autor(es)           |     Revisor(es)      |
 | :----------------------: | :--------------------: | :-----------------: | :--------------------------: | :------------------: |
-
-|   Histórias de Usuário   |      17/05/2023       |     19/05/2023     | Kauã e João |      Mylena    |
+|   Histórias de Usuário   |      17/05/2023       |     19/05/2023     | Kauã e João |      Mylena    | 
 |         Backlog          |       20/05/2023       |     22/05/2023      |     Ian      |    João    |
 |      NFR Framework       |       20/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
 |   Histórias de Usuário   |      18/05/2023       |     19/05/2023     | Kauã e João |      Mylena    |
