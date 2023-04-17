@@ -39,9 +39,11 @@ theme:
 nav: 
   - Home: index.md
   - Atas: atas.md
+  - Entregas: entregas.md
   - Elicitação: elicitacao/personas.md
   - Planejamento: 
-      - Cronograma: planejamento/cronograma.md
+      - Cronograma pretendido: planejamento/cronograma.md
+      - Cronograma realizado: planejamento/cronograma_realizado.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologias: planejamento/metodologias.md
       - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
