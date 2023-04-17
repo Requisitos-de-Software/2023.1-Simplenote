@@ -21,8 +21,8 @@ A sugestão feita por cada membro do grupo pode ser observada a abaixo.
 ### O que é o Crunchyroll?
 
 <div align="center">
-  
-![image](https://img1.ak.crunchyroll.com/i/spire4/55b51dc7b4ed0cc735df3dab1724fbf71628539041_full.png)
+
+  <img src="https://img1.ak.crunchyroll.com/i/spire4/55b51dc7b4ed0cc735df3dab1724fbf71628539041_full.png"/>
 </div>
  
 <p>
