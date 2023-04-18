@@ -17,7 +17,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 | ![OBS](../img/OBS-studio.png) | OBS studio | Utilizado para gravar as reuniões da disciplina |
 | ![Whatsapp](../img/whatsapp.png) | WhatsApp | Meio de comunicação escolhido pelo grupo |
 | ![autentic](../img/autentic.jpeg)| Autentique | Ferramenta para organização, elaboração das atas bem como controle de seus participantes. |
-| ![discord](../img/discord.webp)| Discord | Ambiente usado para realizar as reuniões |
+| ![discord](../img/Discord.png)| Discord | Ambiente usado para realizar as reuniões |
 
 
 <div>
