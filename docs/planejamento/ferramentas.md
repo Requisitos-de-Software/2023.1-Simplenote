@@ -17,6 +17,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 | ![OBS](../img/OBS-studio.png) | OBS studio | Utilizado para gravar as reuniões da disciplina |
 | ![Whatsapp](../img/whatsapp.png) | WhatsApp | Meio de comunicação escolhido pelo grupo |
 | ![autentic](../img/autentic.jpeg)| Autentique | Ferramenta para organização, elaboração das atas bem como controle de seus participantes. |
+| ![discord](../img/discord.webp)| Discord | Ambiente usado para realizar as reuniões |
 
 
 <div>
@@ -34,7 +35,8 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 [7] Ferramenta OBS studio, disponível no [link](https://obsproject.com/). <br/>
 [8] Ferramenta WhatsApp, disponível no [link](https://www.whatsapp.com/). <br/>
 [9] Ferramenta Autentique, disponível no [link](https://www.autentique.com.br). <br/>
-[10] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
+[10] Ferramenta Discord, disponível no [link](https://www.discord.com). <br/>
+[11] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
 
 ## Histórico de Versão
 
