@@ -2,22 +2,19 @@
 ## Introdução
 As Rich pictures são ferramentas de representação visual que tiveram origem na Metodologia de Sistemas Suaves (SSM), que foi desenvolvida por Peter Checkland e seus alunos na Universidade de Lancaster durante as décadas de 1960 e 1970. 
 Uma rich picture retrata os principais stakeholders, suas inter-relações e suas preocupações, destinada a ser uma visão ampla e detalhada da situação do problema. 
-### Componentes
-
- - Atores: São os usuários do sistema;
- - Operações: São os processos, funcionalidades do sistema;
- - Base da dados: São os arquivos de sistema;
- - Setas: Indicam a direção das informações;
- - Fronteira: Delimita a área de atuação do app.
+A Rich picture do aplicativo escolhido, Crunchyroll, pode ser observada abaixo. E na legenda é possível compreender um pouco mais sobre os elementos de uma rich picture.
  
-## Rich picture versão 1.0
-![Rich Picture V 1.0 Autora: Beatriz Nascimento](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)
-
 ## Rich picture versão 1.1
- ![Rich Picture v1.1 Autor: Leonardo Machado](https://user-images.githubusercontent.com/86479209/232245528-32f4ee1d-3a3a-43f5-99e6-cfd1d4f7f46d.jpg)
+ ![RichPictureV1 1 (1)](https://user-images.githubusercontent.com/86479209/233132648-1355a028-5ad6-4b75-992b-bd2df4e777d3.jpg)
+  <figcaption>Figura 1: Rich Picture versão 1.1 </figcaption>
+  <p> Fonte: Leonardo e Beatriz- Abril/2023</p>
+
+ 
 
 ## Legenda 
 ![LegendaRP](https://user-images.githubusercontent.com/86479209/232245580-b86bc88f-d76b-4b85-a8ae-6e13ead681dd.jpg)
+<figcaption>Figura 2: Legenda da versão 1.1 do rich Picture </figcaption>
+  <p> Fonte: Leonardo e Beatriz- Abril/2023</p>
 
 
 ## Bibliografia
@@ -28,6 +25,6 @@ Uma rich picture retrata os principais stakeholders, suas inter-relações e sua
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
-|`1.0` | 10/04/2023 | Criação da 1º versão| Beatriz |Leonardo e Ian |
+|`1.0` | 10/04/2023 | [Criação da 1º versão](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)| Beatriz |Leonardo e Ian |
 |`1.1`| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
 
