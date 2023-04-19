@@ -15,7 +15,7 @@ Nesta primeira release buscou-se cobrir a parte de planejamento e pré-rastreabi
 ### 🔗 Links
 [Gravação](https://www.youtube.com/watch?v=nXzaoptwyAE)
 
-Release
+[Release](https://github.com/Requisitos-de-Software/2023.1-Crunchyroll/releases/tag/Crunchyroll)
 
  
 
