@@ -22,13 +22,14 @@ Ele está em constante mudança até a entrega final.
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :----------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
-|       Metodologias       |       09/04/2023       |     11/04/2023      |     Kauã             |João |
-|  Ferramentas do projeto  |       09/04/2023       |     11/04/2023      |     João     |Kauã |
-| Cronograma de atividades |       14/04/2023       |     16/04/2023      |        Kauã e João   |     Beatriz e João  |
+|       Metodologias       |       09/04/2023       |     11/04/2023      |     Kauã             |João           |
+|  Ferramentas do projeto  |       09/04/2023       |     11/04/2023      |     João             |Kauã           |
+| Cronograma de atividades |       14/04/2023       |     16/04/2023      |        Kauã e João   |Beatriz e João  |
 |   Organização de Equipe  |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
-|     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz e Leonardo    |Ian |
-|       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
+|     App selecionado      |       14/04/2023       |     16/04/2023      | Beatriz e Leonardo   |Ian            |
+|       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz          |Ian e Leonardo |
 | Gravação da apresentação |       16/04/2023       |          -          | Todos os integrantes |       -       |
+| Ajuste com base nos feedbacks|  23/04/2023        | 26/04/2023          | Mylena e João        | Kauã          |
 
 **Tabela 1: Cronograma do Ponto de Controle 1**
 
@@ -36,16 +37,17 @@ Ele está em constante mudança até a entrega final.
 
 |                    Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :---------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
-|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Todos do grupo       |       -    |
-| StoryTelling |       27/04/2023       |     29/04/2023     | -  | - |
-| Personas |       27/04/2023       |     29/04/2023      | -| -  |
-| Questionário |       27/04/2023      |     29/04/2023     |- | - |
-| Introspecção |       27/04/2023       |     29/04/2023     | - |- |
-| Glossário |       27/04/2023       |     29/04/2023      | - |- |
-| Entrevista	 |       27/04/2023       |     29/04/2023      | - | - |
-| Brainstorming	 |       27/04/2023       |     29/04/2023      | - |  -| |    -   |
-| Escala de três níveis |       27/04/2023        |     29/04/2023       |   - |    -  |
-|  Gravação da apresentação  |       30/04/2023      |          -          | Todos os integrantes| - |
+|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Todos do grupo |       -              |
+| StoryTelling                                    |       27/04/2023       |     29/04/2023      | -                    | -                    |
+| Personas                                        |       27/04/2023       |     29/04/2023      | -                    | -                    |
+| Questionário                                    |       27/04/2023       |     29/04/2023      |-                     | -                    |
+| Introspecção                                    |       27/04/2023       |     29/04/2023      | -                    |-                     |
+| Glossário                                       |       27/04/2023       |     29/04/2023      | -                    |-                     |
+| Entrevista	                                    |       27/04/2023       |     29/04/2023      | -                    | -                    |
+| Brainstorming	                                  |       27/04/2023       |     29/04/2023      | -                    |  -                   |
+| Escala de três níveis                           |       27/04/2023       |     29/04/2023      |   -                  |    -                 |
+|  Gravação da apresentação                       |       30/04/2023       |          -          | Todos os integrantes | -                    |
+| Ajuste com base nos feedbacks                   | 10/05/2023             |    13/05/2023       | -                    | -                    |
 
 
 **Tabela 2: Cronograma do Ponto de Controle 2**
@@ -54,11 +56,12 @@ Ele está em constante mudança até a entrega final.
 
 |         Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
 | :-----------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
-|       Casos de uso        |       07/05/2023    | 09/05/2023| -| - |
-|         Cenários          |       13/05/2023|    15/05/2023| - | -|
-|          Léxico           |       07/05/2023      |     09/05/2023      |    -    | -  |
-| Especificação Suplementar |       13/05/2023       |      15/05/2023      |    -   |  L- |
-| Gravação da apresentação  |       16/05/2023|       -          | Todos os integrantes |      -       |
+|       Casos de uso        |       07/05/2023       | 09/05/2023          | -                    | -            |
+|         Cenários          |       13/05/2023       |    15/05/2023       | -                    | -            |
+|          Léxico           |       07/05/2023       |     09/05/2023      |    -                 | -            |
+| Especificação Suplementar |       13/05/2023       |      15/05/2023     |    -                 |   -          |
+| Gravação da apresentação  |       16/05/2023       |       -             | Todos os integrantes |      -       |
+| Ajuste com base nos feedbacks| 03/06/2023          | 06/06/2023          | -                    | -            |
 
 
 **Tabela 3: Cronograma do Ponto de Controle 3**
@@ -67,10 +70,11 @@ Ele está em constante mudança até a entrega final.
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |          Autor(es)           |     Revisor(es)      |
 | :----------------------: | :--------------------: | :-----------------: | :--------------------------: | :------------------: |
-|   Histórias de Usuário   |      17/05/2023       |     19/05/2023     | K- |      -   | 
-|         Backlog          |       20/05/2023       |     22/05/2023      |     -    |    -   |
-|      NFR Framework       |       20/05/2023       |     22/05/2023      |          - |      -    |
-| Gravação da apresentação |       23/05/2023      |          -          |     Todos os integrantes     |          -           |
+|   Histórias de Usuário   |      17/05/2023        |     19/05/2023      | K-                           |      -               | 
+|         Backlog          |       20/05/2023       |     22/05/2023      |     -                        |    -                 |
+|      NFR Framework       |       20/05/2023       |     22/05/2023      |          -                   |      -               |
+| Gravação da apresentação |       23/05/2023       |          -          |     Todos os integrantes     |          -           |
+| Ajuste com base nos feedbacks| 02/06/2023         |  05/06/2023         | -                            | -                    |
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
 
@@ -78,9 +82,10 @@ Ele está em constante mudança até a entrega final.
 
 |         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
-| Verificação dos requisitos |       30/05/2023      |     01/06/2023      | -| -|
-|  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | -|-|
+| Verificação dos requisitos |       30/05/2023       |     01/06/2023      | -                     | -             |
+|  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | -                     |-              |
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
+| Ajuste com base nos feedbacks| 18/06/2023           | 21/06/2023          | -                     | -             |
 
 **Tabela 5: Cronograma do Ponto de Controle 5**
 
@@ -88,9 +93,10 @@ Ele está em constante mudança até a entrega final.
 
 |                 Atividade                  | Data Limite de Entrega | Data Limite Revisão |        Autor(es)        | Revisor(es)  |
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
-|               Backward From                |       17/06/2023       |     19/06/2023      | -|-|
-|                Forward From                |       17/06/2023       |     19/06/2023      |   -   |     -|
+|               Backward From                |       17/06/2023       |     19/06/2023      | -                       |-             |
+|                Forward From                |       17/06/2023       |     19/06/2023      |   -                     |     -        |
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
+| Ajuste com base nos feedbacks              | 22/06/2023             | 25/06/2023          |-                        | -            |
 
 **Tabela 6: Cronograma do Ponto de Controle 6**
 
