@@ -45,6 +45,9 @@ A principal razão para escolhermos o Simplenote foi o fato dele ser [open sourc
 <p>
 [2] iOS, Android, and macOS Apps Now Open Source. Disponivel em: https://simplenote.com/blog/?s=open%20source
 </p>
+<p>
+[3] Termo de Uso. Disponivel em: https://simplenote.com/terms/    
+</p>
 
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
