@@ -46,6 +46,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | Brainstorming	 |       27/04/2023       |     29/04/2023      | Ian | Ana |
 | Frist things Frist  |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 | Escala de três níveis |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
+| MoSCow| 27/04/2023| 29/04/2023| Ana e Beatriz| Mylena
 |  Gravação da apresentação  |       30/04/2023      |          -          | Todos os integrantes| - |
 
 
