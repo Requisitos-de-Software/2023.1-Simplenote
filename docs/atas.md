@@ -14,6 +14,8 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 |[Decisões pt 2](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EamdHFfd97NGqrK_areBWAQBETXifyiiKS2kaz69STILLA?e=OttyIt)| Não teve
 |[Cronograma](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EV0-Xe9g2YhLveIGywPPZjgBZJ8H9eswDfB2FZbJZsZUSw?e=NZLedQ)| Não teve
 | [Ajustes finais entrega 1](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ETj9-j-RykpAhUtwFGwecsoBR7U6vTItTc2dnJj1aCQJTA?e=ZquvfV)|[Link](https://youtu.be/xmTG8MMpY8Y)
+|[E lá vamos nós de novo](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ESqqoghq39RNn7_QRXKcOwgB3d8CoFCPCu--7UQAHCvWeA?e=Th472Q)| Não teve
+
 
 ## Bibliografia
 [1] SILVA, Leonardo. **Ata de Reunião**: O Que É, Como Fazer e Modelo Pronto. [_S. l._], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
