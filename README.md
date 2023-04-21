@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://i.pcmag.com/imagery/reviews/005o9UmatR4B4AdtZ5nRPC9-5.fit_scale.size_760x427.v1569482339.jpg" style="width:15vw"/>
-    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://i.pcmag.com/">Logomarcas</a></p> 
+    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://i.pcmag.com/">PCMag</a></p> 
 </div>
 
 <!-- ABOUT THE PROJECT -->
