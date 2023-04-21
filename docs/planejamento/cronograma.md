@@ -29,6 +29,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz     |Ian e Leonardo |
 |       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
 | Gravação da apresentação |       16/04/2023       |          -          | Todos os integrantes |       -       |
+| Ajuste com base nos feedbacks|  23/04/2023        | 26/04/2023          | Mylena e João        | Kauã           |
 
 **Tabela 1: Cronograma do Ponto de Controle 1**
 
@@ -48,6 +49,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | Escala de três níveis |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 | MoSCow| 27/04/2023| 29/04/2023| Ana e Beatriz| Mylena
 |  Gravação da apresentação  |       30/04/2023      |          -          | Todos os integrantes| - |
+| Ajuste com base nos feedbacks| 10/05/2023          |    13/05/2023          | Mylena e João       | Kauã  |
 
 
 **Tabela 2: Cronograma do Ponto de Controle 2**
@@ -61,6 +63,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |          Léxico           |       07/05/2023      |     09/05/2023      |     João     | Ana  |
 | Especificação Suplementar |       13/05/2023       |      15/05/2023      |    Kauã    |  Leonardo |
 | Gravação da apresentação  |       16/05/2023|       -          | Todos os integrantes |      -       |
+| Ajuste com base nos feedbacks| 03/06/2023| 06/06/2023| Mylena e João| Kauã|
 
 
 **Tabela 3: Cronograma do Ponto de Controle 3**
@@ -73,6 +76,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |         Backlog          |       20/05/2023       |     22/05/2023      |     Ian      |    João    |
 |      NFR Framework       |       20/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
 | Gravação da apresentação |       23/05/2023      |          -          |     Todos os integrantes     |          -           |
+| Ajuste com base nos feedbacks| 02/06/2023| 05/06/2023| Mylena e João| Kauã|
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
 
@@ -83,6 +87,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 | Verificação dos requisitos |       30/05/2023      |     01/06/2023      | João,Beatriz e Ian| Ana,Leonardo,Kauã e Mylena|
 |  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | Ana,Leonardo,Kauã e Mylena|João, Beatriz e Ian|
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
+| Ajuste com base nos feedbacks| 18/06/2023| 21/06/2023| Mylena e João| Kauã|
 
 **Tabela 5: Cronograma do Ponto de Controle 5**
 
@@ -93,6 +98,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 |               Backward From                |       17/06/2023       |     19/06/2023      | Ana|Ian|
 |                Forward From                |       17/06/2023       |     19/06/2023      |    Leonardo     |     Beatriz|
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
+| Ajuste com base nos feedbacks| 22/06/2023| 25/06/2023| Mylena e João| Kauã|
 
 **Tabela 6: Cronograma do Ponto de Controle 6**
 
@@ -127,5 +133,6 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
 | `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
 |`1.2`| 15/04/2023| Versão atualizada| Mylena| Todos do grupo|
+|`1.3`| 22/04/2023| Adição dos períodos de revisão| Mylena| Todos do grupo|
 
 
