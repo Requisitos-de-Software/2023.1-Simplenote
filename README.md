@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
-   Este repositório é dedicado ao site [**Simplenote**](https://app.simplenote.com/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Simplenotes é um aplicativo de notas destinado à vários tipos de publicos, disponível para IOS,Android,Mac,Windows e linux
+   Este repositório é dedicado ao site [**Simplenote**](https://app.simplenote.com/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Simplenotes é um aplicativo de notas destinado à vários tipos de publicos, disponível para IOS, Android, Mac, Windows e Linux
 
 ## :smile: Contribuidores
 
