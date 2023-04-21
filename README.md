@@ -1,14 +1,14 @@
 # Requisitos de software - 2023.1 - Grupo 5 
-## Crunchyroll
+## Simplenote
 
 <div align="center">
-    <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Crunchyroll-Logo.png" style="width:15vw"/>
-    <p> Figura 1: Logo Crunchyroll . Fonte: <a href="https://logosmarcas.net">Logomarcas</a></p> 
+    <img src="https://i.pcmag.com/imagery/reviews/005o9UmatR4B4AdtZ5nRPC9-5.fit_scale.size_760x427.v1569482339.jpg" style="width:15vw"/>
+    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://i.pcmag.com/">Logomarcas</a></p> 
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
-   Este repositório é dedicado ao site [**Crunchyroll**](https://www.crunchyroll.com/pt-br/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Crunchyroll é um aplicativo de streaming voltado para o público jovem, no qual há enfoque na cultura oriental, disponível para Android, iOS e Desktop.
+   Este repositório é dedicado ao site [**Simplenote**](https://app.simplenote.com/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Simplenotes é um aplicativo de notas destinado à vários tipos de publicos, disponível para IOS,Android,Mac,Windows e linux
 
 ## :smile: Contribuidores
 
