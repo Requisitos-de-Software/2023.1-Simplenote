@@ -15,3 +15,5 @@ assignees: ''
 ## Critérios de aceitação
 
 ## Informações adicionais
+- Autor(es):
+- Revisor(es):
