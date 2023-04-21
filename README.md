@@ -64,3 +64,11 @@
 <p align="center">Requisitos de <i>Software</i><br /><br />
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>
+
+## Histórico de Versão
+
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 09/04/2023    | Criação e inclusão dos membros     | Kauã          |Beatriz e João |
+| `1.1`  | 13/04/2023    | Escolha do aplicativo              | Ana           |Ian            |
+|`2.0`   | 20/04/2023    | Troca do aplicativo                | Kauã          | Mylena        |
