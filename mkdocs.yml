@@ -1,16 +1,16 @@
-site_name: Crunchyroll
+site_name: Simplenote
 
-repo_name: 2023.1-Crunchyroll
-repo_url: https://github.com/Requisitos-de-Software/2023.1-Crunchyroll
-site_url: https://2023.1-Crunchyroll.com/
+repo_name: 2023.1-Simplenote
+repo_url: https://github.com/Requisitos-de-Software/2023.1-Simplenote
+site_url: https://2023.1-Simplenote.com/
 
-copyright: Copyright &copy; 2023 Crunchyroll
+copyright: Copyright &copy; 2023 Simplenote
 
 theme:
   name: material
   language: pt-BR
-  logo: img/Crunchyroll.png
-  favicon: img/Crunchyroll.png
+  logo: img/Simplenote.png
+  favicon: img/Simplenote-48.png
 
   features:
     - toc.integrate
@@ -20,14 +20,14 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: deep orange
+      primary: blue
       toggle:
         icon: material/brightness-7 
         name: Dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep orange
+      primary: blue
       toggle:
         icon: material/brightness-4
         name: Light mode
@@ -35,6 +35,12 @@ theme:
   font:
     text: "Montserrat"
     code: "sans-serif"
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav: 
   - Home: index.md
