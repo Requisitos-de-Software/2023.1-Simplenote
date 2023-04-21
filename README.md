@@ -2,13 +2,13 @@
 ## Simplenote
 
 <div align="center">
-    <img src="https://i.pcmag.com/imagery/reviews/005o9UmatR4B4AdtZ5nRPC9-5.fit_scale.size_760x427.v1569482339.jpg" style="width:15vw"/>
-    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://i.pcmag.com/">PCMag</a></p> 
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/simplenote_94731.png" style="width:15vw"/>
+    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://icon-icons.com/pt/">Icons</a></p> 
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## :earth_americas: Sobre o projeto
-   Este repositório é dedicado ao site [**Simplenote**](https://app.simplenote.com/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Simplenotes é um aplicativo de notas destinado à vários tipos de publicos, disponível para IOS, Android, Mac, Windows e Linux
+   Este repositório é dedicado ao site [**Simplenote**](https://app.simplenote.com/) com a finalidade de produzir os artefatos do mesmo para a disciplina de Requisitos de software da turma 2023.1, ministrada pelo professor André Barros. Simplenotes é um aplicativo de notas destinado à vários tipos de publicos, disponível para IOS, Android, Mac, Windows e Linux.
 
 ## :smile: Contribuidores
 
