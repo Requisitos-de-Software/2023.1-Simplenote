@@ -3,8 +3,9 @@
 ## Aplicativos analisados
 
 Durante a fase inicial do projeto, os alunos apresentaram individualmente sugestões de aplicativos com o objetivo de serem trabalhados pelo grupo durante a disciplina de Requisitos de Software. 
-Com base nessas escolhas, foram discutidas ideias a respeito de qual aplicativo seria mais adequado para ser abordado durante a disciplina. 
-A sugestão feita por cada membro do grupo pode ser observada a abaixo.
+
+Baseando-se nessas escolhas, foram discutidas ideias a respeito de qual aplicativo seria mais adequado a abordagem durante a disciplina. 
+A sugestão feita por cada membro do grupo pode ser observada abaixo.
 
 | Nome          | Aplicativo           | 
 | ------------- |:-------------:| 
@@ -16,36 +17,43 @@ A sugestão feita por cada membro do grupo pode ser observada a abaixo.
 | Leornado     | Desmos      |  
 | Mylena       | Ribon       |    
 
+A princípio, o grupo tinha escolhido o aplicativo da Crunchyroll, mas o termo de uso não permitia que fizéssemos o trabalho, assim como alguns outros aplicativos que tínhamos cogitado. Por isso, levantamos uma nova lista de opções apenas com aplicativos de código aberto, como Firefox, Ribon, osu!, Gimp, entre outros. Por fim, o aplicativo escolhido foi o Simplenote.
+
 ## Aplicativo escolhido pela equipe
 
-### O que é o Crunchyroll?
+### O que é o Simplenote?
 
 <div align="center">
-
-  <img src="https://img1.ak.crunchyroll.com/i/spire4/55b51dc7b4ed0cc735df3dab1724fbf71628539041_full.png"/>
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/simplenote_94731.png" style="width:15vw"/>
+    <p> Figura 1: Logo Simplenote . Fonte: <a href="https://icon-icons.com/pt/">Icons</a></p> 
 </div>
  
 <p>
-Crunchyroll é um serviço de streaming online sediado nos Estados Unidos que se especializa em oferecer animes, mangás e dramas do leste asiático. 
-Fundada em 2006, a plataforma se tornou popular entre os fãs de anime e mangá ao redor do mundo.</p>
+O Simplenote é uma plataforma de anotações com suporte a Markdown e está disponível em diversas plataformas, incluindo Android, Linux, Windows, iOS e macOS. Ademais, as anotações podem ser facilmente acessadas através da maioria dos navegadores da web.
+</p>
 <p>
-O Crunchyroll oferece uma ampla seleção de títulos de diferentes gêneros, incluindo ação, romance, ficção científica e comédia. 
-O serviço está disponível em diversos idiomas, como inglês, espanhol, francês, português e alemão, e pode ser acessado por meio de vários dispositivos, 
-tais como smartphones, tablets e smart TVs. 
-  </p>
+O Simplenote foi desenvolvido pela Simperium em 2008 e teve uma versão premium lançada em 2009, que foi posteriormente suspensa quando a Automattic adquiriu o serviço em 2013. Em maio de 2016, foi lançado um cliente oficial do Simplenote para Linux e, em agosto de 2016, a Automattic disponibilizou o código-fonte dos seus aplicativos Simplenote para Android, Linux, iOS e macOS como código aberto.
+</p>
 
-### Porque o Crunchyroll?
+### Porque o Simplenote?
 
-Inicialmente, cada integrante no grupo propôs uma aplicação para trabalharmos na disciplina, que foi a aplicação que cada um fez uma Rich 
-Picture individualmente. Após a proposição, fizemos uma votação sobre qual aplicação iríamos trabalhar, e a mais votada foi a Crunchyroll.
-
-O Crunchyroll é uma plataforma que já era conhecida pela maioria dos integrantes do grupo. Devido a isso, pensamos que trabalhar com uma aplicação de conhecimento geral do grupo causaria menos transtornos. O Crunchyroll, por ser um serviço de streaming que atua em vários países, possui um volume de usuários muito grande, que é um fator que consideramos importante na escolha. Também, é um aplicativo de fácil uso e bastante acessível, além de não ter sido trabalhado na disciplina de requisitos.
+A principal razão para escolher o Simplenote foi o fato de ser um aplicativo [open source](https://simplenote.com/blog/?s=open%20source), o que nos permitiria utilizá-lo sem preocupações na realização do trabalho. Além disso, trata-se de um aplicativo de fácil uso e bastante acessível, disponível em diversos países e com um grande número de usuários. Por fim, a característica de ser um aplicativo multiplataforma, disponível em iOS, Android, Linux, Windows e navegadores, também foi um fator determinante na nossa escolha.
 
 ### Bibliografia
-[1] QUEM somos. Crunchyroll. Disponível em: https://www.crunchyroll.com/pt-br/about/who/index.html. 
+<p>
+[1] Simplenote. Disponível em: https://simplenote.com/ 
+</p>
+<p>
+[2] iOS, Android, and macOS Apps Now Open Source. Disponivel em: https://simplenote.com/blog/?s=open%20source
+</p>
+<p>
+[3] Termo de Uso. Disponivel em: https://simplenote.com/terms/    
+</p>
+
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
 | `1.0` |15/04/2022|O que é e porque| Beatriz e Leonardo| Ian
+| `2.0` |21/04/2022|O que é e porque| Beatriz| Ian
 
 
