@@ -18,7 +18,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 | ![Whatsapp](../img/whatsapp.png) | [WhatsApp](https://www.whatsapp.com/) | Meio de comunicação escolhido pelo grupo |
 | ![autentic](../img/autentic.jpeg)| [Autentique](https://www.autentique.com.br) | Ferramenta para organização, elaboração das atas bem como controle de seus participantes. |
 | ![discord](../img/Discord.png)| [Discord](https://www.discord.com) | Ambiente usado para realizar as reuniões |
-| ![canva](../img/canva.png)| [Canva](https://www.canva.com) | Ferramenta para edião rápida de imagens e composições |
+| ![canva](../img/canva.png)| [Canva](https://www.canva.com) | Ferramenta para edição rápida de imagens e composições |
 | ![google-forms](../img/forms.png)| [Google Forms](https://docs.google.com/forms/u/0/) | Ferramenta de elaboração de formulários |
 <div>
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
@@ -26,23 +26,11 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 
 ## Bibliografia
 
-[1] Ferramenta GitHub, disponível no [link](https://github.com). <br/>
-[2] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
-[3] Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
-[4] Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
-[5] Ferramenta This Person Doesn't Exist, disponível no [link](https://this-person-does-not-exist.com/en). <br/>
-[6] Ferramenta Figma, disponível no [link](https://www.figma.com). <br/>
-[7] Ferramenta OBS studio, disponível no [link](https://obsproject.com/). <br/>
-[8] Ferramenta WhatsApp, disponível no [link](https://www.whatsapp.com/). <br/>
-[9] Ferramenta Autentique, disponível no [link](https://www.autentique.com.br). <br/>
-[10] Ferramenta Discord, disponível no [link](https://www.discord.com). <br/>
-[11] Ferramenta Canva, disponível no [link](https://www.canva.com). <br/>
-[12] Ferramenta Google Forms, disponível no [link](https://docs.google.com/forms/u/0/). <br/>
-[13] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
+[1] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
 
 ## Histórico de Versão
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/04/2023 | Criação do doc e adição das ferramentas | João | Kauã |
-| `1.1` | 23/04/2023 | Adição de ferramentas e implementação de feedbacks pós entrega 1| João | - |
+| `1.1` | 23/04/2023 | Adição de ferramentas e implementação de feedbacks pós entrega 1| João | Mylena |
