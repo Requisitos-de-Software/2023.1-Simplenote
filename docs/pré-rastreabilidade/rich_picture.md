@@ -3,14 +3,13 @@
 ## Introdução
 As Rich pictures são ferramentas de representação visual que tiveram origem na Metodologia de Sistemas Suaves (SSM), que foi desenvolvida por Peter Checkland e seus alunos na Universidade de Lancaster durante as décadas de 1960 e 1970. 
 Uma rich picture retrata os principais stakeholders, suas inter-relações e suas preocupações, destinada a ser uma visão ampla e detalhada da situação do problema. 
-A Rich picture do aplicativo escolhido, Crunchyroll, pode ser observada abaixo. E na legenda é possível compreender um pouco mais sobre os elementos de uma rich picture.
+Na leganda do Rich Picture, além de auxiliar na compressão dos símbolos, ainda possibilita compreender um pouco sobre os 5 elementos de uma rich picture.
+A Rich picture do aplicativo escolhido, SimpleNote, pode ser observada abaixo. 
  
-## Rich picture versão 1.1
- ![RichPictureV1 1 (1)](https://user-images.githubusercontent.com/86479209/233132648-1355a028-5ad6-4b75-992b-bd2df4e777d3.jpg)
-  <figcaption>Figura 1: Rich Picture versão 1.1 </figcaption>
-  <p> Fonte: Leonardo e Beatriz- Abril/2023</p>
-
- 
+## Rich picture versão 2.0
+![RichPictureSimpleNoteV2 0](https://user-images.githubusercontent.com/86479209/234722584-d2d79faa-99ec-4c1c-9f50-ca875868d764.png)
+  <figcaption>Figura 1: Rich Picture versão 2.0 </figcaption>
+  <p> Fonte: Leonardo e Beatriz- Abril/2023</p> 
 
 ## Legenda 
 ![LegendaRP](https://user-images.githubusercontent.com/86479209/232245580-b86bc88f-d76b-4b85-a8ae-6e13ead681dd.jpg)
@@ -26,6 +25,9 @@ A Rich picture do aplicativo escolhido, Crunchyroll, pode ser observada abaixo. 
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
-|`1.0` | 10/04/2023 | [Criação da 1º versão](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)| Beatriz |Leonardo e Ian |
+|`1.0` | 10/04/2023 | [Criação da 1º versão- Crunchyroll](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)| Beatriz |Leonardo e Ian |
 |`1.1`| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
+|`1.2`| 24/04/2023| [Versão 1.0- SimpleNote](https://user-images.githubusercontent.com/86479209/234722757-eae43354-ebbc-4ea5-9f12-c4f3de8d1378.jpg) | Leonardo| Beatriz|
+|`2.0`| 26/04/2023| Versão revisada do rich picture do SimpleNote | Leonardo| Beatriz|
+
 
