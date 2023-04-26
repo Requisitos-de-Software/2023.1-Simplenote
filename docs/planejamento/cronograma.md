@@ -84,8 +84,12 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 
 |         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
-| Verificação dos requisitos |       30/05/2023      |     01/06/2023      | João,Beatriz e Ian| Ana,Leonardo,Kauã e Mylena|
-|  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | Ana,Leonardo,Kauã e Mylena|João, Beatriz e Ian|
+| Verificação de casos de uso |       30/05/2023      |     01/06/2023      | João| Ana|
+| Verificação de cenário|       30/05/2023      |     01/06/2023      | Beatriz|Kauã|
+| Verificação de léxico |       30/05/2023      |     01/06/2023      | Mylena| Leonardo|
+| Verificação NFR |       30/05/2023      |     01/06/2023      | Ian| Beatriz|
+| Verificação do Rich Picture |       30/05/2023      |     01/06/2023      | Beatriz| Mylena|
+|  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | Ana,Leonardo e Kauã|João, Beatriz e Ian|
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
 | Ajuste com base nos feedbacks| 18/06/2023| 21/06/2023| Mylena e João| Kauã|
 
