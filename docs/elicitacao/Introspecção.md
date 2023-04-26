@@ -22,17 +22,31 @@ e conjecturar o sistema ideal para determinado usuário, tendo em vista suas nec
 
 |      ID        | Requisito           | Tipo |      
 | :------------: | :----------------: | :-----------------: | 
-|  INT01         |                    |                     |    
-|  INT02         |                    |                     |    
-|  INT03         |                    |                     |    
-|  INT04         |                    |                     |    
-|  INT05         |                    |                     |    
-|  INT06         |                    |                     |    
-|  INT07         |                    |                     |    
-|  INT08         |                    |                     |    
-|  INT09         |                    |                     |    
-|  INT010        |                    |                     |    
+|  INT01         |       Deve ser possível escrever uma nota                                                           |    RF    |    
+|  INT02         |       Deve ser possivel excluir a nota                                                          |    RF    |    
+|  INT03         |       Deve ser possivel recuperar a nota depois de excluida                                     |    RF    |    
+|  INT04         |       O usuario podera compartilhar suas anotações com outras pessoas atraves de um link          |    RF    |    
+|  INT05         |       O usuario podera usar markdown                                                            |    RF    |    
+|  INT06         |       O usuario será capaz de ver informações sobre sua nota - RF                               |    RF    |    
+|  INT07         |       O aplicativo salvará a nota em até 1 segundo                                              |    RNF   |    
+|  INT08         |       Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades    |   RF    |    
+|  INT09         |       O aplicativo abrirá em um tempo limite de até 2 segundos                                  |    RNF    |    
+|  INT010        |       Deve ser possivel fazer notas sem internet                                                |    RNF    |    
+|  INT011        |       O usuario podera separar suas notas em pastas                                             |    RF    |  
+|  INT012        |       O usuario podera definir templates para suas notas                                        |    RF    |  
 
+
+# Legenda
+<p>
+INT -> Introspecção
+  </p>
+<p>
+RF -> Requisito funcional
+  </p>
+<p>
+RNF -> Requisito não funcional
+</p>
+  
 ### Bibliografia
 <p>
 [1] Oxford Languages . Disponível em: https://languages.oup.com/google-dictionary-pt/
