@@ -54,4 +54,5 @@ nav:
       - Metodologias: planejamento/metodologias.md
       - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
   - Pré-rastreabilidade:
+      - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
       - Rich Picture: pré-rastreabilidade/rich_picture.md
