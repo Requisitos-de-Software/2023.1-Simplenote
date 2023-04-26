@@ -138,5 +138,6 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
 |`1.2`| 15/04/2023| Versão atualizada| Mylena| Todos do grupo|
 |`1.3`| 22/04/2023| Adição dos períodos de revisão| Mylena| Todos do grupo|
+|`1.4`| 26/04/2023| Detalhamento de verificação dos artefatos| Mylena| Todos do grupo|
 
 
