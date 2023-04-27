@@ -32,8 +32,8 @@ e conjecturar o sistema ideal para determinado usuário, tendo em vista suas nec
 |  INT08         |       Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades    |   RF    |    
 |  INT09         |       O aplicativo abrirá em um tempo limite de até 2 segundos                                  |    RNF    |    
 |  INT010        |       Deve ser possível fazer notas sem internet                                                |    RNF    |    
-|  INT011        |       O usuario poderá separar suas notas em pastas                                             |    RF    |  
-|  INT012        |       O usuario poderá definir templates para suas notas                                        |    RF    |  
+|  INT011        |       O usuário poderá separar suas notas em pastas                                             |    RF    |  
+|  INT012        |       O usuário poderá definir templates para suas notas                                        |    RF    |  
 
 
 # Legenda
