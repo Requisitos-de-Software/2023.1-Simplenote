@@ -14,31 +14,39 @@ são os menos importantes e podem ser descartados.
 
 ## Must Have
 
-| Identificador  |      Requisito           |    
+| Tipo  |      Requisito           |    
 | :------------: | :---------------------:  |
-|  RF01          |   requisito              |
-|  RNF           |   requisito              |     
+|  RF          |        O usúario deve poder fazer anotação         |
+|  RF          |        O usúario deve poder editar Anotação        |     
+|  RF          |        O usúario deve poder vizualizar Anotação        |    
+|  RF          |        O usúario deve poder usar Markdown        |     
+
 
 ## Should Have
   
-| Identificador  |      Requisito           |    
+| Tipo  |      Requisito           |    
 | :------------: | :---------------------:  |
-|  RF01          |   requisito              |
-|  RNF           |   requisito              |
+|  RF          |   O usúario deveria poder recuperar anotação excluida              |
+|  RNF         |   O sistema deveria salvar a anotação em até 1s              |
+|  RNF         |   O usúario deveria poder fazer notas sem internet             |
+|  RF          |   O usúario deveria poder pesquisar por suas anotações          |
+
 
 ## Could Have
 
-| Identificador  |      Requisito           |    
+| Tipo  |      Requisito           |    
 | :------------: | :---------------------:  |
-|  RF01          |   requisito              |
-|  RNF           |   requisito              |
+|  RF            |   O usuario poderia ver informações sobre sua nota                           |
+|  RF            |   O usuario poderia definir templates para suas notas                        |
+|  RF            |   O usuario poderia separar suas notas em pastas                             |
+|  RF            |   O usuario poderia importar ou exportar modelos de layout                   |
 
 ## Won't Have
 
-| Identificador  |      Requisito           |    
+| Tipo  |      Requisito           |    
 | :------------: | :---------------------:  |
-|  RF01          |   requisito              |
-|  RNF           |   requisito              |
+|  RF            |   O usuario não terá como criar espaços de anotação em equipe       |
+|  RF            |   O usuario não terá como mudar cor, fonte e tamanho da letra sem utilizar markdown        |
 
 
 # Legenda
