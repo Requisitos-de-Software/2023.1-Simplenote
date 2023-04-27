@@ -27,7 +27,7 @@ e conjecturar o sistema ideal para determinado usuário, tendo em vista suas nec
 |  INT03         |       Deve ser possivel recuperar a nota depois de excluída                                     |    RF    |    
 |  INT04         |       O usuário poderá compartilhar suas anotações com outras pessoas atraves de um link          |    RF    |    
 |  INT05         |       O usuário poderá usar markdown                                                            |    RF    |    
-|  INT06         |       O usuário será capaz de ver informações sobre sua nota - RF                               |    RF    |    
+|  INT06         |       O usuário será capaz de ver informações sobre sua nota                              |    RF    |    
 |  INT07         |       O aplicativo salvará a nota em até 1 segundo                                              |    RNF   |    
 |  INT08         |       Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades    |   RF    |    
 |  INT09         |       O aplicativo abrirá em um tempo limite de até 2 segundos                                  |    RNF    |    
