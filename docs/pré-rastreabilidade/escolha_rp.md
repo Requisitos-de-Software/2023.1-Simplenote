@@ -7,12 +7,13 @@
 
 |Membro|	Aplicativo|
 |------------------|-------------|
-Ana Beatriz| 	
+Ana Beatriz| 	[Pinterest](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11347690/RichPictureProj01AnaBeatrizNorberto.pdf)
 Beatriz Vieira| [Crunchyroll](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338087/RichPictureCrunchyrollV1.0.2.pdf)
 Ian da Costa| 
 João Pedro|	[Chess.com](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338081/RichPictureProj01JoaoPedroNobregaFernandes.pdf)
 Kauã Vinícius| [Twitch](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338080/RichPictureTwitchKauaVinicius.pdf)
-Leonardo Gonçalves| 	
+Leonardo Gonçalves| 	[Desmos](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11347686/RichPictureProj01LeonardoGoncalvesMachado.pdf)
+
 Mylena Angélica | [Ribon](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338077/RichPictureProj01MylenaAngelica.1.pdf)
 
 ## Escolha do app
@@ -31,4 +32,5 @@ Mylena Angélica | [Ribon](https://github.com/Requisitos-de-Software/2023.1-Simp
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
 |`1.0` | 26/04/2023 | Criação da documentação| Mylena |Ana Beatriz|
+|`1.1` | 27/04/2023 | Adição de 2 Rich Pictures| Mylena |Ana Beatriz|
 
