@@ -35,7 +35,7 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |INT17|	O usuario poderia importar ou exportar modelos de layout| Baixa prioridade|
 
 
-#### Requisitos funcionais:
+#### Requisitos não funcionais:
 
 | Identificador| Requisito | Quadrante|
 |---------------|-----------|-----------|
