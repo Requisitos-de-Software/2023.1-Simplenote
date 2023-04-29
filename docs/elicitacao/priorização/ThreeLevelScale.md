@@ -19,26 +19,30 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 
 | Identificador| Requisito | Quadrante|
 |---------------|-----------|-----------|
-|RF01|O usúario deve poder fazer anotação| Alta prioridade|
+|INT01|O usúario deve poder fazer anotação| Alta prioridade|
+|INT02|O usúario deve poder excluir anotação| Alta prioridade|
+|INT03|O usúario deve poder recuperar anotação excluida| Baixa prioridade|
+|INT04|O usuário poderá compartilhar suas anotações com outras pessoas atraves de um link| Baixa prioridade|
+|INT05| O usúario deve poder usar Markdown| Alta prioridade|
+|INT06|O usúario deve poder vizualizar Anotação| Alta prioridade|
+|INT08|	Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades|Quarto quadrante|
+|INT011|O usuario poderia separar suas notas em pastas| Média prioridade|
+|INT012|O usuario poderia definir templates para suas notas| Baixa prioridade|
 |RF02|O usúario deve poder editar Anotação|Alta prioridade|
-|RF03|O usúario deve poder vizualizar Anotação| Alta prioridade|
-|RF04|O usúario deve poder excluir anotação| Alta prioridade|
-|RF05| O usúario deve poder usar Markdown| Alta prioridade|
 |RF06|O usúario deve poder buscar notas por palavras-chave| Média prioridade|
-|RF07|O usúario deve poder recuperar anotação excluida| Baixa prioridade|
 |RF08|O usúario deveria poder pesquisar por suas anotações|Média prioridade|
 |RF09|O usuario poderia ver informações sobre sua nota| Alta prioridade|
-|RF10|O usuario poderia definir templates para suas notas| Baixa prioridade|
-|RF11|O usuario poderia separar suas notas em pastas| Média prioridade|
 |RF12|	O usuario poderia importar ou exportar modelos de layout| Baixa prioridade|
+
 
 #### Requisitos funcionais:
 
 | Identificador| Requisito | Quadrante|
 |---------------|-----------|-----------|
 |RNF01|A interface deve ser simples e intuitivo| Alta prioridade|
-|RNF02|O sistema deveria salvar a anotação em até 1s| Alta prioridade|
-|RNF03|O usúario deveria poder fazer notas sem internet| Alta prioridade|
+|INT07|O aplicativo salvará a nota em até 1 segundo| Alta prioridade|
+|INT09|O aplicativo abrirá em um tempo limite de até 2 segundos| Média prioridade|
+|INT10|O usúario deveria poder fazer notas sem internet| Alta prioridade|
 
 ## Bibliografia
 
