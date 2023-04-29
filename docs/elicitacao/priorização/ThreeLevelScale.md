@@ -19,20 +19,20 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 
 | Identificador| Requisito | Quadrante|
 |---------------|-----------|-----------|
-|INT01|O usúario deve poder fazer anotação| Alta prioridade|
-|INT02|O usúario deve poder excluir anotação| Alta prioridade|
-|INT03|O usúario deve poder recuperar anotação excluida| Baixa prioridade|
+|INT01|O usuário deve poder fazer anotação| Alta prioridade|
+|INT02|O usuário deve poder excluir anotação| Alta prioridade|
+|INT03|O usuário deve poder recuperar anotação excluida| Baixa prioridade|
 |INT04|O usuário poderá compartilhar suas anotações com outras pessoas atraves de um link| Baixa prioridade|
-|INT05| O usúario deve poder usar Markdown| Alta prioridade|
-|INT06|O usúario deve poder vizualizar Anotação| Alta prioridade|
+|INT05| O usuário deve poder usar Markdown| Alta prioridade|
+|INT06|O usuário deve poder vizualizar Anotação| Alta prioridade|
 |INT08|	Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades|Quarto quadrante|
-|INT11|O usuario poderia separar suas notas em pastas| Média prioridade|
-|INT12|O usuario poderia definir templates para suas notas| Baixa prioridade|
-|INT13|O usúario deve poder editar Anotação|Alta prioridade|
-|INT14|O usúario deve poder buscar notas por palavras-chave| Média prioridade|
-|INT15|O usúario deveria poder pesquisar por suas anotações|Média prioridade|
-|INT16|O usuario poderia ver informações sobre sua nota| Alta prioridade|
-|INT17|	O usuario poderia importar ou exportar modelos de layout| Baixa prioridade|
+|INT11|O usuário poderia separar suas notas em pastas| Média prioridade|
+|INT12|O usuário poderia definir templates para suas notas| Baixa prioridade|
+|INT13|O usuário deve poder editar Anotação|Alta prioridade|
+|INT14|O usuário deve poder buscar notas por palavras-chave| Média prioridade|
+|INT15|O usuário deveria poder pesquisar por suas anotações|Média prioridade|
+|INT16|O usuário poderia ver informações sobre sua nota| Alta prioridade|
+|INT17|	O usuário poderia importar ou exportar modelos de layout| Baixa prioridade|
 
 
 #### Requisitos não funcionais:
@@ -41,8 +41,8 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |---------------|-----------|-----------|
 |INT07|O aplicativo salvará a nota em até 1 segundo| Alta prioridade|
 |INT09|O aplicativo abrirá em um tempo limite de até 2 segundos| Média prioridade|
-|INT10|O usúario deveria poder fazer notas sem internet| Alta prioridade|
-|INT18|A interface deve ser simples e intuitivo| Alta prioridade|
+|INT10|O usuário deveria poder fazer notas sem internet| Alta prioridade|
+|INT18|A interface deve ser simples e intuitiva| Alta prioridade|
 
 ## Bibliografia
 
