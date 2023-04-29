@@ -26,23 +26,23 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |INT05| O usúario deve poder usar Markdown| Alta prioridade|
 |INT06|O usúario deve poder vizualizar Anotação| Alta prioridade|
 |INT08|	Para o primeiro acesso do usuário, deve ter uma breve explicação sobre o aplicativo e as suas funcionalidades|Quarto quadrante|
-|INT011|O usuario poderia separar suas notas em pastas| Média prioridade|
-|INT012|O usuario poderia definir templates para suas notas| Baixa prioridade|
-|RF02|O usúario deve poder editar Anotação|Alta prioridade|
-|RF06|O usúario deve poder buscar notas por palavras-chave| Média prioridade|
-|RF08|O usúario deveria poder pesquisar por suas anotações|Média prioridade|
-|RF09|O usuario poderia ver informações sobre sua nota| Alta prioridade|
-|RF12|	O usuario poderia importar ou exportar modelos de layout| Baixa prioridade|
+|INT11|O usuario poderia separar suas notas em pastas| Média prioridade|
+|INT12|O usuario poderia definir templates para suas notas| Baixa prioridade|
+|INT13|O usúario deve poder editar Anotação|Alta prioridade|
+|INT14|O usúario deve poder buscar notas por palavras-chave| Média prioridade|
+|INT15|O usúario deveria poder pesquisar por suas anotações|Média prioridade|
+|INT16|O usuario poderia ver informações sobre sua nota| Alta prioridade|
+|INT17|	O usuario poderia importar ou exportar modelos de layout| Baixa prioridade|
 
 
 #### Requisitos funcionais:
 
 | Identificador| Requisito | Quadrante|
 |---------------|-----------|-----------|
-|RNF01|A interface deve ser simples e intuitivo| Alta prioridade|
 |INT07|O aplicativo salvará a nota em até 1 segundo| Alta prioridade|
 |INT09|O aplicativo abrirá em um tempo limite de até 2 segundos| Média prioridade|
 |INT10|O usúario deveria poder fazer notas sem internet| Alta prioridade|
+|INT18|A interface deve ser simples e intuitivo| Alta prioridade|
 
 ## Bibliografia
 
