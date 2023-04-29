@@ -33,6 +33,10 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |INT15|O usuário deveria poder pesquisar por suas anotações|Média prioridade|
 |INT16|O usuário poderia ver informações sobre sua nota| Alta prioridade|
 |INT17|	O usuário poderia importar ou exportar modelos de layout| Baixa prioridade|
+|GLO01|Possibilidade de usar marcação de texto (negrito, itálico, etc)|Baixa prioridade|
+|GLO04|Possibilidade de criar checklists dentro das notas| Baixa prioridade|
+|GLO05|Salvamento automático das notas|Média prioridade|
+|GLO06|Capacidade de criar no dispositivo um arquivo cópia de uma nota|Quarto quadrante|
 
 
 #### Requisitos não funcionais:
@@ -43,6 +47,8 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |INT09|O aplicativo abrirá em um tempo limite de até 2 segundos| Média prioridade|
 |INT10|O usuário deveria poder fazer notas sem internet| Alta prioridade|
 |INT18|A interface deve ser simples e intuitiva| Alta prioridade|
+|GLO02|Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)| Alta prioridade|
+|GLO03|Ser capaz de ler e editar arquivos de texto de outras fontes|Baixa prioridade|
 
 ## Bibliografia
 
