@@ -7,7 +7,7 @@ First things First ou FTF é uma tecnica de priorização que busca entender os 
 ## Passo a passo
 
 1. Listar todos os requisitos, se um requisito A se liga com um requisito B, deve-se levar em conta apenas o A.
-2. Estime o valor de cada requisito para o cliente com uma escala de 1 a 9, em que 1 é pouco valorozo e 9 é muito valorozo, é importante a participação do cliente.
+2. Estime o valor de cada requisito para o cliente com uma escala de 1 a 9, em que 1 é pouco valoroso e 9 é muito valoroso, é importante a participação do cliente.
 3. Estime uma penalidade que o négocio sofreria na falta daquele requisito seguindo a mesma escala anterior.
 4. Crie uma coluna valor total, na qual Vtotal = (Beneficio relativo * Peso relativo) + (Penalidade relativa * Peso relativo).
 5. Estime o custo relativo de implementação seguindo a escala já conhecida, este custo deve levar em conta: a complexidade de implementação, UI necessária, reuso de telas, etc
@@ -19,6 +19,8 @@ First things First ou FTF é uma tecnica de priorização que busca entender os 
 
 A tabela a seguir mostra os resultados alcançados após a priorização dos requisitos:
 
+| Requisito | Valor | Penalidade | Valor total | Custo relativo | Dificuldade de implementação | Prioridade |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 
 
 ## Bibliografia
