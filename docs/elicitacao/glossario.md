@@ -32,7 +32,7 @@ Com base no glossário elaborado, foi possível elicitar requisitos, que serão 
 | GLO02 | Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc) | RNF |
 | GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes | RNF |
 | GLO04 | Possibilidade de criar checklists dentro das notas | RF |
-| GLO05 | Salvamento automático das notas | RNF |
+| GLO05 | Salvamento automático das notas | RF |
 | GLO06 | Capacidade de criar no dispositivo um arquivo cópia de uma nota | RF |
 
 Tabela 2: Requisitos Elicitados (Fonte: autor 2023)
