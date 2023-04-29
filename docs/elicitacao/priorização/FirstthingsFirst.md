@@ -28,5 +28,5 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 28/04/2023 | Inicialização do docimento | Kauã e João | Mylena |
+| 1.0 | 28/04/2023 | Inicialização do documento | Kauã e João | Mylena |
 
