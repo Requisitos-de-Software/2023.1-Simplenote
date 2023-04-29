@@ -9,7 +9,7 @@ Three Level Scale ou TLS é uma tecnica de priorização que separa os requisito
 Alta prioridade: São tanto importantes quanto urgentes, estes requisitos devem ser implementados o mais rápido o possível. </br>
 Média prioridade: Requisitos que são importantes, entretanto, não são urgentes.</br>
 Baixa prioridade: Não são nem importantes, e nem urgentes.</br>
-"O quarto quadrante": São requisitos que para alguns stakeholders são urgentes, entretanto, não são necessários para atingir a meta de negócio.</br>
+O "quarto quadrante": São requisitos que para alguns stakeholders são urgentes, entretanto, não são necessários para atingir a meta de negócio.</br>
 
 ## Resultados
 
