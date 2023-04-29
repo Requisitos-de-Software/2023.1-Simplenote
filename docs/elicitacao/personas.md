@@ -111,21 +111,21 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <br>
 
-| Caracteristica       | Resposta                                                                                                                                                                                                                                                                                                   |
-| :------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------- |
-| **Nome**             | Valentina Becker.                                                                                                                                                                                                                                                                                          |
-| **Idade**            | 10 anos.                                                                                                                                                                                                                                                                                                   |
-| **Gênero**           | Feminino.                                                                                                                                                                                                                                                                                                  |
-| **Localidade**       | Porto Alegre, Rio grande do Sul, Brasil.                                                                                                                                                                                                                                                                   |
-| **Particularidades** | Gosta muito de desenhar e pintar                                                                                                                                                                                                                                                                           | **Escolaridade** | Cursando o ensino fundamental 1. |
-| **Profissão**        | Estudante.                                                                                                                                                                                                                                                                                                 |
-| **História**         | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar                                                                                                             |
-| **Objetivos**        | Apenas estudar e se divertir.                                                                                                                                                                                                                                                                              |
-| **Habilidades**      | Capacidade alta de aprendizado artístico.                                                                                                                                                                                                                                                                  |
-| **Rotina**           | Ao acordar cedo, ela toma um café e segue para o cursinho de desenho, onde passa a manhã aprimorando suas habilidades. Após o término da aula, almoça rapidamente e segue para a escola, onde passa a tarde toda. Ao chegar em casa, assiste suas séries favoritas em seu tablet, janta e logo vai dormir. |
-| **Relacionamentos**  | Conversa com seus pais, secretária de casa e suas colegas de cursinho e escola.                                                                                                                                                                                                                            |
-| **Requisitos**       | Valentina gostaria que o Simplenote tivesse um modo de escrita livre para que pudesse utilizar sua caneta touch para fazer seus desenhos.                                                                                                                                                                  |
-| **Expectativas**     | Espera mais animes a cada dia que passa.                                                                                                                                                                                                                                                                   |
+|        Caracteristica       |  Resposta   |
+| :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Valentina Becker.    |
+| **Idade**            |          10 anos.     | 
+| **Gênero**       | Feminino.      |
+| **Localidade**            |        Porto Alegre, Rio grande do Sul, Brasil.       |   
+| **Particularidades**            |        Gosta muito de desenhar e pintar   | **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
+| **Profissão**            |        Estudante.   |   
+| **História**            | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar  | 
+| **Objetivos**       | Apenas estudar e se divertir. |
+| **Habilidades**     | Capacidade alta de aprendizado artístico.  |
+| **Rotina**         | Ao acordar cedo, ela toma um café e segue para o cursinho de desenho, onde passa a manhã aprimorando suas habilidades. Após o término da aula, almoça rapidamente e segue para a escola, onde passa a tarde toda. Ao chegar em casa, assiste suas séries favoritas em seu tablet, janta e logo vai dormir.   |
+| **Relacionamentos** | Conversa com seus pais, secretária de casa e suas colegas de cursinho e escola.   |
+| **Requisitos**      | Valentina gostaria que o Simplenote tivesse um modo de escrita livre para que pudesse utilizar sua caneta touch para fazer seus desenhos. |
+| **Expectativas**    | Desenhar no aplicativo Simplenote. |
 
 <div style="text-align: center">
 <p>Tabela 3: Persona 3 - Valentina Becker</p>
