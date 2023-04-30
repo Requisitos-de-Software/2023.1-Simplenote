@@ -28,7 +28,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF04  |           O usúario deve poder excluir anotação            |
 | RF05  |             O usúario deve poder usar Markdown             |
 | RF06  |    O usúario deve poder buscar notas por palavras-chave    |
-| RNF07 |        O usúario deve deve ser simples e intuitivo         |
+| RNF07 |        O sistema deve deve ser simples e intuitivo         |
 | RF08  |             O usúario deve poder usar Markdown             |
 | RF09  |           O usuário deve poder sincronizar notas           |
 | RF10  |     O usuário deve poder criar uma conta e fazer login     |
