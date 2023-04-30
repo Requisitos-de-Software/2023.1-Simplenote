@@ -48,7 +48,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Rotina**         | De manhã ele vai para a escola, e por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
 | **Relacionamentos** | Conversa com colegas do discord e sua meia dúzia de amigos escolares.   |
 | **Requisitos**      | Enzo gostaria de poder compartilhar suas notas com seus colegas de turma, para que todos tenham eficiência em seus estudos. |
-| **Expectativas**    | Deseja organizar suas atividades escolares de forma à não esquecê-las |
+| **Expectativas**    | Deseja organizar suas atividades escolares de forma a não esquecê-las |
 
 <div style="text-align: center">
 <p>Tabela 1: Persona 1 - Enzo Gabriel</p>
