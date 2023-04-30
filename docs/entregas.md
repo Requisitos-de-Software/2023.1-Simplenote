@@ -20,6 +20,6 @@ Nesta primeira release buscou-se cobrir a parte de planejamento e pré-rastreabi
  
 
 ## Histórico de versão
-| Versão | Data | Descrição| Autor(es)| Revisor(es)
-|--|--|--|--|--|
-| `1.0`|17/04/2022|Entrega 1| Mylena| Todos
+| Versão | Data       | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---------- | --------- | --------- | ----------- |
+| `1.0`  | 17/04/2022 | Entrega 1 | Mylena    | Todos       |

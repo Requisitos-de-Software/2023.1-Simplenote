@@ -2,91 +2,153 @@
 
 ## Introdução
   
-  Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos.
+  Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
   
 ## Metodologia
 
-  Foi utilizada a metodologia 5W2H
+  A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça.
 
-## Perguntas que serão feitas na entrevista:
+  Foi utilizada a metodologia 5W2H, é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+
+  | Acrônimo | Pergunta |
+  | -------- | -------- |
+  | What     | O quê    |
+  | Why      | Por quê  |
+  | Who      | Quem     |
+  | When     | Quando   |
+  | Where    | Onde     |
+  | How      | Como     |
+  | How much | Quanto   |
 
 
-| Tipo          | Perguntas                                                                                                                                                                                                             |
-|---------------|-----------------------------------------------------------------------------------------|
+## Perguntas feitas na entrevista utilizando a técnica 5W2H:
+
+
+| Tipo          | Perguntas                                                                                                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | What(O quê):  | 1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?<br>2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza? |
-| Why(Por quê): | 3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?                                                                                                               |
-| Who(Quem):    | 4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?                                                                                         |
-| Where(Onde):  | 5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?                                                                                                                                        |
-| When(Quando): | 6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?                                                                                                                                  |
-| How(Como):    | 7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?                                                                  |
-
+| Why(Por quê): | 3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?                                                                                                           |
+| Who(Quem):    | 4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?                                                                                     |
+| Where(Onde):  | 5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?                                                                                                                                    |
+| When(Quando): | 6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?                                                                                                                              |
+| How(Como):    | 7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?                                                              |
 <details>
-<summary>Respostas entrevistado 1</summary>
-
-1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?
-2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?
-3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?
-4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?
-5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?
-6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?
-7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?
-
+   <summary>Respostas entrevistado 1</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Questões</th>
+            <th>Respostas</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?</td>
+            <td>
+               - "Eu utilizo o Simplenote diariamente, somente para organizar idéias, criar listas e tarefas e anotar lembretes rápidos."<br>- "Lista de compras, ideias, senhas."
+            </td>
+         </tr>
+         <tr>
+            <td>2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?</td>
+            <td>"O mais importante é a facilidade de uso e a sincronização com outros dispositivos, utilizar no celular, no computador. E eu gosto muito da funcionalidade de 'etiquetas', que você coloca uma nota e coloca do que é aquela nota."</td>
+         </tr>
+         <tr>
+            <td>3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?</td>
+            <td>"Eu utilizo para trabalhos, estudos, projetos pessoais."</td>
+         </tr>
+         <tr>
+            <td>4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?</td>
+            <td>"Eu compartilho com familiares, colegas de trabalho, mas geralmente fica mais comigo mesmo."</td>
+         </tr>
+         <tr>
+            <td>5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?</td>
+            <td>"Como é um dispositivo que eu posso utilizar no celular não tem um local, todos os ambientes, em casa, no trabalho, se eu precisar fazer uma anotação rápida ou eu tenho uma ideia que talvez eu possa esquecer eu já faço uma anotação"</td>
+         </tr>
+         <tr>
+            <td>6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?</td>
+            <td>"Em qualquer horário, mas geralmente durante o dia."</td>
+         </tr>
+         <tr>
+            <td>7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?</td>
+            <td>"Eu acho que seria muito legal se ele tivesse aquele recurso no Notion, que você pode hierarquizar a informação (toggle) e fica mais compacto, o editor de texto dele deveria ser mais avançado."</td>
+         </tr>
+      </tbody>
+   </table>
+</details>
+<details>
+   <summary>Respostas entrevistado 2</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Questões</th>
+            <th>Respostas</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?</td>
+            <td>Obrigada mais uma vez pela sua disponibilidade e colaboração. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Agradeço novamente pela participação e encerramos aqui a entrevista. Tenha um ótimo dia!</td>
+         </tr>
+         <tr>
+            <td>2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?</td>
+            <td>resposta questão</td>
+         </tr>
+         <tr>
+            <td>3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?</td>
+            <td>resposta questão</td>
+         </tr>
+         <tr>
+            <td>4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?</td>
+            <td>resposta questão</td>
+         </tr>
+         <tr>
+            <td>5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?</td>
+            <td>resposta questão</td>
+         </tr>
+         <tr>
+            <td>6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?</td>
+            <td>resposta questão</td>
+         </tr>
+         <tr>
+            <td>7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?</td>
+            <td>resposta questão</td>
+         </tr>
+      </tbody>
+   </table>
+</details>
+<details>
+   <summary>Roteiro da entrevista:</summary>
+   <!DOCTYPE html>
+   <html>
+      <head>
+         <title>Entrevista Simplenote</title>
+      </head>
+      <body>
+         <h1>Introdução</h1>
+         <p>Ana Beatriz: Olá, meu nome é Ana Beatriz e eu sou estudante de Engenharia de Software na Universidade de Brasília. Estou realizando uma entrevista para elicitar requisitos do aplicativo Simplenote, para a disciplina Requisitos de Software ministrada pelo professor André Barros. Gostaria de enfatizar que suas respostas são confidenciais e usadas apenas para fins acadêmicos. Além disso, não há respostas certas ou erradas, estou apenas interessada em saber a sua opinião sincera sobre o uso do aplicativo. Por fim, a entrevista deve durar em torno de 5 a 10 minutos. Obrigada por aceitar participar da entrevista!</p>
+         <h2>Perguntas</h2>
+         <p>Ana Beatriz: Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?</p>
+         <p>Entrevistado: …</p>
+         <p>Ana Beatriz: O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?</p>
+         <p>Entrevistado: …</p>
+         <p>Ana Beatriz: Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?</p>
+         <p>Entrevistado: ...</p>
+         <p>Ana Beatriz: Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?</p>
+         <p>Entrevistado: ...</p>
+         <p>Ana Beatriz: Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?</p>
+         <p>Entrevistado: …</p>
+         <p>Ana Beatriz: Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?</p>
+         <p>Entrevistado: …</p>
+         <p>Ana Beatriz: Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?</p>
+         <p>Entrevistado: …</p>
+         <h2>Encerramento</h2>
+         <p>Ana Beatriz: Muito obrigada por participar da entrevista e pelas suas respostas. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Encerramos aqui a entrevista. Tenha um ótimo dia!</p>
 </details>
 
-<details>
-<summary>Respostas entrevistado 2</summary>
-
-1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?
-2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?
-3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?
-4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?
-5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?
-6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?
-7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?
-
-</details>
-
-<details>
-<summary>Roteiro da entrevista:</summary>
 
 
-Introdução
-
-Ana Beatriz: Olá, meu nome é Ana Beatriz e eu sou estudante de Engenharia de Software na Universidade de Brasília. Estou realizando uma entrevista para elicitar requisitos do aplicativo Simplenote, para a disciplina Requisitos de Software ministrada pelo professor André Barros. Gostaria de enfatizar que suas respostas são confidenciais e usadas apenas para fins acadêmicos. Além disso, não há respostas certas ou erradas, estou apenas interessada em saber a sua opinião sincera sobre o uso do aplicativo. Por fim, a entrevista deve durar em torno de 5 a 10 minutos. Obrigada por aceitar participar da entrevista!"
-
-Perguntas
-
-Ana Beatriz: Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?
-
-Entrevistado: …
-
-Ana Beatriz: O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?
-
-Entrevistado: …
-
-Ana Beatriz: Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?
-
-Entrevistado: ...
-
-Ana Beatriz: Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?
-
-Entrevistado: ...
-
-Ana Beatriz: Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?
-
-Entrevistado: …
-
-Ana Beatriz: Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?
-
-Entrevistado: …
-
-Ana Beatriz: Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?
-
-Encerramento
-
-Ana Beatriz: Muito obrigada por participar da entrevista e pelas suas respostas. Caso eu precise entrar em contato futuramente para obter mais informações, posso contar com você?
-
-Entrevistado: …
-
-Ana Beatriz: Obrigada mais uma vez pela sua disponibilidade e colaboração. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Agradeço novamente pela participação e encerramos aqui a entrevista. Tenha um ótimo dia!
-</details>
+### Histórico de versão
+| Versão | Data       | Descrição                          | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ---------------------------------- | ----------- | ----------- |
+| `1.0`  | 26/04/2022 | Adicionando perguntas              | Ana Beatriz | Beatriz     |
+| `1.1`  | 29/04/2022 | Adicionando Vídeos das entrevistas | Ana Beatriz | Beatriz     |
