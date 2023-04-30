@@ -38,7 +38,8 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Nome**            | Enzo Gabriel.    |
 | **Idade**            |          17 Anos.     | 
 | **Gênero**       | Masculino.      |
-| **Localidade**            |        São Paulo, capital, Brasil.       |                                                                                        
+| **Localidade**            |        São Paulo, capital, Brasil.       |   
+| **Experiência**       | Tecnófilo, intermediário     |
 | **Particularidades**            |        Palmeirense e Usuário de discord.       |    
 | **Escolaridade**            |        Cursando Ensino médio.       |    
 | **Profissão**            |        Estudante.       |   
@@ -77,7 +78,8 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Nome**            | Alicia Kane.    |
 | **Idade**            |          25 anos.     | 
 | **Gênero**       | Feminino.      |
-| **Localidade**            |        Londres, Inglaterra.       |                                                                                        
+| **Localidade**            |        Londres, Inglaterra.       |      
+| **Experiência**       | Tecnófila, especialista    |
 | **Particularidades**            |        Ativista social e Universitária de ciências físicas em Cambridge.    |    
 | **Escolaridade**            |        Cursando o ensino superior.       |    
 | **Profissão**            |        Estudante e estagiária.   |   
@@ -116,6 +118,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Idade**            |          10 anos.     | 
 | **Gênero**       | Feminino.      |
 | **Localidade**            |        Porto Alegre, Rio grande do Sul, Brasil.       |   
+| **Experiência**       | Tecnófila, novata   |
 | **Particularidades**            |        Gosta muito de desenhar e pintar   | **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
 | **Profissão**            |        Estudante.   |   
 | **História**            | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar  | 
@@ -153,7 +156,8 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Nome**            | Walter Assis da Gama (Seu Nenê).    |
 | **Idade**            |          70 anos.    | 
 | **Gênero**       | Masculino.      |
-| **Localidade**            |      São Cristóvão, Rio de Janeiro, Brasil.      |        
+| **Localidade**            |      São Cristóvão, Rio de Janeiro, Brasil.      |     
+| **Experiência**       | Tecnófobo, leigo    |
 | **Particularidades**            |       Viúvo.    |    
 | **Escolaridade**            |        Ensino médio incompleto.      |    
 | **Profissão**            |        Aposentado.   |   
