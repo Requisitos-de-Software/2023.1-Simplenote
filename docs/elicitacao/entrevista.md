@@ -87,31 +87,31 @@
       <tbody>
          <tr>
             <td>1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?</td>
-            <td>Obrigada mais uma vez pela sua disponibilidade e colaboração. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Agradeço novamente pela participação e encerramos aqui a entrevista. Tenha um ótimo dia!</td>
+            <td>"Eu não sou um usuário tão ativo, raramente eu uso o aplicativo, uso mais quando quero anotar alguma coisa que eu não quero perder, utilizo o aplicativo apenas para salvar alguma anotação que eu não quero perder"</td>
          </tr>
          <tr>
             <td>2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?</td>
-            <td>resposta questão</td>
+            <td>"Simplicidade, quanto menos cliques e menos opções para fazer uma anotação, melhor."</td>
          </tr>
          <tr>
             <td>3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?</td>
-            <td>resposta questão</td>
+            <td>"É mais para anotação mesmo, quando alguém fala alguma informação, valor de alguma coisa e que eu precise consultar depois, eu anoto no aplicativo."</td>
          </tr>
          <tr>
             <td>4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?</td>
-            <td>resposta questão</td>
+            <td>"Eu compartilho só comigo mesmo."</td>
          </tr>
          <tr>
             <td>5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?</td>
-            <td>resposta questão</td>
+            <td>"Mais na rua, ou no trabalho, normalmente crio quando é algo mais urgênte."</td>
          </tr>
          <tr>
             <td>6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?</td>
-            <td>resposta questão</td>
+            <td>"Mais durante o dia, no horário comercial."</td>
          </tr>
          <tr>
             <td>7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?</td>
-            <td>resposta questão</td>
+            <td>"Acho que o login dele ser só com o e-mail e senha não é muito legal, pois as vezes formato o celular e para recuperar tem que lembrar a senha que esta cadastrada acaba dificultando, sera mais facil se pudesse utilzar o e-mail do Goggle, mas de forma geral ele atende bem, é bem simpes de usar e bem direto."</td>
          </tr>
       </tbody>
    </table>
