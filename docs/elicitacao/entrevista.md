@@ -10,6 +10,9 @@
 
   Foi utilizada a metodologia 5W2H, é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
+<center>
+
+
   | Acrônimo | Pergunta |
   | -------- | -------- |
   | What     | O quê    |
@@ -20,18 +23,31 @@
   | How      | Como     |
   | How much | Quanto   |
 
+</center>
+
+<div style="text-align: center">
+<p> Tabela 1: Acrônimos da técnica 5W2H (Fonte: Autor, 2023).</p>
+</div>
 
 ## Perguntas feitas na entrevista utilizando a técnica 5W2H:
 
 
-| Tipo          | Perguntas                                                                                                                                                                                                         |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What(O quê):  | 1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?<br>2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza? |
-| Why(Por quê): | 3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?                                                                                                           |
-| Who(Quem):    | 4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?                                                                                     |
-| Where(Onde):  | 5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?                                                                                                                                    |
-| When(Quando): | 6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?                                                                                                                              |
-| How(Como):    | 7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações?                                                              |
+| Tipo          | Perguntas                                                                                                                                            |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What(O quê):  | 1. Qual a frequência de uso do Simplenote no seu dia a dia? E que tipo de notas você geralmente cria?<br>                                            |
+|               | 2. O que você acha mais importante em um aplicativo de notas? E quais funcionalidades você mais utiliza?                                             |
+| Why(Por quê): | 3. Por que você utiliza aplicativos de notas? Para trabalho, estudo, projetos pessoais, ou outros fins?                                              |
+| Who(Quem):    | 4. Para quem você geralmente compartilha suas notas? Com colegas de trabalho, amigos, familiares, ou apenas para uso pessoal?                        |
+| Where(Onde):  | 5. Onde você geralmente cria notas? No trabalho, em casa ou em outros lugares?                                                                       |
+| When(Quando): | 6. Quando você geralmente cria notas? Durante o dia, à noite, ou em outros momentos?                                                                 |
+| How(Como):    | 7. Como o Simplenote poderia ser melhorado para torná-lo ainda mais útil e prático para você? Quais são as suas sugestões para futuras atualizações? |
+
+<div style="text-align: center">
+   <p> Tabela 2: Perguntas realizadas na entrevista (Fonte: Autor, 2023).</p>
+</div>
+
+
+
 <details>
    <summary>Respostas entrevistado 1</summary>
    <table>
@@ -74,6 +90,9 @@
          </tr>
       </tbody>
    </table>
+   <div style="text-align: center">
+      <p> Tabela 3: Respostas entrevistado 1 (Fonte: Autor, 2023).</p>
+   </div>
 </details>
 <details>
    <summary>Respostas entrevistado 2</summary>
@@ -115,6 +134,9 @@
          </tr>
       </tbody>
    </table>
+   <div style="text-align: center">
+      <p> Tabela 4: Respostas entrevistado 2 (Fonte: Autor, 2023).</p>
+   </div>
 </details>
 <details>
    <summary>Roteiro da entrevista:</summary>
@@ -145,21 +167,43 @@
          <p>Ana Beatriz: Muito obrigada por participar da entrevista e pelas suas respostas. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Encerramos aqui a entrevista. Tenha um ótimo dia!</p>
 </details>
 
-
 ## Entrevista 1: 
 
 <iframe width="560" height="315" src="https://youtu.be/9wbc4-v2vWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Vídeo 1: Entrevista 1. Fonte: autor (2023).
+Vídeo 1: Entrevista 1. Fonte: Autor (2023).
 
 ## Entrevista 2: 
 
 <iframe width="560" height="315" src="https://youtu.be/x1gkQIUbq_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Vídeo 2: Entrevista 2. Fonte: autor (2023).
+Vídeo 2: Entrevista 2. Fonte: Autor (2023).
 
+## Requisitos elicitados
+
+### Legenda
+
+- ENT: Entrevista
+- RF: Requisito funcional
+- RNF: Requisito não funcional
+
+| Identificador | Requisito                                                                                                                                                                | Tipo |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| ENT01         | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                 | RF   |
+| ENT02         | O aplicativo deve permitir a sincronização das notas em tempo real em diferentes dispositivos                                                                            | RF   |
+| ENT03         | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização                                                                                  | RF   |
+| ENT04         | O aplicativo deve possuir um editor de texto avançado para permitir a utilização da função `toggle`                                                                      | RF   |
+| ENT05         | O aplicativo deve permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail                                                             | RF   |
+| ENT06         | O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones                                                                      | RF   |
+| ENT07         | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação                                                         | RF   |
+| ENT08         | O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias                                                                            | RNF  |
+| ENT09         | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo | RNF  |
+<div style="text-align: center">
+<p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
+</div>
 
 
 ### Histórico de versão
-| Versão | Data       | Descrição                          | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ---------------------------------- | ----------- | ----------- |
-| `1.0`  | 26/04/2022 | Adicionando perguntas              | Ana Beatriz | Beatriz     |
-| `1.1`  | 29/04/2022 | Adicionando Vídeos das entrevistas | Ana Beatriz | Beatriz     |
+| Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
+| ------ | ---------- | --------------------------------------- | ----------- | ----------- |
+| `1.0`  | 27/04/2022 | Adicionando perguntas                   | Ana Beatriz | Beatriz     |
+| `1.1`  | 29/04/2022 | Adicionando respostas dos entrevistados | Ana Beatriz | Beatriz     |
+| `1.2`  | 29/04/2022 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
