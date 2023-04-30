@@ -37,7 +37,13 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |GLO04|Possibilidade de criar checklists dentro das notas| Baixa prioridade|
 |GLO05|Salvamento automático das notas|Média prioridade|
 |GLO06|Capacidade de criar no dispositivo um arquivo cópia de uma nota|Quarto quadrante|
-
+|ENT02|O aplicativo deve permitir a sincronização das notas em tempo real em diferentes dispositivos| Baixa prioridade|
+|ENT03|O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização|Média prioridade|
+|ENT04|O aplicativo deve possuir um editor de texto avançado para permitir a utilização da função `toggle`|Quarto quadrante|
+|ENT05|O aplicativo deve permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail|Baixa prioridade|
+|ENT06|O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones|Alta prioridade|
+|ENT07| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação
+|ENT09| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|Média prioridade|
 
 #### Requisitos não funcionais:
 
@@ -49,6 +55,10 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |INT18|A interface deve ser simples e intuitiva| Alta prioridade|
 |GLO02|Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)| Alta prioridade|
 |GLO03|Ser capaz de ler e editar arquivos de texto de outras fontes|Baixa prioridade|
+|ENT01|O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas| Alta prioridade|
+|ENT08|O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias|Alta prioridade|
+
+
 
 ## Bibliografia
 
