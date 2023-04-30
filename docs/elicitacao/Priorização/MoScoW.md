@@ -29,11 +29,10 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF05  |             O usúario deve poder usar Markdown             |
 | RF06  |    O usúario deve poder buscar notas por palavras-chave    |
 | RNF07 |        O sistema deve deve ser simples e intuitivo         |
-| RF08  |             O usúario deve poder usar Markdown             |
-| RF09  |           O usuário deve poder sincronizar notas           |
-| RF10  |     O usuário deve poder criar uma conta e fazer login     |
-| RF11  | O sistema deve permitir a exportação e importação de notas |
-| RF12  |        O usuário deve poder criar notas com imagens        |
+| RF08  |           O usuário deve poder sincronizar notas           |
+| RF09  |     O usuário deve poder criar uma conta e fazer login     |
+| RF10  | O sistema deve permitir a exportação e importação de notas |
+| RF11  |        O usuário deve poder criar notas com imagens        |
 
 
 
@@ -41,15 +40,15 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
   
 | Tipo  |                           Requisito                           |
 | :---: | :-----------------------------------------------------------: |
-| RF13  |      O usúario deveria poder recuperar anotação excluida      |
-| RNF14 |         O sistema deveria salvar a anotação em até 1s         |
-| RNF15 |       O usúario deveria poder fazer notas sem internet        |
-| RF16  |     O usúario deveria poder pesquisar por suas anotações      |
-| RNF17 |  O aplicativo deveria ser compatível com dispositivos móveis  |
-| RF18  |     O sistema deveria permitir a sincronização automática     |
-| RF19  |     O usuário deveria poder definir cores para suas tags      |
-| RNF20 |   O sistema deveria ser otimizado para dispositivos móveis    |
-| RF21  | O usuário deveria poder compartilhar notas com outras pessoas |
+| RF12  |      O usúario deveria poder recuperar anotação excluida      |
+| RNF13 |         O sistema deveria salvar a anotação em até 1s         |
+| RNF14 |       O usúario deveria poder fazer notas sem internet        |
+| RF15  |     O usúario deveria poder pesquisar por suas anotações      |
+| RNF16 |  O aplicativo deveria ser compatível com dispositivos móveis  |
+| RF17  |     O sistema deveria permitir a sincronização automática     |
+| RF18  |     O usuário deveria poder definir cores para suas tags      |
+| RNF19 |   O sistema deveria ser otimizado para dispositivos móveis    |
+| RF20  | O usuário deveria poder compartilhar notas com outras pessoas |
 
 
 
@@ -57,22 +56,22 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 
 | Tipo  |                         Requisito                          |
 | :---: | :--------------------------------------------------------: |
-| RF22  |      O usuario poderia ver informações sobre sua nota      |
-| RF23  |    O usuario poderia definir templates para suas notas     |
-| RF24  |       O usuario poderia separar suas notas em pastas       |
-| RF25  |  O usuario poderia importar ou exportar modelos de layout  |
-| RNF26 | O aplicativo poderia ter integração com outros aplicativos |
-| RF27  |   O usuário poderia definir um lembrete para suas notas    |
-| RNF28 |   O sistema poderia fornecer estatísticas sobre as notas   |
-| RNF29 | O sistema poderia oferecer sugestões de notas relacionadas |
+| RF21  |      O usuario poderia ver informações sobre sua nota      |
+| RF22  |    O usuario poderia definir templates para suas notas     |
+| RF23  |       O usuario poderia separar suas notas em pastas       |
+| RF24  |  O usuario poderia importar ou exportar modelos de layout  |
+| RNF25 | O aplicativo poderia ter integração com outros aplicativos |
+| RF26  |   O usuário poderia definir um lembrete para suas notas    |
+| RNF27 |   O sistema poderia fornecer estatísticas sobre as notas   |
+| RNF28 | O sistema poderia oferecer sugestões de notas relacionadas |
 
 
 ## Won't Have
 
 | Tipo  |                                     Requisito                                     |
 | :---: | :-------------------------------------------------------------------------------: |
-| RF30  |            O usuario não terá como criar espaços de anotação em equipe            |
-| RF31  | O usuario não terá como mudar cor, fonte e tamanho da letra sem utilizar markdown |
+| RF29  |            O usuario não terá como criar espaços de anotação em equipe            |
+| RF30  | O usuario não terá como mudar cor, fonte e tamanho da letra sem utilizar markdown |
 
 
 # Legenda
