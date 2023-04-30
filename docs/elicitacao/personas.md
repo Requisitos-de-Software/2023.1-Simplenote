@@ -1,44 +1,31 @@
 # Personas
 
 ## Introdução
-
-Neste documento, temos a exposição das personas criadas pelo grupo, esta técnica consiste em criar pessoas fictícias a fim de realizar a técnica de Roleplay(encenação) e assim obter mais requisitos para a aplicação.
-Esta técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona (estereótipo) ao utilizar a aplicação. Para criar as personas, devemos definir diversos aspectos da sua vida assim como sua história, objetivo e necessidades. Assim, para melhor dividir o nosso elenco, temos a divisão:
-- Persona primária: é aquela para qual o programa foi feito e sempre está engajada com a aplicação;
-- Persona secundária: é aquela que eventualmente utiliza a aplicação, normalmente sem muitas exigências;
+Neste documento, temos a exposição das personas criadas pelo grupo. Esta técnica consiste em criar personagens fictícios (personas) para realizar a técnica de roleplay (encenação) e, assim, obter mais requisitos para a aplicação. Essa técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona ao utilizar a aplicação. Temos a seguinte divisão de personas:
+- Persona primária: é aquela para qual o programa foi feito e sempre está engajada com a aplicação.
+- Persona secundária: é aquela que eventualmente utiliza a aplicação, normalmente sem muitas exigências.
 - Anti-Persona: é aquela para a qual a aplicação não foi destinada.
 
-## Metodologias
+## Perfil de Usuário
+Para que sejam definidas as personas, primeiramente é necessário definir o perfil de usuário. Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).
 
-A princípio, a dupla realizou uma busca sistemática de 4 imagens no site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), sendo uma para a anti-persona, duas para personas-primárias e uma para a persona-secundária. Por conseguinte, as personas foram descritas com base em:
-- Nome
-- Idade
-- Gênero
-- Localidade
-- Particularidades
-- Escolaridade
-- Profissão 
-- História
-- Objetivo
-- Habilidades
-- Rotina
-- Relacionamentos
-- Requisitos
-- Expectativas
+Com base nas informações obtidas por meio da técnica de coleta de dados por questionário, é factível criar perfis de usuários que compartilham características similares.
 
-## Elenco de personas
+Perfil de usuário:
 
-Como componentes do elenco de personas, temos:
+Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino médio, ensino superior ou têm ambos completos. Eles estão em busca de soluções para organizar suas rotinas e aumentar sua produtividade nos estudos ou no trabalho.
+
+## Personas
 
 ### Enzo Gabriel - Persona primária
 
 <div align="center">
 
-<img src="../img/enzo.png" width="300" height="300">
+<img src="./img/enzo.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
-    <b>Figura 1: Primeira persona-primária.</b>
+    <b>Figura 1: Enzo Gabriel (persona-primária).</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -49,23 +36,23 @@ Como componentes do elenco de personas, temos:
 |        Caracteristica       |  Resposta   |
 | :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Enzo Gabriel.    |
-| **Idade**            |          16 Anos.     | 
+| **Idade**            |          17 Anos.     | 
 | **Gênero**       | Masculino.      |
 | **Localidade**            |        São Paulo, capital, Brasil.       |                                                                                        
 | **Particularidades**            |        Palmeirense e Usuário de discord.       |    
-| **Escolaridade**            |        Ensino médio incompleto.       |    
+| **Escolaridade**            |        Cursando Ensino médio.       |    
 | **Profissão**            |        Estudante.       |   
-| **História**            |       Enzo Gabriel é repetente do oitavo ano devido ao seu vício em jogos online. Seu principal hobby é assistir animes pelo discord com seus amigos.    |    
-| **Objetivos**       | Busca fugir de suas obrigações escolares, vendo animes com seus amigos. Além disso, busca assistir o máximo de animes o possível. |
+| **História**            |       Enzo Gabriel sempre teve dificuldade na escola, gosta muito de jogos online e de jogar futebol. Atualmente, Enzo busca melhorar suas notas.    |    
+| **Objetivos**       | Melhorar o desempenho escolar e otimizar seu tempo através do aplicativo Simplenote. |
 | **Habilidades**     | Muito bom em matemática.  |
-| **Rotina**         | De manhã ele vai para a escola, volta por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
+| **Rotina**         | De manhã ele vai para a escola, e por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
 | **Relacionamentos** | Conversa com colegas do discord e sua meia dúzia de amigos escolares.   |
-| **Requisitos**      | Ele gostaria de assistir mais animes dublados, um site mais veloz e que coubesse mais usuários ao mesmo tempo e gostaria que ele tivesse a possibilidade de transmitir tela para seus amigos do discord. |
-| **Expectativas**    | Quer assistir o máximo de animes possível. |
+| **Requisitos**      | Enzo gostaria de poder compartilhar suas notas com seus colegas de turma, para que todos tenham eficiência em seus estudos. |
+| **Expectativas**    | Deseja organizar suas atividades escolares de forma a não esquecê-las |
 
 <div style="text-align: center">
 <p>Tabela 1: Persona 1 - Enzo Gabriel</p>
-<p>Fonte: do Autor</p>
+<p>Fonte: Ian da Costa</p>
 </div>
 
 <br>
@@ -73,11 +60,11 @@ Como componentes do elenco de personas, temos:
 ### Alicia Kane - Persona primária
 
 <div align="center">
-<img src="../img/alicia.png" width="400" height="300">
+<img src="./img/alicia.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
-    <b>Figura 2: Segunda persona-primária.</b>
+    <b>Figura 2: Alicia Kane (persona-primária).</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -94,17 +81,17 @@ Como componentes do elenco de personas, temos:
 | **Particularidades**            |        Ativista social e Universitária de ciências físicas em Cambridge.    |    
 | **Escolaridade**            |        Cursando o ensino superior.       |    
 | **Profissão**            |        Estudante e estagiária.   |   
-| **História**            | Alicia desde pequena sempre gostou de assistir desenhos, determinado dia, ela encontrou um anime chamado “Steins Gate”, no qual lida com diversos eventos curiosos da área da física, se apaixonando assim, pela sua área de atuação, ela até hoje é aficionada por desenhos japoneses que envolvem ciência    | 
-| **Objetivos**       | Entender mais sobre a física de uma forma divertida. |
-| **Habilidades**     | Alto conhecimento a respeito de ciências físicas e conhece muitos animes.  |
-| **Rotina**         | Pela manhã acorda, estuda até meio dia, almoça e pela tarde vai para o seu estágio, volta para casa e assiste quantos episódios de anime ela conseguir. Eventualmente, ela assiste seus animes no metrô ou no ônibus. |
+| **História**            | Alicia sempre foi apaixonada pela luta por direitos iguais e justiça social. Com dedicação, ela conseguiu ingressar na Universidade de Cambridge, onde estuda ciências físicas. Além disso, Alicia se dedica a ser uma ativista social comprometida e ajuda o máximo de pessoas que pode. Com sua determinação, ela busca mudar o mundo para melhor.   | 
+| **Objetivos**       | Conseguir com a ajuda do aplicativo, manter seus pensamentos organizados e focar em seus objetivos, mesmo enquanto enfrenta uma carga de trabalho pesada na universidade. |
+| **Habilidades**     | Forte senso de justiça social e habilidade de liderança e organização para planejar e executar projetos sociais  |
+| **Rotina**         | Pela manhã acorda, estuda até meio dia, almoça e pela tarde vai para o seu estágio, volta para casa e a noite, Alicia costuma relaxar fazendo atividades que lhe dão prazer, como ler livros, ouvir música ou assistir filmes. |
 | **Relacionamentos** | Conversa com seus amigos, pais e colegas de faculdade e estágio.   |
-| **Requisitos**      | Site mais rápido, poder baixar os animes para assistir off-line, algoritmo mais preciso, um sistema de favoritos mais abrangente, e uma funcionalidade para restringir animes sugeridos. |
-| **Expectativas**    | Espera a evolução do algoritmo do site e busca mais animes. |
+| **Requisitos**      | Alicia gostaria de sincronização em nuvem, o app deve permitir que as notas sejam sincronizadas automaticamente em vários dispositivos do usuário, para que se possa acessá-las de onde estiver. |
+| **Expectativas**    | Deseja que o app seja compatível com diferentes sistemas operacionais, para que se possa usá-lo independentemente da plataforma que estiver usando. |
 
 <div style="text-align: center">
 <p>Tabela 2: Persona 2 - Alicia Kane</p>
-<p>Fonte: do Autor</p>
+<p>Fonte: Ian da Costa</p>
 </div>
 
 <br>
@@ -112,11 +99,11 @@ Como componentes do elenco de personas, temos:
 ### Valentina Becker - Persona Secundária
 
 <div align="center">
-<img src="../img/valentina.png" width="300" height="300">
+<img src="./img/valentina.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
-    <b>Figura 3: Primeira persona-secundária.</b>
+    <b>Figura 3: Valentina Becker (persona-secundária).</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -128,20 +115,20 @@ Como componentes do elenco de personas, temos:
 | **Nome**            | Valentina Becker.    |
 | **Idade**            |          10 anos.     | 
 | **Gênero**       | Feminino.      |
-| **Localidade**            |        Porto Alegre, Rio grande do Sul, Brasil.       |                                                                                      | **Particularidades**            |       Gosta da Sakura de "Naruto" e de anime de romance.     |    
-| **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
+| **Localidade**            |        Porto Alegre, Rio grande do Sul, Brasil.       |   
+| **Particularidades**            |        Gosta muito de desenhar e pintar   | **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
 | **Profissão**            |        Estudante.   |   
-| **História**            | Valentina é filha de classe média-alta Porto alegrense, devido ao desleixo dos pais, ela possui assinatura no aplicativo, porém, apenas a empregada possui o login de sua conta na qual controla os horários.  | 
-| **Objetivos**       | Apenas se divertir. |
-| **Habilidades**     | Capacidade alta de aprendizado.  |
-| **Rotina**         | Assiste animes no lugar de programas de televisão desde quando acorda até as 11:00, toma banho, almoça e vai para o colégio no período da tarde, chega em casa 17:00, faz seus afazeres e vai dormir. |
-| **Relacionamentos** | Conversa com seus pais, empregada e suas colegas de escola.   |
-| **Requisitos**      | Spin-off dos animes, sistema de login facilitado, mais “animes bons”. |
-| **Expectativas**    | Espera mais animes a cada dia que passa. |
+| **História**            | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar  | 
+| **Objetivos**       | Apenas estudar e se divertir. |
+| **Habilidades**     | Capacidade alta de aprendizado artístico.  |
+| **Rotina**         | Ao acordar cedo, ela toma um café e segue para o cursinho de desenho, onde passa a manhã aprimorando suas habilidades. Após o término da aula, almoça rapidamente e segue para a escola, onde passa a tarde toda. Ao chegar em casa, assiste suas séries favoritas em seu tablet, janta e logo vai dormir.   |
+| **Relacionamentos** | Conversa com seus pais, secretária de casa e suas colegas de cursinho e escola.   |
+| **Requisitos**      | Valentina gostaria que o Simplenote tivesse um modo de escrita livre para que pudesse utilizar sua caneta touch para fazer seus desenhos. |
+| **Expectativas**    | Desenhar no aplicativo Simplenote. |
 
 <div style="text-align: center">
 <p>Tabela 3: Persona 3 - Valentina Becker</p>
-<p>Fonte: do Autor</p>
+<p>Fonte: Ian da Costa</p>
 </div>
 
 <br>
@@ -150,11 +137,11 @@ Como componentes do elenco de personas, temos:
 
 <div align="center">
 
-<img src="../img/seu-nene.png" width="400" height="300">
+<img src="./img/seu-nene.png" width="350" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
-    <b>Figura 4: Anti-persona.</b>
+    <b>Figura 4: Seu Nenê (Anti-persona).</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -173,24 +160,26 @@ Como componentes do elenco de personas, temos:
 | **História**            | Seu Nenê é aposentado, mas devido a sua infância conturbada e a força de vontade, está sempre atrás de alguma fonte de renda além de sua aposentadoria.  | 
 | **Objetivos**       | Após a sua aposentadoria, seu Nenê constantemente se sente mal por não estar ocupado com algo, o mesmo deseja algo para se ocupar. |
 | **Habilidades**     | Bastante força devido ao seu modo de vida.  |
-| **Rotina**         | Seu nenê é bastante ocupado apesar de sua idade, pela manhã ele faz a sua comida, pela tarde ele se dirige para a rua com a finalidade de encontrar algum serviço, ele volta para casa à noite a fim de descansar, ele dorme cedo, entre 22:00 e 22:30. |
+| **Rotina**         | Seu nenê é bastante ocupado apesar de sua idade, pela manhã ele faz a sua comida, pela tarde ele se dirige para a rua com a finalidade de encontrar algum serviço, ele volta para casa à noite a fim de descansar, ele dorme cedo, entre 20:00 e 21:30. |
 | **Relacionamentos** | Conversa com seus netos e seus amigos de bairro.   |
-| **Requisitos**      | Seu Nenê quer descansar quando chega em casa e se sente motivado a ver animes para conversar com seus netos, entretanto, ele precisa de facilidade. |
+| **Requisitos**      | Seu Nenê quer descansar quando chega em casa e se sente motivado a escrever sua história de vida para registrar seu passado, entretanto, ele precisa de facilidade. |
 | **Expectativas**    | Seu Nenê quer viver uma vida feliz até o final de sua existência. |
 
 <div style="text-align: center">
 <p>Tabela 4: Persona 4 - Walter Assis da Gama (Seu Nenê)</p>
-<p>Fonte: do Autor</p>
+<p>Fonte: Ian da Costa</p>
 </div>
 
 ## Bibliografia
 
-[1] This Person Doest Not Exist. Acesso em: 09 de Abril de 2022.Disponível em: <https://this-person-does-not-exist.com/en> <br>
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-[2] https://brasil.uxdesign.cc/antipersona-qual-%C3%A9-o-impacto-na-cria%C3%A7%C3%A3o-de-um-produto-ou-servi%C3%A7o-a976f5f4ecbd. Acesso em: 09 de Abril de 2023
+[2] This Person Doest Not Exist. Acesso em: 09 de Abril de 2022.Disponível em: <https://this-person-does-not-exist.com/en> <br>
+
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                                              | Autor(es)        | Revisor(es)  |
 | ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas                                             |Kauã        | João |
+| `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas.                                             |Kauã        | João |
+| `2.0`  | 09/04/2023 | Atualização de todas as personas e criação do perfil de usuário.                                             |Ian        | Mylena |
