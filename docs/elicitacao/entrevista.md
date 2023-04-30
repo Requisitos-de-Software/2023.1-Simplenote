@@ -6,7 +6,7 @@
   
 ## Metodologia
 
-  A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça.
+  A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça-DF.
 
   Foi utilizada a metodologia 5W2H, é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
