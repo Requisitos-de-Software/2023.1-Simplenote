@@ -42,7 +42,7 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |ENT04|O aplicativo deve possuir um editor de texto avançado para permitir a utilização da função `toggle`|Quarto quadrante|
 |ENT05|O aplicativo deve permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail|Baixa prioridade|
 |ENT06|O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones|Alta prioridade|
-|ENT07| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação
+|ENT07| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação|Alta prioridade|
 |ENT09| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|Média prioridade|
 
 #### Requisitos não funcionais:
