@@ -15,7 +15,7 @@ são os menos importantes e podem ser descartados.
 ## Metodologia
 
 <p>
-Nossa equipe se reuniu via discord para discutir o levantamento de requisitos obtidos por meio de técnicas aplicadas. Durante a reunião, avaliamos a importância de cada requisito e dicidimos onde eles se encaixariam melhor. É importante destacar que a decisão foi baseada em personas, storytelling e introspecção sem a influência de usuários reais.
+A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotamente, através do Discord, para discutir o levantamento dos requisitos obtidos por meio das técnicas aplicadas. Durante a discussão, foi avaliada a importância de cada requisito e decidimos onde eles se encaixariam melhor no contexto do projeto. É válido ressaltar que a decisão foi baseada em personas, storytelling e introspecção, sem a influência de usuários reais.
 </p>
 
 ## Must Have
