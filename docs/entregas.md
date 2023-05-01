@@ -33,12 +33,10 @@ Na segunda release buscou-se cobrir a parte de planejamento, as técnicas e a pr
 - Escala de três níveis
 - Glossário
 
-
- MoSCow
 ### 🔗 Links
-[Gravação]()
+[Gravação](https://www.youtube.com/watch?v=vCXc620S378)
 
-[Release]()
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/SimpleNote)
 
  
 
