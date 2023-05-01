@@ -169,11 +169,14 @@
 
 ## Entrevista 1: 
 
+     Data: 28/04/2023
+     Local: Teams
 A entrevista com o 1º usuário pode ser acessada [aqui](https://youtu.be/9wbc4-v2vWc) 
 <br> Vídeo 1: Entrevista 1. <br> Fonte: Autor (2023).
 
 ## Entrevista 2: 
-
+     Data: 28/04/2023
+     Local: Teams
 A entrevista com o 2º usuário pode ser acessada [aqui](https://youtu.be/x1gkQIUbq_k) 
 <br> Vídeo 2: Entrevista 2. <br> Fonte: Autor (2023).
 
