@@ -55,7 +55,17 @@ O questionário ficou aberto do dia 23/04/23 a 28/04/23.
 
 ## Perfil do usuário 
 
-Com base nas respostas, podemos definir o público alvo como pessoas de 17 a 59 anos; tanto mulheres quanto homens; grande parte utiliza o aplicativo mas não o conhece muito bem; utilizam diariamente e sua escolaridade varia desde o ensino fundamental até o ensino superior.
+Com base nas respostas, podemos definir o público alvo como:
+
+|Especificação     | Perfil                                  | 
+|-------------     |---------------------                    |
+| Idade            |  Entre 17 a 59 anos                     |  
+| Gênero           | Muheres e homens                        |
+| Experiência      | Estão entre intermediário e experiente  |
+| Atitudes         | Tecnófilo                               | 
+| Tarefas primárias| Usuários ocasionais                     |
+
+Para mais informações, verificar a parte de personas.
 
 
 
