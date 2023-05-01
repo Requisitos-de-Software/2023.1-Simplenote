@@ -9,7 +9,7 @@
 |------------------|-------------|
 Ana Beatriz| 	[Pinterest](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11347690/RichPictureProj01AnaBeatrizNorberto.pdf)
 Beatriz Vieira| [Crunchyroll](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338087/RichPictureCrunchyrollV1.0.2.pdf)
-Ian da Costa| 
+Ian da Costa| [Shopee](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11367814/RichPictureProj01IanDaCostaGama.pdf) 
 João Pedro|	[Chess.com](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338081/RichPictureProj01JoaoPedroNobregaFernandes.pdf)
 Kauã Vinícius| [Twitch](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338080/RichPictureTwitchKauaVinicius.pdf)
 Leonardo Gonçalves| 	[Desmos](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11347686/RichPictureProj01LeonardoGoncalvesMachado.pdf)
