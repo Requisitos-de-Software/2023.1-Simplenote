@@ -65,7 +65,7 @@ Com base nas respostas, podemos definir o público alvo como:
 | Atitudes         | Tecnófilo                               | 
 | Tarefas primárias| Usuários ocasionais                     |
 
-Para mais informações, verificar a parte de personas.
+Para mais informações, verificar a parte de [personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/).
 
 
 
