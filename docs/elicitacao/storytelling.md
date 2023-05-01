@@ -49,6 +49,8 @@ Com base nas histórias criadas usando a técnica de storytelling, foi possível
 | ST06 | Poder baixar uma cópia da nota no dispositivo | RF |
 | ST07 | Ser capaz de funcionar sem internet | RNF |
 
+<p align="center"> Fonte: Autores <br> Autores: Leonardo e Ian </p>
+
 ### Legenda
 
 ST: Requisitos de Storytelling
