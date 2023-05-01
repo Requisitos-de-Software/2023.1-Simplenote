@@ -7,13 +7,13 @@ First things First ou FTF é uma técnica de priorização que busca entender os
 ## Passo a passo
 
 1. Listar todos os requisitos, se um requisito A se liga com um requisito B, deve-se levar em conta apenas o A.
-2. Estime o valor de cada requisito para o cliente com uma escala de 1 a 9, em que 1 é pouco valoroso e 9 é muito valoroso, é importante a participação do cliente.
-3. Estime uma penalidade que o negócio sofreria na falta daquele requisito seguindo a mesma escala anterior.
-4. Crie uma coluna valor total, na qual Vtotal = (Beneficio relativo * Peso relativo) + (Penalidade relativa * Peso relativo).
-5. Estime o custo relativo de implementação seguindo a escala já conhecida, este custo deve levar em conta: a complexidade de implementação, UI necessária, reúso de telas, etc
-6. Estime o risco da implementação de um requisito.
-7. Calcule a prioridade dos requisitos com: prioridade = valor % / (custo % * peso_custo + risco % * peso_risco)
-8. Ordene a lista de forma decrescente de prioridade. Os requisitos do topo tem maior prioridade de implementação. Os stakeholders devem ter acesso a mesma.
+2. Estimar o valor de cada requisito para o cliente com uma escala de 1 a 9, em que 1 é pouco valoroso e 9 é muito valoroso, é importante a participação do cliente.
+3. Estimar uma penalidade que o negócio sofreria na falta daquele requisito seguindo a mesma escala anterior.
+4. Criar uma coluna valor total, na qual Vtotal = (Beneficio relativo * Peso relativo) + (Penalidade relativa * Peso relativo).
+5. Estimar o custo relativo de implementação seguindo a escala já conhecida, este custo deve levar em conta: a complexidade de implementação, UI necessária, reúso de telas, etc
+6. Estimar o risco da implementação de um requisito.
+7. Calcular a prioridade dos requisitos com: prioridade = valor % / (custo % * peso_custo + risco % * peso_risco)
+8. Ordenar a lista de forma decrescente de prioridade. Os requisitos do topo tem maior prioridade de implementação. Os stakeholders devem ter acesso a mesma.
 
 ## Resultados
 
@@ -92,6 +92,14 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 | **INT17** | O usuario poderia importar ou exportar modelos de layout | 2 | 1 | 5 | 0,47% | 7 | 2,83% | 5 | 2,08% | 0,10 | 
 | Total | *** | 379 | 348 | 1060 | 100,00% | 247 | 100,00% | 240 |100,00%|48.28|
 <figcaption>Tabela 1: Tabela de priorização FTF.</figcaption>
+
+### Legenda:
+- INT: Introspecção
+- B: Brainstorming
+- ENT: Entrevista
+- GLO: Glossário
+- QUE: Questionário
+
 
 ## Bibliografia
 
