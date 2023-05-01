@@ -35,8 +35,9 @@ e conjecturar o sistema ideal para determinado usuário, tendo em vista suas nec
 |  INT011        |       O usuário poderá separar suas notas em pastas                                             |    RF    |  
 |  INT012        |       O usuário poderá definir templates para suas notas                                        |    RF    |  
 
+<p align="center"> Fonte: autores <br> Autores: Beatriz e Leonardo </p>
 
-# Legenda
+## Legenda
 <p>
 INT -> Introspecção
   </p>
