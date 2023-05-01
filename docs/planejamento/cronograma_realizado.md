@@ -46,7 +46,7 @@ Ele está em constante mudança até a entrega final.
 | Entrevista	                                    |       27/04/2023       |     29/04/2023      | Ana                  | Beatriz              |
 | Brainstorming	                                  |       27/04/2023       |     29/04/2023      | Ian                  | Ana                  |
 | Frist things Frist                              |       27/04/2023       |     29/04/2023      |    João e Kauã       |     Mylena           |
-| Escala de três níveis                           |       27/04/2023       |     29/04/2023      |    João e Kauã       |     Mylena           |
+| Escala de três níveis                           |       27/04/2023       |     29/04/2023      |    Kauã       |     Mylena           |
 | MoSCow                                          | 27/04/2023             | 29/04/2023          | Ana e Beatriz        | Mylena               |
 |  Gravação da apresentação                       |       30/04/2023       |          -          | Todos os integrantes | -                    |
 | Ajuste com base nos feedbacks                   | 10/05/2023             |    13/05/2023       | Mylena e João        | Kauã                 |
