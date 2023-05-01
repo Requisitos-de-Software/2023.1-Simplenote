@@ -14,7 +14,9 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 |[Decisões pt 2](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EamdHFfd97NGqrK_areBWAQBETXifyiiKS2kaz69STILLA?e=OttyIt)| Não teve
 |[Cronograma](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EV0-Xe9g2YhLveIGywPPZjgBZJ8H9eswDfB2FZbJZsZUSw?e=NZLedQ)| Não teve
 | [Ajustes finais entrega 1](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ETj9-j-RykpAhUtwFGwecsoBR7U6vTItTc2dnJj1aCQJTA?e=ZquvfV)|[Link](https://youtu.be/xmTG8MMpY8Y)
-|[E lá vamos nós de novo](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ESqqoghq39RNn7_QRXKcOwgB3d8CoFCPCu--7UQAHCvWeA?e=Th472Q)| Não teve
+|[E lá vamos nós de novo](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ESqqoghq39RNn7_QRXKcOwgB3d8CoFCPCu--7UQAHCvWeA?e=Th472Q)| Não teve 
+|  | [Link](https://youtu.be/El_cwOEWp14)
+
 
 
 ## Bibliografia
@@ -23,6 +25,7 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| `1.0` |15/04/2022|Atas das reuniões realizadas para a entrega 1| Mylena| Todos
+| `1.0` |15/04/2023|Atas das reuniões realizadas para a entrega 1| Mylena| Todos
+| `1.1` |/05/2023|Atas das reuniões realizadas para a entrega 2| Mylena| Todos
 
 
