@@ -18,8 +18,9 @@ O questionário ficou aberto do dia 23/04/23 a 28/04/23.
 <p align="center"> Fonte: Questionário análise do SimpleNote <br> Autora: Mylena </p>
 
 ### Qual é o seu gênero?
+![pergunta 3](https://user-images.githubusercontent.com/86479209/235512826-5ae350a1-be78-4379-ba01-912b9bd4ccc0.png)
 
-![pergunta 3](https://user-images.githubusercontent.com/86479209/235379906-39b1e5df-7060-4912-8eb1-18c871b9081e.png)
+
 <p align="center"> Fonte: Questionário análise do SimpleNote <br> Autora: Mylena </p>
 
 ###  Qual a sua familiaridade com o aplicativo?
