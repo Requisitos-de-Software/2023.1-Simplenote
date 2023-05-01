@@ -21,7 +21,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <div align="center">
 
-<img src="./img/enzo.png" width="300" height="300">
+<img src="../img/enzo.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
@@ -61,7 +61,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 ### Alicia Kane - Persona primária
 
 <div align="center">
-<img src="./img/alicia.png" width="300" height="300">
+<img src="../img/alicia.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
@@ -101,7 +101,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 ### Valentina Becker - Persona Secundária
 
 <div align="center">
-<img src="./img/valentina.png" width="300" height="300">
+<img src="../img/valentina.png" width="300" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
@@ -140,7 +140,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <div align="center">
 
-<img src="./img/seu-nene.png" width="350" height="300">
+<img src="../img/seu-nene.png" width="350" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
