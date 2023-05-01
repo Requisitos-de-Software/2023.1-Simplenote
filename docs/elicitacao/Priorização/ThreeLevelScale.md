@@ -44,6 +44,11 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |ENT06|O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones|Alta prioridade|
 |ENT07| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação|Alta prioridade|
 |ENT09| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|Média prioridade|
+| ST01 | Escrever notas em conjunto com outros usuários |Baixa prioridade|
+| ST02 | Criar _checklists_ nas notas | Baixa prioridade |
+| ST03 | Compartilhar publicamente as notas | Baixa prioridade |
+| ST04 | Desenhar nas notas | Baixa prioridade |
+| ST06 | Poder baixar uma cópia da nota no dispositivo | Média prioridade |
 
 #### Requisitos não funcionais:
 
@@ -57,8 +62,9 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |GLO03|Ser capaz de ler e editar arquivos de texto de outras fontes|Baixa prioridade|
 |ENT01|O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas| Alta prioridade|
 |ENT08|O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias|Alta prioridade|
-
-
+| ST05 | Ser capaz de usar a aplicação em dispositivos _mobile_ (celulares e tablets) | Alta prioridade |
+| ST07 | Ser capaz de funcionar sem internet | Alta prioridade |
+|QUE01|O sistema deve ser simples e intuitivo|Alta prioridade|
 
 ## Bibliografia
 
