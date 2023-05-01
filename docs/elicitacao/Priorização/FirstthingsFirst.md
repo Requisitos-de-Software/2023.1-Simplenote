@@ -91,7 +91,7 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 | **B14** | O aplicativo deve ser capaz de reconhecer e transcrever a voz dos usuários em notas. | 1 | 1 | 11 | 1,04% | 7 | 2,83% | 8 | 3,33% | 0,17 |
 | **INT17** | O usuario poderia importar ou exportar modelos de layout | 2 | 1 | 5 | 0,47% | 7 | 2,83% | 5 | 2,08% | 0,10 | 
 | Total | *** | 379 | 348 | 1060 | 100,00% | 247 | 100,00% | 240 |100,00%|48.28|
-<figcaption>Tabela 1: Tabela de priorização FTF.</figcaption>
+<p align="center"> Tabela 1: Tabela de priorização FTF <br> Fonte: autores <br> Autores: João e Kauã </p>
 
 ### Legenda:
 - INT: Introspecção
