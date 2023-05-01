@@ -200,6 +200,11 @@ Vídeo 2: Entrevista 2. Fonte: Autor (2023).
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
 </div>
 
+# Bibliografia
+
+[1] VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+
+
 
 ### Histórico de versão
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
