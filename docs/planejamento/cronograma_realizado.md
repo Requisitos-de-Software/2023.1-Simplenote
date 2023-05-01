@@ -58,10 +58,10 @@ Ele está em constante mudança até a entrega final.
 
 |         Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
 | :-----------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
-|       Casos de uso        |       07/05/2023       | 09/05/2023          | -                    | -            |
-|         Cenários          |       13/05/2023       |    15/05/2023       | -                    | -            |
-|          Léxico           |       07/05/2023       |     09/05/2023      |    -                 | -            |
-| Especificação Suplementar |       13/05/2023       |      15/05/2023     |    -                 |   -          |
+|       Casos de uso        |       07/05/2023       | 09/05/2023          |      Ian             |    Mylena    |
+|         Cenários          |       13/05/2023       |    15/05/2023       |  Mylena e Leonardo   |     Kauã     |
+|          Léxico           |       07/05/2023       |     09/05/2023      |   João e Beatriz     |     Ana      |
+| Especificação Suplementar |       13/05/2023       |      15/05/2023     |     Ana e Kauã       |   Leonardo   |
 | Gravação da apresentação  |       16/05/2023       |       -             | Todos os integrantes |      -       |
 | Ajuste com base nos feedbacks| 03/06/2023          | 06/06/2023          | -                    | -            |
 
