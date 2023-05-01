@@ -11,6 +11,11 @@
 - **Baixa prioridade**: Não são nem importantes, e nem urgentes.</br>
 - **O "quarto quadrante"**: São requisitos que para alguns stakeholders são urgentes, entretanto, não são necessários para atingir a meta de negócio.</br>
 
+## Métodos
+
+Para a análise da priorização, foi utilizado a documentação de Introspecção; Brainstorming; Entrevista; Glossário; Questionário e Storytelling
+Durantes os dias 28/04 e 29/04, ocorreu a elaboração da documentação, que ocorreu de forma síncrona e assíncrona.
+
 ## Resultados
 
 A tabela a seguir mostra os resultados alcançados após a priorização dos requisitos:
@@ -109,6 +114,7 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 - GLO: Glossário
 
 - QUE: Questionário
+
 - ST: Storytelling
 ## Bibliografia
 
