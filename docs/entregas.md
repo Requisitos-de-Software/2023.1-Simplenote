@@ -39,8 +39,10 @@ Na segunda release buscou-se cobrir a parte de planejamento, as técnicas e a pr
  
 
 ## Histórico de versão
+
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
 | `1.0`|17/04/2022|Entrega 1| Mylena| Todos
 | `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
+
 
