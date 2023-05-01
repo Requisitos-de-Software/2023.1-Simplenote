@@ -187,7 +187,7 @@ Vídeo 2: Entrevista 2. Fonte: Autor (2023).
 
 | Identificador | Requisito                                                                                                                                                                | Tipo |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| ENT01         | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                 | RF   |
+| ENT01         | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                 | RNF   |
 | ENT02         | O aplicativo deve permitir a sincronização das notas em tempo real em diferentes dispositivos                                                                            | RF   |
 | ENT03         | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização                                                                                  | RF   |
 | ENT04         | O aplicativo deve possuir um editor de texto avançado para permitir a utilização da função `toggle`                                                                      | RF   |
