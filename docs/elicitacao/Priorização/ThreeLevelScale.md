@@ -67,8 +67,9 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 | B16|O aplicativo deve permitir que os usuários criem notas com lembretes de data e hora para ajudá-los a acompanhar compromissos ou tarefas importantes.|Baixa prioridade|
 | B17|O usuário deve ser notificado de tarefas ou compromissos importantes ou quando há alterações em notas compartilhadas.|Média prioridade|
 | B18|O aplicativo deve manter um histórico de versão de notas, permitindo que os usuários voltem para versões anteriores de suas notas.|Quarto quadrante|
-<figcaption>Tabela 1: Tabela de priorização TLE para os requisitos funcionais.</figcaption>
-</br>
+<p align="center"> Tabela 1: Tabela de priorização TLE para os requisitos funcionais <br> Fonte: autores <br> Autores: João e Kauã </p>
+
+
 
 #### Requisitos não funcionais:
 
@@ -94,8 +95,8 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 |B25|O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|Alta prioridade|
 |B26|O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.|Média prioridade|
 |B27|O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.|Alta prioridade|
-<figcaption>Tabela 2: Tabela de priorização TLE para os requisitos não funcionais.</figcaption>
-</br>
+
+<p align="center"> Tabela 2: Tabela de priorização TLE para os requisitos não funcionais <br> Fonte: autores <br> Autores: João e Kauã </p>
 
 ### Legenda:
 
