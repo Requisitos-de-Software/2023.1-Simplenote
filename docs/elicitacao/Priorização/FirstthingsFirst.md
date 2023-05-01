@@ -99,6 +99,7 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 - ENT: Entrevista
 - GLO: Glossário
 - QUE: Questionário
+- ST: Storytelling
 
 
 ## Bibliografia
