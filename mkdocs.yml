@@ -20,6 +20,7 @@ theme:
   - navigation.tabs.sticky
   - navigation.footer
 
+
   palette:
   # Palette toggle for light mode
   - scheme: default
@@ -68,6 +69,7 @@ nav:
     - Glossário: elicitacao/glossario.md
     - Entrevista: elicitacao/entrevista.md
     - Brainstorm: elicitacao/brainstorming.md
+
   - Priorização:
     - MosCoW: elicitacao/Priorização/MoScoW.md
     - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
