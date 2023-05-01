@@ -53,7 +53,7 @@ Participantes:
 | B17 (RF17) | o usuário deve ser notificado de tarefas ou compromissos importantes ou quando há alterações em notas compartilhadas.|
 | B18 (RF18) | o aplicativo deve manter um histórico de versão de notas, permitindo que os usuários voltem para versões anteriores de suas notas.|
 <div style="text-align: center">
-<p>Fonte: Ian da Costa</p>
+<p style="text-align: center">Fonte: Ian da Costa</p>
 </div>
 
 ### 5.2 Requisitos Não-Funcionais
@@ -74,7 +74,7 @@ Participantes:
 |     B26 (RNF08)     | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.|
 |     B27 (RNF09)     | o aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.|
 <div style="text-align: center">
-<p>Fonte: Ian da Costa</p>
+<p style="text-align: center">Fonte: Ian da Costa</p>
 </div>
 
 
