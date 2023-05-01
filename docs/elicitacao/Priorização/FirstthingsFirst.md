@@ -4,6 +4,7 @@
 
 First things First ou FTF é uma técnica de priorização que busca entender os riscos, custos e o valor de cada requisito para um produto, avaliando-os através de pesos para chegar em uma lista de prioridade.
 
+
 ## Passo a passo
 
 1. Listar todos os requisitos, se um requisito A se liga com um requisito B, deve-se levar em conta apenas o A.
@@ -14,6 +15,11 @@ First things First ou FTF é uma técnica de priorização que busca entender os
 6. Estimar o risco da implementação de um requisito.
 7. Calcular a prioridade dos requisitos com: prioridade = valor % / (custo % * peso_custo + risco % * peso_risco)
 8. Ordenar a lista de forma decrescente de prioridade. Os requisitos do topo tem maior prioridade de implementação. Os stakeholders devem ter acesso a mesma.
+
+## Métodos
+
+Para a análise da priorização, foi utilizado a documentação de Introspecção; Brainstorming; Entrevista; Glossário; Questionário; Storytelling.
+Durantes os dias 28/04 e 29/04, ocorreu a elaboração da documentação, que ocorreu de forma síncrona e assíncrona.
 
 ## Resultados
 
