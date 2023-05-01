@@ -33,7 +33,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF09  |     O usuário deve poder criar uma conta e fazer login     |  Entrevista  |
 | RF10  | O sistema deve permitir a exportação e importação de notas |   Persona    |
 | RF11  |        O usuário deve poder criar notas com imagens        |   Persona    |
-
+<p align="center"> Tabela 1: Must have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
 
 ## Should Have
@@ -49,7 +49,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF18  |     O usuário deveria poder definir cores para suas tags      |  Entrevista  |
 | RNF19 |   O sistema deveria ser otimizado para dispositivos móveis    |   Persona    |
 | RF20  | O usuário deveria poder compartilhar notas com outras pessoas |   Persona    |
-
+<p align="center"> Tabela 2: Should have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
 
 ## Could Have
@@ -64,7 +64,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF26  |   O usuário poderia definir um lembrete para suas notas    |      --      |
 | RNF27 |   O sistema poderia fornecer estatísticas sobre as notas   |      --      |
 | RNF28 | O sistema poderia oferecer sugestões de notas relacionadas |      --      |
-
+<p align="center"> Tabela 3: Could have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
 ## Won't Have
 
@@ -72,7 +72,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | :---: | :-------------------------------------------------------------------------------: | :--------: |
 | RF29  |            O usuario não terá como criar espaços de anotação em equipe            |     --     |
 | RF30  | O usuario não terá como mudar cor, fonte e tamanho da letra sem utilizar markdown |     --     |
-
+<p align="center"> Tabela 3: Won't have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
 # Legenda
 
