@@ -97,6 +97,18 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 <figcaption>Tabela 2: Tabela de priorização TLE para os requisitos não funcionais.</figcaption>
 </br>
 
+### Legenda:
+
+- INT: Introspecção
+
+- B: Brainstorming
+
+- ENT: Entrevista
+
+- GLO: Glossário
+
+- QUE: Questionário
+- ST: Storytelling
 ## Bibliografia
 
 [1] https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf
