@@ -9,11 +9,13 @@ Neste documento, temos a exposição das personas criadas pelo grupo. Esta técn
 ## Perfil de Usuário
 Para que sejam definidas as personas, primeiramente é necessário definir o perfil de usuário. Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).
 
-Com base nas informações obtidas por meio da técnica de coleta de dados por questionário, é factível criar perfis de usuários que compartilham características similares.
+Com base nas informações obtidas por meio da técnica de coleta de dados por [questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/), é factível criar perfis de usuários que compartilham características similares.
 
 Perfil de usuário:
 
 Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino médio, ensino superior ou têm ambos completos. Eles estão em busca de soluções para organizar suas rotinas e aumentar sua produtividade nos estudos ou no trabalho.
+
+
 
 ## Personas
 
