@@ -49,6 +49,24 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 | ST03 | Compartilhar publicamente as notas | Baixa prioridade |
 | ST04 | Desenhar nas notas | Baixa prioridade |
 | ST06 | Poder baixar uma cópia da nota no dispositivo | Média prioridade |
+| B01|O aplicativo deve permitir ao usuário criar uma nova nota com título e conteúdo.|Alta prioridade|
+| B02|O usuário deve ser capaz de editar o título e o conteúdo de uma nota existente.|Alta prioridade|
+| B03|O aplicativo deve permitir ao usuário excluir notas existentes.|Alta prioridade|
+| B04| O usuário deve ser capaz de organizar suas notas em ordem data de criação, alfabética, etc.|Média prioridade|
+| B05| O usuário deve ser capaz de pesquisar notas por palavra-chave ou tag.|Média prioridade|
+| B06|O aplicativo deve permitir a sincronização de notas entre diferentes dispositivos do usuário.| Média prioridade|
+| B07|O usuário deve ser capaz de compartilhar notas com outras pessoas por meio de diferentes plataformas.|Média prioridade|
+| B08|O aplicativo deve fornecer opções de segurança, como senha ou autenticação biométrica, para proteger as notas do usuário.|Média prioridade|
+| B09|O aplicativo deve permitir ao usuário formatar o texto das notas, como fonte, tamanho, cor, estilo e alinhamento.|Baixa prioridade|
+| B10|O usuário deve ser capaz de anexar arquivos, imagens, áudios ou vídeos às notas.| Média prioridade|
+| B11|O aplicativo deve fornecer uma opção de modo escuro para reduzir o cansaço visual em ambientes com pouca iluminação.|Baixa prioridade|
+| B12|Os usuários devem poder exportar suas notas em diferentes formatos, como PDF ou Word, para uso posterior fora do aplicativo.|Quarto quadrante|
+| B13|O aplicativo deve ser capaz de enviar notificações aos usuários para lembrá-los de tarefas ou compromissos importantes|Baixa prioridade|
+| B14|O aplicativo deve ser capaz de reconhecer e transcrever a voz dos usuários em notas.|Baixa prioridade|
+| B15|O aplicativo deve permitir que os usuários trabalhem em notas simultaneamente, com alterações sendo exibidas em tempo real.|Baixa prioridade|
+| B16|O aplicativo deve permitir que os usuários criem notas com lembretes de data e hora para ajudá-los a acompanhar compromissos ou tarefas importantes.|Baixa prioridade|
+| B17|O usuário deve ser notificado de tarefas ou compromissos importantes ou quando há alterações em notas compartilhadas.|Média prioridade|
+| B18|O aplicativo deve manter um histórico de versão de notas, permitindo que os usuários voltem para versões anteriores de suas notas.|Quarto quadrante|
 
 #### Requisitos não funcionais:
 
@@ -65,6 +83,16 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 | ST05 | Ser capaz de usar a aplicação em dispositivos _mobile_ (celulares e tablets) | Alta prioridade |
 | ST07 | Ser capaz de funcionar sem internet | Alta prioridade |
 |QUE01|O sistema deve ser simples e intuitivo|Alta prioridade|
+|B19|O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.|Alta prioridade|
+|B20|O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.|Alta prioridade|
+|B21|O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.|Alta prioridade|
+|B22|O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.|Alta prioridade|
+|B23|O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.|Média prioridade|
+|B24|O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.|Alta prioridade|
+|B25|O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|Alta prioridade|
+|B26|O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.|Média prioridade|
+|B27|O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.|Alta prioridade|
+
 
 ## Bibliografia
 
@@ -73,5 +101,6 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 28/04/2023 | Inicialização do documento | Kauã e João | Mylena |
-| 1.1 |28/04/2023| Adicionando requisitos e suas prioridades |Kauã e João|Mylena|
+| 1.0 | 28/04/2023 | Inicialização do documento | Kauã | Mylena |
+| 1.1 |28/04/2023| Adicionando requisitos e suas prioridades |Kauã |Mylena|
+|1.2|01/05/2023|Finalizando o documento|Kauã|Mylena|
