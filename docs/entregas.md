@@ -27,10 +27,14 @@ Na segunda release buscou-se cobrir a parte de planejamento, as técnicas e a pr
 - StoryTelling
 - Introspecção
 - Entrevista
+- Brainstorming
 - MoScoW
 - First things first
 - Escala de três níveis
 - Glossário
+
+
+ MoSCow
 ### 🔗 Links
 [Gravação]()
 
