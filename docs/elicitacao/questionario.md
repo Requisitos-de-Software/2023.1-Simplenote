@@ -59,9 +59,10 @@ Com base nas respostas, podemos definir o público alvo como pessoas de 17 a 59 
 
 
 
-## 8.Referências Bibliográficas
+## Referências Bibliográficas
 
 [1] Elicitação de requisitos, Questionario. Disponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/questionario/
+
 [2] Repositório: https://github.com/Requisitos-de-Software/2019.2-Waze
 
 ## Histórico de Versões
