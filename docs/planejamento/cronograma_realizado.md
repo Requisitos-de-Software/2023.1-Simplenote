@@ -72,7 +72,7 @@ Ele está em constante mudança até a entrega final.
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |          Autor(es)           |     Revisor(es)      |
 | :----------------------: | :--------------------: | :-----------------: | :--------------------------: | :------------------: |
-|   Histórias de Usuário   |      17/05/2023        |     19/05/2023      | K-                           |      -               | 
+|   Histórias de Usuário   |      17/05/2023        |     19/05/2023      | -                           |      -               | 
 |         Backlog          |       20/05/2023       |     22/05/2023      |     -                        |    -                 |
 |      NFR Framework       |       20/05/2023       |     22/05/2023      |          -                   |      -               |
 | Gravação da apresentação |       23/05/2023       |          -          |     Todos os integrantes     |          -           |
