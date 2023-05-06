@@ -49,7 +49,7 @@ O acrônimo "+" se refere à :
 |  GLO03  |       Ser capaz de ler e editar arquivos de texto de outras fontes||
 
 ## Bibliografia
-[1] https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf
+[1] https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf </br>
 [2] https://qualidadebr.wordpress.com/2008/07/10/furps/
 
 ## Histórico de versão
