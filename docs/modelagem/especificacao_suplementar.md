@@ -26,27 +26,22 @@ Avalia a interface com o usuário, podemos tratar a prevenção de erros, estét
 ### Suportabilidade
 
 ## Especificação suplementar
-|    ID    |                                Requisito                                                 |Categoria|
-|----------|------------------------------------------------------------------------------------------|---------------|
-|  RF01    | Fazer anotação                                                                           ||
-|  RF02    | Excluir anotação                                                                         ||
-|  RF03    | Visualizar anotações                                                                     ||
-|  RF04    | Criar nova nota com título e conteúdo                                                    ||
-|  RF05    | Editar título e conteúdo de nota existente                                               ||
-|  RNF01   | O aplicativo salvará a nota em até 1 segundo                                             ||
-|  RNF02   | Ser capaz de funcionar sem internet                                                      ||
-|  RF06    | O usuário poderia separar suas notas em pastas                                           ||
-|  RF07    | O usuário deve poder usar Markdown                                                       ||
-|  RF08    | O usuário deve poder buscar notas por palavras-chave                                     ||
-|  RNF03   | O usuário deve poder sincronizar notas                                                   ||
-|  RF09    | O usuário deve poder criar uma conta e fazer login                                       ||
-|  RF10    | O usuário deveria poder recuperar anotação excluida                                      ||
-|  RF11    | O usuário deve ser capaz de anexar imagens                                               ||
-|  RF12    | O usuário deveria poder pesquisar por suas anotações                                     ||
-|  RNF04   | O aplicativo deveria ser compatível com dispositivos móveis e outras plataformas         ||
-|  RNF05   | O sistema deveria permitir a salvamento automática                                       |U|
-|  RF013   | O usuário deveria poder compartilhar notas com outras pessoas                            |U|
-|  RF014   | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização  |U|
+|    ID    |                                Requisito                                                  |Categoria|
+|----------|--------------------------------------------------------------------------------------------|--------------|
+|  INT07   |       O aplicativo salvará a nota em até 1 segundo                                       ||  
+|  INT09   |       O aplicativo abrirá em um tempo limite de até 2 segundos                           ||    
+|  INT010  |       Deve ser possível fazer notas sem internet                                         ||  
+|  B19     |       O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.      ||
+|  B20     |       O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.||
+|  B21     |
+|  B22     |
+|  B23     |
+|  B24     |
+|  B25     |
+|  B26     |
+|  B27     |
+|
+
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf
