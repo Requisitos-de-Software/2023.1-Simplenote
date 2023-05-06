@@ -10,6 +10,7 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
   - Confiabilidade;
   - Performance;
   - Suportabilidade;
+  - +;
 
 ## Definições da especificação suplementar
 ### Funcionalidade
