@@ -8,9 +8,10 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
 
 ## Definições da especificação suplementar
 ### Funcionalidade
-
+Representa os aspectos funcionais do software, aqui, temos diversos subtópicos que variam de acordo com a aplicação.
 
 ### Usabilidade
+Avalia a interface com o usuário, podemos tratar a prevenção de erros, estética, design, documentação, consistências e padrões.
 
 ### Confiabilidade
 
@@ -20,6 +21,7 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf
+[2] https://qualidadebr.wordpress.com/2008/07/10/furps/
 
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
