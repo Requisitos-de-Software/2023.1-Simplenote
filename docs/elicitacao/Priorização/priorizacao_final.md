@@ -36,6 +36,7 @@ Depois dessa seleção, fez-se uma comparação com os escolhidos, para determin
 |  RF014   | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização  |
 
 <p align="center"> Tabela 1: Requisitos prioritários <br>  Autora: Mylena </p>
+
 ### Legenda
 - RF: Requisito funcional
 - RNF: Requisito não funcional
