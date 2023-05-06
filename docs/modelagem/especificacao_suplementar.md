@@ -10,7 +10,6 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
   - Confiabilidade;
   - Performance;
   - Suportabilidade;
-  - +;
 
 ## Definições da especificação suplementar
 ### Funcionalidade
@@ -26,11 +25,6 @@ Avalia a interface com o usuário, podemos tratar a prevenção de erros, estét
 
 ### Suportabilidade
 
-### +
-O acrônimo "+" se refere à :
-- Requisitos de design: Linguagens de programação, processo de software, uso de ferramentas de desenvolvimento, biblioteca de classes, etc.
-- Requisitos de implementação: Se restringem ao código ou algo do sistema.
-
 ## Especificação suplementar
 |    ID    |                                Requisito                                                   |Categoria|
 |----------|--------------------------------------------------------------------------------------------|--------------|
@@ -44,7 +38,7 @@ O acrônimo "+" se refere à :
 |  B24    |       O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.||
 |  B25    |       O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|U|
 |  B26    |       O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.||
-|  B27    |       O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.|+|
+|  B27    |       O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.||
 |  ENT01  |       O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas|U|
 |  ENT09  |       O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo||
 |  GLO03  |       Ser capaz de ler e editar arquivos de texto de outras fontes||
