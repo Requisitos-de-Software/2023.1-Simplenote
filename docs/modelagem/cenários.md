@@ -37,7 +37,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário quer escrever uma nota <br> - Usuário clica em "Nova nota" <br> - Usuário digita um texto |
 | Restrições | - Usuário não encontrar o botão "Nova nota” |
-| Exceção    | Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando                                       |
+| Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando                                       |
 <p > Tabela 2: Cenário 01 <br> Autora: Mylena</p>
 
 ### C02- Excluir uma nota
@@ -49,7 +49,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Na escola <br> - Tempo: Semana de prova |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
-| Episódios  | - Usuário quer apagar uma nota <br> - Usuário clica na nota que deseja apagar <br> - Usuário clica no menu da nota (...) <br> - Usuário clica no botãp "mover para a lixeira" |
+| Episódios  | - Usuário quer apagar uma nota <br> - Usuário clica na nota que deseja apagar <br> - Usuário clica no menu da nota (...) <br> - Usuário clica no botão "mover para a lixeira" |
 | Restrições | - Usuário não encontrar a nota que deseja apagar <br> - Usuário não encontrar o menu da nota botão <br> - Usuário não achar o botão de apagar |
 | Exceção    | Sem nota para apagar <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
 <p> Tabela 3: Cenário 02 <br> Autora: Mylena</p>
@@ -93,7 +93,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário cria uma nova nota <br> - Usuário adiciona as "tags" na nota escritaprocura pela nota   |
 | Restrições | - Usuário não criar uma nota <br>   |
-| Exceção    | Não ter criar uma tag <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
+| Exceção    | - Não ter criar uma tag <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
 <p> Tabela 6: Cenário 05 <br> Autora: Mylena</p>
 
 ### C06- O usuário deve poder usar Markdown
@@ -107,7 +107,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário cria uma nova nota <br> - Usuário clica no menun da nota (...) <br> - Usuário clica no botão de acionar o markdown <br> - Usuário digita utilizando as formatações de markdowm <br> - Usuário arrasta a tela para o lado e observa a nota em markdown   |
 | Restrições | - Usuário não criar uma nota <br>   |
-| Exceção    | Não ter criar uma tag <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
+| Exceção    | - Não ter criar uma tag <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
 <p align="center"> Tabela 7: Cenário 06 <br> Autora: Mylena</p>
 
 ### C07- O usuário deve poder buscar notas por palavras-chave
