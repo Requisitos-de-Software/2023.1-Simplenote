@@ -75,12 +75,18 @@ nav:
     - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
     - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
 
+- Modelagem:
+  #- Léxicos: modelagem/lexicos.md
+  #- Cenários: modelagem/cenarios.md
+  - Especificação Suplementar: modelagem/especificacao_suplementar.md
+
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
   - Ferramentas: planejamento/ferramentas.md
   - Metodologias: planejamento/metodologias.md
   - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
+  
 - Pré-rastreabilidade:
   - Rich Picture: pré-rastreabilidade/rich_picture.md
   - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
