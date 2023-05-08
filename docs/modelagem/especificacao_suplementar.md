@@ -24,7 +24,7 @@ Os requisitos funcionais podem ser encontrados nos [casos de uso]().
 - Recursos.
 - Segurança.
 - Conjunto de recursos.
-  
+
 ### Usabilidade
 
 Avalia a interface com o usuário, podemos tratar a prevenção de erros, estética, design, documentação, consistências e padrões.
@@ -80,22 +80,20 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 
 | ID    | Requisito                                                                                                                                                                    | Categoria |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| INT07 | O aplicativo salvará a nota em até 1 segundo                                                                                                                                 |           |
-| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos                                                                                                                     |           |
+| INT07 | O aplicativo salvará a nota em até 1 segundo                                                                                                                                 | P         |
+| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos                                                                                                                     | P         |
 | INT10 | Deve ser possível fazer notas sem internet                                                                                                                                   | U         |
-| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.                                                                                                | U         |
+| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.                                                                                                | C         |
 | B20   | O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.                                                                                          | U         |
-| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.                                   |           |
-| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.                            |           |
-| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. |           |
+| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.                                   | S         |
+| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.                            | S         |
+| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | P         |
 | B25   | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.                                            | U         |
-| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.                                                           |           |
-| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.                                                                                |           |
+| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.                                                           | P         |
+| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.                                                                                | S         |
 | ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                     | U         |
-| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     |           |
-| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes                                                                                                                 |           |
-
-Tabela 1 - Resultado da especificação suplementar
+| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         |
+| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes                                                                                                                 | U         |
 
 ## Bibliografia
 
@@ -108,3 +106,4 @@ Tabela 1 - Resultado da especificação suplementar
 | ------ | ---------- | --------------------------------- | ---------- | ----------- |
 | `1.0`  | 03/05/2023 | Criação do documento              | Ana e Kauã | Leonardo    |
 | `1.1`  | 06/05/2023 | Adição de informações e do quadro | Ana e Kauã | Leonardo    |
+| `1.2`  | 08/05/2023 | Finalizando documento             | Ana e Kauã | Leonardo    |
