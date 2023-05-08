@@ -7,11 +7,11 @@ Para essas descrições, são aplicados os princípios da circularidade e do voc
 
 ## Modelo de Léxico
 Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seguir temos um exemplo de léxico:
-
+<p>
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
-
+</p>
  <p align="center"> Tabela 1: Modelo de Léxico <br> Autores: João e Beatriz</p>
 
 ## Descrição dos Léxicos
@@ -19,7 +19,52 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 | --- | --- | --- | --- | --- |
-| Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
+| Editar nota  | Alterar anotação  | Capacidade do usuário alterar o texto inserido na nota  | Altera informações contidas nas anotações  | Verbo |
+
+ <p align="center"> Tabela 2 <br> Autor: Beatriz</p>
+
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Fixar | cravar, colar, espetar  |  Fixar anotação |  O usuario pode fixar suas anotações no topo | Verbo |
+
+ <p align="center"> Tabela 3 <br> Autora: Beatriz</p>
+
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Tag  |  Etiqueta, rótulo | Colocar tags  |  O usuario pode dividir suas anotações por tags | Objeto |
+
+ <p align="center"> Tabela 4 <br> Autora: Beatriz</p> 
+ 
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Historico  | Antecedentes |  Olhar historico |  O usuario pode ver o historico de suas anotações | Objeto |
+
+ <p align="center"> Tabela 5 <br> Autora: Beatriz</p> 
+
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Criar  | Adicionar  | Ação de criar uma nova nota  | Permite a criação de notas  | Verbo |
+
+ <p align="center"> Tabela 6 <br> Autora: Ana Beatriz</p>
+ 
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Pesquisar  | Procurar, buscar  | Procurar por uma nota já escrita  | O usuário pode pesquisar por tirulo de notas ou tags  | Verbo |
+
+ <p align="center"> Tabela 7 <br> Autora: Mylena</p>
+ 
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Lixo  | Deletados, jogadas fora  | O usuario pode encontrar notas que foram deletadas  | O usuário pode restaurar notas que foram apagadas por engano ou apagar elas por definitivo | Objeto |
+
+ <p align="center"> Tabela 8 <br> Autora: Mylena</p>
+ 
+| Léxico | Sinônimo | Noção | Impacto | Classificação |
+| --- | --- | --- | --- | --- |
+| Coladoradores  | Ajudantes, amigos  | Pessoa adicionada pelo usuário para contribuir com alguma nota  | Ajudar o proprietário da nota com anotações, sugestões úteis  | Estado |
+
+ <p align="center"> Tabela 9 <br> Autor: Mylena</p>
+ 
 
 ## Bibliografia
 
