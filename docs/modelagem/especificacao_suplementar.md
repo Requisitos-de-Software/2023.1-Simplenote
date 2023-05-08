@@ -19,7 +19,7 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
 ### Funcionalidade
 
 Representa os aspectos funcionais do software, aqui, temos diversos subtópicos que variam de acordo com a aplicação.</br>
-Os requisitos funcionais podem ser encontrados nos [casos de uso]().
+Os requisitos funcionais podem ser encontrados nos [casos de uso](https://github.com/Requisitos-de-Software/2023.1-Simplenote/tree/main/docs/modelagem/casos_de_uso.md).
 
 - Recursos.
 - Segurança.
@@ -94,6 +94,9 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 | ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                     | U         |
 | ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         |
 | GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes                                                                                                                 | U         |
+
+Tabela 1: Resultado da especificação suplementar.
+Autores: Ana e Kauã
 
 ## Bibliografia
 
