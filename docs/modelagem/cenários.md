@@ -112,11 +112,60 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 
 ### C07- O usuário deve poder buscar notas por palavras-chave
 
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Busca de notas por palavras-chave |
+| Objetivo   | Usuário quer encontrar uma nota específica |
+| Contexto   | - Pré condição: Saber o nome da nota ou texto que ela contém <br> - Local: Escola <br> - Tempo: Aula de Língua Portuguesa |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário digita na barra de busca <br> - O aplicativo lista resultados a medida que o usuário escreve palavras-chaves <br> - Usuário clica na nota que está buscando  |
+| Restrições | - Usuário não criar uma nota <br> - Usuário não saber o conteúdo ou título da nota  |
+| Exceção    | - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
+<p align="center"> Tabela 8: Cenário 07 <br> Autor: Leonardo</p>
+
 ### C08- O usuário deve poder criar uma conta e fazer login
+
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Criar uma conta e fazer login |
+| Objetivo   | Usuário quer criar uma conta para ter acesso ao aplicativo |
+| Contexto   | - Pré condição: Possuir um endereço de email <br> - Local: Em casa <br> - Tempo: Início do período aulas |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário realiza o download do aplicativo <br> - O usuário abre o aplicativo pela primeira vez <br> - Usuário clica no botão Sign Up <br> - Usuário informa o endereço de email que será associado à conta <br> - Usuário recebe um email do aplicativo com link para ativar a conta <br> - Usuário acessa o link no email enviado <br> - Usuário cria uma senha <br> - Usuário clica em criar conta <br> Usuário realiza login na tela inicial |
+| Restrições | - Usuário não receber email do aplicativo <br>   |
+| Exceção    | - Usuário não possui endereço de email <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
+<p align="center"> Tabela 9: Cenário 08 <br> Autor: Leonardo</p>
+
 
 ### C9- O usuário deveria poder recuperar anotação excluída
 
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Recuperar anotações |
+| Objetivo   | Usuário quer recuperar uma nota excluída |
+| Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Revisão para uma prova |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" |
+| Restrições | - Usuário não encontrar nota na lixeira <br> - Usuário ter esvaziado a lixeira antes de recuperar a nota  |
+| Exceção    | - Lixeira vazia <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 10: Cenário 09 <br> Autor: Leonardo</p>
+
 ### C10- O usuário deve ser capaz de anexar imagens
+
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Recuperar anotações |
+| Objetivo   | Usuário quer recuperar uma nota excluída |
+| Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Revisão para uma prova |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" |
+| Restrições | - Usuário não encontrar nota na lixeira <br> - Usuário ter esvaziado a lixeira antes de recuperar a nota  |
+| Exceção    | - Lixeira vazia <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 10: Cenário 09 <br> Autor: Leonardo</p>
 
 ### C11- O usuário deveria poder pesquisar por suas anotações
 
