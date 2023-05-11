@@ -133,7 +133,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Contexto   | - Pré condição: Possuir um endereço de email <br> - Local: Em casa <br> - Tempo: Início do período aulas |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
-| Episódios  | - Usuário realiza o download do aplicativo <br> - O usuário abre o aplicativo pela primeira vez <br> - Usuário clica no botão Sign Up <br> - Usuário informa o endereço de email que será associado à conta <br> - Usuário recebe um email do aplicativo com link para ativar a conta <br> - Usuário acessa o link no email enviado <br> - Usuário cria uma senha <br> - Usuário clica em criar conta <br> Usuário realiza login na tela inicial |
+| Episódios  | - Usuário realiza o download do aplicativo <br> - O usuário abre o aplicativo pela primeira vez <br> - Usuário clica no botão Sign Up <br> - Usuário informa o endereço de email que será associado à conta <br> - Usuário recebe um email do aplicativo com link para ativar a conta <br> - Usuário acessa o link no email enviado <br> - Usuário cria uma senha <br> - Usuário clica em criar conta <br> - Usuário realiza login na tela inicial |
 | Restrições | - Usuário não receber email do aplicativo <br>   |
 | Exceção    | - Usuário não possui endereço de email <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou|
 <p align="center"> Tabela 9: Cenário 08 <br> Autor: Leonardo</p>
@@ -157,21 +157,57 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 
 |  Elemento  |         Descição      |
 |------------|-----------------------|
-| Título     | Recuperar anotações |
-| Objetivo   | Usuário quer recuperar uma nota excluída |
-| Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Revisão para uma prova |
+| Título     | Anexar imagens |
+| Objetivo   | Usuário quer anexar um arquivo de imagem a uma nota |
+| Contexto   | - Pré condição: Criar uma nota e ter um arquivo de imagem no dispositivo <br> - Local: Em um escritório <br> - Tempo: Preparação para uma reunião de trabalho |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
-| Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" |
-| Restrições | - Usuário não encontrar nota na lixeira <br> - Usuário ter esvaziado a lixeira antes de recuperar a nota  |
-| Exceção    | - Lixeira vazia <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
-<p align="center"> Tabela 10: Cenário 09 <br> Autor: Leonardo</p>
+| Episódios  | - Usuário seleciona uma nota <br> - Usuário clica na funcionalidade de anexos <br> - Aplicativo mostra a galeria de imagens <br> - Usuário seleciona arquivo de imagem para anexar <br> - Usuário clica em anexar |
+| Restrições | - Usuário não encontrar nota para anexar imagem <br> - Usuário não encontrar arquivo de imagem para anexar  - Usuário não criar uma nota <br> - Arquivo de imagem incompatível |
+| Exceção    | - Dispositivo sem arquivo de imagem <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 11: Cenário 10 <br> Autor: Leonardo</p>
 
 ### C11- O usuário deveria poder pesquisar por suas anotações
 
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Pesquisar nas anotações |
+| Objetivo   | Usuário quer pesquisar um trecho de texto dentro da anotação |
+| Contexto   | - Pré condição: Criar uma nota, escrever na nota <br> - Local: Na faculdade <br> - Tempo: Estudando para uma prova teórica de programação |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário clica no ícone de pesquisar um trecho de texto <br> - Usuário digita o trecho ou palavra que deseja encontrar <br> - O aplicativo destaca trechos que correspondem à pesquisa <br> - Usuário navega pela nota do início ao fim saltando entre os trechos destacados <br> - Usuário encontra o trecho desejado |
+| Restrições | - Usuário não ter criado uma nota <br> - Usuário selecionar uma nota sem conteúdo  |
+| Exceção    | - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 12: Cenário 11 <br> Autor: Leonardo</p>
+
 ### C012- O usuário deveria poder compartilhar notas com outras pessoas
 
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Compartilhar anotações |
+| Objetivo   | Usuário quer compartilhar notas com outros usuários |
+| Contexto   | - Pré condição: Criar uma nota <br> - Local: Em casa <br> - Tempo: Escrevendo uma pesquisa em grupo |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário seleciona a anotação que deseja compartilhar <br> - Usuário clica na funcionalidade para colaborar <br> - Aplicativo cria uma caixa de texto para digitar um endereço de email <br> - Usuário digita endereço de email do usuário com o qual deseja compartilhar a nota <br> - Aplicativo envia solicitação de colaboração para o endereço de email <br> - Usuário destinatário aceita o pedido de colaboração |
+| Restrições | - Destinatário não possui conta no aplicativo <br> - Usuário não ter criado uma nota <br> - Usuário não sabe o endereço de email de outro usuário |
+| Exceção    | - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 13: Cenário 12 <br> Autor: Leonardo</p>
+
 ### C013- O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização
+
+|  Elemento  |         Descição      |
+|------------|-----------------------|
+| Título     | Colocando etiquetas (tags) nas anotações |
+| Objetivo   | Usuário quer catalogar suas notas com etiquetas |
+| Contexto   | - Pré condição: Criar uma nota, Criar uma etiqueta <br> - Local: Em casa <br> - Tempo: Organizando as notas das disciplinas do semestre |
+| Recursos   | - Celular <br> - Aplicativo                                          |
+| Ator       | Usuário                                                          |
+| Episódios  | - Usuário seleciona a anotação que deseja colocar uma etiqueta <br> - Usuário clica na funcionalidade de colocar uma etiqueta <br> - Usuário seleciona qual etiqueta será atrelada à nota <br> |
+| Restrições | - Usuário não ter criado uma nota <br> - Usuário não ter criado uma etiqueta <br> |
+| Exceção    | - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
+<p align="center"> Tabela 14: Cenário 13 <br> Autor: Leonardo</p>
 
 ## Bibliografia
 
