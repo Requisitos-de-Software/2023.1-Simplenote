@@ -13,7 +13,6 @@ Ian da Costa| [Shopee](https://github.com/Requisitos-de-Software/2023.1-Simpleno
 João Pedro|	[Chess.com](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338081/RichPictureProj01JoaoPedroNobregaFernandes.pdf)
 Kauã Vinícius| [Twitch](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338080/RichPictureTwitchKauaVinicius.pdf)
 Leonardo Gonçalves| 	[Desmos](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11347686/RichPictureProj01LeonardoGoncalvesMachado.pdf)
-
 Mylena Angélica | [Ribon](https://github.com/Requisitos-de-Software/2023.1-Simplenote/files/11338077/RichPictureProj01MylenaAngelica.1.pdf)
 
 ## Escolha do app
