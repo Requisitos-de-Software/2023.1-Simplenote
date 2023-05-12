@@ -76,8 +76,8 @@ nav:
     - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
 
 - Modelagem:
-  #- Léxicos: modelagem/lexicos.md
-  #- Cenários: modelagem/cenarios.md
+  - Léxicos: modelagem/lexico.md
+  - Cenários: modelagem/cenários.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
 - Planejamento:
