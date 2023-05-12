@@ -14,7 +14,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
 |US01|Eu, como usuario, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação|-Poder escrever notas de tamanho variável.|
 |US02|Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação|-Poder visualizar minhas notas na aplicação|
 |US03|Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação|-Poder editar minhas notas|
-|
+
 
 ### Bibliografia
 [1] https://www.atlassian.com/br/agile/project-management/user-stories </br>
