@@ -11,11 +11,11 @@ A equipe se reuniu remotamente através do Google Meet e utilizou um documento e
 </p>
 
 ## Participantes
-Reunião no Google Meet: 30/04/2023 - 20:00hrs
+Reunião no Google Meet: 30/04/2023 - 20:00hrs até 21:30hrs - Duração de 1:30h
 
 Participantes:
 
-- Ian da Costa
+- Mediador: Ian da Costa
 - Gabriel Lobato
 - Ruan Castro
 - Gustavo Martins
