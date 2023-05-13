@@ -63,7 +63,7 @@ Com base nas respostas, podemos definir o público alvo como:
 | Gênero            | Muheres e homens                        |
 | Experiência       | Estão entre intermediário e experiente  |
 | Atitudes          | Tecnófilo                               | 
-| Tarefas primárias | Usuários ocasionais                     |
+| Tarefas primárias | Anotar, Compartilhar notas e fazer trabalhos              |
 
 Para mais informações, verificar a parte de [personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/).
 
