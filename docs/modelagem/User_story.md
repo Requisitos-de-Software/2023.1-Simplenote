@@ -31,7 +31,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: História de Usuário 1.</p>
+      <p> Tabela 1: História de Usuário 1 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -54,7 +54,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 2: História de Usuário 2.</p>
+      <p> Tabela 2: História de Usuário 2 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -77,7 +77,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 3: História de Usuário 3.</p>
+      <p> Tabela 3: História de Usuário 3 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -100,7 +100,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 4: História de Usuário 4.</p>
+      <p> Tabela 4: História de Usuário 4 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -123,7 +123,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 5: História de Usuário 5.</p>
+      <p> Tabela 5: História de Usuário 5 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -148,7 +148,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 6: História de Usuário 6.</p>
+      <p> Tabela 6: História de Usuário 6 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -171,7 +171,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 7: História de Usuário 7.</p>
+      <p> Tabela 7: História de Usuário 7 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -197,7 +197,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 8: História de Usuário 8.</p>
+      <p> Tabela 8: História de Usuário 8 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -220,7 +220,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 9: História de Usuário 9.</p>
+      <p> Tabela 9: História de Usuário 9 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -243,7 +243,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 10: História de Usuário 10.</p>
+      <p> Tabela 10: História de Usuário 10 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -266,7 +266,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 11: História de Usuário 11.</p>
+      <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -290,7 +290,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 12: História de Usuário 12.</p>
+      <p> Tabela 12: História de Usuário 12 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -300,5 +300,5 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| `1.0` |11/05/2023|Criação do documento| Kauã e João | Mylena
-|`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena
+| `1.0` |11/05/2023|Criação do documento| Kauã e João | Mylena |
+|`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena |
