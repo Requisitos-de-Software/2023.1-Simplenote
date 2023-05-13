@@ -184,6 +184,10 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 <p>Fonte: Ian da Costa</p>
 </div>
 
+## Conclusão
+
+Ao coletar dados, é perceptível a existência de mais de um perfil predominante entre os clientes, o que leva à criação de mais de uma persona. Ter muitas personas pode tirar o foco das estratégias e conteúdos. Então, escolhemos uma quantidade pequena de personas, mas com características distintas para que se perceba as diferenças entre elas e não fique sobrecarregado de personas.
+
 ## Bibliografia
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
