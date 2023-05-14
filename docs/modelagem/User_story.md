@@ -1,16 +1,16 @@
 # Histórias de Usuário
 
-### Introdução
-Histórias de usuário são as menores unidades de trabalho de uma estrutura ágil que são escritas a partir da pespectiva de um usuário final. O seu objetivo é articular como uma unica tarefa oferece um valor ao cliente, elas combinam muito bem com metodologias ágeis como Scrum e Kanban.
+## Introdução
+Histórias de usuário são as menores unidades de trabalho de uma estrutura ágil que são escritas a partir da pespectiva de um usuário final. O seu objetivo é articular como uma única tarefa oferece um valor ao cliente, elas combinam muito bem com metodologias ágeis como Scrum e Kanban.
 
-### Metodologia 
+## Metodologia 
 Para escrever as histórias de usuário, devemos ter as seguintes informações:
 - ID
-- História de usuário: Deve conter a estrutura: Eu, como ... desejo ... para que ...
+- História de usuário: Deve conter a estrutura (Eu, como ... desejo ... para que ...)
 - Tema
 - Critérios de aceitação
 
-### Histórias de Usuário
+## Histórias de Usuário
 
 <details>
    <summary>US01</summary>
@@ -26,7 +26,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>-Poder escrever notas de tamanho variável.</td>
+           <td>Poder escrever notas de tamanho variável.</td>
          </tr>
       </tbody>
    </table>
@@ -49,7 +49,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>-Poder visualizar minhas notas na aplicação.</td>
+           <td>Poder visualizar minhas notas na aplicação.</td>
          </tr>
       </tbody>
    </table>
@@ -72,7 +72,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>-Poder editar minhas notas.</td>
+           <td>Poder editar minhas notas.</td>
          </tr>
       </tbody>
    </table>
@@ -95,7 +95,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
            <td>Notas</td>
-           <td>-Ser capaz de recuperar dados deletados.</td>
+           <td>Ser capaz de recuperar dados deletados.</td>
          </tr>
       </tbody>
    </table>
@@ -118,7 +118,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.</td>
            <td>Sistema</td>
-           <td>-Aplicativo oferecer suporte para diversos sistemas operacionais.</td>
+           <td>Aplicativo oferecer suporte para diversos sistemas operacionais.</td>
          </tr>
       </tbody>
    </table>
@@ -166,7 +166,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
            <td>Notas</td>
-           <td>- Ser capaz de excluir as notas.</td>
+           <td>Ser capaz de excluir as notas.</td>
          </tr>
       </tbody>
    </table>
@@ -215,7 +215,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
            <td>Notas</td>
-           <td>- Ser capaz de organizar as notas em pastas.</td>
+           <td>Ser capaz de organizar as notas em pastas.</td>
          </tr>
       </tbody>
    </table>
@@ -238,7 +238,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.</td>
            <td>Notas</td>
-           <td>- Poder escrever em outros formatos como o Latex.</td>
+           <td>Poder escrever em outros formatos como o Latex.</td>
          </tr>
       </tbody>
    </table>
@@ -261,7 +261,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo poder excluir minha nota.</td>
            <td>Notas</td>
-           <td>- Ser capaz de excluir qualquer anotação.</td>
+           <td>Ser capaz de excluir qualquer anotação.</td>
          </tr>
       </tbody>
    </table>
@@ -285,7 +285,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
          <tr>
            <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
            <td>Notas</td>
-           <td>- Poder escrever em Markdown.</td>
+           <td>Poder escrever em Markdown.</td>
          </tr>
       </tbody>
    </table>
