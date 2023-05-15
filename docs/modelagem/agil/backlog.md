@@ -110,6 +110,118 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
    queira.
 </details>
 
+<table>
+    <tr>
+        <th style="text-align: center" colspan=6>
+            <h2>Notas</h2>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: center"> <b> Épico </b></td>
+        <td style="text-align: center"> <b> História de Usuário (US) </b></td>
+        <td style="text-align: center"> <b> ID </b></td>
+        <td style="text-align: center"> <b> Prioridade </b></td>
+        <td style="text-align: center"> <b> Origem </b></td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href="#e01-configuracao-de-partida">E01</a></td>
+        <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver
+            minhas notas na aplicação.</td>
+        <td><a href="../us">US01</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e02-partida-contra-o-computador>E02</a></td>
+        <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.
+        </td>
+        <td><a href="../us">US02</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e03-partida-contra-oponente>E03</a> </td>
+        <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
+        <td><a href="../us">US03</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e05-manual-do-usuario>E04</a> </td>
+        <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
+        <td><a href="../us">US04</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e07-ensinar-xadrez>E07</a> </td>
+        <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
+        <td><a href="../us">US07</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e08-estatisticas-de-partidas>E08</a> </td>
+        <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
+        <td><a href="../us">US08</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+</table>
+
+<div style="text-align: center">
+    <p>
+        Tabela 2: Tema - Notas (Fonte: autor, 2023).
+    </p>
+</div>
+
+#
+<table>
+    <tr>
+        <th style="text-align: center" colspan=6>
+            <h2>Sistema</h2>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: center"> <b> Épico </b></td>
+        <td style="text-align: center"> <b> História de Usuário (US) </b></td>
+        <td style="text-align: center"> <b> ID </b></td>
+        <td style="text-align: center"> <b> Prioridade </b></td>
+        <td style="text-align: center"> <b> Origem </b></td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e05-manual-do-usuario>E05</a> </td>
+        <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto
+            para manipular minhas notas.</td>
+        <td><a href="../us">US05</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e06-estudar-xadrez>E06</a> </td>
+        <!-- Histórias de Usuário (3) -->
+        <td>Eu, como usuário, desejo aprender movimentos de xadrez por meio de tutoriais, para melhorar meu dEu, como
+            usuário, desejo poder enviar e receber notas de múltiplas plataformas.</td>
+        <td><a href="../us">US06</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>...</td>
+    </tr>
+</table>
+
+
+<div style="text-align: center">
+    <p>
+        Tabela 3: Tema - Sistema (Fonte: autor, 2023).
+    </p>
+</div>
 
 ## Referências
 
