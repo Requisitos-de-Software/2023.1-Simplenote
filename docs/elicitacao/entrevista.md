@@ -192,13 +192,13 @@
 
 | Identificador | Requisito                                                                                                                                                                | Tipo |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| ENT01         | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                 | RNF   |
+| ENT01         | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas                                                                                 | RNF  |
 | ENT02         | O aplicativo deve permitir a sincronização das notas em tempo real em diferentes dispositivos                                                                            | RF   |
 | ENT03         | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização                                                                                  | RF   |
 | ENT04         | O aplicativo deve possuir um editor de texto avançado para permitir a utilização da função `toggle`                                                                      | RF   |
 | ENT05         | O aplicativo deve permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail                                                             | RF   |
-| ENT06         | O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones                                                                      | RF   |
-| ENT07         | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação                                                         | RF   |
+| ENT06         | O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones                                                                      | RNF  |
+| ENT07         | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação                                                         | RNF  |
 | ENT08         | O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias                                                                            | RNF  |
 | ENT09         | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo | RNF  |
 <div style="text-align: center">
