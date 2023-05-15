@@ -188,15 +188,15 @@
         <td style="vertical-align: middle; text-align: center"> 30 - 50 anos </td>
         <td> Masculino </td>
         <td> Superior completo </td>
-        <td> Proficional de TI </td>
+        <td> Profissional de TI </td>
         <td> Casado </td>
     </tr>
     <tr>
         <td style="vertical-align: middle; text-align: center"> <b> 2º entrevistado </b></td>
-        <td style="vertical-align: middle; text-align: center"> 30 - 50 anos </td>
+        <td style="vertical-align: middle; text-align: center"> 25 - 30 anos </td>
         <td> Masculino </td>
         <td> Superior completo </td>
-        <td> Proficional de TI </td>
+        <td> Profissional de TI </td>
         <td> Casado </td>
     </tr>
 </table>
