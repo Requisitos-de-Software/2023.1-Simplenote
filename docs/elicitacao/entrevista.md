@@ -47,7 +47,6 @@
 </div>
 
 
-
 <details>
    <summary>Respostas entrevistado 1</summary>
    <table>
@@ -166,6 +165,47 @@
          <h2>Encerramento</h2>
          <p>Ana Beatriz: Muito obrigada por participar da entrevista e pelas suas respostas. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do Simplenote. Encerramos aqui a entrevista. Tenha um ótimo dia!</p>
 </details>
+#
+
+## Dados Demográficos
+
+<table>
+    <tr>
+        <th style="text-align: center" colspan=6>
+            <h2>Dados demográficos dos entrevistados</h2>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: center"> <b> Entrevistatos </b></td>
+        <td style="text-align: center"> <b> Idade </b></td>
+        <td style="text-align: center"> <b> Gênero </b></td>
+        <td style="text-align: center"> <b> Escolaridade </b></td>
+        <td style="text-align: center"> <b> Ocupação </b></td>
+        <td style="text-align: center"> <b> Estado Civil </b></td>
+    </tr>
+    <tr>
+        <td style="vertical-align: middle; text-align: center"> <b> 1º entrevistado </b></td>
+        <td style="vertical-align: middle; text-align: center"> 30 - 50 anos </td>
+        <td> Masculino </td>
+        <td> Superior completo </td>
+        <td> Proficional de TI </td>
+        <td> Casado </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: middle; text-align: center"> <b> 2º entrevistado </b></td>
+        <td style="vertical-align: middle; text-align: center"> 30 - 50 anos </td>
+        <td> Masculino </td>
+        <td> Superior completo </td>
+        <td> Proficional de TI </td>
+        <td> Casado </td>
+    </tr>
+</table>
+
+<div style="text-align: center">
+    <p>
+        Tabela 5: Dados demográficos dos entrevistados (Fonte: autor, 2023).
+    </p>
+</div>
 
 ## Entrevista 1: 
 
