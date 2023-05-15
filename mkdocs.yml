@@ -78,6 +78,7 @@ nav:
 - Modelagem:
   - Léxicos: modelagem/lexico.md
   - Cenários: modelagem/cenários.md
+  - História de Usuário: modelagem/User_story.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
 - Planejamento:
