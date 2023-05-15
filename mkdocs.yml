@@ -79,8 +79,10 @@ nav:
   - Léxicos: modelagem/lexico.md
   - Cenários: modelagem/cenários.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
-  - Backlog: modelagem/agil/backlog.md
-
+  - Modelagem Ágil:
+    #- Histórias de Usuário: modelagem/agil/User_story.md
+    - Backlog: modelagem/agil/backlog.md
+    
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md

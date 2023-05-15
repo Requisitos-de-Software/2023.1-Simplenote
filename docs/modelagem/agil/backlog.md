@@ -35,9 +35,10 @@ Serão apresentados todos os requisitos funcionais elicitados durante o processo
 |     RF17      |                                        Salvamento automático das notas                                        |       [GLO05](../../elicitacao/glossario.md#elicitacao-de-requisitos)        |
 |     RF18      |                        Capacidade de criar no dispositivo um arquivo cópia de uma nota                        |       [GLO06](../../elicitacao/glossario.md#elicitacao-de-requisitos)        |
 |     RF19      |                       Sincronização das notas em tempo real em diferentes dispositivos                        |       [ENT02](../../elicitacao/entrevista.md#elicitacao-de-requisitos)       |
-|     RF20      |                     Permitir a adição de etiquetas nas notas para facilitar a organização                     |        [ENT03](../../elicitacao/entrevista.md#requisitos-elicitados)         |
-|     RF21      |               Possuir um editor de texto avançado para permitir a utilização da função `toggle`               |        [ENT04](../../elicitacao/entrevista.md#requisitos-elicitados)         |
-|     RF22      |          Permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail           |        [ENT05](../../elicitacao/entrevista.md#requisitos-elicitados)         |
+|     RF20      |                     Permitir a adição de etiquetas nas notas para facilitar a organização                     |        [ENT03](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
+|     RF21      |               Possuir um editor de texto avançado para permitir a utilização da função `toggle`               |        [ENT04](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
+|     RF22      |          Permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail           |        [ENT05](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
+|     RF23      |                                     O usuário deve poder editar Anotação                                      | [INT13](../../elicitacao/Introspec%C3%A7%C3%A3o.md#elicitacao-de-requisitos) |
 
 </center>
 
@@ -125,53 +126,53 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href="#e01-configuracao-de-partida">E01</a></td>
+        <td style="vertical-align: middle; text-align: center"> <a href="#epicos">E01</a></td>
         <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver
             minhas notas na aplicação.</td>
-        <td><a href="../us">US01</a></td>
-        <td>Could</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US01</a></td>
+        <td>Must</td>
+        <td><a href=#elicitacao-de-requisitos>RF06</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e02-partida-contra-o-computador>E02</a></td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E02</a></td>
         <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.
         </td>
-        <td><a href="../us">US02</a></td>
-        <td>Could</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US02</a></td>
+        <td>Should</td>
+        <td><a href=#elicitacao-de-requisitos>RF11</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e03-partida-contra-oponente>E03</a> </td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E03</a> </td>
         <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
-        <td><a href="../us">US03</a></td>
-        <td>Would</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US03</a></td>
+        <td>Should</td>
+        <td><a href=#elicitacao-de-requisitos>RF23</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e05-manual-do-usuario>E04</a> </td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E04</a> </td>
         <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
-        <td><a href="../us">US04</a></td>
-        <td>Could</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US04</a></td>
+        <td>Should</td>
+        <td><a href=#elicitacao-de-requisitos>RF08</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e07-ensinar-xadrez>E07</a> </td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E07</a> </td>
         <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
-        <td><a href="../us">US07</a></td>
-        <td>Would</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US07</a></td>
+        <td>Must</td>
+        <td><a href=#elicitacao-de-requisitos>RF07</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e08-estatisticas-de-partidas>E08</a> </td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E08</a> </td>
         <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
-        <td><a href="../us">US08</a></td>
-        <td>Could</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td><a href="../User_story.md">US08</a></td>
+        <td>Could-Tags<br>Should-Filtrar</td>
+        <td><a href=#elicitacao-de-requisitos>RF20</td>
     </tr>
 </table>
 
@@ -182,6 +183,7 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
 </div>
 
 #
+
 <table>
     <tr>
         <th style="text-align: center" colspan=6>
@@ -197,25 +199,22 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e05-manual-do-usuario>E05</a> </td>
-        <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto
-            para manipular minhas notas.</td>
-        <td><a href="../us">US05</a></td>
-        <td>Could</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E05</a> </td>
+        <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.</td>
+        <td><a href="../User_story.md">US05</a></td>
+        <td>Must</td>
+        <td><a href=#elicitacao-de-requisitos>RF19</td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#e06-estudar-xadrez>E06</a> </td>
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E06</a> </td>
         <!-- Histórias de Usuário (3) -->
-        <td>Eu, como usuário, desejo aprender movimentos de xadrez por meio de tutoriais, para melhorar meu dEu, como
-            usuário, desejo poder enviar e receber notas de múltiplas plataformas.</td>
-        <td><a href="../us">US06</a></td>
-        <td>Must</td>
-        <td><a href=#requisitos-elicitados>...</td>
+        <td>Eu, como usuário, desejo poder enviar e receber notas de múltiplas plataformas.</td>
+        <td><a href="../User_story.md">US06</a></td>
+        <td>Could</td>
+        <td><a href=#elicitacao-de-requisitos>RF09</td>
     </tr>
 </table>
-
 
 <div style="text-align: center">
     <p>
