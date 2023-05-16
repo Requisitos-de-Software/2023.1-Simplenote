@@ -14,9 +14,11 @@ são os menos importantes e podem ser descartados.
 
 ## Metodologia
 
-<p>
 A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotamente, através do Discord, para discutir o levantamento dos requisitos obtidos por meio das técnicas aplicadas. Durante a discussão, foi avaliada a importância de cada requisito e decidimos onde eles se encaixariam melhor no contexto do projeto. É válido ressaltar que a decisão foi baseada em personas, storytelling e introspecção, sem a influência de usuários reais.
-</p>
+
+- Data: 28 de abril de 2023 e 29 de abril de 2023
+- Horário: 10:00 e 20:30
+- Local: Campus FGA - UnB e Discord
 
 ## Must Have
 

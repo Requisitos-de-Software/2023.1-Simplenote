@@ -19,7 +19,10 @@ First things First ou FTF é uma técnica de priorização que busca entender os
 ## Métodos
 
 Para a análise da priorização, foi utilizado a documentação de Introspecção; Brainstorming; Entrevista; Glossário; Questionário; Storytelling.
-Durantes os dias 28/04 e 29/04, ocorreu a elaboração da documentação, que ocorreu de forma síncrona e assíncrona.
+
+- Data: 28 de abril de 2023 e 29 de abril de 2023
+- Horário: 10:00 e 20:30
+- Local: Campus FGA - UnB e Discord
 
 ## Resultados
 

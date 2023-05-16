@@ -16,6 +16,10 @@
 Para a análise da priorização, foi utilizado a documentação de Introspecção; Brainstorming; Entrevista; Glossário; Questionário e Storytelling
 Durantes os dias 28/04 e 29/04, ocorreu a elaboração da documentação, que ocorreu de forma síncrona e assíncrona.
 
+- Data: 28 de abril de 2023 e 29 de abril de 2023
+- Horário: 10:00 e 20:30
+- Local: Campus FGA - UnB e Discord
+
 ## Resultados
 
 A tabela a seguir mostra os resultados alcançados após a priorização dos requisitos:
@@ -121,8 +125,9 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 [1] https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 28/04/2023 | Inicialização do documento | Kauã | Mylena |
-| 1.1 |28/04/2023| Adicionando requisitos e suas prioridades |Kauã |Mylena|
-|1.2|01/05/2023|Finalizando o documento|Kauã|Mylena|
+
+| Versão |    Data    |                 Descrição                 | Autor | Revisor |
+| :----: | :--------: | :---------------------------------------: | :---: | :-----: |
+|  1.0   | 28/04/2023 |        Inicialização do documento         | Kauã  | Mylena  |
+|  1.1   | 28/04/2023 | Adicionando requisitos e suas prioridades | Kauã  | Mylena  |
+|  1.2   | 01/05/2023 |          Finalizando o documento          | Kauã  | Mylena  |
