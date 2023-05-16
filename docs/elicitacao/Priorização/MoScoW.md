@@ -20,6 +20,8 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 - Horário: 10:00 e 20:30
 - Local: Campus FGA - UnB e Discord
 
+<center>
+
 ## Must Have
 
 | Tipo  |                         Requisito                          |  Elicitação  |
@@ -76,11 +78,12 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | RF30  | O usuario não terá como mudar cor, fonte e tamanho da letra sem utilizar markdown |     --     |
 <p align="center"> Tabela 3: Won't have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
+</center>
+
 # Legenda
 
  - RF: Requisito funcional
  - RNF: Requisito não funcional
-  
 
   
 # Bibliografia
@@ -94,3 +97,5 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | `1.0`  | 26/04/2022 | Instrospecção                 | Beatriz e Ana Beatriz | Mylena      |
 | `1.1`  | 28/04/2022 | Adicionando alguns requisitos | Beatriz e Ana Beatriz | Mylena      |
 | `1.2`  | 29/04/2023 | Finalizando requisitos        | Beatriz e Ana Beatriz | Mylena      |
+| `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2   | Ana Beatriz           | Mylena      |
+

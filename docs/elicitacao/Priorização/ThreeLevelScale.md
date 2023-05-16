@@ -126,8 +126,9 @@ A tabela a seguir mostra os resultados alcançados após a priorização dos req
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                 | Autor | Revisor |
-| :----: | :--------: | :---------------------------------------: | :---: | :-----: |
-|  1.0   | 28/04/2023 |        Inicialização do documento         | Kauã  | Mylena  |
-|  1.1   | 28/04/2023 | Adicionando requisitos e suas prioridades | Kauã  | Mylena  |
-|  1.2   | 01/05/2023 |          Finalizando o documento          | Kauã  | Mylena  |
+| Versão |    Data    |                 Descrição                 | Autor       | Revisor |
+| :----: | :--------: | :---------------------------------------: | :---------: | :-----: |
+|  `1.0` | 28/04/2023 |        Inicialização do documento         | Kauã        | Mylena  |
+|  `1.1` | 28/04/2023 | Adicionando requisitos e suas prioridades | Kauã        | Mylena  |
+|  `1.2` | 01/05/2023 |          Finalizando o documento          | Kauã        | Mylena  |
+|  `1.3` | 15/05/2023 |       Ajustes Feedbacks entrega 2         | Ana Beatriz | Mylena  |

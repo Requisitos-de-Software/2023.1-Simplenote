@@ -80,4 +80,4 @@ RNF: Requisito não funcional
 | Versão | Data       | Descrição                            | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------------------------ | ----------- | ----------- |
 | `1.0`  | 30/04/2023 | Criação do documento de Storytelling | Leonardo    | Ian         |
-| `1.1`  | 15/05/2022 | Ajustes Feedbacks entrega 2          | Ana Beatriz | Mylena      |
+| `1.1`  | 15/05/2023 | Ajustes Feedbacks entrega 2          | Ana Beatriz | Mylena      |
