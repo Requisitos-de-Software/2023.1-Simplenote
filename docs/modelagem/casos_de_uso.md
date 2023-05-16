@@ -69,3 +69,17 @@ Define um escopo do sistema para os casos de uso. É representado por um retâng
 <div style="text-align: center">
 <p>Fonte: Ian Costa, LucidChart </p>
 </div>
+
+## Diagrama de Caso de Uso
+<div style="text-align: center">
+<p>Figura 6: Diagrama UML</p>
+</div>
+
+<center>
+<img width="800px" src="../img/diagrama-UC.png">
+</center>
+
+<div style="text-align: center">
+<p>Fonte: Ian Costa </p>
+</div>
+
