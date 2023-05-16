@@ -257,3 +257,4 @@
 | `1.0`  | 27/04/2022 | Adicionando perguntas                   | Ana Beatriz | Beatriz     |
 | `1.1`  | 29/04/2022 | Adicionando respostas dos entrevistados | Ana Beatriz | Beatriz     |
 | `1.2`  | 29/04/2022 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
+| `1.3`  | 15/05/2022 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena     |
