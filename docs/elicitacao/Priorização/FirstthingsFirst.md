@@ -18,8 +18,11 @@ First things First ou FTF é uma técnica de priorização que busca entender os
 
 ## Métodos
 
-Para a análise da priorização, foi utilizado a documentação de Introspecção; Brainstorming; Entrevista; Glossário; Questionário; Storytelling.
-Durantes os dias 28/04 e 29/04, ocorreu a elaboração da documentação, que ocorreu de forma síncrona e assíncrona.
+Para realizar a análise de priorização, foram utilizados os seguintes métodos: Introspecção, Brainstorming, Entrevista, Glossário, Questionário e Storytelling. A participação do usuário ([personas](../personas.md)) foi essencial nos passos 2 e 3, contribuindo para a definição do valor e da penalidade de cada requisito.
+
+- Data: 28 de abril de 2023 e 29 de abril de 2023
+- Horário: 10:00 e 20:30
+- Local: Campus FGA - UnB e Discord
 
 ## Resultados
 
@@ -113,8 +116,10 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 [1] https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 28/04/2023 | Inicialização do documento | Kauã e João | Mylena |
-| 1.1 | 29/04/2023 | Confecção da tabela e preenchimento inicial dos requisitos | João e Kauã | Mylena |
-| 1.2| 01/05/2023| Finalizando o documento e adicionando tabela ordenada | Kauã e João|Mylena|
+
+| Versão |    Data    |                         Descrição                          |    Autor    | Revisor |
+| :----: | :--------: | :--------------------------------------------------------: | :---------: | :-----: |
+|  `1.0` | 28/04/2023 |                 Inicialização do documento                 | Kauã e João | Mylena  |
+|  `1.1` | 29/04/2023 | Confecção da tabela e preenchimento inicial dos requisitos | João e Kauã | Mylena  |
+|  `1.2` | 01/05/2023 |   Finalizando o documento e adicionando tabela ordenada    | Kauã e João | Mylena  |
+|  `1.3` | 15/05/2023 |                Ajustes Feedbacks entrega 2                 | Ana Beatriz | Mylena  |

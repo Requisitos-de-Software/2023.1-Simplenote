@@ -57,17 +57,18 @@ O questionário ficou aberto do dia 23/04/23 a 28/04/23.
 
 Com base nas respostas, podemos definir o público alvo como:
 
-|Especificação     | Perfil                                  | 
-|-------------     |---------------------                    |
-| Idade            |  Entre 17 a 59 anos                     |  
-| Gênero           | Muheres e homens                        |
-| Experiência      | Estão entre intermediário e experiente  |
-| Atitudes         | Tecnófilo                               | 
-| Tarefas primárias| Usuários ocasionais                     |
+|Especificação      | Perfil                                  | 
+|-------------      |---------------------                    |
+| Idade             |  Entre 17 a 59 anos                     |  
+| Gênero            | Muheres e homens                        |
+| Experiência       | Estão entre intermediário e experiente  |
+| Atitudes          | Tecnófilo                               | 
+| Tarefas primárias | Anotar, Compartilhar notas e fazer trabalhos              |
 
 Para mais informações, verificar a parte de [personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/).
 
-
+## Onde foi distribuido o questionario 
+ - WhatsApp
 
 ## Referências Bibliográficas
 

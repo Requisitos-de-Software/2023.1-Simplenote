@@ -6,6 +6,10 @@ Neste documento, temos a exposição das personas criadas pelo grupo. Esta técn
 - Persona secundária: é aquela que eventualmente utiliza a aplicação, normalmente sem muitas exigências.</br>
 - Anti-Persona: é aquela para a qual a aplicação não foi destinada.</br>
 
+## Metodologia
+
+Ao criar personas para representar os possíveis usuários do Simplenote, seguimos as diretrizes de Courage e Baxter, que destacam a necessidade de um conjunto específico de personas para cada projetoe recomental ter entre 3 a 12 personas. No caso do Simplenote, após analisar as necessidades do projeto, foram desenvolvidas 3 personas e 1 antipersona. Todas as imagens utilizadas neste documento foram obtidas do site "[This Person Does Not Exist](https://this-person-does-not-exist.com/en)", que utiliza inteligência artificial para gerar imagens que não possuem direitos autorais.
+
 ## Perfil de Usuário
 Para que sejam definidas as personas, primeiramente é necessário definir o perfil de usuário. Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).</br>
 
@@ -183,6 +187,10 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 <p>Tabela 4: Persona 4 - Walter Assis da Gama (Seu Nenê)</p>
 <p>Fonte: Ian da Costa</p>
 </div>
+
+## Conclusão
+
+Ao coletar dados, é perceptível a existência de mais de um perfil predominante entre os clientes, o que leva à criação de mais de uma persona. Ter muitas personas pode tirar o foco das estratégias e conteúdos. Então, escolhemos uma quantidade pequena de personas, mas com características distintas para que se perceba as diferenças entre elas e não fique sobrecarregado de personas.
 
 ## Bibliografia
 
