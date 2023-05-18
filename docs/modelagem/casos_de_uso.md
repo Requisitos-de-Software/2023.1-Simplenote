@@ -14,7 +14,7 @@ Representam as pessoas que realmente executam os casos de uso. São representado
 <p>Figura 1: Ator</p>
 </div>
 <center>
-<img width="160px" src="../img/ator-usecase.png">
+<img width="160px" src="../../img/ator-usecase.png">
 </center>
 
 <div style="text-align: center">
@@ -28,7 +28,7 @@ Representam os diferentes usos que um usuário pode ter. São representados por 
 <p>Figura 2: Caso de uso</p>
 </div>
 <center>
-<img width="220px" src="../img/caso-de-uso-usecase.png">
+<img width="220px" src="../../img/caso-de-uso-usecase.png">
 </center>
 
 <div style="text-align: center">
@@ -49,7 +49,7 @@ Extensão: Por outro lado, a extensão implica que o caso de uso atual funcionar
 <p>Figura 2: Caso de uso</p>
 </div>
 <center>
-<img width="220px" src="../img/comunicacao-usecase.png">
+<img width="220px" src="../../img/comunicacao-usecase.png">
 </center>
 
 <div style="text-align: center">
@@ -63,7 +63,7 @@ Define um escopo do sistema para os casos de uso. É representado por um retâng
 <p>Figura 2: Limite do Sistema</p>
 </div>
 <center>
-<img width="230px" src="../img/sistema-usecase.png">
+<img width="230px" src="../../img/sistema-usecase.png">
 </center>
 
 <div style="text-align: center">
@@ -76,7 +76,7 @@ Define um escopo do sistema para os casos de uso. É representado por um retâng
 </div>
 
 <center>
-<img width="800px" src="../img/diagrama-UC.png">
+<img width="800px" src="../../img/diagrama-UC.png">
 </center>
 
 <div style="text-align: center">
