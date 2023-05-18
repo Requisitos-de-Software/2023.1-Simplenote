@@ -7,7 +7,7 @@ Na leganda do Rich Picture, além de auxiliar na compressão dos símbolos, aind
 A Rich picture do aplicativo escolhido, SimpleNote, pode ser observada abaixo. 
  
 ## Rich picture versão 2.0
-![RichPictureSimpleNoteV2 0](https://user-images.githubusercontent.com/86479209/234722584-d2d79faa-99ec-4c1c-9f50-ca875868d764.png)
+![RichPictureSimpleNoteV2 0](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/c380293d919817c9b71ce689f7a9b7ac2465fa79/docs/pr%C3%A9-rastreabilidade/RichPictureSimpleNoteV3.0.drawio.png)
   <figcaption>Figura 1: Rich Picture versão 2.0 </figcaption>
   <p> Fonte: Leonardo e Beatriz- Abril/2023</p> 
 
