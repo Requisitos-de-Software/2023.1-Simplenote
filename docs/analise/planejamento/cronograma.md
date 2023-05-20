@@ -5,22 +5,26 @@ Este documento é destinado para a revisão do [cronograma](https://github.com/R
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software.
+A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Como respostas, podemos ter: 
+
+- Sim 🟩.
+- Não 🟥.
+- Incompleto 🟨.
 
 ## Checklist
 |Questão|Resposta|
-|-------|--------
-|As tarefas estão listadas de forma clara ?|Sim|
-|O documento possui introdução ?|Sim|
-|Há uma sequência lógica nas atividades ?|Sim|
-|As durações das tarefas são realistas ?|Sim|
-|As pessoas estão alocadas de forma coerente ?|Sim|
-|Cada tarefa possui pelo menos um autor e um revisor ?|Sim|
-|Há histórico de versão ?|Sim|
-|As tabelas possuem referências ?|Sim|
-|O cronograma possui datas de inicio e fim ?|Sim|
-|O cronograma estima uma data para gravação das entregas ?|Sim|
-|O cronograma possui todas as atividades esperadas até o final do semestre ? |Sim|
+|-------|--------|
+|As tarefas estão listadas de forma clara ?|🟩|
+|O documento possui introdução ?|🟩|
+|Há uma sequência lógica nas atividades ?|🟩|
+|As durações das tarefas são realistas ?|🟩|
+|As pessoas estão alocadas de forma coerente ?|🟩|
+|Cada tarefa possui pelo menos um autor e um revisor ?|🟩|
+|Há histórico de versão ?|🟩|
+|As tabelas possuem referências ?|🟩|
+|O cronograma possui datas de inicio e fim ?|🟩|
+|O cronograma estima uma data para gravação das entregas ?|🟩|
+|O cronograma possui todas as atividades esperadas até o final do semestre ? |🟩|
 
 Tabela 1 - Checklist do cronograma
 
