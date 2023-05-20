@@ -20,8 +20,12 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |O documento possui versionamento?|🟩|
 |O documento possui introdução ?|🟩|
 |O documento possui legendas em cada tabela ?|🟥|
-
-
+|O documento possui referências ? |🟩|
+|O documento fala sobre a Satisfação na Usabilidade?|🟩|
+|O documento fala sobre a disponibilidade na Confiabilidade?|🟩|
+|O documento fala sobre a rapidez na resposta no Desempenho?|🟩|
+|O documento fala sobre a compatibilidade na Suportabilidade ?|🟥|
+|O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade?|🟨|
 
 Tabela 1 - Checklist do cronograma
 
