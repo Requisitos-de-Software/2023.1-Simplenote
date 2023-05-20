@@ -7,9 +7,9 @@ Este documento é destinado para a revisão do [cronograma](https://github.com/R
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Como respostas, podemos ter: 
 
-- Sim 🟩.
-- Não 🟥.
-- Incompleto 🟨.
+- Sim (🟩) caso um critério for atendido.
+- Não (🟥) caso um critério não for atendido.
+- Incompleto (🟨) caso um critério for parcialmente atendido.
 
 ## Checklist
 |Questão|Resposta|
