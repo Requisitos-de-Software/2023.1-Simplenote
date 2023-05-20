@@ -7,13 +7,20 @@ Este documento é destinado para a revisão da [especificação suplementar](htt
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Como respostas, podemos ter: 
 
-- Sim 🟩.
-- Não 🟥.
-- Incompleto 🟨.
+- Sim (🟩) caso um critério for atendido.
+- Não (🟥) caso um critério não for atendido.
+- Incompleto (🟨) caso um critério for parcialmente atendido.
 
 ## Checklist
 |Questão|Resposta|
 |-------|--------|
+|O documento possui padronização?|🟩|
+|O documento aborda sobre a estética e o design na Usabilidade?|🟩|
+|O documento é orientado pelo padrão FURPS+?|🟩|
+|O documento possui versionamento?|🟩|
+|O documento possui introdução ?|🟩|
+|O documento possui legendas em cada tabela ?|🟥|
+
 
 
 Tabela 1 - Checklist do cronograma
