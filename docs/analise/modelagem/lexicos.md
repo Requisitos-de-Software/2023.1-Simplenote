@@ -39,7 +39,7 @@ Tabela 1: Questões levantadas. (Fonte: autor, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 2: Checklist acerca dos léxicos 1 a 7, grupo MEI. (Fonte: autor, 2023).
+Tabela 2: Checklist acerca dos léxicos 1 a 7, grupo Letterboxd. (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -56,7 +56,7 @@ Tabela 2: Checklist acerca dos léxicos 1 a 7, grupo MEI. (Fonte: autor, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 3: Checklist acerca dos léxicos 8 a 13, grupo MEI. (Fonte: autor, 2023).
+Tabela 3: Checklist acerca dos léxicos 8 a 13, grupo Letterboxd. (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -73,7 +73,7 @@ Tabela 3: Checklist acerca dos léxicos 8 a 13, grupo MEI. (Fonte: autor, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 4: Checklist acerca dos léxicos 14 a 18, grupo MEI. (Fonte: autor, 2023).
+Tabela 4: Checklist acerca dos léxicos 14 a 18, grupo Letterboxd. (Fonte: autor, 2023).
 </p>
 </div>
 
