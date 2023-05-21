@@ -16,7 +16,7 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 | [Ajustes finais entrega 1](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ETj9-j-RykpAhUtwFGwecsoBR7U6vTItTc2dnJj1aCQJTA?e=ZquvfV)|[Link](https://youtu.be/xmTG8MMpY8Y)
 |[E lá vamos nós de novo](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ESqqoghq39RNn7_QRXKcOwgB3d8CoFCPCu--7UQAHCvWeA?e=Th472Q)| Não teve 
 |[Início da etapa 3](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EZoPfEuO2AFFj1s8ctUed_EBM570csctoPsSm1SoaUIFfg?e=IpNYqe) | [Link](https://youtu.be/El_cwOEWp14)
-|   ------     | [Feita de forma presencial](https://unbbr-my.sharepoint.com/:i:/g/personal/211029497_aluno_unb_br/ERKoNKGXiQpBhrZ4-yRppUEBh_hzvNKimq6oJPt9-rMTKw?e=9dDfPX)|
+|   [Início da etapa 4 ](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ET0cLXPtA5RNkTa6TDa_BPwB8QUmMvR31_o7CPkXOJXNGQ?e=y1A0NJ)   | [Feita de forma presencial](https://unbbr-my.sharepoint.com/:i:/g/personal/211029497_aluno_unb_br/ERKoNKGXiQpBhrZ4-yRppUEBh_hzvNKimq6oJPt9-rMTKw?e=9dDfPX)|
 
 
 
