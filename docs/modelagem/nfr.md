@@ -47,7 +47,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Usabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/NFR_USABILIDADE.png)
+![Usabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/486ab817d91d95e929da091d53c9b949203ffea2/docs/img/NFR_USABILIDADE.png)
 <figcaption>Figura 2: NFR-1 Usabilidade </figcaption>
  
 </div>
