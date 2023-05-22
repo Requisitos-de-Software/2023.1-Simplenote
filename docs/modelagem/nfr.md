@@ -42,6 +42,10 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <figcaption>Figura 1: Legenda NFR </figcaption>
   
 </div>
+
+## Usabilidade
+
+em construção - bia
   
 ## Referências
 
