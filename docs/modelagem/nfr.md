@@ -33,7 +33,15 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 | *AND*    | “Pai” é satisfeito se_somente_se todos os “filhos” forem satisfeitos sob a perspectiva dos envolvidos| AND|
 | *OR* | “Pai” é satisfeito se_somente_se um dos “filhos” é satisfeito sob a perspectiva dos envolvidos |OR|    
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
+ 
+
+## Legenda 
+<div align="center">
   
+![LegendaSG](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/NFR.png)
+<figcaption>Figura 1: Legenda NFR </figcaption>
+  
+</div>
   
 ## Referências
 
