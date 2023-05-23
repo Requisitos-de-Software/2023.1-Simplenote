@@ -83,6 +83,8 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 [2] Slides da aula da professora Milene.
 
+[3] [NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados](https://aprender3.unb.br/pluginfile.php/2523130/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+
 ## Histórico de versão
 
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
