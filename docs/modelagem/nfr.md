@@ -72,8 +72,8 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Portabilidade](links dps)
-<figcaption>Figura 2: NFR-3 Portabilidade </figcaption>
+![Portabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/PortabilidadeNFR.png)
+<figcaption>Figura 3: NFR-3 Portabilidade </figcaption>
  
 </div>
   
