@@ -33,7 +33,14 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 | *AND*    | “Pai” é satisfeito se_somente_se todos os “filhos” forem satisfeitos sob a perspectiva dos envolvidos| AND|
 | *OR* | “Pai” é satisfeito se_somente_se um dos “filhos” é satisfeito sob a perspectiva dos envolvidos |OR|    
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
- 
+
+## Participantes 
+
+|Nome | Cargo | Técnica | 
+|-----|-------|---------|
+|Beatriz| Equipe de desenvolvimento | Persona: Alicía|
+|Leonardo | Equipe de design| Entrevistas da elicitação|
+|Mylena | Product Owner | Público alvo: questionário|
 
 ## Legenda 
 <div align="center">
