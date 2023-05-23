@@ -58,6 +58,24 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <figcaption>Figura 2: NFR-1 Usabilidade </figcaption>
  
 </div>
+
+## NFR-2 Disponibilidade
+
+<div align="center">
+ 
+![Disponibilidade](links dps)
+<figcaption>Figura 2: NFR-2 Disponibilidade </figcaption>
+ 
+</div>
+
+## NFR-3 Portabilidade
+
+<div align="center">
+ 
+![Portabilidade](links dps)
+<figcaption>Figura 2: NFR-3 Portabilidade </figcaption>
+ 
+</div>
   
 ## Referências
 
