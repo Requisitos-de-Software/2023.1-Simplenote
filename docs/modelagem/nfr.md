@@ -42,6 +42,9 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 |Leonardo | Equipe de priorização| Entrevistas da elicitação|
 |Mylena | Equipe de elicitação| Público alvo: questionário|
 | Paulo | Product Owner | Membro do grupo 4  |
+
+## NFR
+ Foram feitos 4 tipos de NFR: usabilidade (figura 2), disponibilidade (figura 3), portabilidade (figura 4) e performance (figura 5). 
 ## Legenda 
 <div align="center">
   
@@ -64,7 +67,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <div align="center">
  
 ![Disponibilidade](links dps)
-<figcaption>Figura 2: NFR-2 Disponibilidade </figcaption>
+<figcaption>Figura 3: NFR-2 Disponibilidade </figcaption>
  
 </div>
 
@@ -73,10 +76,18 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <div align="center">
  
 ![Portabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/PortabilidadeNFR.png)
-<figcaption>Figura 3: NFR-3 Portabilidade </figcaption>
+<figcaption>Figura 4: NFR-3 Portabilidade </figcaption>
  
 </div>
+
+## NFR-4 Performance
+<div align="center">  
+Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utilizados requisitos não funcionais elecitados por meio das técnicas de priorização.
   
+  ![performance](https://github.com/Requisitos-de-Software/2023.1-Simplenote/assets/86479209/dd2c1445-439b-4ccc-90ed-c54d06fd0ce9)
+<figcaption>Figura 5: NFR-4 Performance </figcaption>
+  </div>
+
 ## Referências
 
 [1] Repositório de disciplina do semestre passado- Lichess
