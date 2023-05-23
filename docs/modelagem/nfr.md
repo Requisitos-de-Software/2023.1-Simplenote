@@ -38,10 +38,10 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 |Nome | Cargo | Técnica | 
 |-----|-------|---------|
-|Beatriz| Equipe de desenvolvimento | Persona: Alicía|
-|Leonardo | Equipe de design| Entrevistas da elicitação|
-|Mylena | Product Owner | Público alvo: questionário|
-
+|Beatriz| Equipe de modelagem| Persona: Alicía|
+|Leonardo | Equipe de priorização| Entrevistas da elicitação|
+|Mylena | Equipe de elicitação| Público alvo: questionário|
+| Paulo | Product Owner | Membro do grupo 4  |
 ## Legenda 
 <div align="center">
   
