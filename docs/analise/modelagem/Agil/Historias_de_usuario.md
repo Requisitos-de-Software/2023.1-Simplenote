@@ -2,7 +2,7 @@
 # Verificação - Histórias de usuário
 
 ## Introdução
-Este documento é destinado para a revisão das [Histórias de usuário](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
+Este documento é destinado para a revisão das [historias de usuário]( https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/Metodologias%20Ageis/historiaUsuario/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
 
 ## Metodologia
 
@@ -18,8 +18,9 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |O documento possui padronização?|🟩|
 |O documento possui versionamento?|🟩|
 |O documento possui introdução ?|🟩|
-|O documento possui legendas em cada tabela ?||
-|O documento possui referências ||
+|O documento possui referências |🟩|
+|As histórias de usuário seguem um padrão?|🟩|
+|As histórias possuem critério de aceitação?|🟩|
 
 Tabela 1 - Checklist do cronograma
 
