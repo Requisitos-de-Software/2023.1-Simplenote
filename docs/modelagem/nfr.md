@@ -66,7 +66,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Disponibilidade](links dps)
+![Disponibilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/NFRdisponibilidade.png)
 <figcaption>Figura 3: NFR-2 Disponibilidade </figcaption>
  
 </div>
