@@ -14,6 +14,7 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 ## Checklist
 |Questão|Resposta|
 |-------|--------|
+|Todas as tabelas possuem referência ?||
 
 
 Tabela 1 - Checklist do glossário 
