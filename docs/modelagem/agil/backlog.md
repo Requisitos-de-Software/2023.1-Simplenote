@@ -111,6 +111,26 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
    queira.
 </details>
 
+<details>
+   <summary>E09 - Organizar notas</summary>
+   Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.
+</details>
+
+<details>
+   <summary>E10 - Escrever em Latex</summary>
+   Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.
+</details>
+
+<details>
+   <summary>E11 - Excluir minha nota</summary>
+   Eu, como usuário, desejo poder excluir minha nota.
+</details>
+
+<details>
+   <summary>E12 - escrever em Markdown</summary>
+   Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.
+</details>
+
 <table>
     <tr>
         <th style="text-align: center" colspan=6>
@@ -174,6 +194,39 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
         <td>Could-Tags<br>Should-Filtrar</td>
         <td><a href=#elicitacao-de-requisitos>RF20</td>
     </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E09</a> </td>
+        <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
+        <td><a href="../User_story.md">US09</a></td>
+        <td>Should<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF13</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E10</a> </td>
+        <td>Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.</td>
+        <td><a href="../User_story.md">US10</a></td>
+        <td>Could<br></td>
+        <td><a href=#elicitacao-de-requisitos></td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E11</a> </td>
+        <td>Eu, como usuário, desejo poder excluir minha nota.</td>
+        <td><a href="../User_story.md">US11</a></td>
+        <td>Must<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF07</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E12</a> </td>
+        <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
+        <td><a href="../User_story.md">US12</a></td>
+        <td>Could<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF10</td>
+    </tr>
+
 </table>
 
 <div style="text-align: center">
