@@ -259,30 +259,6 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo poder excluir minha nota.</td>
-           <td>Notas</td>
-           <td>Ser capaz de excluir qualquer anotação.</td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
-
-
-<details>
-   <summary>US12</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>Descrição</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
            <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
            <td>Notas</td>
            <td>Poder escrever em Markdown.</td>
@@ -290,7 +266,7 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 12: História de Usuário 12 (Fonte: Autores, 2023).</p>
+      <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
    </div>
 </details>
 
@@ -302,3 +278,4 @@ Para escrever as histórias de usuário, devemos ter as seguintes informações:
 |--|--|--|--|--|
 | `1.0` |11/05/2023|Criação do documento| Kauã e João | Mylena |
 |`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena |
+|`1.2`|24/05/2023|Mudanças pontuais |Kauã|Mylena|
