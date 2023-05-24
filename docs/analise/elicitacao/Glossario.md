@@ -15,6 +15,8 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |Questão|Resposta|
 |-------|--------|
 |Todas as tabelas possuem referência ?||
+|O documento possui versionamento ? ||
+|O documento possui introdução? ||
 
 
 Tabela 1 - Checklist do glossário 
