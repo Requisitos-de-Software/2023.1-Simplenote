@@ -22,6 +22,7 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |As histórias de usuário seguem um padrão?|🟩|
 |As histórias possuem critério de aceitação?|🟩|
 |Épicos possuem nome, descrição e feature relacionados?|🟩|
+
 Tabela 1 - Checklist das histórias de usuário 
 
 ## Bibliografia
