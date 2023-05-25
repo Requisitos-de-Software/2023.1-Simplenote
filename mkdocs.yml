@@ -83,7 +83,10 @@ nav:
   - Cenários: modelagem/cenários.md
   - Casos de Uso: modelagem/casos_de_uso.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
-
+  - Modelagem Ágil:
+    #- Histórias de Usuário: modelagem/agil/User_story.md
+    - Backlog: modelagem/agil/backlog.md
+    
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
