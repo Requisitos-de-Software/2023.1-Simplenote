@@ -48,7 +48,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 ## Legenda 
 <div align="center">
   
-![LegendaSG](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/NFR.png)
+<img src="docs/img/legenda.png">
 <figcaption>Figura 1: Legenda NFR </figcaption>
   
 </div>
@@ -57,7 +57,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Usabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/486ab817d91d95e929da091d53c9b949203ffea2/docs/img/NFR_USABILIDADE.png)
+<img src="docs/img/usabilidade.png">
 <figcaption>Figura 2: NFR-1 Usabilidade </figcaption>
  
 </div>
@@ -66,7 +66,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Disponibilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/NFRdisponibilidade.png)
+<img src="docs/img/disponibilidade.png">
 <figcaption>Figura 3: NFR-2 Disponibilidade </figcaption>
  
 </div>
@@ -75,7 +75,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-![Portabilidade](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/47-nfr-framework/docs/img/PortabilidadeNFR.png)
+<img src="docs/img/portabilidade.png">
 <figcaption>Figura 4: NFR-3 Portabilidade </figcaption>
  
 </div>
@@ -84,7 +84,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <div align="center">  
 Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utilizados requisitos não funcionais elecitados por meio das técnicas de priorização.
   
-  ![performance](https://github.com/Requisitos-de-Software/2023.1-Simplenote/assets/86479209/dd2c1445-439b-4ccc-90ed-c54d06fd0ce9)
+  <img src="docs/img/performance.png">
 <figcaption>Figura 5: NFR-4 Performance </figcaption>
   </div>
 
