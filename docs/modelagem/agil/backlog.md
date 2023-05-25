@@ -122,12 +122,7 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
 </details>
 
 <details>
-   <summary>E11 - Excluir minha nota</summary>
-   Eu, como usuário, desejo poder excluir minha nota.
-</details>
-
-<details>
-   <summary>E12 - escrever em Markdown</summary>
+   <summary>E11 - escrever em Markdown</summary>
    Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.
 </details>
 
@@ -208,21 +203,13 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
         <td>Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.</td>
         <td><a href="../User_story.md">US10</a></td>
         <td>Could<br></td>
-        <td><a href=#elicitacao-de-requisitos></td>
+        <td><a href=#elicitacao-de-requisitos>RF14</td>
     </tr>
     <tr>
         <!-- Épico -->
         <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E11</a> </td>
-        <td>Eu, como usuário, desejo poder excluir minha nota.</td>
-        <td><a href="../User_story.md">US11</a></td>
-        <td>Must<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF07</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E12</a> </td>
         <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
-        <td><a href="../User_story.md">US12</a></td>
+        <td><a href="../User_story.md">US11</a></td>
         <td>Could<br></td>
         <td><a href=#elicitacao-de-requisitos>RF10</td>
     </tr>
