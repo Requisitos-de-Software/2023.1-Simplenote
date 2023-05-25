@@ -48,7 +48,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 ## Legenda 
 <div align="center">
   
-<img src="docs/img/legenda.png">
+<img src=".../img/legenda.png">
 <figcaption>Figura 1: Legenda NFR </figcaption>
   
 </div>
@@ -57,7 +57,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="docs/img/usabilidade.png">
+<img src=".../img/usabilidade.png">
 <figcaption>Figura 2: NFR-1 Usabilidade </figcaption>
  
 </div>
@@ -66,7 +66,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="docs/img/disponibilidade.png">
+<img src=".../img/disponibilidade.png">
 <figcaption>Figura 3: NFR-2 Disponibilidade </figcaption>
  
 </div>
@@ -75,7 +75,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="docs/img/portabilidade.png">
+<img src=".../img/portabilidade.png">
 <figcaption>Figura 4: NFR-3 Portabilidade </figcaption>
  
 </div>
@@ -84,7 +84,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 <div align="center">  
 Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utilizados requisitos não funcionais elecitados por meio das técnicas de priorização.
   
-  <img src="docs/img/performance.png">
+  <img src=".../img/performance.png">
 <figcaption>Figura 5: NFR-4 Performance </figcaption>
   </div>
 
