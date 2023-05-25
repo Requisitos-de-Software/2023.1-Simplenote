@@ -38,7 +38,34 @@ Na segunda release buscou-se cobrir a parte de planejamento, as técnicas e a pr
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/SimpleNote)
 
- 
+## Entrega 3 (18/05/2023)
+### 📖 Descrição: 
+Na terceira release buscou-se cobrir a parte de modelagem de requisitos.
+### ⚙️ Documentação
+- Gitpage
+- Casos de Uso
+- Cenários
+- Especificação Suplementar
+- Léxicos
+-
+### 🔗 Links
+[Gravação](https://youtu.be/ezyo9w8Pc14)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote)
+
+## Entrega  4  (24/05/2023)
+### 📖 Descrição: 
+Na quarta release buscou-se cobrir a parte de modelagem de requisitos ágeis
+### ⚙️ Documentação
+- Backlog  
+- Histórias de usuário
+- NFR framework
+
+
+### 🔗 Links
+[Gravação](https://youtu.be/aXE6jrN7GOM)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote4)
 
 ## Histórico de versão
 
@@ -46,5 +73,6 @@ Na segunda release buscou-se cobrir a parte de planejamento, as técnicas e a pr
 |--|--|--|--|--|
 | `1.0`|17/04/2022|Entrega 1| Mylena| Todos
 | `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
+| `3.0`| 25/02/2023| Entrega 3 e 4| Mylena | Todos
 
 
