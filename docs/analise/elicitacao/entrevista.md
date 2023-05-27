@@ -23,7 +23,7 @@ A verificação foi feita por meio da insperção, utilizando uma lista de verif
 |       7       |        Os requisitos possuem identificador de acordo com o padrão ("ENT01")?        |                Sim                |
 |       8       |                    As perguntas da entrevista estão registradas?                    |                Sim                |
 |       9       |                          Os requisitos foram priorizados?                           |                Sim                |
-|      10       |                        Possui legenda nas tabelas e figuras?                        | Incompleto, a tabela de Cronograma não possui legenda |
+|      10       |                        Possui legenda nas tabelas e figuras?                        | Incompleto, a tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas) não possui legenda |
 
 <div style="text-align: center">
 <p>
