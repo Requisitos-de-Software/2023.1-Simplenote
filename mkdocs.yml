@@ -74,10 +74,13 @@ nav:
     - MosCoW: elicitacao/Priorização/MoScoW.md
     - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
     - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
+    - Priorização final: elicitacao/Priorização/priorizacao_final.md
 
 - Modelagem:
   - Modelagem Ágil:
     - História de Usuário: modelagem/agil/User_story.md
+    - Backlog: modelagem/agil/backlog.md
+    - NFR: modelagem/nfr.md
   - Léxicos: modelagem/lexico.md
   - Cenários: modelagem/cenários.md
   - Casos de Uso: modelagem/casos_de_uso.md
@@ -97,9 +100,11 @@ nav:
     - Modelagem: 
           - Modelagem Ágil:
             - História de Usuário: analise/modelagem/Agil/Historias_de_usuario.md
+            - Backlog: analise/modelagem/Agil/backlog.md
+            #- NFR: analise/modelagem/nfr.md
           - Léxicos: analise/modelagem/lexicos.md
-          #- Cenários: modelagem/cenários.md
-          #- Casos de Uso: modelagem/casos_de_uso.md
+          #- Cenários: analise/modelagem/cenários.md
+          #- Casos de Uso: analise/modelagem/casos_de_uso.md
           - Especificação Suplementar: analise/modelagem/especificacao_suplementar.md
     - Planejamento:
       - Cronograma : analise/planejamento/cronograma.md

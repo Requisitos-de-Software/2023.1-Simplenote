@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre [Entrevista](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
+Neste documento, será realizado a verificação do artefato [Entrevista](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
 
 ## Metodologia
 
