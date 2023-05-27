@@ -83,13 +83,37 @@ nav:
   - Casos de Uso: modelagem/casos_de_uso.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
+- Alálise (V&V):
+  - Grupo 6 - Letterboxd:
+    - Elicitação:
+      #- Personas: analise/elicitacao/personas.md
+      #- Questionário: analise/elicitacao/questionario.md
+      #- Introspecção: analise/elicitacao/Introspecção.md
+      #- Glossário: analise/elicitacao/glossario.md
+      - Entrevista: analise/elicitacao/entrevista.md
+      #- Brainstorm: analise/elicitacao/brainstorming.md
+      - Priorização: analise/elicitacao/priorizacao.md
+
+    - Modelagem: 
+          - Modelagem Ágil:
+            - História de Usuário: analise/modelagem/Agil/Historias_de_usuario.md
+          - Léxicos: analise/modelagem/lexicos.md
+          #- Cenários: modelagem/cenários.md
+          #- Casos de Uso: modelagem/casos_de_uso.md
+          - Especificação Suplementar: analise/modelagem/especificacao_suplementar.md
+    - Planejamento:
+      - Cronograma : analise/planejamento/cronograma.md
+      - Ferramentas: analise/planejamento/ferramentas.md
+      #- Metodologias: analise/planejamento/metodologias.md
+      #- Aplicativo Selecionado: analise/planejamento/Aplicativo Selecionado.md
+
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
   - Ferramentas: planejamento/ferramentas.md
   - Metodologias: planejamento/metodologias.md
   - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
-  
+
 - Pré-rastreabilidade:
   - Rich Picture: pré-rastreabilidade/rich_picture.md
   - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
