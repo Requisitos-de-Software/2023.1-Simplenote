@@ -80,7 +80,17 @@ Ele está em constante mudança até a entrega final.
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
 
-## Cronograma Ponto de Controle 5
+## Cronograma Ponto de Controle 5.1
+
+|         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
+| :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
+| Verificação dos requisitos |       30/05/2023       |     01/06/2023      | Todos                 | Todos         |
+|  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
+| Ajuste com base nos feedbacks| 18/06/2023           | 21/06/2023          | -                     | -             |
+
+**Tabela 5: Cronograma do Ponto de Controle 5.1**
+
+## Cronograma Ponto de Controle 5.2
 
 |         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
@@ -89,7 +99,7 @@ Ele está em constante mudança até a entrega final.
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
 | Ajuste com base nos feedbacks| 18/06/2023           | 21/06/2023          | -                     | -             |
 
-**Tabela 5: Cronograma do Ponto de Controle 5**
+**Tabela 6: Cronograma do Ponto de Controle 5.2**
 
 ## Cronograma Ponto de Controle 6
 
@@ -100,7 +110,7 @@ Ele está em constante mudança até a entrega final.
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
 | Ajuste com base nos feedbacks              | 22/06/2023             | 25/06/2023          |-                        | -            |
 
-**Tabela 6: Cronograma do Ponto de Controle 6**
+**Tabela 7: Cronograma do Ponto de Controle 6**
 
 ## Cronograma Entrega Final
 
@@ -109,7 +119,7 @@ Ele está em constante mudança até a entrega final.
 |   Planejamento de verificação dos artefatos   |       03/07/2023       |     05/07/2023      | Todos os integrantes |Todos os integrantes             |
 |           Gravação da apresentação            |       06/07/2023       |          -          | Todos os integrantes |      -      |
 
-**Tabela 7: Cronograma da Entrega Final**
+**Tabela 8: Cronograma da Entrega Final**
 
 ## Atividades extras
 
@@ -133,5 +143,6 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
 | `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
 |`1.2`| 15/04/2023| Versão atualizada| Mylena| Todos do grupo|
+|`1.3`| 30/05/2023| Versão atualizada| Mylena| Todos do grupo|
 
 
