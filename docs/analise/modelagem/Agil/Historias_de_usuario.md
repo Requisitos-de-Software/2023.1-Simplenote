@@ -23,7 +23,7 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |As histórias possuem critério de aceitação?|🟩|
 |Épicos possuem nome, descrição e feature relacionados?|🟩|
 
-Tabela 1 - Checklist das histórias de usuário 
+Tabela 1 - Checklist das histórias de usuário  (Fonte: Autor) 
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
