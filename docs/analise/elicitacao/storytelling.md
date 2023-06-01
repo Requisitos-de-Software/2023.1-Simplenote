@@ -29,6 +29,8 @@ Tabela 1: Checklist Storytelling. (Fonte: autor, 2023).
 
 ## Bibliografia
 
+[1] MENDES, Tamara M.; PIETROBON, Carlos A. M.. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. In: SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE (SBQS), 12. , 2013, Salvador. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2013 . p. 81-94. 
+
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
