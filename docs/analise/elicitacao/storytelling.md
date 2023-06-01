@@ -14,15 +14,22 @@ Foram elaboradas perguntas acerca da construção de narrativas dentro da técni
 
 | Identificador |                                       Questão                                       | Resposta (Sim / Não / Incompleto) |
 | :-----------: | :---------------------------------------------------------------------------------: | :-------------------------------: |
-|       1       |     O documento apresenta uma breve descrição correta da técnica?           |       -                |
-|       2       |              Foram usadas as personas para a criação das narrativas?        |       -                |
-|       3       |  Os requisitos elicitados são condizentes com as histórias?                 |       -                |
-|       4       |    Os requisitos funcionais e não funcionais foram abordados adequadamente? |       -                |
-|       5       | As hisórias se alinham com o objetivo do software e seu público alvo?       |       -                |
-|       6       | As histórias criadas são realistas em relação ao uso da aplicação?          |       -                |
+|       1       |     O documento apresenta uma breve descrição correta da técnica?           |       Sim                |
+|       2       |              Foram usadas as personas para a criação das narrativas?        |       Sim                |
+|       3       |  Os requisitos elicitados são condizentes com as histórias?                 |       Sim                |
+|       4       |    Os requisitos funcionais e não funcionais foram abordados adequadamente? |       Sim                |
+|       5       | As hisórias se alinham com o objetivo do software e seu público alvo?       |       Sim                |
+|       6       | As histórias criadas são realistas em relação ao uso da aplicação?          |       Sim                |
 
 <div style="text-align: center">
 <p>
 Tabela 1: Checklist Storytelling. (Fonte: autor, 2023).
 </p>
 </div>
+
+## Bibliografia
+
+
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 26/04/2023 | `1.0`  | Análise do Storytelling | Leonardo | - |
