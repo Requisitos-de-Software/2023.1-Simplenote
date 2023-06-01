@@ -29,7 +29,7 @@ Tabela 1: Checklist Storytelling. (Fonte: autor, 2023).
 
 ## Bibliografia
 
-
+## Histórico de Versão
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 26/04/2023 | `1.0`  | Análise do Storytelling | Leonardo | - |
