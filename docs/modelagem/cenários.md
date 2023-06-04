@@ -222,6 +222,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
-| ------ | ---------- | -------------------- | ------------- | ------------- |
-| `1.0`  | 06/05/2023 | Criação do documento | Mylena e Leonardo | Kauã |
+| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)   |
+| ------ | ---------- | --------------------       | ------------- | ------------- |
+| `1.0`  | 06/05/2023 | Criação do documento       | Mylena e Leonardo | Kauã      |
+| `1.1` | 04/06/2023  | Correções após a entrega 3 | Leonardo          | Ian       |
