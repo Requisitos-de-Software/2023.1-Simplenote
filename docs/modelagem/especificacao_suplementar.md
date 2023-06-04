@@ -110,4 +110,4 @@ Autores: Ana e Kauã
 | `1.0`  | 03/05/2023 | Criação do documento              | Ana e Kauã | Leonardo    |
 | `1.1`  | 06/05/2023 | Adição de informações e do quadro | Ana e Kauã | Leonardo    |
 | `1.2`  | 08/05/2023 | Finalizando documento             | Ana e Kauã | Leonardo    |
-| `1.3` | 04/06/2023 | Correções após a entrega           | Ana e Kauã | Leonardo    |
+| `1.3`  | 04/06/2023 | Correções após a entrega 3        | Leonardo   | Ian         |
