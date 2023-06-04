@@ -18,7 +18,9 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |O documento possui padronização?|🟩|
 |O documento possui versionamento?|🟩|
 |O documento possui introdução ?|🟩|
-|O documento possui referências |🟩|
+|O documento possui referências? |🟩|
+|Existe alguém relacionado ao app para validar as histórias?|🟥|
+|Essa validação é verificável? |🟥|
 |As histórias de usuário seguem um padrão?|🟩|
 |As histórias possuem critério de aceitação?|🟩|
 |Épicos possuem nome, descrição e feature relacionados?|🟩|
@@ -33,3 +35,4 @@ Tabela 1 - Checklist das histórias de usuário  (Fonte: Autor)
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 24/05/2023    | Criação do documento.              |  João, Kauã e Mylena  | ------------- |
+| `1.1`  | 04/06/2023    | Atualização do documento              |  João, Kauã e Mylena  | ------------- |
