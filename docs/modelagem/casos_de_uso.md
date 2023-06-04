@@ -90,6 +90,8 @@ Especificação dos casos de uso identificados:
 | UC01 | Criar uma nota |
 | -: | :- |
 | **Atores** | Usuário |
+|**Local**| Escola |
+|**Data e Hora**| Segunda-feira pela manhã antes da aula |
 | **Requisitos** | Aplicativo instalado |
 | **Condição de entrada** | O usuário toca o ícone para criar nova nota |
 | **Fluxo principal** | O sistema cria uma nova nota para o usuário|
@@ -107,6 +109,8 @@ Especificação dos casos de uso identificados:
 | UC02 | Modificar nota |
 | -: | :- |
 | **Atores** | Usuário |
+|**Local**| No quarto de casa |
+|**Data e Hora**| Quarta-feira de noite após o trabalho |
 | **Requisitos** | Ter uma nota já existente. |
 | **Condição de entrada** | O usuário seleciona a nota desejada e a modifica. |
 | **Fluxo principal** | O usuário altera o conteúdo do título ou do corpo da nota.|
@@ -124,6 +128,8 @@ Especificação dos casos de uso identificados:
 | UC03 | Organizar notas |
 | -: | :- |
 | **Atores** | Usuário  |
+|**Local**| No escritório de trabalho |
+|**Data e Hora**| Sexta feira pela manhã antes de uma reunião |
 | **Requisitos** | Ter uma ou mais notas criadas |
 | **Condição de entrada** | O usuário seleciona a opção adicionar etiqueta à nota desejada |
 | **Fluxo principal** | É adicionado uma etiqueta (tag) à nota escolhida |
@@ -147,4 +153,4 @@ Especificação dos casos de uso identificados:
 | Versão | Data       | Descrição                         | Autor(es)  | Revisor(es) |
 | ------ | ---------- | --------------------------------- | ---------- | ----------- |
 | `1.0`  | 13/05/2023 | Criação do Diagrama de Casos de uso              | Ian | Mylena    |
-
+| `1.1`  | 04/06/2023 | Correções após a entrega 3              | Leonardo | Ian    |
