@@ -35,7 +35,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Criar uma nota        |
 | Objetivo   | Escrever uma nota no sistema  |
-| Contexto   | - Pré condição: ter o aplicativo instalado <br> - Local: Na escola <br> - Tempo: Semana de prova |
+| Contexto   | - Pré condição: ter o aplicativo instalado <br> - Local: Na escola <br> - Tempo: Dia anterior a uma prova (manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário quer escrever uma nota <br> - Usuário clica em "Nova nota" <br> - Usuário digita um texto |
@@ -49,7 +49,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Excluir uma nota       |
 | Objetivo   | Apagar uma nota que já estava no sistema |
-| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Na escola <br> - Tempo: Semana de prova |
+| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Na escola <br> - Tempo: Dia seguinte à uma prova (noite) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário quer apagar uma nota <br> - Usuário clica na nota que deseja apagar <br> - Usuário clica no menu da nota (...) <br> - Usuário clica no botão "mover para a lixeira" |
@@ -63,7 +63,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Vizualizar uma nota    |
 | Objetivo   | Ler o que está escrito em uma nota já feita |
-| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Em casa <br> - Tempo: Semana de prova |
+| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Em casa <br> - Tempo: Dia de uma prova (manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário quer ler uma nota <br> - Usuário procura pela nota  <br> - Usuário clica na nota que deseja ler |
@@ -77,7 +77,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Editar uma nota   |
 | Objetivo   | Fazer alguma alteração em uma nota previamente escrita |
-| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Na sala de aula <br> - Tempo: Semana de prova |
+| Contexto   | - Pré condição: ter uma nota escrita <br> - Local: Na sala de aula <br> - Tempo: Dia anterior a uma prova (noite) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário querer editar uma nota <br> - Usuário procura pela nota  <br> - Usuário clica na nota que deseja editar <br> - Usuário começa a editar |
@@ -91,7 +91,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Separar notas por tag  |
 | Objetivo   | Organizar as notas que escreve por meio de tags |
-| Contexto   | - Pré condição: ter o aplicatico <br> - Local: Na sala de aula <br> - Tempo: Semana de prova |
+| Contexto   | - Pré condição: ter o aplicatico <br> - Local: Na sala de aula <br> - Tempo: Dia de aula (segunda-feira de manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário cria uma nova nota <br> - Usuário adiciona as "tags" na nota escritaprocura pela nota   |
@@ -105,7 +105,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Utilizar markdown |
 | Objetivo   | Usuário quer escrever uma nota em markdowm |
-| Contexto   | - Pré condição: Saber markdowm <br> - Local: Em casa <br> - Tempo: Trabalhos |
+| Contexto   | - Pré condição: Saber markdowm <br> - Local: Em casa <br> - Tempo: Alguns dias antes da entrega de um trabalho (noite) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário cria uma nova nota <br> - Usuário clica no menun da nota (...) <br> - Usuário clica no botão de acionar o markdown <br> - Usuário digita utilizando as formatações de markdowm <br> - Usuário arrasta a tela para o lado e observa a nota em markdown   |
@@ -119,7 +119,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Busca de notas por palavras-chave |
 | Objetivo   | Usuário quer encontrar uma nota específica |
-| Contexto   | - Pré condição: Saber o nome da nota ou texto que ela contém <br> - Local: Escola <br> - Tempo: Aula de Língua Portuguesa |
+| Contexto   | - Pré condição: Saber o nome da nota ou texto que ela contém <br> - Local: Escola <br> - Tempo: Aula de Língua Portuguesa (quarta feira de manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário digita na barra de busca <br> - O aplicativo lista resultados a medida que o usuário escreve palavras-chaves <br> - Usuário clica na nota que está buscando  |
@@ -133,7 +133,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Criar uma conta e fazer login |
 | Objetivo   | Usuário quer criar uma conta para ter acesso ao aplicativo |
-| Contexto   | - Pré condição: Possuir um endereço de email <br> - Local: Em casa <br> - Tempo: Início do período aulas |
+| Contexto   | - Pré condição: Possuir um endereço de email <br> - Local: Em casa <br> - Tempo: Dois dias antes das aulas começarem (à tarde) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário realiza o download do aplicativo <br> - O usuário abre o aplicativo pela primeira vez <br> - Usuário clica no botão Sign Up <br> - Usuário informa o endereço de email que será associado à conta <br> - Usuário recebe um email do aplicativo com link para ativar a conta <br> - Usuário acessa o link no email enviado <br> - Usuário cria uma senha <br> - Usuário clica em criar conta <br> - Usuário realiza login na tela inicial |
@@ -148,7 +148,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Recuperar anotações |
 | Objetivo   | Usuário quer recuperar uma nota excluída |
-| Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Revisão para uma prova |
+| Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Dia antes de uma prova (noite) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" |
@@ -162,7 +162,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Anexar imagens |
 | Objetivo   | Usuário quer anexar um arquivo de imagem a uma nota |
-| Contexto   | - Pré condição: Criar uma nota e ter um arquivo de imagem no dispositivo <br> - Local: Em um escritório <br> - Tempo: Preparação para uma reunião de trabalho |
+| Contexto   | - Pré condição: Criar uma nota e ter um arquivo de imagem no dispositivo <br> - Local: Em um escritório <br> - Tempo: Preparação para uma reunião de trabalho (manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário seleciona uma nota <br> - Usuário clica na funcionalidade de anexos <br> - Aplicativo mostra a galeria de imagens <br> - Usuário seleciona arquivo de imagem para anexar <br> - Usuário clica em anexar |
@@ -176,7 +176,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Pesquisar nas anotações |
 | Objetivo   | Usuário quer pesquisar um trecho de texto dentro da anotação |
-| Contexto   | - Pré condição: Criar uma nota, escrever na nota <br> - Local: Na faculdade <br> - Tempo: Estudando para uma prova teórica de programação |
+| Contexto   | - Pré condição: Criar uma nota, escrever na nota <br> - Local: Na faculdade <br> - Tempo: Dia anterior uma prova teórica de programação (à tarde) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário clica no ícone de pesquisar um trecho de texto <br> - Usuário digita o trecho ou palavra que deseja encontrar <br> - O aplicativo destaca trechos que correspondem à pesquisa <br> - Usuário navega pela nota do início ao fim saltando entre os trechos destacados <br> - Usuário encontra o trecho desejado |
@@ -190,7 +190,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Compartilhar anotações |
 | Objetivo   | Usuário quer compartilhar notas com outros usuários |
-| Contexto   | - Pré condição: Criar uma nota <br> - Local: Em casa <br> - Tempo: Escrevendo uma pesquisa em grupo |
+| Contexto   | - Pré condição: Criar uma nota <br> - Local: Em casa <br> - Tempo: Dia de formação dos grupos de trabalho (à tarde) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário seleciona a anotação que deseja compartilhar <br> - Usuário clica na funcionalidade para colaborar <br> - Aplicativo cria uma caixa de texto para digitar um endereço de email <br> - Usuário digita endereço de email do usuário com o qual deseja compartilhar a nota <br> - Aplicativo envia solicitação de colaboração para o endereço de email <br> - Usuário destinatário aceita o pedido de colaboração |
@@ -204,7 +204,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 |------------|-----------------------|
 | Título     | Colocando etiquetas (tags) nas anotações |
 | Objetivo   | Usuário quer catalogar suas notas com etiquetas |
-| Contexto   | - Pré condição: Criar uma nota, Criar uma etiqueta <br> - Local: Em casa <br> - Tempo: Organizando as notas das disciplinas do semestre |
+| Contexto   | - Pré condição: Criar uma nota, Criar uma etiqueta <br> - Local: Em casa <br> - Tempo: Dia anterior ao início das aulas (manhã) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
 | Episódios  | - Usuário seleciona a anotação que deseja colocar uma etiqueta <br> - Usuário clica na funcionalidade de colocar uma etiqueta <br> - Usuário seleciona qual etiqueta será atrelada à nota <br> |
