@@ -80,6 +80,7 @@ Define um escopo do sistema para os casos de uso. É representado por um retâng
 </center>
 
 <div style="text-align: center">
+<p>Ator Principal: Ator. // Ator Secundário: Servidor Backend.</p>
 <p>Fonte: Ian Costa </p>
 </div>
 
