@@ -6,6 +6,8 @@ Um diagrama de casos de uso é uma representação visual que descreve as intera
 ## Metodologia
 Para a criação desse artefato foi utilizado a abordagem tradicional, ou seja, representação os casos de uso através de uma diagrama UML. A ferramenta utilizada para a criação do diagrama foi o LucidChart, um software online para criação de diagramas.
 
+Para realizar o caso de uso, contamos com a Persona [Alicia Kane](../elicitacao/personas.md) para compreender de forma mais profunda o que os usuários finais do sistema realmente querem e desejam. Ao incluir a persona [Alicia Kane](../elicitacao/personas.md) em um diagrama de caso de uso, conseguimos criar representações de situações reais de uso do sistema que levam em consideração as diferentes necessidades e metas do tipo de usuário que ela representa.
+
 ## Componentes
 ### Atores
 Representam as pessoas que realmente executam os casos de uso. São representados por bonecos palito.
