@@ -87,7 +87,8 @@ nav:
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
 - Alálise (V&V):
-  - Grupo 6 - Letterboxd:
+  - Grupo 6 - Letterboxd: analise/verificacao_grupo6.md
+  - Verificação Simplenote:
     - Elicitação:
       #- Personas: analise/elicitacao/personas.md
       #- Questionário: analise/elicitacao/questionario.md
