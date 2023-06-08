@@ -22,7 +22,8 @@ Neste documento, será realizado a verificação do artefato sobre Priorização
 |      10       |                    Possui legenda nas tabelas e figuras?                    |             Incompleto            |
 |      11       |               Todas as tabelas e figuras estão visíveis no documento?       |                Não                |
 |      12       |               As técnicas foram aplicadas devidamente?                      |             Incompleto            |
-
+|      13       |                 Nenhum dos requisitos se repetem ?                          |             Nenhum se repete      |
+  
 <div style="text-align: center">
 <p>
 Tabela 1: Checklist acerca de priorização. (Fonte: autor, 2023).
