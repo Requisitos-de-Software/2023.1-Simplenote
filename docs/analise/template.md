@@ -1,7 +1,7 @@
-# Verificação - <Documento>
+# Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [<Documento>](<link para o documento>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
+Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
 
 ## Metodologia
 
@@ -26,15 +26,19 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 |Os revisores são pessoas diferentes dos autores?                                                             |        |          |
 |Existem atividades redundantes dentro do cronograma?                                                         |        |          |
 
-Tabela 1 - Checklist do <documento>
+Tabela 1 - Checklist do documento - fonte(Kauã,2023)
 
-## Checklist especifica
+## Checklist do conteúdo
 |Questão|Resposta|Observação|
 |-------|--------|----------|
 |       |        |          |
 
+Tabela 2 - Checklist dos pontos relativos ao conteúdo
+
 ## Problemas encontrados
-  
+
+## Sugestões
+
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
 
@@ -42,4 +46,4 @@ Tabela 1 - Checklist do <documento>
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
-| `1.0`  | 20/05/2023    | Criação do documento.              |  Kauã         | Beatriz e Leonardo |
+| `1.0`  | 08/06/2023    | Criação do documento.              |  Kauã         | Beatriz e Leonardo |
