@@ -1,15 +1,17 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
+Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Como respostas, podemos ter: 
+A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
 
 - Sim : caso um critério for atendido.
 - Não : caso um critério não for atendido.
 - Incompleto : caso um critério for parcialmente atendido.
+
+Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
 
 ## Checklist de documento
 |Questão|Resposta|Observação|
