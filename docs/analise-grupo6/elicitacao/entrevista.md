@@ -63,4 +63,4 @@ Apenas sugerir para que adicionem legenda na tabela de [Cronograma](https://requ
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |
 | ------ | ---------- | -------------------- | ----------- | ----------- |
 | `1.0`  | 26/05/2023 | Criação do documento | Ana Beatriz | -           |
-| `1.1`  | 26/05/2023 | Ajustes              | Ana Beatriz | -           |
+| `1.1`  | 09/06/2023 | Ajustes              | Ana Beatriz | -           |
