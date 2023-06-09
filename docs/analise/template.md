@@ -40,6 +40,12 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Observações e Problemas encontrados
 
+### ID56
+explicação ....
+
+### ID7 
+explicação ....
+
 ## Sugestões
 
 ## Bibliografia
