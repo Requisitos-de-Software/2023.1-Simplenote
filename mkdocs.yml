@@ -87,32 +87,32 @@ nav:
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
 - Alálise (V&V):
-  - Grupo 6 - Letterboxd: analise/verificacao_grupo6.md
-  - Verificação Simplenote:
+  - Verificação Grupo 6:
+    - Verificação geral: analise-grupo6/verificacao_grupo6.md
     - Elicitação:
-      #- Personas: analise/elicitacao/personas.md
-      #- Questionário: analise/elicitacao/questionario.md
-      #- Introspecção: analise/elicitacao/Introspecção.md
-      #- Glossário: analise/elicitacao/glossario.md
-      - Entrevista: analise/elicitacao/entrevista.md
-      #- Brainstorm: analise/elicitacao/brainstorming.md
-      - Priorização: analise/elicitacao/priorizacao.md
+      #- Personas: analise-grupo6/elicitacao/personas.md
+      #- Questionário: analise-grupo6/elicitacao/questionario.md
+      #- Introspecção: analise-grupo6/elicitacao/Introspecção.md
+      #- Glossário: analise-grupo6/elicitacao/glossario.md
+      - Entrevista: analise-grupo6/elicitacao/entrevista.md
+      #- Brainstorm: analise-grupo6/elicitacao/brainstorming.md
+      - Priorização: analise-grupo6/elicitacao/priorizacao.md
 
-    - Modelagem: 
-          - Modelagem Ágil:
-            - História de Usuário: analise/modelagem/Agil/Historias_de_usuario.md
-            - Backlog: analise/modelagem/Agil/backlog.md
-            #- NFR: analise/modelagem/nfr.md
-          - Léxicos: analise/modelagem/lexicos.md
-          #- Cenários: analise/modelagem/cenários.md
-          #- Casos de Uso: analise/modelagem/casos_de_uso.md
-          - Especificação Suplementar: analise/modelagem/especificacao_suplementar.md
+    - Modelagem:
+      - Modelagem Ágil:
+        - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
+        - Backlog: analise-grupo6/modelagem/Agil/backlog.md
+          #- NFR: analise-grupo6/modelagem/nfr.md
+      - Léxicos: analise-grupo6/modelagem/lexicos.md
+      #- Cenários: analise-grupo6/modelagem/cenários.md
+      #- Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
+      - Especificação Suplementar: analise-grupo6/modelagem/especificacao_suplementar.md
     - Planejamento:
-      - Cronograma : analise/planejamento/cronograma.md
-      - Ferramentas: analise/planejamento/ferramentas.md
-      #- Metodologias: analise/planejamento/metodologias.md
-      #- Aplicativo Selecionado: analise/planejamento/Aplicativo Selecionado.md
-
+      - Cronograma: analise-grupo6/planejamento/cronograma.md
+      - Ferramentas: analise-grupo6/planejamento/ferramentas.md
+        #- Metodologias: analise-grupo6/planejamento/metodologias.md
+        #- Aplicativo Selecionado: analise-grupo6/planejamento/Aplicativo Selecionado.md
+#- Verificação Simplenote:
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
