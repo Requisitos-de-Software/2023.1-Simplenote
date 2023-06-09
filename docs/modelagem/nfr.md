@@ -6,6 +6,7 @@ O Framework utiliza de softgoals, um objetivo que não possui uma clara definiç
 Não-Funcionais e podem estar inter-relacionados, expressando a influência de uma softgoal em outro.
 
 Os softgoals são separados em 3 tipos:
+
 - NFR Softgoal: É um requisito não-funcional que é considerado durante a análise, a fim de determinar se ele será ou não implementado. 
 Esses requisitos são vistos como atributos de qualidade e são avaliados para garantir que o produto final atenda aos padrões desejados. Em outras palavras, eles são critérios usados para avaliar a qualidade do produto.
 - Softgoal de Operacionalização: São funcionalidades que permitem viabilizar ou não as características abstratas. Ou seja, elas são responsáveis por transformar os requisitos não-funcionais em funcionalidades tangíveis, que podem ser implementadas no sistema. 
@@ -14,6 +15,7 @@ Em resumo, as funcionalidades são a materialização das características abstr
 Essa notação é uma forma de expressar ideias ou justificativas sobre o modelo e pode ajudar a explicar o raciocínio por trás de certas escolhas.
 
 Além dessa separação, cada um desses softgoals podem ser especificados, serem descritos em formade sub-requisitos:
+
 - Decomposição de Softgoal NFR: Essa técnica que permite uma melhor organização e compreensão dos softgoals NFR.
 - Decomposição de Operacionalização: Essa técnica possibilita a definição de uma solução geral e a criação de casos mais especificos.
 - Decomposição de Afirmação (Claims): Essa técnica permite reafirmar ou negar as justificativas específicas do projeto.
@@ -48,7 +50,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 ## Legenda 
 <div align="center">
   
-<img src="../img/legenda.png">
+<img src="../../img/legenda.png">
   
 </div>
 
@@ -60,7 +62,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="../img/usabilidade.png">
+<img src="../../img/usabilidade.png">
 <figcaption>Figura 2: NFR-1 Usabilidade </figcaption>
  
 </div>
@@ -69,7 +71,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="../img/disponibilidade.png">
+<img src="../../img/disponibilidade.png">
 <figcaption>Figura 3: NFR-2 Disponibilidade </figcaption>
  
 </div>
@@ -78,7 +80,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  
-<img src="../img/portabilidade.png">
+<img src="../../img/portabilidade.png">
  
 </div>
 
@@ -92,7 +94,7 @@ Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utili
 
 <div align="center"> 
 
-  <img src="../img/performance.png">
+  <img src="../../img/performance.png">
 
   </div>
   
