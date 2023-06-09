@@ -1,32 +1,48 @@
 # Verificação - Cronograma
 
 ## Introdução
-Este documento é destinado para a revisão do [cronograma](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Planejamento/cronograma.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
+Este documento é destinado para a revisão do [cronograma](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Planejamento/cronograma.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Como respostas, podemos ter: 
+A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
 
-- Sim (🟩) caso um critério for atendido.
-- Não (🟥) caso um critério não for atendido.
-- Incompleto (🟨) caso um critério for parcialmente atendido.
+- Sim : caso um critério for atendido.
+- Não : caso um critério não for atendido.
+- Incompleto : caso um critério for parcialmente atendido.
 
-## Checklist
+Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
+
+## Checklist de documento
+|ID|Questão|Resposta|Observação|
+|--|-------|--------|----------|
+| 1 |O artefato possui Introdução?                                                                              |  Sim   |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |  Sim   |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |  Sim   |          |
+|4|Todos os textos estão na norma padrão?                                                                       |  Sim   |          |
+|5|As tabelas são chamadas no texto?                                                                            |  Sim   |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |  Sim   |          |
+
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
+
+## Checklist do conteúdo
 |Questão|Resposta|
 |-------|--------|
-|As tarefas estão listadas de forma clara ?|🟩|
-|O documento possui introdução ?|🟩|
-|Há uma sequência lógica nas atividades ?|🟩|
-|As durações das tarefas são realistas ?|🟩|
-|As pessoas estão alocadas de forma coerente ?|🟩|
-|Cada tarefa possui pelo menos um autor e um revisor ?|🟩|
-|Há histórico de versão ?|🟩|
-|As tabelas possuem referências ?|🟩|
-|O cronograma possui datas de inicio e fim ?|🟩|
-|O cronograma estima uma data para gravação das entregas ?|🟩|
-|O cronograma possui todas as atividades esperadas até o final do semestre ? |🟩|
+|As tarefas estão listadas de forma clara ?|Sim|
+|Há uma sequência lógica nas atividades ?|Sim|
+|As durações das tarefas são realistas ?|Sim|
+|As pessoas estão alocadas de forma coerente ?|Sim|
+|Cada tarefa possui pelo menos um autor e um revisor ?|Sim|
+|O cronograma possui datas de inicio e fim ?|Sim|
+|O cronograma estima uma data para gravação das entregas ?|Sim|
+|O cronograma possui todas as atividades esperadas até o final do semestre ? |Sim|
 
-Tabela 1 - Checklist do cronograma
+<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
+
+
+## Observações e Problemas encontrados
+
+Nenhum problema crítico foi encontrado.
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
