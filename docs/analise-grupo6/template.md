@@ -16,12 +16,12 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-| 1 |O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          ||
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          ||
-|4|Todos os textos estão na norma padrão?                                                                       |        |          ||
-|5|As tabelas são chamadas no texto?                                                                            |        |          ||
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |       
+|1|O artefato possui Introdução?                                                                                |        |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
+|4|Todos os textos estão na norma padrão?                                                                       |        |          |
+|5|As tabelas são chamadas no texto?                                                                            |        |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
