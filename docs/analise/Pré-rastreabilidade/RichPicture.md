@@ -31,14 +31,14 @@ Tabela 1 - Checklist do documento
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-|1|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |      |          |
-|2|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |      |          |
-|3|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |      |          |
-|4|O componente atores está sendo utilizado corretamente?                                            |      | observação no texto|
-|5|O componente operações está sendo utilizado corretamente?                                         |      | observação no texto|
-|6|O componente fluxo está sendo utilizado corretamente?                                             |      | observação no texto|
-|7|O componente fronteira está sendo utilizado corretamente?                                         |      | observação no texto|
-|8|O componente banco de dados está sendo utilizado corretamente?                                    |      | observação no texto|
+|1|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |  sim    |          |
+|2|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |  sim    |          |
+|3|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |  sim    |          |
+|4|O componente atores está sendo utilizado corretamente?                                            |   sim   | observação no texto|
+|5|O componente operações está sendo utilizado corretamente?                                         |  sim    | observação no texto|
+|6|O componente fluxo está sendo utilizado corretamente?                                             |   sim   | observação no texto|
+|7|O componente fronteira está sendo utilizado corretamente?                                         |  sim    | observação no texto|
+|8|O componente banco de dados está sendo utilizado corretamente?                                    |   sim   | observação no texto|
 
 Tabela 2 - Checklist preechido
 
@@ -48,14 +48,13 @@ Serão feitas considerações acerca de alguns itens da tabela.
 ### ID4, ID5, ID6, ID7 e ID8
 Na RichPicture analisada, todos os elementos foram habilmente utilizados, resultando em uma representação clara e coerente. Os diferentes símbolos foram aplicados de maneira significativa, transmitindo informações relevantes sobre os atores, suas interações e as relações entre os diferentes componentes do sistema. 
 
-## Sugestões
-
 ## Bibliografia
 [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
+[2] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
-| `1.0`  | 08/06/2023    | Criação do documento.              |  Kauã         | Beatriz e Leonardo |
+| `1.0`  | 08/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
