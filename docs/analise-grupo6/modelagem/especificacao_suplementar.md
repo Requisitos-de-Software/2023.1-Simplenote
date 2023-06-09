@@ -1,7 +1,7 @@
 # Verificação - Especificação Suplementar
 
 ## Introdução
-Este documento é destinado para a revisão da [especificação suplementar](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd).
+Este documento é destinado para a revisão da [especificação suplementar](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd),vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 
 ## Metodologia
 
