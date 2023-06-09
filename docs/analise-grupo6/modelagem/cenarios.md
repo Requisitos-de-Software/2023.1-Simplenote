@@ -18,32 +18,36 @@ A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": p
 Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
 
 ## Checklist de documento
-|Questão|Resposta|Observação|
-|-------|--------|----------|
-|O artefato possui Introdução?                                                                                |    Sim    |          |
-|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    Sim    |          |
-|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    Sim    |          |
-|Todos os textos estão na norma padrão?                                                                       |    Sim    |          |
-|Os revisores são pessoas diferentes dos autores?                                                             |    Sim    |          |
+|ID|Questão|Resposta|Observação|
+|-|-------|--------|----------|
+|01|O artefato possui Introdução?                                                                                |    Sim    |          |
+|02|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    Sim    |          |
+|03|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    Sim    |          |
+|04|Todos os textos estão na norma padrão?                                                                       |    Sim    |          |
+|05|Os revisores são pessoas diferentes dos autores?                                                             |    Sim    |          |
 
 Tabela 1 - Checklist do documento - (Fonte: Autor,2023)
 
 ## Checklist do conteúdo
-|Questão|Resposta|Observação|
-|-------|--------|----------|
-| Existem especificações dos cenários para o projeto?    | Incompleto | Não há descrição dos elementos de um cenário |
-| Os cenários possuem título? | Sim |  |
-| Os cenários possuem metas/objetivo? | Sim |  |
-| Os cenários possuem contexto coerente? | Não | Houve uma interpretação diferente da elaboração de contexto |
-| Os cenários possuem atores? | Sim |  |
-| Os cenários possuem exceções? | Sim |  |
-| Os cenários possuem episódios coerentes com as metas/objetivos? | Sim |  |
-| Os cenários possuem recursos? | Sim |  |
+|ID|Questão|Resposta|Observação|
+|-|-------|--------|----------|
+|06| Existem especificações dos cenários para o projeto?    | Incompleto | Não há descrição dos elementos de um cenário |
+|07| Os cenários possuem título? | Sim |  |
+|08| Os cenários possuem metas/objetivo? | Sim |  |
+|09| Os cenários possuem contexto coerente? | Não | Houve uma interpretação diferente da elaboração de contexto |
+|10| Os cenários possuem atores? | Sim |  |
+|11| Os cenários possuem exceções? | Sim |  |
+|12| Os cenários possuem episódios coerentes com as metas/objetivos? | Sim |  |
+|13| Os cenários possuem recursos? | Sim |  |
 
 
 Tabela 2 - Checklist do conteúdo
 
 ## Problemas encontrados
+
+### ID 06, 09
+
+Antes de apresentar os cenários elaborados, deveria ter uma explicação sobre quais componentes fazem parte de um cenário, e a descrição de tais componentes.
 
 Segundo as fontes usadas para essa revisão, o Local e o Tempo do contexto se referem respectivamente ao local onde o usuário se encontra no momento em que usa a aplicação, e qual a data ou horário do dia essa aplicação está sendo usada. No documento analisado, esses termos foram interpretados como em qual janela da aplicação o usuário está, e quanto tempo o cenário dura.
 
