@@ -28,21 +28,22 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ||Os revisores são pessoas diferentes dos autores?                                                             |        |          ||
 ||Existem atividades redundantes dentro do cronograma?                                                         |        |          ||
 
-Tabela 1 - Checklist do documento - fonte(Kauã,2023)
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
 | |       |        |          |
 
-Tabela 2 - Checklist dos pontos relativos ao conteúdo
+<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
-## Problemas encontrados
+
+## Observações e Problemas encontrados
 
 ## Sugestões
 
 ## Bibliografia
-[1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
 
 ## Histórico de Versão
 
