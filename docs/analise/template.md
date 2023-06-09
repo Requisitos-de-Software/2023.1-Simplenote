@@ -14,26 +14,26 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
 
 ## Checklist de documento
-|Questão|Resposta|Observação|
-|-------|--------|----------|
-|O artefato possui Introdução?                                                                                |        |          |
-|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|Todos os textos estão na norma padrão?                                                                       |        |          |
-|As tarefas do cronograma possuem nomes condizentes?                                                          |        |          |
-|As tarefas do cronograma foram distribuidas entre os todos os integrantes?                                   |        |          |
-|O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                        |        |          |
-|As tabelas são chamadas no texto?                                                                            |        |          |
-|O cronograma executado é alterado de acordo com a realização das tarefas?                                    |        |          |
-|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
-|Existem atividades redundantes dentro do cronograma?                                                         |        |          |
+|ID|Questão|Resposta|Observação|
+|--|-------|--------|----------|
+| 1 |O artefato possui Introdução?                                                                                |        |          |
+||O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          ||
+||O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          ||
+||Todos os textos estão na norma padrão?                                                                       |        |          ||
+||As tarefas do cronograma possuem nomes condizentes?                                                          |        |          ||
+||As tarefas do cronograma foram distribuidas entre os todos os integrantes?                                   |        |          ||
+||O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                        |        |          ||
+||As tabelas são chamadas no texto?                                                                            |        |          ||
+||O cronograma executado é alterado de acordo com a realização das tarefas?                                    |        |          ||
+||Os revisores são pessoas diferentes dos autores?                                                             |        |          ||
+||Existem atividades redundantes dentro do cronograma?                                                         |        |          ||
 
 Tabela 1 - Checklist do documento - fonte(Kauã,2023)
 
 ## Checklist do conteúdo
-|Questão|Resposta|Observação|
-|-------|--------|----------|
-|       |        |          |
+|ID|Questão|Resposta|Observação|
+|-|-------|--------|----------|
+| |       |        |          |
 
 Tabela 2 - Checklist dos pontos relativos ao conteúdo
 
