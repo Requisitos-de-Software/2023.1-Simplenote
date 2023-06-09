@@ -25,7 +25,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -          |
 | 05  | As tarefas do cronograma possuem nomes condizentes?                                                    | Sim        | -          |
 | 06  | As tarefas do cronograma foram distribuidas entre os todos os integrantes?                             | Sim        | -          |
-| 07  | O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                  | Imcompleto |A tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas) não possui legenda|
+| 07  | O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                  | Imcompleto |[ID07](entrevista.md#observacoes-e-problemas-encontrados)|
 | 08  | As tabelas são chamadas no texto?                                                                      | Sim        | -          |
 | 09  | O cronograma executado é alterado de acordo com a realização das tarefas?                              | Sim        | -          |
 | 10  | Os revisores são pessoas diferentes dos autores?                                                       | Sim        | -          |
@@ -48,11 +48,11 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Observações e Problemas encontrados
 
-Antes de tudo, gostaria de pabenizar o empenho a respeito deste artefato que esta bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Apenas um ajuste a se fazer seria:
+Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que esta bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Apenas um ajuste a se fazer seria:
 
-### [ID07](entrevista.md#checklist-de-documento)
+### [ID07](entrevista.md#checklist-de-documento) - O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome? 
 
-- Adicionar legenda na tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas).
+- A tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas) não possui legenda.
 
 ## Sugestões
 
