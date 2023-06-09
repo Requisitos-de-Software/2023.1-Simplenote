@@ -17,16 +17,16 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
 | 1 |O artefato possui Introdução?                                                                                |        |          |
-||O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          ||
-||O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          ||
-||Todos os textos estão na norma padrão?                                                                       |        |          ||
-||As tarefas do cronograma possuem nomes condizentes?                                                          |        |          ||
-||As tarefas do cronograma foram distribuidas entre os todos os integrantes?                                   |        |          ||
-||O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                        |        |          ||
-||As tabelas são chamadas no texto?                                                                            |        |          ||
-||O cronograma executado é alterado de acordo com a realização das tarefas?                                    |        |          ||
-||Os revisores são pessoas diferentes dos autores?                                                             |        |          ||
-||Existem atividades redundantes dentro do cronograma?                                                         |        |          ||
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          ||
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          ||
+|4|Todos os textos estão na norma padrão?                                                                       |        |          ||
+|5|As tarefas do cronograma possuem nomes condizentes?                                                          |        |          ||
+|6|As tarefas do cronograma foram distribuidas entre os todos os integrantes?                                   |        |          ||
+|7|O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                        |        |          ||
+|8|As tabelas são chamadas no texto?                                                                            |        |          ||
+|9|O cronograma executado é alterado de acordo com a realização das tarefas?                                    |        |          ||
+|10|Os revisores são pessoas diferentes dos autores?                                                             |        |          ||
+|11|Existem atividades redundantes dentro do cronograma?                                                         |        |          ||
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
