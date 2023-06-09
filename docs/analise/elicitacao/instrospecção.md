@@ -48,4 +48,5 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
-| `1.0`  | 08/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
+| `1.0`  | 01/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
+| `1.1`  | 09/06/2023    | Alteração no template do arquivo   |  Beatriz      | Leonardo |
