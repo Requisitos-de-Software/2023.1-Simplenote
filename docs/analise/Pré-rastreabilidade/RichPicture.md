@@ -25,8 +25,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |7|O componente fronteira está sendo utilizado corretamente?                                         |     |          |
 |8|O componente banco de dados está sendo utilizado corretamente?                                    |     |          |
 
-
-Tabela 1 - Checklist do documento
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
@@ -40,7 +39,7 @@ Tabela 1 - Checklist do documento
 |7|O componente fronteira está sendo utilizado corretamente?                                         |  sim    | observação no texto|
 |8|O componente banco de dados está sendo utilizado corretamente?                                    |   sim   | observação no texto|
 
-Tabela 2 - Checklist preechido
+<p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
 ## Observações
 Serão feitas considerações acerca de alguns itens da tabela.
@@ -49,8 +48,8 @@ Serão feitas considerações acerca de alguns itens da tabela.
 Na RichPicture analisada, todos os elementos foram habilmente utilizados, resultando em uma representação clara e coerente. Os diferentes símbolos foram aplicados de maneira significativa, transmitindo informações relevantes sobre os atores, suas interações e as relações entre os diferentes componentes do sistema. 
 
 ## Bibliografia
-[1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
-[2] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
+> [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
+> [2] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
 
 ## Histórico de Versão
