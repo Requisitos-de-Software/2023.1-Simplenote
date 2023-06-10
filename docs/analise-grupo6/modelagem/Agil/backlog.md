@@ -63,7 +63,7 @@ Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que e
 
 ## Sugestões
 
-Para melhorar aidna mais o artefato é possivel fazer algumas alterações:
+Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 
 - Adicionar a Prioridade e o ID dos requisitos elicitados.
 - Adicionar o obrjetico do uso da técnica Backlog.

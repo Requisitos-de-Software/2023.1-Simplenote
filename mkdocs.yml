@@ -102,7 +102,7 @@ nav:
       - Modelagem Ágil:
         - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
         - Backlog: analise-grupo6/modelagem/Agil/backlog.md
-          #- NFR: analise-grupo6/modelagem/nfr.md
+        - NFR: analise-grupo6/modelagem/nfr.md
       - Léxicos: analise-grupo6/modelagem/lexicos.md
       #- Cenários: analise-grupo6/modelagem/cenários.md
       #- Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
@@ -112,7 +112,13 @@ nav:
       - Ferramentas: analise-grupo6/planejamento/ferramentas.md
         #- Metodologias: analise-grupo6/planejamento/metodologias.md
         #- Aplicativo Selecionado: analise-grupo6/planejamento/Aplicativo Selecionado.md
+    - Extra:
+      - GitPage: analise-grupo6/extras/gitpage.md
+      - Atas: analise-grupo6/extras/atas.md
+      
 #- Verificação Simplenote:
+
+
 - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
