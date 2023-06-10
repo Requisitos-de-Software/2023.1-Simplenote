@@ -18,7 +18,7 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 |[Início da etapa 3](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EZoPfEuO2AFFj1s8ctUed_EBM570csctoPsSm1SoaUIFfg?e=IpNYqe) | [Link](https://youtu.be/El_cwOEWp14)
 |[Início da etapa 4 ](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/ET0cLXPtA5RNkTa6TDa_BPwB8QUmMvR31_o7CPkXOJXNGQ?e=y1A0NJ)   | [Feita de forma presencial](https://unbbr-my.sharepoint.com/:i:/g/personal/211029497_aluno_unb_br/ERKoNKGXiQpBhrZ4-yRppUEBh_hzvNKimq6oJPt9-rMTKw?e=9dDfPX)|
 | [Entrega 5.1](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EfN-Uq17mS1Gn7_NABA_laMBkOsyba_wQTxBBjLPbGFA_Q?e=VCHPig)| Feita no Whatsapp
-
+| [Verificação e validação](https://unbbr-my.sharepoint.com/:b:/g/personal/211029497_aluno_unb_br/EZVINflYfH1OqQWNvFwZPbcBQGjzb-iCjTmB5k3rgh7rHQ?e=oRfU8H) | [Feita de forma presencial](https://unbbr-my.sharepoint.com/:i:/g/personal/211029497_aluno_unb_br/ERI3-4jbdHNGuobwbSv35G0BY1icuHHwCiY5FTtHzDqWoQ?e=JRQqWP)
 
 
 ## Bibliografia
@@ -31,5 +31,6 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 | `1.1` |31/05/2023|Atas das reuniões realizadas para a entrega 2| Mylena| Todos
 | `1.2` |11/05/2023|Atas das reuniões realizadas para a entrega 3 | Mylena| Todos
 | `1.3` |25/05/2023|Atas das reuniões realizadas para a entrega 4 e 5.1 | Mylena| Todos
+| `1.4` |10/06/2023|Atas das reuniões realizadas para a entrega 5.1 e 5.2 | Mylena| Todos
 
 
