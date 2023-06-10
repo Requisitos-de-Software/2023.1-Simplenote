@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão das [reuniões e apresentações](https://requisitos-de-software.github.io/2023.1-Letterboxd/reunioes/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 
 ## Metodologia
 
