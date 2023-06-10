@@ -21,7 +21,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 01  | A gitpage possui toda a documentação?                                   | Sim        |            |
 | 02  | O histórico de versão é padronizado?                                    | Sim        |            |
 | 03  | Tem autores e revisores em todos os artefatos?                          | Sim        |            |
-| 04  | Têm referências bibliográficas e/ou bibliografia em todos os artefatos? | Imcompleto |[ID04](gitpage.md#observacoes-e-problemas-encontrados) |
+| 04  | Têm referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto |[ID04](gitpage.md#observacoes-e-problemas-encontrados) |
 | 05  | Os artefatos estão padronizados?                                        | Sim        |            |
 | 06  | Possui uma página com o nome e foto dos integrantes?                    | Sim        |            |
 | 07  | Tem um cronograma planejado e realizado?                                | Sim        |            |
