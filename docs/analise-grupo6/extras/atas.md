@@ -18,12 +18,12 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|01|O artefato possui Introdução?                                                                                |     SIM   |          |
+|02|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   NÃO     |          |
+|03|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |      SIM  |          |
+|04|Todos os textos estão na norma padrão?                                                                       |      SIM  |          |
+|05|As tabelas são chamadas no texto?                                                                            |    NÃO    |          |
+|06|Os revisores são pessoas diferentes dos autores?                                                             |   SIM     |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
@@ -31,28 +31,29 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-|     |         |          |            |
-
+| 07   | As atas das reuniões tem data, horário de início e do final, participantes, objetivo, atividades definidas, assinatura?  |     SIM     |            |
+| 08   | Tem a gravação das reuniões? | SIM | |
+| 09   |  O título das atas são significativos?    |  Incompleto    | Não apresenta títulos únicos    |
+|    10 | É possível rastrear todas as atas/reuniões?|    SIM  |     |
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
-### ID56
+### ID08
 
-explicação ....
-
-### ID7
-
-explicação ....
+As atas das reuniões possuem um objetivo, porém se tivesse umn título mais significativo seria mais fácil de rastrear as reuniôes.
 
 ## Sugestões
 
+Adicionar na página ao que se refe a reunião, por exemplo em vez de escrever Reunião 17/04/2023, coloque Perfil do usuário e elicitação.
+
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf
+> [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
+> [2] SILVA, Leonardo. Ata de Reunião: O Que É, Como Fazer e Modelo Pronto. [S. l.], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 08/06/2023 | Criação do documento. | Kauã      | Beatriz e Leonardo |
+| `1.0`  | 10/06/2023 | Criação do documento. | Mylena     | Ana Beatriz |
