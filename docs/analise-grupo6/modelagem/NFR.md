@@ -15,32 +15,31 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
-|--|-------|--------|----------|
-| 1 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |        |          |
-| 2 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |        |          |
-| 3 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |        |          |
-| 4 |A modelagem NFR é adequada para o contexto do sistema em questão?                                              |        |          |
-| 5 |Não há requisitos desnecessários ou restritivos?                                                               |        |          |
-| 6 |A modelagem NFR está bem estruturada e organizada, facilitando a compreensão dos requisitos não funcionais?    |        |          |
-
+|-|-------|--------|----------|
+|01|O artefato possui Introdução?                                                                                |    Sim    |          |
+|02|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    Sim    |          |
+|03|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    Sim    |          |
+|04|Todos os textos estão na norma padrão?                                                                       |    Sim    |          |
+|05|As tabelas são mencionadas em texto?                                                                         |    Sim    |          |
+|06|Os revisores são pessoas diferentes dos autores?                                                             |    Sim    |          |
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-| 1 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |   sim     |          |
-| 2 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |   sim     |          |
-| 3 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |   sim     |          |
-| 4 |A modelagem NFR é adequada para o contexto do sistema em questão?                                              |   sim     |          |
-| 5 |Não há requisitos desnecessários ou restritivos?                                                               |   sim     |    observação no texto      |
-| 6 |A modelagem NFR está bem estruturada e organizada, facilitando a compreensão dos requisitos não funcionais?    |   sim     |          |
-| 7 |A modelagem NFR é abrangente o suficiente?                                                                     |   sim     | Não foi identificado nenhum requisito importante que tenha sido omitido ou esquecido
+| 7 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |   sim     |          |
+| 8 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |   sim     |          |
+| 9 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |   sim     |          |
+| 10 |A modelagem NFR é adequada para o contexto do sistema em questão?                                              |   sim     |          |
+| 11 |Não há requisitos desnecessários ou restritivos?                                                               |   sim     |    observação no texto      |
+| 12 |A modelagem NFR está bem estruturada e organizada, facilitando a compreensão dos requisitos não funcionais?    |   sim     |          |
+| 13 |A modelagem NFR é abrangente o suficiente?                                                                     |   sim     | Não foi identificado nenhum requisito importante que tenha sido omitido ou esquecido
 
 <p align="center"> Tabela 2 - Checklist Preenchido <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
-### ID5
+### ID11
 Todos os requisitos não funcionais incluídos na modelagem foram relevantes e trazem valor para o sistema/software em desenvolvimento. Requisitos desnecessários podem adicionar complexidade e custos adicionais sem trazer benefícios significativos. Os requisitos não funcionais não devem ser excessivamente limitantes ou restritivos para o desenvolvimento do sistema. É essencial encontrar um equilíbrio entre os requisitos não funcionais e as necessidades do sistema. Requisitos excessivamente restritivos podem restringir a flexibilidade do sistema ou impor limitações desnecessárias.
 
 ## Sugestões
