@@ -1,7 +1,7 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [Documento instrospecção](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/introspeccao/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão do [Documento instrospecção](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/introspeccao/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
 
@@ -15,30 +15,26 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
-|-|-------|--------|----------|
-|1| Foram considerarados as necessidades, expectativas, restrições, problemas e ideias relacionadas ao software?     |     |          |
-|2| O engenheiro obtem uma compreensão mais profunda das necessidades e expectativas do sistema?                     |     |          |
-|3| Os requisitos funcionais estão classificados de forma correta?                                                   |     |          |
-|4| Os requisitos não funcionais estão classificados de forma correta?                                               |     |          |
-
+|--|-------|--------|----------|
+|1|O artefato possui Introdução?                                                                                |    sim    |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    sim    |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    sim    |          |
+|4|Todos os textos estão na norma padrão?                                                                       |    sim    |          |
+|5|As tabelas são chamadas no texto?                                                                            |    sim    |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |    sim    |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
-## Checklist de documento
+## Checklist de conteúdo
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-|1| Foram considerarados as necessidades, expectativas, restrições, problemas e ideias relacionadas ao software?     |  sim   |          |
-|2| O engenheiro obtem uma compreensão mais profunda das necessidades e expectativas do sistema?                     |  sim   |          |
-|3| Os requisitos funcionais estão classificados de forma correta?                                                   |  sim   |          |
-|4| Os requisitos não funcionais estão classificados de forma correta?                                               |  sim   |          |
+|7| Foram considerarados as necessidades, expectativas, restrições, problemas e ideias relacionadas ao software?     |  sim   |          |
+|8| O engenheiro obtem uma compreensão mais profunda das necessidades e expectativas do sistema?                     |  sim   |          |
+|9| Os requisitos funcionais estão classificados de forma correta?                                                   |  sim   |          |
+|10| Os requisitos não funcionais estão classificados de forma correta?                                              |  sim   |          |
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
-## Observações e Problemas encontrados
-
-### ID1
-
-## Sugestões
 
 ## Bibliografia
 > [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: 09 de junho de 2023.
@@ -50,3 +46,5 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
 | `1.0`  | 01/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
 | `1.1`  | 09/06/2023    | Alteração no template do arquivo   |  Beatriz      | Leonardo |
+| `1.2`  | 11/06/2023    | Alteração na tabela documento      |  Beatriz      | Leonardo |
+
