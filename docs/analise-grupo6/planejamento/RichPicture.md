@@ -1,7 +1,7 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [documento RichPicture](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/richPicture/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão do [documento RichPicture](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/richPicture/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 3.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
 
@@ -15,36 +15,34 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
-|-|-------|--------|----------|
-|1|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |     |          |
-|2|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |     |          |
-|3|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |     |          |
-|4|O componente atores está sendo utilizado corretamente?                                            |     |          |
-|5|O componente operações está sendo utilizado corretamente?                                         |     |          |
-|6|O componente fluxo está sendo utilizado corretamente?                                             |     |          |
-|7|O componente fronteira está sendo utilizado corretamente?                                         |     |          |
-|8|O componente banco de dados está sendo utilizado corretamente?                                    |     |          |
+|--|-------|--------|----------|
+|1|O artefato possui Introdução?                                                                                |    sim    |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    sim    |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    sim    |          |
+|4|Todos os textos estão na norma padrão?                                                                       |    sim    |          |
+|5|As tabelas são chamadas no texto?                                                                            |    sim    |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |    sim    |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-|1|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |  sim    |          |
-|2|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |  sim    |          |
-|3|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |  sim    |          |
-|4|O componente atores está sendo utilizado corretamente?                                            |   sim   | observação no texto|
-|5|O componente operações está sendo utilizado corretamente?                                         |  sim    | observação no texto|
-|6|O componente fluxo está sendo utilizado corretamente?                                             |   sim   | observação no texto|
-|7|O componente fronteira está sendo utilizado corretamente?                                         |  sim    | observação no texto|
-|8|O componente banco de dados está sendo utilizado corretamente?                                    |   sim   | observação no texto|
+|7|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |  sim    |          |
+|8|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |  sim    |          |
+|9|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |  sim    |          |
+|10|O componente atores está sendo utilizado corretamente?                                           |  sim    | observação no texto|
+|11|O componente operações está sendo utilizado corretamente?                                        |  sim    | observação no texto|
+|12|O componente fluxo está sendo utilizado corretamente?                                            |  sim    | observação no texto|
+|13|O componente fronteira está sendo utilizado corretamente?                                        |  sim    | observação no texto|
+|14|O componente banco de dados está sendo utilizado corretamente?                                   |  sim    | observação no texto|
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
 ## Observações
 Serão feitas considerações acerca de alguns itens da tabela.
 
-### ID4, ID5, ID6, ID7 e ID8
+### ID10, ID11, ID12, ID13 e ID14
 Na RichPicture analisada, todos os elementos foram habilmente utilizados, resultando em uma representação clara e coerente. Os diferentes símbolos foram aplicados de maneira significativa, transmitindo informações relevantes sobre os atores, suas interações e as relações entre os diferentes componentes do sistema. 
 
 ## Bibliografia
@@ -58,3 +56,4 @@ Na RichPicture analisada, todos os elementos foram habilmente utilizados, result
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
 | `1.0`  | 08/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
+| `1.1`  | 11/06/2023    | Arrumando checklist documento.     |  Beatriz      | Leonardo |
