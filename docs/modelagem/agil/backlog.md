@@ -6,7 +6,7 @@ O backlog do produto é uma relação priorizada de requisitos e funcionalidades
 
 ## Metodologia
 
-O backlog do produto foi realizado a partir da análise e revisão dos requisitos funcionais coletados. Em seguida, esses requisitos foram agrupados em temas e épicos, que foram utilizados como base para criar [histórias de usuário]().
+O backlog do produto foi realizado a partir da análise e revisão dos requisitos funcionais coletados. Em seguida, esses requisitos foram agrupados em temas e épicos, que foram utilizados como base de criação as [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
 
 ## Elicitação de Requisitos
 
@@ -35,9 +35,9 @@ Serão apresentados todos os requisitos funcionais elicitados durante o processo
 |     RF17      |                                        Salvamento automático das notas                                        |       [GLO05](../../elicitacao/glossario.md#elicitacao-de-requisitos)        |
 |     RF18      |                        Capacidade de criar no dispositivo um arquivo cópia de uma nota                        |       [GLO06](../../elicitacao/glossario.md#elicitacao-de-requisitos)        |
 |     RF19      |                       Sincronização das notas em tempo real em diferentes dispositivos                        |       [ENT02](../../elicitacao/entrevista.md#elicitacao-de-requisitos)       |
-|     RF20      |                     Permitir a adição de etiquetas nas notas para facilitar a organização                     |        [ENT03](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
-|     RF21      |               Possuir um editor de texto avançado para permitir a utilização da função `toggle`               |        [ENT04](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
-|     RF22      |          Permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail           |        [ENT05](../../elicitacao/entrevista.md#elicitacao-de-requisitos)         |
+|     RF20      |                     Permitir a adição de etiquetas nas notas para facilitar a organização                     |       [ENT03](../../elicitacao/entrevista.md#elicitacao-de-requisitos)       |
+|     RF21      |               Possuir um editor de texto avançado para permitir a utilização da função `toggle`               |       [ENT04](../../elicitacao/entrevista.md#elicitacao-de-requisitos)       |
+|     RF22      |          Permitir o compartilhamento de notas com outras pessoas, por meio de um link ou por e-mail           |       [ENT05](../../elicitacao/entrevista.md#elicitacao-de-requisitos)       |
 |     RF23      |                                     O usuário deve poder editar Anotação                                      | [INT13](../../elicitacao/Introspec%C3%A7%C3%A3o.md#elicitacao-de-requisitos) |
 
 </center>
@@ -54,8 +54,8 @@ Serão apresentados todos os requisitos funcionais elicitados durante o processo
 
 Foram identificados dois grandes temas durante a etapa de verificação e análise dos requisitos. São eles:
 
-- Notas
-- Sistema
+- Notas: Engloba as funcionalidades relacionadas as notas do aplicativo como criação, visuzlização, edição e exclusão.
+- Sistema: Trata sobre as funcionalidades do sistema em si, envolvendo aspectos técnicos e de suporte.
 
 ## Épicos
 
@@ -63,68 +63,121 @@ Os épicos são muito importantes no desenvolvimento de produtos de software, co
 
 Neste tópico, os épicos foram divididos em histórias de usuário menores e mais detalhadas para que possam ser implementados em partes menores e iterativamente.
 
+Com base nos temas, foi possível criar os seguintes épicos:
+
+<center>
+
+<table>
+  <tr>
+    <th>Tema</th>
+    <th>Épicos</th>
+    <th>ID</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle">Notas</td>
+    <td>Gerenciamento de Notas: Todas as funcionalidades relacionadas as notas.</td>
+    <td>EP01</td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:middle" rowspan="2">Sistema</td>
+    <td>Organização de notas: Funcionalidades relacionadas à organização das notas.</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <td>Suporte para formatos avançados de Notas: Envolve as funcionalidades relacionadas ao suporte de formatos de notas.</td>
+    <td>EP03</td>
+  </tr>
+</table>
+
+</center>
+
+<p style="text-align: center"> Tabela 2: Épicos Definidos (Fonte: autores, 2023).</p>
+
+Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../agil/User_story.md).
+
 <details>
-   <summary>E01 - Escrever nota de tamanho variado</summary>
-   Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência
-   para que eu possa desenvolver minhas notas na aplicação.
+   <summary>E01 - Gerenciamento de Notas</summary>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Gerenciamento de notas</td>
+        <td>EP01</td>
+        <td>
+        <ul>
+            <li>US01: Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação.</li>
+            <li>US02: Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</li>
+            <li>US03: Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</li>
+            <li>US04: Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</li>
+            <li>US07: Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+    <div style="text-align: center">
+    <p>
+        Tabela 3: Épico - Gerenciamento de Notas (Fonte: autor, 2023).
+    </p>
+</div>
 </details>
 
 <details>
-   <summary>E02 - Visualizar notas</summary>
-   Eu, como usuário, desejo visualizar minhas notas, para que eu possa
-   desenvolver minhas notas na aplicação.
+   <summary>E02 - Organização de notas</summary>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Organização de notas</td>
+        <td>EP02</td>
+        <td>
+        <ul>
+            <li>US08: Eu, como usuário, desejo separar minhas notas com tags e filtrá-las caso queira.</li>
+            <li>US09: Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+    <div style="text-align: center">
+    <p>
+        Tabela 4: Épico - Organização de notas (Fonte: autor, 2023).
+    </p>
 </details>
 
 <details>
-   <summary>E03 - Editar notas</summary>
-   Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver
-   minhas notas na aplicação
+   <summary>E03 - Suporte a Formatos Avançados de Notas</summary>
+    <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Suporte a Formatos Avançados de Notas</td>
+        <td>EP03</td>
+        <td>
+        <ul>
+            <li>US10: Eu, como usuário, desejo escrever em LaTeX ou equivalentes para notas mais acadêmicas.</li>
+            <li>US11: Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+    <div style="text-align: center">
+    <p>
+        Tabela 5: Épico - Suporte a Formatos Avançados de Notas (Fonte: autor, 2023).
+    </p>
 </details>
 
-<details>
-   <summary>E04 - Recuperar dados deletados</summary>
-   Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a
-   lixeira.
-</details>
+## Product Backlog
 
-<details>
-   <summary>E05 - Suporte para diversos sistemas</summary>
-   Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para
-   que eu possa ter mais conforto para manipular minhas notas.
-</details>
-
-<details>
-   <summary>E06 - Enviar e receber notas</summary>
-   Eu, como usuário, desejo poder enviar e receber notas de múltiplas
-   plataformas.
-</details>
-
-<details>
-   <summary>E07 - Excluir notas</summary>
-   Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar
-   melhor no aplicativo.
-</details>
-
-<details>
-   <summary>E08 - Usar tags</summary>
-   Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso
-   queira.
-</details>
-
-<details>
-   <summary>E09 - Organizar notas</summary>
-   Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.
-</details>
-
-<details>
-   <summary>E10 - Escrever em Latex</summary>
-   Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.
-</details>
-
-<details>
-   <summary>E11 - escrever em Markdown</summary>
-   Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.
-</details>
+Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de Usuário (US), prioridade e origem dos requisitos.
 
 <table>
     <tr>
@@ -141,84 +194,44 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href="#epicos">E01</a></td>
+        <td style="vertical-align: middle; text-align: center" rowspan="5"> <a href="#epicos">E01</a></td>
         <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver
             minhas notas na aplicação.</td>
-        <td><a href="../User_story.md">US01</a></td>
+        <td><a href="../User_story">US01</a></td>
         <td>Must</td>
         <td><a href=#elicitacao-de-requisitos>RF06</td>
     </tr>
     <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E02</a></td>
         <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.
         </td>
-        <td><a href="../User_story.md">US02</a></td>
+        <td><a href="../User_story">US02</a></td>
         <td>Should</td>
         <td><a href=#elicitacao-de-requisitos>RF11</td>
     </tr>
     <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E03</a> </td>
         <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
-        <td><a href="../User_story.md">US03</a></td>
+        <td><a href="../User_story">US03</a></td>
         <td>Should</td>
         <td><a href=#elicitacao-de-requisitos>RF23</td>
     </tr>
     <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E04</a> </td>
         <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
-        <td><a href="../User_story.md">US04</a></td>
+        <td><a href="User_story.md">US04</a></td>
         <td>Should</td>
         <td><a href=#elicitacao-de-requisitos>RF08</td>
     </tr>
     <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E07</a> </td>
         <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
-        <td><a href="../User_story.md">US07</a></td>
+        <td><a href="../User_story">US07</a></td>
         <td>Must</td>
         <td><a href=#elicitacao-de-requisitos>RF07</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E08</a> </td>
-        <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
-        <td><a href="../User_story.md">US08</a></td>
-        <td>Could-Tags<br>Should-Filtrar</td>
-        <td><a href=#elicitacao-de-requisitos>RF20</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E09</a> </td>
-        <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
-        <td><a href="../User_story.md">US09</a></td>
-        <td>Should<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF13</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E10</a> </td>
-        <td>Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.</td>
-        <td><a href="../User_story.md">US10</a></td>
-        <td>Could<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF14</td>
-    </tr>
-    <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E11</a> </td>
-        <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
-        <td><a href="../User_story.md">US11</a></td>
-        <td>Could<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF10</td>
     </tr>
 
 </table>
 
 <div style="text-align: center">
     <p>
-        Tabela 2: Tema - Notas (Fonte: autor, 2023).
+        Tabela 6: Tema - Notas (Fonte: autor, 2023).
     </p>
 </div>
 
@@ -239,26 +252,36 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
     </tr>
     <tr>
         <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E05</a> </td>
-        <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.</td>
-        <td><a href="../User_story.md">US05</a></td>
+        <td style="vertical-align: middle; text-align: center" rowspan="2"> <a href=#epicos>E02</a> </td>
+        <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
+        <td><a href="../User_story">US08</a></td>
         <td>Must</td>
         <td><a href=#elicitacao-de-requisitos>RF19</td>
     </tr>
     <tr>
-        <!-- Épico -->
-        <td style="vertical-align: middle; text-align: center"> <a href=#epicos>E06</a> </td>
-        <!-- Histórias de Usuário (3) -->
-        <td>Eu, como usuário, desejo poder enviar e receber notas de múltiplas plataformas.</td>
-        <td><a href="../User_story.md">US06</a></td>
+        <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
+        <td><a href="../User_story">US09</a></td>
         <td>Could</td>
         <td><a href=#elicitacao-de-requisitos>RF09</td>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center" rowspan="2"> <a href=#epicos>E03</a> </td>
+        <td>Eu, como usuário, desejo escrever em LaTeX ou equivalentes para notas mais acadêmicas.</td>
+        <td><a href="../User_story">US10</a></td>
+        <td>Should<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF13</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
+        <td><a href="../User_story">US11</a></td>
+        <td>Could<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF14</td>
     </tr>
 </table>
 
 <div style="text-align: center">
     <p>
-        Tabela 3: Tema - Sistema (Fonte: autor, 2023).
+        Tabela 7: Tema - Sistema (Fonte: autor, 2023).
     </p>
 </div>
 
@@ -274,3 +297,4 @@ Neste tópico, os épicos foram divididos em histórias de usuário menores e ma
 | :----: | ---------- | ----------------- | --------------------------- | ------- |
 | `1.0`  | 11/05/2023 | Ana Beatriz       | Criação do artefato         | João    |
 | `1.1`  | 14/05/2023 | Ana Beatriz e Ian | Finalização da Tabela de RF | João    |
+| `1.2`  | 12/06/2023 | Ana Beatriz       | Ajustes                     | João    |
