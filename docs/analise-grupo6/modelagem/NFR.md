@@ -30,17 +30,13 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 7 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |   sim     |          |
 | 8 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |   sim     |          |
 | 9 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |   sim     |          |
-| 10 |A modelagem NFR é adequada para o contexto do sistema em questão?                                              |   sim     |          |
-| 11 |Não há requisitos desnecessários ou restritivos?                                                               |   sim     |    observação no texto      |
-| 12 |A modelagem NFR está bem estruturada e organizada, facilitando a compreensão dos requisitos não funcionais?    |   sim     |          |
-| 13 |A modelagem NFR é abrangente o suficiente?                                                                     |   sim     | Não foi identificado nenhum requisito importante que tenha sido omitido ou esquecido
+|10 |Os Softgoals NFR representam os Requisitos Não-Funcionais?                                                     |   sim     |          |
+|11 |Os Softgoals de Operacionalização representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização? |   sim     |  |
+|12 |Os Softgoals de Afirmação permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão?  |   Não utilizaram     |          |
+|13 |O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões? | Sim | O procedimento de avaliação determina se cada softgoal ou interdependência do SIG foi suficientemente satisfeito. |  
+|14| Os tipos de rótulos utilizados são: satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado? |Sim| |
 
 <p align="center"> Tabela 2 - Checklist Preenchido <br> Fonte: autores </p>
-
-## Observações e Problemas encontrados
-
-### ID11
-Todos os requisitos não funcionais incluídos na modelagem foram relevantes e trazem valor para o sistema/software em desenvolvimento. Requisitos desnecessários podem adicionar complexidade e custos adicionais sem trazer benefícios significativos. Os requisitos não funcionais não devem ser excessivamente limitantes ou restritivos para o desenvolvimento do sistema. É essencial encontrar um equilíbrio entre os requisitos não funcionais e as necessidades do sistema. Requisitos excessivamente restritivos podem restringir a flexibilidade do sistema ou impor limitações desnecessárias.
 
 ## Sugestões
 
@@ -55,3 +51,4 @@ Todos os requisitos não funcionais incluídos na modelagem foram relevantes e t
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
 | `1.0`  | 09/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
 | `1.1`  | 11/06/2023    | Arrumando checklist documento.     |  Beatriz      | Leonardo |
+| `1.1`  | 13/06/2023    | Arrumando questões do checklist.   |  Beatriz      | Leonardo |
