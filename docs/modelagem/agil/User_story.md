@@ -3,7 +3,7 @@
 ## Introdução
 Neste artefacto será realizado as histórias de usuário do aplicativo Simplenote. Histórias de usuário é uma tecnica de modelagem ágil que permite que a equipe entenda a necessidade do usuário e trabalhe em cima dessas necessidades de maneira eficiente.
 
-## Oque são histórias de usuário ?
+## O que são histórias de usuário ?
 
 Histórias de usuário são as menores unidades de trabalho de uma estrutura ágil que são escritas a partir da pespectiva de um usuário final, por vezes, em um projeto real, elas são quebradas em unidades menores que chamamos de "Spikes" feitas em reuniões de "refinamento". As mesmas visam contar uma "história" do porque uma feature é necessária para o produto de modo que seja mais fácil entender qual a finalidade de determinado requisito.
 As histórias possuem determinadas dimensões, são elas:
@@ -20,6 +20,7 @@ Com essas dimensões, podemos montar propriamente a estrutura das histórias de 
 
 ## Metodologia
 A princípio, durante o projeto foram elicitados os requisitos do aplicativo através de tecnicas como:
+
 - [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
 - [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
 - [Glossário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/glossario.md)
@@ -29,6 +30,7 @@ A princípio, durante o projeto foram elicitados os requisitos do aplicativo atr
 - [Storytelling](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/storytelling.md)
   
 Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
+
 - [FTF](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
 - [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
 - [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
