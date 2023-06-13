@@ -36,7 +36,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |12|As operações especificam o que o sistema faz?                                                       |  Sim    | Observação em texto |
 |13|Cada operação é executado por um ator ou outra operação?                                            |  Sim    | Observação em texto |
 |14|Nos componetes de banco de dados é mostrado o tipo de dados que eles contêm?                        |  Sim    | Observação em texto |
-|15|Seu sistema deve realizar tudo o que está dentro do limite do sistema?                              |  Sim    | Observação em texto | 
+|15|O sistema deve realizar tudo o que está dentro do limite do sistema?                                |  Sim    | Observação em texto | 
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
