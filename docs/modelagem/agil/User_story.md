@@ -40,7 +40,7 @@ Para escrever as histórias de usuário, devemos seguir as dimensões já especi
 
 - ID : Identificador das histórias de usuário, como o documento foi organizado em toggles, estão presentes no titulo dos mesmos.
 - História de usuário: Deve conter a estrutura (Eu, como ... desejo ... para que ...).
-- Épico: referente a qual épico a história está relacionada.
+- Tema: referente a qual tema a história está relacionada.
 - Critérios de aceitação: conjunto de atributos que uma funcionalidade deve ter para ser considerada "aceita".
 - Prioridade: Nível de importância da US no projeto, pode ser definida como alta, média ou baixa levando em conta fatores como valor para o usuário, facilidade de implementação, dependências tecnicas e restrições de prazo.
 
@@ -54,7 +54,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -79,7 +79,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -104,7 +104,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -129,7 +129,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -154,7 +154,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -179,7 +179,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -206,7 +206,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -232,7 +232,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -259,7 +259,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -284,7 +284,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -309,7 +309,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -334,7 +334,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -359,7 +359,7 @@ Em seguida, temos as histórias de usuário:
       <thead>
          <tr>
             <th>História de usuário</th>
-            <th>Épico</th>
+            <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
          </tr>
@@ -391,3 +391,4 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 | `1.0` |11/05/2023|Criação do documento| Kauã e João | Mylena |
 |`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena |
 |`1.2`|24/05/2023|Mudanças pontuais |Kauã|Mylena|
+|`1.3`|13/06/2023|Mudanças nas histórias de usuário e textos|Kauã|Mylena|
