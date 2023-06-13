@@ -2,14 +2,19 @@
 
 ## Introdução
 Histórias de usuário são as menores unidades de trabalho de uma estrutura ágil que são escritas a partir da pespectiva de um usuário final. O seu objetivo é articular como uma única tarefa oferece um valor ao cliente, elas combinam muito bem com metodologias ágeis como Scrum e Kanban.
+As histórias de usuário são pontos importantes da modelagem ágil pois trazem vários benefícios, como:
+- Ritmo de equipe: com os requisitos particionados, a equipe pode gerar um ritmo afim de gerar pequenos desafios semanalmente.
+- Permitem colaboração: incentivam o pensamento crítico da equipe afim de que possa atender melhor o usuário.
 
-## Metodologia 
-Para escrever as histórias de usuário, devemos ter as seguintes informações:
+## Metodologia
+Foi identificado os requisitos elicitados por meio das técnicas de introspecção,glossário, questionário e storytelling. Em seguida, foi feito a priorização dos mesmos através das técnicas Frist things Frist, Moscow e Three level scale.Para escrever as histórias de usuário, devemos ter as seguintes informações:
 
 - ID
 - História de usuário: Deve conter a estrutura (Eu, como ... desejo ... para que ...)
 - Tema
 - Critérios de aceitação
+
+Para finalizar, foi feito uma reunião com o PO do projeto para realizar a validação dos requisitos.
 
 ## Histórias de Usuário
 
