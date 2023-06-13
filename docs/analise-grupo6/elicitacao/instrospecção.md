@@ -30,9 +30,9 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |-|-------|--------|----------|
 |7| Foram considerarados as necessidades, expectativas, restrições, problemas e ideias relacionadas ao software?                         |  sim   |          |
 |8| É descrito o que engenheiro de requisitos gostaria de experimentar ao realizar uma determinada tarefa com os e recursos disponíveis? |  sim   |          |
-|8| O engenheiro obtém uma compreensão mais profunda das necessidades e expectativas do sistema?                                         |  sim   |          |
-|9| Os requisitos funcionais descrevem as funções que o software deve executar?                                                          |  sim   |          |
-|10| Os requisitos não funcionais são restrições ou requisitos de qualidade?                                                             |  sim   |          |
+|9| O engenheiro obtém uma compreensão mais profunda das necessidades e expectativas do sistema?                                         |  sim   |          |
+|10| Os requisitos funcionais descrevem as funções que o software deve executar?                                                         |  sim   |          |
+|11| Os requisitos não funcionais são restrições ou requisitos de qualidade?                                                             |  sim   |          |
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
