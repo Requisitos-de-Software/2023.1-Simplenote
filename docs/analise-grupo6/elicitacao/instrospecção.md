@@ -40,7 +40,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Bibliografia
 > [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: 09 de junho de 2023.
 > 
-> [2] BOURQUE, Pierre; FAIRLEY, Richard.E ; Guide to the Software Engineering Body of Knowledge. Disponível em: [Aprender3] (https://aprender3.unb.br/pluginfile.php/2523020/mod_resource/content/1/SWEBOKv3.pdf). Acesso em: 13 de junho de 2023.
+> [2] BOURQUE, Pierre; FAIRLEY, Richard.E ; Guide to the Software Engineering Body of Knowledge. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523020/mod_resource/content/1/SWEBOKv3.pdf). Acesso em: 13 de junho de 2023.
 
 ## Histórico de Versão
 
