@@ -378,6 +378,32 @@ Em seguida, temos as histórias de usuário:
    </div>
 </details>
 
+<details>
+   <summary>US14</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>História de usuário</th>
+            <th>Tema</th>
+            <th>Critérios de aceitação</th>
+            <th>Prioridade</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+           <td>Eu, como usuário, desejo poder fazer login no aplicativo através de outras plataformas como google ou facebook para melhorar minha interação com o aplicativo.</td>
+           <td>Notas</td>
+           <td>O sistema deve conter um campo de login.</br>O sistema deve conter uma interface para acesso do aplicativo tal como um de registro.</br>O aplicativo deve se ligar ao banco de dados do aplicativo selecionado.</td>
+           <td>Alta</td>
+         </tr>
+      </tbody>
+   </table>
+   <div style="text-align: center">
+      <p> Tabela 14: História de Usuário 14 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+
 ## Validação das histórias de usuário
 Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
 
