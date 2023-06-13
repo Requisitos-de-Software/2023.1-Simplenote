@@ -28,22 +28,25 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Checklist de documento
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-|7|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                        |  sim    |          |
-|8|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?        |  sim    |          |
-|9|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?      |  sim    |          |
-|10|O componente atores está sendo utilizado corretamente?                                           |  sim    | observação no texto|
-|11|O componente operações está sendo utilizado corretamente?                                        |  sim    | observação no texto|
-|12|O componente fluxo está sendo utilizado corretamente?                                            |  sim    | observação no texto|
-|13|O componente fronteira está sendo utilizado corretamente?                                        |  sim    | observação no texto|
-|14|O componente banco de dados está sendo utilizado corretamente?                                   |  sim    | observação no texto|
+|7|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                           |  Sim    |          |
+|8|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?           |  Sim    |          |
+|9|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?         |  Incompleto    | Possui a legenda dos simbolos, mas não possui uma explicação do que é cada um deles. |
+|10|Possui keywords (palavras-chavez) relevantes?                                                       |  Sim    | Observação em texto |
+|11|A rich picture conta uma história?                                                                  |  Sim    | Isso significa usar imagens, fotos, palavras-chave e rótulos descritivos, para dar ao leitor uma boa ideia do que está acontecendo.|
+|12|As operações especificam o que o sistema faz?                                                       |  Sim    | Observação em texto |
+|13|Cada operação é executado por um ator ou outra operação?                                            |  Sim    | Observação em texto |
+|14|Nos componetes de banco de dados é mostrado o tipo de dados que eles contêm?                        |  Sim    | Observação em texto |
+|15|Seu sistema deve realizar tudo o que está dentro do limite do sistema?                              |  Sim    | Observação em texto | 
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
 
 ## Observações
-Serão feitas considerações acerca de alguns itens da tabela.
 
-### ID10, ID11, ID12, ID13 e ID14
-Na RichPicture analisada, todos os elementos foram habilmente utilizados, resultando em uma representação clara e coerente. Os diferentes símbolos foram aplicados de maneira significativa, transmitindo informações relevantes sobre os atores, suas interações e as relações entre os diferentes componentes do sistema. 
+No documento Introducing Rich Pictures[1] é possivel encontrar uma explicação mais detalhada dos IDs 10,11,12,14,15.
+
+## Sugestões
+
+Adicionar uma explicação dos simbolos utilizados no diagrama.
 
 ## Bibliografia
 > [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
@@ -57,3 +60,4 @@ Na RichPicture analisada, todos os elementos foram habilmente utilizados, result
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
 | `1.0`  | 08/06/2023    | Criação do documento.              |  Beatriz      | Leonardo |
 | `1.1`  | 11/06/2023    | Arrumando checklist documento.     |  Beatriz      | Leonardo |
+| `1.2`  | 13/06/2023    | Ajustando perguntas do checklist.  |  Beatriz      | Leonardo |
