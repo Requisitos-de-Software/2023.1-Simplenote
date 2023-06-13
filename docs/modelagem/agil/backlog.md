@@ -174,6 +174,33 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
         Tabela 5: Épico - Suporte a Formatos Avançados de Notas (Fonte: autor, 2023).
     </p>
 </details>
+  
+ </details>
+
+<details>
+   <summary>E04 - Suporte Multiplataforma</summary>
+    <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Suporte Multiplataforma</td>
+        <td>EP04</td>
+        <td>
+        <ul>
+            <li>US13: Eu, como usuário, desejo poder fazer login no aplicativo para acessar minhas notas.</li>
+            <li>US14: Eu, como usuário, desejo poder fazer login no aplicativo através de outras plataformas como google ou facebook para melhorar minha interação com o aplicativo.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+    <div style="text-align: center">
+    <p>
+        Tabela 6: Épico - Suporte Multiplataforma (Fonte: autor, 2023).
+    </p>
+</details>
 
 ## Product Backlog
 
@@ -231,7 +258,7 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
 
 <div style="text-align: center">
     <p>
-        Tabela 6: Tema - Notas (Fonte: autor, 2023).
+        Tabela 7: Tema - Notas (Fonte: autor, 2023).
     </p>
 </div>
 
@@ -281,7 +308,7 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
 
 <div style="text-align: center">
     <p>
-        Tabela 7: Tema - Sistema (Fonte: autor, 2023).
+        Tabela 8: Tema - Sistema (Fonte: autor, 2023).
     </p>
 </div>
 
