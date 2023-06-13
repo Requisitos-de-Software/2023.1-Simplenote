@@ -48,4 +48,4 @@ Nenhum problema crítico foi encontrado.
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 20/05/2023    | Criação do documento.              | Ian          | - |
+| `1.0`  | 13/06/2023    | Criação do documento.              | Ian          | - |

@@ -51,4 +51,4 @@ O documento não foi criado ou encontrado, sugiro que criem o mesmo realizando u
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 01/06/2023    | Criação do documento.              | Ian          | - |
+| `1.0`  | 13/06/2023    | Criação do documento.              | Ian          | - |
