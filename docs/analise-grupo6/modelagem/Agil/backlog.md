@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato [Backlog](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/Metodologias%20Ageis/backlog/), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Neste documento, será realizado a verificação do artefato [Backlog](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/Metodologias%20Ageis/backlog/), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+<br> Foi feita a vericação da versão 1.1 do artefato no dia 27/05/2023.
 
 ## Metodologia
 
@@ -68,4 +69,4 @@ Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |
 | ------ | ---------- | -------------------- | ----------- | ----------- |
 | `1.0`  | 27/05/2023 | Criação do documento | Ana Beatriz | -           |
-| `1.1`  | 09/06/2023 | Ajsutes              | Ana Beatriz | -           |
+| `1.1`  | 09/06/2023 | Ajsutes              | Ana Beatriz |Mylena       |
