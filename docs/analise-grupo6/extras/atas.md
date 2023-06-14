@@ -35,18 +35,18 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 07   | As atas das reuniões tem data, horário de início e do final, participantes, objetivo, atividades definidas, assinatura?  |     SIM     |            |
 | 08   | Tem a gravação das reuniões? | SIM | |
 | 09   |  O título das atas são significativos?    |  Incompleto    | Não apresenta títulos únicos    |
-|    10 | É possível rastrear todas as atas/reuniões?|    SIM  |     |
+| 10 | É possível rastrear todas as atas/reuniões? |    SIM  |     |
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
 ### ID08
 
-As atas das reuniões possuem um objetivo, porém se tivesse umn título mais significativo seria mais fácil de rastrear as reuniôes.
+As atas das reuniões possuem um objetivo, porém se tivesse um título mais significativo seria mais fácil de rastrear as reuniôes.
 
 ## Sugestões
 
-Adicionar na página ao que se refe a reunião, por exemplo em vez de escrever Reunião 17/04/2023, coloque Perfil do usuário e elicitação.
+Adicionar na página ao que se refere a reunião, por exemplo em vez de escrever Reunião 17/04/2023, coloque Perfil do usuário e elicitação.
 
 ## Bibliografia
 
