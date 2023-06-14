@@ -45,9 +45,11 @@ Tabela 2 - Checklist do conteúdo
 
 ## Problemas encontrados
 
-### ID 06, 09
+### ID 06
 
 Antes de apresentar os cenários elaborados, deveria ter uma explicação sobre quais componentes fazem parte de um cenário, e a descrição de tais componentes.
+
+## ID 09
 
 Segundo as fontes usadas para essa revisão, o Local e o Tempo do contexto se referem respectivamente ao local onde o usuário se encontra no momento em que usa a aplicação, e qual a data ou horário do dia essa aplicação está sendo usada. No documento analisado, esses termos foram interpretados como em qual janela da aplicação o usuário está, e quanto tempo o cenário dura.
 
