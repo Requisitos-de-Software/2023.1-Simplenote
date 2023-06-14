@@ -1,7 +1,8 @@
 # Verificação - Aplicativo Selecionado
 
 ## Introdução
-Este documento é destinado para a revisão de [App do Projeto](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/app/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 1.0 do artefato no dia 13/06/2023.
+Este documento é destinado para a revisão de [App do Projeto](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/app/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 13/06/2023.
 
 ## Metodologia
 
