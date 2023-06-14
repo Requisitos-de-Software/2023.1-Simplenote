@@ -29,7 +29,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|7|Existe alguém relacionado ao app para validar as histórias?|Não||
+|7|Existe alguém relacionado ao app para validar as histórias?|Não|  |
 |8|Essa validação é verificável? |Sim||
 |9|As histórias de usuário seguem um padrão?|Sim||
 |10|As histórias possuem critério de aceitação?|Sim||
@@ -44,9 +44,9 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
-ID7 e ID15 - Não foi encontrado nenhum agente que pudesse realizar a validação do documento.
-ID14 - Não foi encontrado nenhuma prioridade anexada as US.
-ID17 - Não foi encontrado nenhum indicativo de esforõ para cada US.
+### ID7 e ID15 - Não foi encontrado nenhum agente que pudesse realizar a validação do documento.
+### ID14 - Não foi encontrado nenhuma prioridade anexada as US.
+### ID17 - Não foi encontrado nenhum indicativo de esforõ para cada US.
 
 ## Sugestões
 Adicionar as prioridades e estimativas de esforço em cada US e realizar uma validação com um PO.
@@ -60,5 +60,5 @@ Adicionar as prioridades e estimativas de esforço em cada US e realizar uma val
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 24/05/2023    | Criação do documento.              |  João, Kauã e Mylena  | ------------- |
 | `1.1`  | 04/06/2023    | Atualização do documento           |  João, Kauã e Mylena  | ------------- |
-| `1.2`  | 13/06/2023    | Adição de perguntas                | Kauã                  |               |
+| `1.2`  | 13/06/2023    | Adição de perguntas                | Kauã                  |  Mylena      |
 
