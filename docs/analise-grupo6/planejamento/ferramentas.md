@@ -1,4 +1,4 @@
-# Verificação - Priorização
+# Verificação - Ferramentas
 
 ## Introdução
 
