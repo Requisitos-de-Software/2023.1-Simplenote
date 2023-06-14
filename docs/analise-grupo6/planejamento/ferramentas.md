@@ -26,23 +26,21 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |       4       |                              Possui introdução?                             |                Sim                |                 |
 |       5       |            O documento possui referências bibliográficas?                   |                Sim                |                 |
 
-<div style="text-align: center">
-<p>
-Tabela 1: Checklist acerca de ferramentas. (Fonte: autor, 2023).
-</p>
-</div>
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 
 | Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :------------:  |
-|       1       |    Foi escolhida uma ferramenta adequada para rastrear os requisitos?       |                Sim                |                 |
-|       2       |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |                Sim                |                 |
-|       3       |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |                Sim                |                 |
-|       4       |          Foi selecionada uma ferramenta adequada para prototipação?         |                Sim                |                 |
-|       5       |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |                Sim                |                 |
-|       6       |     Foi selecionada uma ferramenta adequada para documentação?              |                Sim                |                 |
-|       7       |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |                Sim                |                 |
+|       6       |    Foi escolhida uma ferramenta adequada para rastrear os requisitos?       |                Sim                |                 |
+|       7       |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |                Sim                |                 |
+|       8       |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |                Sim                |                 |
+|       9       |          Foi selecionada uma ferramenta adequada para prototipação?         |                Sim                |                 |
+|       10      |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |                Sim                |                 |
+|       11      |     Foi selecionada uma ferramenta adequada para documentação?              |                Sim                |                 |
+|       12      |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |                Sim                |                 |
+
+<p align="center"> Tabela 1 - Checklist do conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
