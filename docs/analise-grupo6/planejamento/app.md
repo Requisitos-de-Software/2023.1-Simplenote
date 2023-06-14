@@ -26,12 +26,12 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
-|Questão|Resposta|
-|-------|--------|
-|É justificado a motivação da escolha do aplicativo?|Sim|
-|É apresentado para que serve o aplicativo selecionado?|Sim|
-|As imagens apresentadas possuem fonte e legenda?|Sim|
-|O aplicativo selecionado permite engenharia reversa?|Sim|
+| ID|Questão|Resposta|
+|------|-------|--------|
+|7|É justificado a motivação da escolha do aplicativo?|Sim|
+|8|É apresentado para que serve o aplicativo selecionado?|Sim|
+|9|As imagens apresentadas possuem fonte e legenda?|Sim|
+|10|O aplicativo selecionado permite engenharia reversa?|Sim|
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
@@ -48,4 +48,4 @@ Nenhum problema crítico foi encontrado.
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 13/06/2023    | Criação do documento.              | Ian          | - |
+| `1.0`  | 13/06/2023    | Criação do documento.              | Ian          | Mylena|
