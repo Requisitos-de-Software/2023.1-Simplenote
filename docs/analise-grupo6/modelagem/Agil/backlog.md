@@ -38,10 +38,9 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | --- | ------------------------------------------------------------------- | -------- | ------------------------------------------------------ |
 | 12  | O artefato contém o objetivo do uso da técnica?                     | Não      | [ID12](backlog.md#observacoes-e-problemas-encontrados) |
 | 13  | O backlog segue os épicos?                                          | Sim      | -                                                      |
-| 14  | Apresenta uma tabela com os requisitos elicitados de cada épico?    | Não      | [ID14](backlog.md#observacoes-e-problemas-encontrados) |
-| 15  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |
-| 16  | Os requisitos listados estão vinculados a uma história de usuário ? | Sim      | -                                                      |
-| 17  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
+| 14  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |
+| 15  | Os requisitos listados estão vinculados a uma história de usuário ? | Sim      | -                                                      |
+| 16  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -57,17 +56,12 @@ Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que e
 
 - O artefato não possui o objetivo do uso da técnica.
 
-### [ID14](backlog.md#checklist-de-documento) - Apresenta uma tabela com os requisitos elicitados de cada épico?
-
-- O artefato não apresenta uma tabela com os requisitos elicitados de cada épico.
-
 ## Sugestões
 
 Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 
 - Adicionar a Prioridade e o ID dos requisitos elicitados.
 - Adicionar o obrjetico do uso da técnica Backlog.
-- Adicionar os requisitos que foram possíveis elicitar com os épicos.
 
 ## Histórico de Versão
 
