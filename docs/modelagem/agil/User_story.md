@@ -407,7 +407,7 @@ Em seguida, temos as histórias de usuário:
 
 
 ## Validação das histórias de usuário
-Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
+Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às 21 horas,após a entrevista, foram feitas as alterações necessárias.
 
 ### Bibliografia
 [1] https://www.atlassian.com/br/agile/project-management/user-stories </br>
