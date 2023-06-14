@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefacto sobre as Ferramentas utilizadas, desenvolvido pelo grupo 6 - Letterboxd (<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
+Neste documento, será realizado a verificação do artefato sobre as Ferramentas utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
 
 ## Metodologia
 
@@ -12,33 +12,34 @@ A verificação foi feita por meio da insperção, utilizando uma checklist com 
 - Não : caso um critério não for atendido.
 - Incompleto : caso um critério for parcialmente atendido.
 
-Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra na qual se encontram as sugestões de soluções dos mesmos.
+Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefato em estudo e outra na qual se encontram as sugestões de soluções dos mesmos.
 
 ## Checklist de documento
 
 ### Ferramentas
 
-| Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
+| ID |                                   Questão                                   | Resposta  | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :------------:  |
-|       1       |        Possui versionamento com versão, descrição, autor e revisor?         |                Sim                |                 |
-|       2       |                       O documento está 100% compreensível?                  |                Sim                |                 |
-|       3       |                     As ferramentas estão apresentadas de maneira clara?     |                Sim                |                 |
-|       4       |                              Possui introdução?                             |                Sim                |                 |
-|       5       |            O documento possui referências bibliográficas?                   |                Sim                |                 |
+|       1       | O artefato possui Introdução?       |                Sim                |                 |
+|       2       |  O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                 |                Sim                |                 |
+|       3       | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?    |                Sim                |                 |
+|       4       | Todos os textos estão na norma padrão?                           |                Sim                |                 |
+|       5       | As tabelas são chamadas no texto?                 |                Sim                |                 |
+|       6       | Os revisores são pessoas diferentes dos autores?               |                Sim                |                 |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 
-| Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
+| ID |                                   Questão                                   | Resposta  | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :------------:  |
-|       6       |    Foi escolhida uma ferramenta adequada para rastrear os requisitos?       |                Sim                |                 |
-|       7       |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |                Sim                |                 |
-|       8       |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |                Sim                |                 |
-|       9       |          Foi selecionada uma ferramenta adequada para prototipação?         |                Sim                |                 |
-|       10      |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |                Sim                |                 |
-|       11      |     Foi selecionada uma ferramenta adequada para documentação?              |                Sim                |                 |
-|       12      |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |                Sim                |                 |
+|      7       |    Foi escolhida uma ferramenta adequada para rastrear os requisitos?       |                Sim                |                 |
+|       8       |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |                Sim                |                 |
+|       9      |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |                Sim                |                 |
+|       10      |          Foi selecionada uma ferramenta adequada para prototipação?         |                Sim                |                 |
+|       11      |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |                Sim                |                 |
+|       12     |     Foi selecionada uma ferramenta adequada para documentação?              |                Sim                |                 |
+|       13      |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |                Sim                |                 |
 
 <p align="center"> Tabela 1 - Checklist do conteúdo <br> Fonte: autores </p>
 
@@ -59,4 +60,4 @@ Não há nenhuma sugestão a ser feita.
 | Versão | Data       | Descrição                  | Autor(es)    | Revisor(es) |
 | ------ | ---------- | -------------------------- | ------------ | ----------- |
 | `1.0`  | 20/05/2023 | Criação do documento       |    João      |     -       |
-| `1.1`  | 14/06/2023 | Atualização do documento   |    João      |     -       |
+| `1.1`  | 14/06/2023 | Atualização do documento   |    João      |    Mylena      |
