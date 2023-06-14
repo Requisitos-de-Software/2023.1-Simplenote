@@ -25,7 +25,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |5|As tabelas são chamadas no texto?                                                                            |   sim     |          |
 |6|Os revisores são pessoas diferentes dos autores?                                                             |   sim     |          |
 
-<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: Autores </p>
 
 ## Checklist do conteúdo
 
@@ -38,7 +38,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |  5  | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |  sim        |            |
 
 
-<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
+<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: Autores </p>
 
 ## Sugestões
 
