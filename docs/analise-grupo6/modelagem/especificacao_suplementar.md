@@ -27,7 +27,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
-||-------|--------|----------|
+|--|-------|--------|----------|
 |7|O documento aborda sobre a estética e o design na Usabilidade?|Sim|
 |8|O documento é orientado pelo padrão FURPS+?|Sim|
 |9|O documento fala sobre a Satisfação na Usabilidade?|Sim|
