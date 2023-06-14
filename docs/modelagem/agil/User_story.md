@@ -1,4 +1,11 @@
 # Histórias de Usuário
+## Participantes
+Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
+|Nome|Cargo|
+|----|-----|
+|Júlio César|PO|
+|Kauã|Equipe de desenvolvimento|
+|Ana Beatriz|Equipe de desenvolvimento|
 
 ## Introdução
 Neste artefacto será realizado as histórias de usuário do aplicativo Simplenote. Histórias de usuário é uma tecnica de modelagem ágil que permite que a equipe entenda a necessidade do usuário e trabalhe em cima dessas necessidades de maneira eficiente.
