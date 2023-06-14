@@ -27,20 +27,29 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
-|Questão|Resposta|
-|-------|--------|
-|O documento possui padronização?|Sim|
-|O documento possui versionamento?|Sim|
-|Existe alguém relacionado ao app para validar as histórias?|não|
-|Essa validação é verificável? |Não|
-|As histórias de usuário seguem um padrão?|Sim|
-|As histórias possuem critério de aceitação?|Sim|
-|Épicos possuem nome, descrição e feature relacionados?|Sim|
+|ID|Questão|Resposta|Observação|
+|--|-------|--------|----------|
+|7|Existe alguém relacionado ao app para validar as histórias?|Não||
+|8|Essa validação é verificável? |Sim||
+|9|As histórias de usuário seguem um padrão?|Sim||
+|10|As histórias possuem critério de aceitação?|Sim||
+|11|Épicos possuem nome, descrição e feature relacionados?|Sim||
+|12|Os critérios de aceitação estão definidos para cada história de usuário?|Sim||
+|13|Os critérios de aceitação são concisos com as suas respectivas histórias de usuário?|Sim||
+|14|Cada história de usuário possui uma prioridade atribuída?|Não||
+|15|Todas as histórias de usuário passaram por um processo de refinamento?|Não|Reunião com PO|
+|16|Todas as informações necessárias estão presentes e são consistentes em todo o documento?|Sim||
+|17|As estimativas de esforço foram registradas para cada história de usuário?|Não||
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
-Não foi encontrado nenhum problema crítico.
+ID7 e ID15 - Não foi encontrado nenhum agente que pudesse realizar a validação do documento.
+ID14 - Não foi encontrado nenhuma prioridade anexada as US.
+ID17 - Não foi encontrado nenhum indicativo de esforõ para cada US.
+
+## Sugestões
+Adicionar as prioridades e estimativas de esforço em cada US e realizar uma validação com um PO.
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
@@ -51,3 +60,5 @@ Não foi encontrado nenhum problema crítico.
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 24/05/2023    | Criação do documento.              |  João, Kauã e Mylena  | ------------- |
 | `1.1`  | 04/06/2023    | Atualização do documento           |  João, Kauã e Mylena  | ------------- |
+| `1.2`  | 13/06/2023    | Adição de perguntas                | Kauã                  |               |
+
