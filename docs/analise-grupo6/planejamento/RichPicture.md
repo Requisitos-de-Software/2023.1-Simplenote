@@ -1,7 +1,8 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [documento RichPicture](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/richPicture/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 3.0 do artefato no dia 11/06/2023.
+Este documento é destinado para a revisão do [documento RichPicture](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/richPicture/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+<br> Foi feita a vericação da versão 3.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
 
