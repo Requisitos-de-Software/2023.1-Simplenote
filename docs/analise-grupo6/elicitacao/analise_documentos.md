@@ -26,7 +26,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |5|As tabelas são chamadas no texto?                                                                            |    Sim    |          |
 |6|Os revisores são pessoas diferentes dos autores?                                                             |    Sim    |          |
 
-<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
+<p align="center"> Tabela 1 - Checklist do documento <br> Fonte: Autores </p>
 
 ## Checklist do conteúdo
 
@@ -39,7 +39,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |  11  |   Houve alguma forma de catalogação dos documentos utilizados na análise?  |  Incompleto  |   Há apeanas a menção da fonte dos documentos na bibliografia  |
 |  12  | Os requisitos elicitados são coerentes com as informações presentes no documento?  | Sim  |   |
 | 13  | A classificação dos requisitos em relação à funcionalidade está correta de acordo com a teoria?  | Sim  |   |
-<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
+<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: Autores </p>
 
 ## Observações e Problemas encontrados
 
