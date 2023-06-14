@@ -34,7 +34,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |10| Os requisitos funcionais descrevem as funções que o software deve executar?                                                         |  sim   |          |
 |11| Os requisitos não funcionais são restrições ou requisitos de qualidade?                                                             |  sim   |          |
 
-<p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
+<p align="center"> Tabela 2: Checklist preechido <br> Fonte: Autores </p>
 
 
 ## Bibliografia
