@@ -27,11 +27,11 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 07  | Tem um cronograma planejado e realizado?                                | Sim        |            |
 | 08  | Tem o termo de uso?                                                     | Sim        |            |
 
-<p align="center"> Tabela 2 - Checklist dos pontos gerais do docuemnto <br> Fonte: autores </p>
+<p align="center"> Tabela 2 - Checklist dos pontos gerais do documento <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
-Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que esta bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Para ficar ainda melhor é recomendável fazer alguns ajustes:
+Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefacto que está bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Para ficar ainda melhor é recomendável fazer alguns ajustes:
 
 ### [ID04](gitpage.md#checklist-de-documento) - Têm referências bibliográficas e/ou bibliografia em todos os artefatos?
 
