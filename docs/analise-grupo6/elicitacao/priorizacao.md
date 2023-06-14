@@ -27,21 +27,22 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist do conteúdo
 
-| Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
+| ID |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :----:|
-|       1       |               Foram utilizadas pelo menos 2 técnicas de priorização?        |                Sim                |
-|       2       |          A técnica que foi utilizada para priorização é descrita?           |                Sim                |
-|       3       |       Os requisitos são identificados em funcionais e não funcionais?       |                Não                |
-|       4       |           Há uma explicação de cada tipo de prioridade?                     |                Sim                | 
-|       5       |               As técnicas foram aplicadas devidamente?                      |             Incompleto            |
-|       6       |                 Nenhum dos requisitos se repetem ?                          |           Nenhum se repete        |
+|       7       |               Foram utilizadas pelo menos 2 técnicas de priorização?         |                Sim                |
+|       8       |          A técnica que foi utilizada para priorização é descrita?            |                Sim                |
+|       9       |       Os requisitos são identificados em funcionais e não funcionais?        |                Não                |
+|       10       |           Há uma explicação de cada tipo de prioridade?                     |                Sim                | 
+|       11       |                 Nenhum dos requisitos se repetem ?                          |           Nenhum se repete        |
   
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 
 ## Observações e Problemas encontrados
-
+ID 9 - Os requisitos não estão divididos em funcionais e não funcionais.
+## Sugestões
+Dividir os requisitos em funcionais e não funcionais
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                  | Autor(es)    | Revisor(es) |
