@@ -31,30 +31,22 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-|  1  |         |          |            |
-|  2  |         |          |            |
-|  3  |         |          |            |
-|  4  |         |          |            |
-
+|  1  | Foram coletados dados para a criação do perfil de usuário?                          |  sim        | Foi utilizado um questionário para coleta de dados. |
+|  2  | O perfil de usuário é caracterizado por dados sobre o próprio usuário?              |  sim        |            |
+|  4  | O perfil de usuário é caracterizado por dados sobre sua relação com tecnologia?     |  sim        |            |
+|  5  | O perfil de usuário é caracterizado com seu conhecimento do domínio do produto?     |  sim        |            |
+|  5  | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |  sim        |            |
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
-## Observações e Problemas encontrados
-
-### ID56
-
-explicação ....
-
-### ID7
-
-explicação ....
-
 ## Sugestões
+
+- Adicionar bibliografia 
 
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
 ## Histórico de Versão
 
