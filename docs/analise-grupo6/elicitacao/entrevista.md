@@ -37,6 +37,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 09  | Os requisitos funcionais e não funcionais foram abordados adequadamente?            | Sim      | -          |
 | 10  | O entrevistador investigou os requisitos em diferentes cenários e contextos de uso? | Sim      | -          |
 | 11  | No artefato é apresentado os dados demográficos dos entrevistados?                  | Sim      | -          |
+| 12  | O cronograma da entrevista foi feita em uma tabela ? Se sim, elas possuem fonte e nome?|Incompleto| -       |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -44,7 +45,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que esta bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Apenas um ajuste a se fazer seria:
 
-### O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome? 
+### ID12 - O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome? 
 - A tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas) não possui legenda.
 
 ## Sugestões
