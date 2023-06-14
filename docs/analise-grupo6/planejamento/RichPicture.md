@@ -31,18 +31,14 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |7|O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                           |  Sim    |          |
 |8|Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?           |  Sim    |          |
 |9|No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?         |  Incompleto    | Possui a legenda dos simbolos, mas não possui uma explicação do que é cada um deles. |
-|10|Possui keywords (palavras-chavez) relevantes?                                                       |  Sim    | Observação em texto |
+|10|Possui keywords (palavras-chavez) relevantes?                                                       |  Sim    |  |
 |11|A rich picture conta uma história?                                                                  |  Sim    | Isso significa usar imagens, fotos, palavras-chave e rótulos descritivos, para dar ao leitor uma boa ideia do que está acontecendo.|
-|12|As operações especificam o que o sistema faz?                                                       |  Sim    | Observação em texto |
-|13|Cada operação é executado por um ator ou outra operação?                                            |  Sim    | Observação em texto |
-|14|Nos componetes de banco de dados é mostrado o tipo de dados que eles contêm?                        |  Sim    | Observação em texto |
-|15|O sistema deve realizar tudo o que está dentro do limite do sistema?                                |  Sim    | Observação em texto | 
+|12|As operações especificam o que o sistema faz?                                                       |  Sim    |  |
+|13|Cada operação é executado por um ator ou outra operação?                                            |  Sim    |  |
+|14|Nos componetes de banco de dados é mostrado o tipo de dados que eles contêm?                        |  Sim    |  |
+|15|O sistema deve realizar tudo o que está dentro do limite do sistema?                                |  Sim    |  | 
 
 <p align="center"> Tabela 2: Checklist preechido <br> Fonte: autores </p>
-
-## Observações
-
-No documento Introducing Rich Pictures[1] é possivel encontrar uma explicação mais detalhada dos IDs 10,11,12,14,15.
 
 ## Sugestões
 
