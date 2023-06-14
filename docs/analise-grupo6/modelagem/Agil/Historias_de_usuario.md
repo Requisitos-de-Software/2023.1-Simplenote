@@ -3,7 +3,7 @@
 
 ## Introdução
 Este documento é destinado para a revisão das [historias de usuário]( https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/Metodologias%20Ageis/historiaUsuario/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
-
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 24/05/2023.
 ## Metodologia
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
