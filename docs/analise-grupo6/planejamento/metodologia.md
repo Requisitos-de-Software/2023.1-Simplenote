@@ -25,21 +25,25 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
-|Questão|Resposta|
-|-------|--------|
-|A introdução apresenta o contexto do projeto e a importância das metodologias abordadas?|Não|
-|Os objetivos das metodologias estão alinhados com os objetivos gerais do projeto?|Não|
-|As metodologias utilizadas estão descritas de forma detalhada?|Não|
-|Cada metodologia possui uma explicação clara de como será implementada?|Não|
-|Existe uma justificativa para a escolha das metodologias utilizadas?|Não|
-|A justificativa leva em consideração os benefícios e limitações de cada metodologia?|Não|
-|Os recursos necessários para a implementação das metodologias estão listados?|Não|
+|ID|Questão|Resposta|Observação|
+|--|-------|--------|----------|
+|7|A introdução apresenta o contexto do projeto e a importância das metodologias abordadas?|Não||
+|8|Os objetivos das metodologias estão alinhados com os objetivos gerais do projeto?|Não||
+|9|As metodologias utilizadas estão descritas de forma detalhada?|Não||
+|10|Cada metodologia possui uma explicação clara de como será implementada?|Não||
+|11|Existe uma justificativa para a escolha das metodologias utilizadas?|Não||
+|12|A justificativa leva em consideração os benefícios e limitações de cada metodologia?|Não||
+|13|Os recursos necessários para a implementação das metodologias estão listados?|Não||
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 
 ## Observações e Problemas encontrados
 O documento não foi criado ou encontrado, sugiro que criam o mesmo abordando fatores como método de trabalho, justificando-os e explicando suas vantagens.
+
+## Sugestão
+
+O documento não foi criado ou encontrado.
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
