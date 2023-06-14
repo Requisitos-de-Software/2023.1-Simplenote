@@ -26,16 +26,16 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
-|Questão|Resposta|
-|-------|--------|
-|As tarefas estão listadas de forma clara ?|Sim|
-|Há uma sequência lógica nas atividades ?|Sim|
-|As durações das tarefas são realistas ?|Sim|
-|As pessoas estão alocadas de forma coerente ?|Sim|
-|Cada tarefa possui pelo menos um autor e um revisor ?|Sim|
-|O cronograma possui datas de inicio e fim ?|Sim|
-|O cronograma estima uma data para gravação das entregas ?|Sim|
-|O cronograma possui todas as atividades esperadas até o final do semestre ? |Sim|
+|ID|Questão|Resposta|Observação|
+|--|-------|--------|----------|
+|7|As tarefas estão listadas de forma clara ?|Sim||
+|8|Há uma sequência lógica nas atividades ?|Sim||
+|9|As durações das tarefas são realistas ?|Sim||
+|10|As pessoas estão alocadas de forma coerente ?|Sim||
+|11|Cada tarefa possui pelo menos um autor e um revisor ?|Sim||
+|12|O cronograma possui datas de inicio e fim ?|Sim||
+|13|O cronograma estima uma data para gravação das entregas ?|Sim||
+|14|O cronograma possui todas as atividades esperadas até o final do semestre ? |Sim||
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -43,6 +43,10 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Observações e Problemas encontrados
 
 Nenhum problema crítico foi encontrado.
+
+## Sugestões
+
+Não há nenhuma sugestão a ser feita.
 
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
