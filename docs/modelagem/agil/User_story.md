@@ -45,6 +45,7 @@ Para escrever as histórias de usuário, devemos seguir as dimensões já especi
 - Tema: referente a qual tema a história está relacionada.
 - Critérios de aceitação: conjunto de atributos que uma funcionalidade deve ter para ser considerada "aceita".
 - Prioridade: Nível de importância da US no projeto, pode ser definida como alta, média ou baixa levando em conta fatores como valor para o usuário, facilidade de implementação, dependências tecnicas e restrições de prazo.
+- Dificuldade de Implementaçao(DI): relacionado a dificultade de implementar, podemos defini-la em baixa, média e alta.
 
 ## Histórias de Usuário
 Em seguida, temos as histórias de usuário:
@@ -59,14 +60,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir escrever notas de tamanho variável.</br>O sistema deve salvar a nota em até 1 segundo.</br>O sistema deve disponibilizar o salvamento automatico das notas.</td>
+           <td>-O sistema deve permitir escrever notas de tamanho variável.</br>-O sistema deve salvar a nota em até 1 segundo.</br>-O sistema deve disponibilizar o salvamento automatico das notas.</td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -84,14 +87,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir visualizar minhas notas na aplicação.</br>O sistema carregar as notas sem internet.</td>
+           <td>-O sistema deve permitir visualizar minhas notas na aplicação.</br>-O sistema carregar as notas sem internet.</td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -109,14 +114,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir editar as notas já criadas.</td>
+           <td>-O sistema deve permitir editar as notas já criadas.</td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -134,14 +141,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
            <td>Notas</td>
-           <td>O sistema deve ser capaz de recuperar notas deletados.</br>O sistema deve disponibilizar as notas movidas para a lixeira para visualização</td>
+           <td>-O sistema deve ser capaz de recuperar notas deletados.</br>-O sistema deve disponibilizar as notas movidas para a lixeira para visualização</td>
            <td>Média</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -159,14 +168,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo utilizar o aplicativo em diversas plataformas para que eu possa ter mais conforto para manipular minhas notas.</td>
+           <td>Eu, Como usuário, desejo que minhas notas sejam sincronizadas automaticamente em todos os meus dispositivos, garantindo que eu tenha acesso atualizado em qualquer lugar.</td>
            <td>Sistema</td>
-           <td>O Aplicativo oferecer suporte para diversos sistemas operacionais.</br>O aplicativo deve fornecer interfaces adaptadas para cada tipo de plataforma</td>
+           <td>-O Aplicativo oferecer suporte para diversos sistemas operacionais.</br>-O aplicativo deve fornecer interfaces adaptadas para cada tipo de plataforma.</br>-O Aplicativo deve manter sempre as notas atualizadas em qualquer dispositivo</td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -184,16 +195,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo poder enviar e receber notas de múltiplas plataformas.</td>
+           <td>Eu como usuário, quero poder desenhar à mão livre em minhas notas para adicionar esboços, diagramas ou ideias visualmente.</td>
            <td>Sistema</td>
-           <td>O usuário deve ser capaz de enviar notas para dispositivos diferentes.</br>
-               O usuário deve ser capaz de receber notas de plataformas diferentes.
-          </td>
-            <td>Alta</td>
+           <td>-O usuário deve ser fazer desenhos no aplicativo.</br>-O usuário deve ter em sua disposição elementos para montar diagramas.</td>
+            <td>Baixa</td>
+            <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -211,14 +222,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
            <td>Notas</td>
-           <td>O sistema deve ser capaz de excluir as notas.</br>O sistema deve permitir haver uma "lixeira" para armazenar as notas excluidas </td>
+           <td>-O sistema deve ser capaz de excluir as notas.</br>-O sistema deve permitir haver uma "lixeira" para armazenar as notas excluidas </td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -237,17 +250,17 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
            <td>Notas</td>
-           <td>
-            O sistema deve poder utilizar-se de tags editáveis. </br>
-            O sistema deve poder filtrar minhas notas usando as tags.</td>
-         </tr>
-         <td>Baixa</td>
+           <td>-O sistema deve poder utilizar-se de tags editáveis. </br>-O sistema deve poder filtrar minhas notas usando as tags.</td>
+           <td>Baixa</td>
+           <td>Baixa</td>
+        </tr>
       </tbody>
    </table>
    <div style="text-align: center">
@@ -264,13 +277,15 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
            <td>Notas</td>
-           <td>O sistema deve ser capaz de organizar as notas em pastas.</br>O sistema deve ser capaz de pesquisar por estas pastas</br>O sistema deve permitir a visualização de todas as pastas.</td>
+           <td>-O sistema deve ser capaz de organizar as notas em pastas.</br>-O sistema deve ser capaz de pesquisar por estas pastas</br>-O sistema deve permitir a visualização de todas as pastas.</td>
+           <td>Baixa</td>
            <td>Baixa</td>
          </tr>
       </tbody>
@@ -289,13 +304,15 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo escrever em Latex ou equivalentes para notas mais acadêmicas.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir escrever em outros formatos como o Latex.</td>
+           <td>-O sistema deve permitir escrever em outros formatos como o Latex.</td>
+           <td>Baixa</td>
            <td>Baixa</td>
          </tr>
       </tbody>
@@ -314,13 +331,15 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir escrever em Markdown.</td>
+           <td>-O sistema deve permitir escrever em Markdown.</td>
+           <td>Baixa</td>
            <td>Baixa</td>
          </tr>
       </tbody>
@@ -339,14 +358,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td>Eu, como usuário, desejo poder anexar imagens as minhas notas para maior dinamicidade com o aplicativo.</td>
            <td>Notas</td>
-           <td>O sistema deve permitir com que o usuário anexe imagens as notas.</br>O sistema deve poder salvar essas imagens em até 1 segundo.</td>
+           <td>-O sistema deve permitir com que o usuário anexe imagens as notas.</br>-O sistema deve poder salvar essas imagens em até 1 segundo.</td>
            <td>Média</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -364,14 +385,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo poder fazer login no aplicativo para acessar minhas notas.</td>
+           <td> Eu, como usuário, desejo poder baixar uma cópia de uma nota no meu dispositivo para acessá-la offline ou para fins de backup.</td>
            <td>Notas</td>
-           <td>O sistema deve conter um campo de login.</br>O sistema deve conter uma interface para acesso do aplicativo tal como um de registro</td>
+           <td>-O usuário deve poder acessar a nota offline.</br>-O usuário deve poder baixar a cópia de uma nota na interface do aplicativo.</td>
            <td>Alta</td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -389,14 +412,16 @@ Em seguida, temos as histórias de usuário:
             <th>Tema</th>
             <th>Critérios de aceitação</th>
             <th>Prioridade</th>
+            <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo poder fazer login no aplicativo através de outras plataformas como google ou facebook para melhorar minha interação com o aplicativo.</td>
+           <td>Eu como usuário, quero que minhas notas sejam salvas automaticamente enquanto eu as edito, para evitar perda de dados em caso de falhas ou interrupções inesperadas.</td>
            <td>Notas</td>
-           <td>O sistema deve conter um campo de login.</br>O sistema deve conter uma interface para acesso do aplicativo tal como um de registro.</br>O aplicativo deve se ligar ao banco de dados do aplicativo selecionado.</td>
+           <td>-O sistema deve salvar as notas automaticamente</td>
            <td>Alta</td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -407,7 +432,7 @@ Em seguida, temos as histórias de usuário:
 
 
 ## Validação das histórias de usuário
-Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às 21 horas,após a entrevista, foram feitas as alterações necessárias.
+Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que está disponivel [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às 21 horas,após a entrevista, foram feitas as alterações necessárias.
 
 ### Bibliografia
 [1] https://www.atlassian.com/br/agile/project-management/user-stories </br>
