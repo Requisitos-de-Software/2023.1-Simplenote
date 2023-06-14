@@ -26,15 +26,15 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
-|Questão|Resposta|
-|-------|--------|
-|O documento aborda sobre a estética e o design na Usabilidade?|Sim|
-|O documento é orientado pelo padrão FURPS+?|Sim|
-|O documento fala sobre a Satisfação na Usabilidade?|Sim|
-|O documento fala sobre a disponibilidade na Confiabilidade?|Sim|
-|O documento fala sobre a rapidez na resposta no Desempenho?|Sim|
-|O documento fala sobre a compatibilidade na Suportabilidade ?|Não|
-|O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade?|Incompleto|
+|ID|Questão|Resposta|Observação|
+||-------|--------|----------|
+|7|O documento aborda sobre a estética e o design na Usabilidade?|Sim|
+|8|O documento é orientado pelo padrão FURPS+?|Sim|
+|9|O documento fala sobre a Satisfação na Usabilidade?|Sim|
+|10|O documento fala sobre a disponibilidade na Confiabilidade?|Sim|
+|11|O documento fala sobre a rapidez na resposta no Desempenho?|Sim|
+|12|O documento fala sobre a compatibilidade na Suportabilidade ?|Não|
+|13|O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade?|Incompleto|
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
