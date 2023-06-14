@@ -55,4 +55,4 @@ Não há nenhuma sugestão a ser feita.
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 20/05/2023    | Criação do documento.              | Kauã          | ------------- |
+| `1.0`  | 20/05/2023    | Criação do documento.              | Kauã          | Mylena |
