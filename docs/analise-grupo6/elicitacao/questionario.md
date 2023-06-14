@@ -3,7 +3,7 @@
 ## Introdução
 
 Este documento é destinado para a revisão do [questionário](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/perfil/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
-Foi feita a vericação da versão 2.0 do artefato no dia 10/06/2023.
+<br> Foi feita a vericação da versão 2.0 do artefato no dia 10/06/2023.
 ## Metodologia
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter:
