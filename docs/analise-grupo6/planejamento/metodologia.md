@@ -52,4 +52,4 @@ O documento não foi criado ou encontrado.
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 01/06/2023    | Criação do documento.              | Kauã          | ------------- |
+| `1.0`  | 01/06/2023    | Criação do documento.              | Kauã          | Mylena |
