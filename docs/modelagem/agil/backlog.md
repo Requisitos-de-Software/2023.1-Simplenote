@@ -4,9 +4,27 @@
 
 O backlog do produto é uma relação priorizada de requisitos e funcionalidades do projeto que trazem benefícios comerciais para o cliente. Novos itens podem ser acrescentados ao backlog em qualquer momento durante o projeto. Os requisitos são descritos em diferentes níveis de abstração, que variam desde temas, que são a forma mais abstrata, até histórias de usuário, que são a forma mais concreta.
 
+O Backlog do Produto foi escolhido pois ele prioriza as necessidades e desejos do cliente em um projeto, oferecendo flexibilidade, transparência e comunicação eficaz, permitindo ajustes rápidos de acordo com as mudanças. Sendo assim, o backlog do produto garante a satisfação do cliente e impulsiona o sucesso do projeto.
+
 ## Metodologia
 
-O backlog do produto foi realizado a partir da análise e revisão dos requisitos funcionais coletados. Em seguida, esses requisitos foram agrupados em temas e épicos, que foram utilizados como base de criação as [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
+O backlog do produto foi realizado a partir da análise e revisão dos requisitos funcionais coletados. Em seguida, esses requisitos foram agrupados em temas e épicos, que foram utilizados como base para criação das [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
+
+- [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
+- [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
+- [Glossário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/glossario.md)
+- [Instrospecção](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)
+- [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md)
+- [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md)
+- [Storytelling](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/storytelling.md)
+
+Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
+
+- [FTF](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
+- [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
+- [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
+
+Os épicos e temas foram escritos de maneira ágil e padronizada, garantindo consistência com os requisitos funcionais identificados. Para garantir a qualidade do documento, uma validação foi realizada por meio de uma reunião com o pseudo-Product Owner (PO) do projeto. Nessa reunião, foi discutido e revisado o conteúdo, buscando alinhar as expectativas e garantir que as necessidades do projeto fossem adequadamente refletidas no backlog do produto.
 
 ## Elicitação de Requisitos
 
@@ -80,13 +98,17 @@ Com base nos temas, foi possível criar os seguintes épicos:
   </tr>
 
   <tr>
-    <td style="vertical-align:middle" rowspan="2">Sistema</td>
+    <td style="vertical-align:middle" rowspan="3">Sistema</td>
     <td>Organização de notas: Funcionalidades relacionadas à organização das notas.</td>
     <td>EP02</td>
   </tr>
   <tr>
     <td>Suporte para formatos avançados de Notas: Envolve as funcionalidades relacionadas ao suporte de formatos de notas.</td>
     <td>EP03</td>
+    </tr>
+    <tr>
+    <td>Sincronização e armazenamento de notas: Garante a sincronização automática de notas em todos os dispositivos.</td>
+    <td>EP04</td>
   </tr>
 </table>
 
@@ -120,7 +142,7 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
     </table>
     <div style="text-align: center">
     <p>
-        Tabela 3: Épico - Gerenciamento de Notas (Fonte: autor, 2023).
+        Tabela 3: Épico 1 - Gerenciamento de Notas (Fonte: autor, 2023).
     </p>
 </div>
 </details>
@@ -146,7 +168,7 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
     </table>
     <div style="text-align: center">
     <p>
-        Tabela 4: Épico - Organização de notas (Fonte: autor, 2023).
+        Tabela 4: Épico 2 - Organização de notas (Fonte: autor, 2023).
     </p>
 </details>
 
@@ -165,20 +187,21 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
         <ul>
             <li>US10: Eu, como usuário, desejo escrever em LaTeX ou equivalentes para notas mais acadêmicas.</li>
             <li>US11: Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</li>
+            <li>US12: Eu, como usuário, desejo poder anexar imagens as minhas notas para maior dinamicidade com o aplicativo.</li>
         </ul>
         </td>
     </tr>
     </table>
     <div style="text-align: center">
     <p>
-        Tabela 5: Épico - Suporte a Formatos Avançados de Notas (Fonte: autor, 2023).
+        Tabela 5: Épico 3 - Suporte a Formatos Avançados de Notas (Fonte: autor, 2023).
     </p>
 </details>
   
  </details>
 
 <details>
-   <summary>E04 - Suporte Multiplataforma</summary>
+   <summary>E04 - Sincronização e armazenamento de notas</summary>
     <table>
     <tr>
         <th>Épico</th>
@@ -186,19 +209,21 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
         <th>Descrição</th>
     </tr>
     <tr>
-        <td>Suporte Multiplataforma</td>
+        <td>Sincronização e armazenamento de notas</td>
         <td>EP04</td>
         <td>
         <ul>
-            <li>US13: Eu, como usuário, desejo poder fazer login no aplicativo para acessar minhas notas.</li>
-            <li>US14: Eu, como usuário, desejo poder fazer login no aplicativo através de outras plataformas como google ou facebook para melhorar minha interação com o aplicativo.</li>
+            <li>US05: Eu, como usuário, desejo que minhas notas sejam sincronizadas automaticamente em todos os meus dispositivos, garantindo que eu tenha acesso atualizado em qualquer lugar.</li>
+            <li>US06: Eu, como usuário, desejo poder desenhar à mão livre em minhas notas para adicionar esboços, diagramas ou ideias visualmente.</li>
+            <li>US13: Eu, como usuário, desejo poder baixar uma cópia de uma nota no meu dispositivo para acessá-la offline ou para fins de backup.</li>
+            <li>US14: Eu, como usuário, desejo que minhas notas sejam salvas automaticamente enquanto eu as edito, para evitar perda de dados em caso de falhas ou interrupções inesperadas.</li>
         </ul>
         </td>
     </tr>
     </table>
     <div style="text-align: center">
     <p>
-        Tabela 6: Épico - Suporte Multiplataforma (Fonte: autor, 2023).
+        Tabela 6: Épico 4 - Sincronização e armazenamento de notas (Fonte: autor, 2023).
     </p>
 </details>
 
@@ -225,32 +250,32 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
         <td>Eu, como usuário, desejo escrever uma nota com tamanho de minha preferência para que eu possa desenvolver
             minhas notas na aplicação.</td>
         <td><a href="../User_story">US01</a></td>
-        <td>Must</td>
+        <td>Alta</td>
         <td><a href=#elicitacao-de-requisitos>RF06</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo visualizar minhas notas, para que eu possa desenvolver minhas notas na aplicação.
         </td>
         <td><a href="../User_story">US02</a></td>
-        <td>Should</td>
+        <td>Alta</td>
         <td><a href=#elicitacao-de-requisitos>RF11</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo editar minhas notas, para que eu possa desenvolver minhas notas na aplicação.</td>
         <td><a href="../User_story">US03</a></td>
-        <td>Should</td>
-        <td><a href=#elicitacao-de-requisitos>RF23</td>
+        <td>Alta</td>
+        <td><a href=#elicitacao-de-requisitos>RF06</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo poder recuperar minhas notas após movê-las para a lixeira.</td>
         <td><a href="User_story.md">US04</a></td>
-        <td>Should</td>
+        <td>Média</td>
         <td><a href=#elicitacao-de-requisitos>RF08</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo excluir minhas notas para que eu possa me organizar melhor no aplicativo.</td>
         <td><a href="../User_story">US07</a></td>
-        <td>Must</td>
+        <td>Alta</td>
         <td><a href=#elicitacao-de-requisitos>RF07</td>
     </tr>
 
@@ -282,27 +307,54 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
         <td style="vertical-align: middle; text-align: center" rowspan="2"> <a href=#epicos>E02</a> </td>
         <td>Eu, como usuário, desejo separar minhas notas com tags, e filtrá-las caso queira.</td>
         <td><a href="../User_story">US08</a></td>
-        <td>Must</td>
-        <td><a href=#elicitacao-de-requisitos>RF19</td>
+        <td>Baixa</td>
+        <td><a href=#elicitacao-de-requisitos>RF20</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo separar minhas notas em pastas para que eu possa me organizar melhor no aplicativo.</td>
         <td><a href="../User_story">US09</a></td>
-        <td>Could</td>
-        <td><a href=#elicitacao-de-requisitos>RF09</td>
+        <td>Baixa</td>
+        <td><a href=#elicitacao-de-requisitos>RF13</td>
     <tr>
         <!-- Épico -->
         <td style="vertical-align: middle; text-align: center" rowspan="2"> <a href=#epicos>E03</a> </td>
         <td>Eu, como usuário, desejo escrever em LaTeX ou equivalentes para notas mais acadêmicas.</td>
         <td><a href="../User_story">US10</a></td>
-        <td>Should<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF13</td>
+        <td>Baixa<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF15</td>
     </tr>
     <tr>
         <td>Eu, como usuário, desejo escrever em Markdown ou equivalente para notas mais bem formatadas.</td>
         <td><a href="../User_story">US11</a></td>
-        <td>Could<br></td>
-        <td><a href=#elicitacao-de-requisitos>RF14</td>
+        <td>Baixa<br></td>
+        <td><a href=#elicitacao-de-requisitos>RF10</td>
+    </tr>
+        <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center" rowspan="4"> <a href="#epicos">E04</a></td>
+        <td>Eu, como usuário, desejo que minhas notas sejam sincronizadas automaticamente em todos os meus dispositivos, garantindo que eu tenha acesso atualizado em qualquer lugar.</td>
+        <td><a href="../User_story">US05</a></td>
+        <td>Alta</td>
+        <td><a href=#elicitacao-de-requisitos>RF19</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo poder desenhar à mão livre em minhas notas para adicionar esboços, diagramas ou ideias visualmente.
+        </td>
+        <td><a href="../User_story">US06</a></td>
+        <td>Alta</td>
+        <td><a href=#elicitacao-de-requisitos>RF04</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo poder baixar uma cópia de uma nota no meu dispositivo para acessá-la offline ou para fins de backup.</td>
+        <td><a href="../User_story">US13</a></td>
+        <td>Alta</td>
+        <td><a href=#elicitacao-de-requisitos>RF05</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo que minhas notas sejam salvas automaticamente enquanto eu as edito, para evitar perda de dados em caso de falhas ou interrupções inesperadas.</td>
+        <td><a href="User_story">US14</a></td>
+        <td>Alta</td>
+        <td><a href=#elicitacao-de-requisitos>RF17</td>
     </tr>
 </table>
 
@@ -312,11 +364,19 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
     </p>
 </div>
 
+## Validação das histórias de usuário e Backlog
+
+Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
+
 ## Referências
 
-[1] Repositórios de disciplina: [Linkedin](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/backlog/) e [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/)
+[1] https://www.atlassian.com/br/agile/project-management/user-stories 
 
-[2] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
+[2] https://www.youtube.com/watch?v=pLJ3LxR292w
+
+[3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
+
+
 
 ## Histórico de versão
 
@@ -325,3 +385,4 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
 | `1.0`  | 11/05/2023 | Ana Beatriz       | Criação do artefato         | João    |
 | `1.1`  | 14/05/2023 | Ana Beatriz e Ian | Finalização da Tabela de RF | João    |
 | `1.2`  | 12/06/2023 | Ana Beatriz       | Ajustes                     | João    |
+| `1.3`  | 13/06/2023 | Ana Beatriz       | Ajustes                     | João    |
