@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do artefato [Análise de Documentos](<https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/analise/>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Versão do arquivo analisada foi a 1.0 no dia 14/06/2023.
+Este documento é destinado para a revisão do artefato [Análise de Documentos](<https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/analise/>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+<br> Versão do arquivo analisada foi a 1.0 no dia 14/06/2023.
 
 ## Metodologia
 
