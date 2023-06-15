@@ -22,14 +22,9 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 01  | O artefato possui Introdução?                                                                          | Sim        | -                                                      |
 | 02  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Sim        | -                                                      |
 | 03  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Imcompleto | [ID03](backlog.md#observacoes-e-problemas-encontrados) |
-| 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -                                                      |
-| 05  | As tarefas do cronograma possuem nomes condizentes?                                                    | Sim        | -                                                      |
-| 06  | As tarefas do cronograma foram distribuidas entre os todos os integrantes?                             | Sim        | -                                                      |
-| 07  | O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?                                  | Sim        | -                                                      |
-| 08  | As tabelas são chamadas no texto?                                                                      | Sim        | -                                                      |
-| 09  | O cronograma executado é alterado de acordo com a realização das tarefas?                              | Sim        | -                                                      |
-| 10  | Os revisores são pessoas diferentes dos autores?                                                       | Sim        | -                                                      |
-| 11  | Existem atividades redundantes dentro do cronograma?                                                   | Sim        | -                                                      |
+| 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -                                          
+| 05  | As tabelas são chamadas no texto?                                                                      | Sim        | -                                                      |
+| 06  | Os revisores são pessoas diferentes dos autores?                                                       | Sim        | -                                                      |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
@@ -37,11 +32,11 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 | ID  | Questão                                                             | Resposta | Observação                                             |
 | --- | ------------------------------------------------------------------- | -------- | ------------------------------------------------------ |
-| 12  | O artefato contém o objetivo do uso da técnica?                     | Não      | [ID12](backlog.md#observacoes-e-problemas-encontrados) |
-| 13  | O backlog segue os épicos?                                          | Sim      | -                                                      |
-| 14  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |
-| 15  | Os requisitos listados estão vinculados a uma história de usuário ? | Sim      | -                                                      |
-| 16  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
+| 07  | O artefato contém o objetivo do uso da técnica?                     | Não      | [ID12](backlog.md#observacoes-e-problemas-encontrados) |
+| 08  | O backlog segue os épicos?                                          | Sim      | -                                                      |
+| 09  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |
+| 10  | Os requisitos listados estão vinculados a uma história de usuário ? | Sim      | -                                                      |
+| 11  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -53,7 +48,7 @@ Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que e
 
 - O artefato não possui Prioridade e ID nos requisitos elicitados.
 
-### [ID12](backlog.md#checklist-de-documento) - O artefato contém o objetivo do uso da técnica?
+### [ID07](backlog.md#checklist-de-documento) - O artefato contém o objetivo do uso da técnica?
 
 - O artefato não possui o objetivo do uso da técnica.
 
