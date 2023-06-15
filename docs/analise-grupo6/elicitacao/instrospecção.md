@@ -1,7 +1,8 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [Documento instrospecção](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/introspeccao/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
+Este documento é destinado para a revisão do [Documento instrospecção](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/introspeccao/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
 
