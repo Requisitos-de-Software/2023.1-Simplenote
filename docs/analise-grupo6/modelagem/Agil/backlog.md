@@ -21,7 +21,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------ |
 | 01  | O artefato possui Introdução?                                                                          | Sim        | -                                                      |
 | 02  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Sim        | -                                                      |
-| 03  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Imcompleto | [ID03](backlog.md#observacoes-e-problemas-encontrados) |
+| 03  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Incompleto | [ID03](backlog.md#observacoes-e-problemas-encontrados) |
 | 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -                                          
 | 05  | As tabelas são chamadas no texto?                                                                      | Sim        | -                                                      |
 | 06  | Os revisores são pessoas diferentes dos autores?                                                       | Sim        | -                                                      |
@@ -33,10 +33,13 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | ID  | Questão                                                             | Resposta | Observação                                             |
 | --- | ------------------------------------------------------------------- | -------- | ------------------------------------------------------ |
 | 07  | O artefato contém o objetivo do uso da técnica?                     | Não      | [ID12](backlog.md#observacoes-e-problemas-encontrados) |
-| 08  | O backlog segue os épicos?                                          | Sim      | -                                                      |
-| 09  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |
-| 10  | Os requisitos listados estão vinculados a uma história de usuário ? | Sim      | -                                                      |
-| 11  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
+| 08  | Os épicos e os temas estão bem definidos?                                          | Sim      | -                                                      |
+| 09  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |                                          |
+| 10  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
+|11| Os itens do backlog estão escritos em forma de História de usuário? | Sim |-||
+|12| Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito prequenos)?|Sim|-|
+|13| Cada item do backlog está adequadamente rastreado até sua fonte de origem?|Sim|-|
+
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
