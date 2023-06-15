@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre Personas, desenvolvido pelo grupo 6 - [Letterboxd](https://requisitos-de-software.github.io/2023.1-Letterboxd/), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi analisado a versão 1.3 do documento, no dia 13/06/2023.
+Neste documento, será realizado a verificação do artefato sobre Personas, desenvolvido pelo grupo 6 - [Letterboxd](https://requisitos-de-software.github.io/2023.1-Letterboxd/), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.<br> Foi analisado a versão 1.3 do documento, no dia 13/06/2023.
 ## Metodologia
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
