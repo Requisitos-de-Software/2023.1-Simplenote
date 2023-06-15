@@ -6,6 +6,8 @@ O Léxico é uma técnica utilizada para descrever os símbolos de uma linguagem
 
 Para essas descrições, são aplicados os princípios da circularidade e do vocabulário mínimo. O princípio da circularidade estabelece que cada extensão da descrição ou conotação deve referir-se a outros símbolos da linguagem. Além disso, a descrição deve utilizar um conjunto limitado de palavras com significado claro (vocabulário mínimo), evitando termos excessivamente técnicos ou ambíguos.
 
+Léxicos podem ser clasificados como verbos, objetos ou estados. Os léxicos do tipo verbo são aqueles cuja noção consiste em um agente que realiza os procedimentos, e cujo impacto é o reflexo da ação do agente. Os de tipo objeto possuem a definição do objeto em questão na noção, além dos outros objetos com os quais se relaciona, e no impacto são descritas as ações que podem ser aplicadas no objeto. Por fim, os estados apresentam seu significado e quais ações levam a esse estado na noção do léxico, e seu impacto consiste nos estados e ações que podem ocorrer a partir do estado em questão.
+
 ## Modelo de Léxico
 
 Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seguir temos um exemplo de léxico:
@@ -20,85 +22,91 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 ## Descrição dos Léxicos
 
-### L01 - Editar nota
+### L01 - Usuário
+
+|    Léxico   |     Sinônimo     |                       Noção                            |                 Impacto                   | Classificação |
+| :---------: | :--------------: | :----------------------------------------------------: | :---------------------------------------: | :-----------: |
+| Usuário | _User_ | Indivíduo que usará a aplicação e suas funcionalidades | Realiza as tarefas: editar nota, criar, pesquisar, enviar, importar e exportar | Objeto |
+
+### L02 - Editar nota
 
 |   Léxico    |     Sinônimo     |                         Noção                          |                  Impacto                  | Classificação |
 | :---------: | :--------------: | :----------------------------------------------------: | :---------------------------------------: | :-----------: |
 | Editar nota | Alterar anotação | Capacidade do usuário alterar o texto inserido na nota | Altera informações contidas nas anotações |     Verbo     |
 
-### L02 - Fixar
+### L03 - Fixar
 
 | Léxico |        Sinônimo        |     Noção      |                   Impacto                   | Classificação |
 | :----: | :--------------------: | :------------: | :-----------------------------------------: | :-----------: |
 | Fixar  | cravar, colar, espetar | Fixar anotação | O usuário pode fixar suas anotações no topo |     Verbo     |
 
-### L03 - Tag
+### L04 - Tag
 
 | Léxico |     Sinônimo     |    Noção     |                    Impacto                     | Classificação |
 | :----: | :--------------: | :----------: | :--------------------------------------------: | :-----------: |
 |  Tag   | Etiqueta, rótulo | Colocar tags | O usuário pode dividir suas anotações por tags |    Objeto     |
 
-### L04 - Histórico
+### L05 - Histórico
 
 |  Léxico   |   Sinônimo   |      Noção      |                     Impacto                      | Classificação |
 | :-------: | :----------: | :-------------: | :----------------------------------------------: | :-----------: |
 | Histórico | Antecedentes | Olhar histórico | O usuário pode ver o histórico de suas anotações |    Objeto     |
 
-### L05 - Criar
+### L06 - Criar
 
 | Léxico | Sinônimo  |            Noção            |          Impacto           | Classificação |
 | :----: | :-------: | :-------------------------: | :------------------------: | :-----------: |
 | Criar  | Adicionar | Ação de criar uma nova nota | Permite a criação de notas |     Verbo     |
 
-### L06 - Pesquisar
+### L07 - Pesquisar
 
 |  Léxico   |     Sinônimo     |              Noção               |                       Impacto                        | Classificação |
 | :-------: | :--------------: | :------------------------------: | :--------------------------------------------------: | :-----------: |
 | Pesquisar | Procurar, buscar | Procurar por uma nota já escrita | O usuário pode pesquisar por título de notas ou tags |     Verbo     |
 
-### L07 - Lixo
+### L08 - Lixo
 
 | Léxico |        Sinônimo         |                       Noção                        |                                          Impacto                                           | Classificação |
 | :----: | :---------------------: | :------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------: |
 |  Lixo  | Deletados, jogadas fora | O usuário pode encontrar notas que foram deletadas | O usuário pode restaurar notas que foram apagadas por engano ou apagar elas por definitivo |    Objeto     |
 
-### L08 - Colaboradores
+### L09 - Colaboradores
 
 |    Léxico     |     Sinônimo      |                             Noção                              |                           Impacto                            | Classificação |
 | :-----------: | :---------------: | :------------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
 | Coladoradores | Ajudantes, amigos | Pessoa adicionada pelo usuário para contribuir com alguma nota | Ajudar o proprietário da nota com anotações, sugestões úteis |    Estado     |
 
-### L09 - Nota
+### L10 - Nota
 
 | Léxico | Sinônimo |               Noção                |                Impacto                 | Classificação |
 | :----: | :------: | :--------------------------------: | :------------------------------------: | :-----------: |
 |  Nota  | Anotação | Instância em que o usuário escreve | Ferramenta principal de uso do usuário |    Objeto     |
 
-### L10 - Excluída
+### L11 - Excluída
 
 |  Léxico  | Sinônimo |                          Noção                          |        Impacto        | Classificação |
 | :------: | :------: | :-----------------------------------------------------: | :-------------------: | :-----------: |
 | Excluída | Apagada  | Nota foi movida para o lixo ou deletada permanentemente | Permite remover notas |    Estado     |
 
-### L11 - Enviar
+### L12 - Enviar
 
 | Léxico |   Sinônimo   |                 Noção                 |               Impacto               | Classificação |
 | :----: | :----------: | :-----------------------------------: | :---------------------------------: | :-----------: |
 | Enviar | Compartilhar | Compartilha a nota com outras pessoas | Permite o compartilhamento de notas |     Verbo     |
 
-### L12 - Importar
+### L13 - Importar
 
 |  Léxico  | Sinônimo |           Noção            |                       Impacto                       | Classificação |
 | :------: | :------: | :------------------------: | :-------------------------------------------------: | :-----------: |
 | Importar | Carregar | Importa notas de outro app | Permite receber notas anteriores à conta do usuário |     Verbo     |
 
-### L13 - Exportar
+### L14 - Exportar
 
 |  Léxico  | Sinônimo |                   Noção                    |                 Impacto                  | Classificação |
 | :------: | :------: | :----------------------------------------: | :--------------------------------------: | :-----------: |
 | Exportar |  Salvar  | Exporta a nota em outro arquivo ou formato | Permite enviar a nota em outros formatos |     Verbo     |
 
-### L14 - Tema
+### L15 - Tema
 
 | Léxico |    Sinônimo    |                  Noção                   |                  Impacto                   | Classificação |
 | :----: | :------------: | :--------------------------------------: | :----------------------------------------: | :-----------: |
@@ -112,7 +120,8 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)      | Revisor(es) |
-| ------ | ---------- | -------------------- | -------------- | ----------- |
-| `1.0`  | 07/05/2023 | Criação do documento | João e Beatriz | Ana         |
-| `1.1`  | 08/05/2023 | Adição dos léxicos   | João e Beatriz | Ana         |
+| Versão | Data       | Descrição                    | Autor(es)      | Revisor(es) |
+| ------ | ---------- | --------------------         | -------------- | ----------- |
+| `1.0`  | 07/05/2023 | Criação do documento         | João e Beatriz | Ana         |
+| `1.1`  | 08/05/2023 | Adição dos léxicos           | João e Beatriz | Ana         |
+| `1.2`  | 04/06/2023 | Correções após a entrega 3   | Leonardo       | Ian         |

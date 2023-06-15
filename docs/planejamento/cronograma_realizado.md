@@ -63,7 +63,7 @@ Ele está em constante mudança até a entrega final.
 |          Léxico           |       07/05/2023       |     09/05/2023      |   João e Beatriz     |     Ana      |
 | Especificação Suplementar |       13/05/2023       |      15/05/2023     |     Ana e Kauã       |   Leonardo   |
 | Gravação da apresentação  |       16/05/2023       |       -             | Todos os integrantes |      -       |
-| Ajuste com base nos feedbacks| 03/06/2023          | 06/06/2023          | -                    | -            |
+| Ajuste com base nos feedbacks| 03/06/2023          | 06/06/2023          |     Ana e Beatriz    |    Mylena    |
 
 
 **Tabela 3: Cronograma do Ponto de Controle 3**
@@ -72,15 +72,25 @@ Ele está em constante mudança até a entrega final.
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |          Autor(es)           |     Revisor(es)      |
 | :----------------------: | :--------------------: | :-----------------: | :--------------------------: | :------------------: |
-|   Histórias de Usuário   |      17/05/2023        |     19/05/2023      | -                           |      -               | 
-|         Backlog          |       20/05/2023       |     22/05/2023      |     -                        |    -                 |
-|      NFR Framework       |       20/05/2023       |     22/05/2023      |          -                   |      -               |
+|   Histórias de Usuário   |      17/05/2023        |     19/05/2023      |         Kauã e João          |        Mylena        | 
+|         Backlog          |       20/05/2023       |     22/05/2023      |          Ana e Ian           |        João          |
+|      NFR Framework       |       20/05/2023       |     22/05/2023      |  Leonardo,Beatriz e Mylena   |        Ana           |
 | Gravação da apresentação |       23/05/2023       |          -          |     Todos os integrantes     |          -           |
-| Ajuste com base nos feedbacks| 02/06/2023         |  05/06/2023         | -                            | -                    |
+| Ajuste com base nos feedbacks| 02/06/2023         |  05/06/2023         |       Ian e Leonardo         |        Mylena        |
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
 
-## Cronograma Ponto de Controle 5
+## Cronograma Ponto de Controle 5.1
+
+|         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
+| :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
+| Verificação dos requisitos |       30/05/2023       |     01/06/2023      | Todos                 | Todos         |
+|  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
+| Ajuste com base nos feedbacks| 18/06/2023           | 21/06/2023          | -                     | -             |
+
+**Tabela 5: Cronograma do Ponto de Controle 5.1**
+
+## Cronograma Ponto de Controle 5.2
 
 |         Atividade          | Data Limite de Entrega | Data Limite Revisão |       Autor(es)       |  Revisor(es)  |
 | :------------------------: | :--------------------: | :-----------------: | :-------------------: | :-----------: |
@@ -89,7 +99,7 @@ Ele está em constante mudança até a entrega final.
 |  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
 | Ajuste com base nos feedbacks| 18/06/2023           | 21/06/2023          | -                     | -             |
 
-**Tabela 5: Cronograma do Ponto de Controle 5**
+**Tabela 6: Cronograma do Ponto de Controle 5.2**
 
 ## Cronograma Ponto de Controle 6
 
@@ -100,16 +110,16 @@ Ele está em constante mudança até a entrega final.
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
 | Ajuste com base nos feedbacks              | 22/06/2023             | 25/06/2023          |-                        | -            |
 
-**Tabela 6: Cronograma do Ponto de Controle 6**
+**Tabela 7: Cronograma do Ponto de Controle 6**
 
 ## Cronograma Entrega Final
 
 |                   Atividade                   | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :-------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
-|   Planejamento de verificação dos artefatos   |       03/07/2023      |     05/07/2023      |        Todos os integrantes      |Todos os integrantes             |
+|   Planejamento de verificação dos artefatos   |       03/07/2023       |     05/07/2023      | Todos os integrantes |Todos os integrantes             |
 |           Gravação da apresentação            |       06/07/2023       |          -          | Todos os integrantes |      -      |
 
-**Tabela 7: Cronograma da Entrega Final**
+**Tabela 8: Cronograma da Entrega Final**
 
 ## Atividades extras
 
@@ -133,5 +143,6 @@ Referentes a atividades importantes para o grupo nas quais foram discutidas dura
 | `1.0`  | 09/04/2023 | Versão inicial do cronograma do projeto | Kauã e João |Beatriz e João|
 | `1.1`| 13/04/2023| Versão atualizada do cronograma | Kauã | Todos do grupo|
 |`1.2`| 15/04/2023| Versão atualizada| Mylena| Todos do grupo|
+|`1.3`| 30/05/2023| Versão atualizada| Mylena| Todos do grupo|
 
 
