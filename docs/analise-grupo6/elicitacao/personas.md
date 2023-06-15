@@ -27,23 +27,27 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 ## Checklist do conteúdo
 
-| Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
+| ID |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :----:|
-|       1       |               As personas possuem identidade (nome, sobrenome, idade, foto)?        |                Sim                |
-|       2       |          As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           |                Sim                |
-|       3       |       As personas possuem objetivos?       |                Sim                |
-|       4       |           As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?                     |                Sim                | 
-|       5       |               As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?                     |             Sim            |
-|       6       |                 As personas pessuem relacionamentos?                          |           Sim        |
-|       7       |                 As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)                          |           Sim        |
-|       8       |                 As personas possuem expectativas?                          |           Sim        |
+|       7       |               As personas possuem identidade (nome, sobrenome, idade, foto)?        |                Sim                |
+|       8       |          As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           |                Sim                |
+|       9       |       As personas possuem objetivos?       |                Sim                |
+|       10       |           As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?                     |                Sim                | 
+|       11       |               As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?                     |             Sim            |
+|       12      |                 As personas pessuem relacionamentos?                          |           Sim        |
+|       13      |                 As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)                          |           Sim        |
+|       14       |                 As personas possuem expectativas?                          |           Sim        |
+ 
   
 
-<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
+<p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: Autores </p>
 
 
 ## Observações e Problemas encontrados
 Nenhuma observação ou problema no documento de Personas.
+
+## Sugestão
+Nenhuma sugestão a ser feita.
 
 ## Histórico de Versão
 
