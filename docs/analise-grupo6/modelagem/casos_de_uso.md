@@ -75,5 +75,5 @@ Adicionar possíveis fluxos de exceção que podem ser encontrados nos casos de 
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
-| `1.0`  | 13/06/2023    | Criação do documento.              |  Ian         | - |
-| `1.1`  | 13/06/2023    | Adicionando novas verificações e corrigindo antigas. |  Ian         | - |
+| `1.0`  | 13/06/2023    | Criação do documento.              |  Ian         | Kauã |
+| `1.1`  | 13/06/2023    | Adicionando novas verificações e corrigindo antigas. |  Ian         | Kauã |
