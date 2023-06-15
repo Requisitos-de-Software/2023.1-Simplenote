@@ -85,41 +85,8 @@ nav:
   - Cenários: modelagem/cenários.md
   - Casos de Uso: modelagem/casos_de_uso.md
   - Especificação Suplementar: modelagem/especificacao_suplementar.md
-
-- Alálise (V&V):
-  - Verificação Grupo 6:
-    - Verificação geral: analise-grupo6/verificacao_grupo6.md
-    - Elicitação:
-      #- Personas: analise-grupo6/elicitacao/personas.md
-      #- Questionário: analise-grupo6/elicitacao/questionario.md
-      #- Introspecção: analise-grupo6/elicitacao/Introspecção.md
-      #- Glossário: analise-grupo6/elicitacao/glossario.md
-      - Entrevista: analise-grupo6/elicitacao/entrevista.md
-      #- Brainstorm: analise-grupo6/elicitacao/brainstorming.md
-      - Priorização: analise-grupo6/elicitacao/priorizacao.md
-
-    - Modelagem:
-      - Modelagem Ágil:
-        - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
-        - Backlog: analise-grupo6/modelagem/Agil/backlog.md
-        - NFR: analise-grupo6/modelagem/nfr.md
-      - Léxicos: analise-grupo6/modelagem/lexicos.md
-      #- Cenários: analise-grupo6/modelagem/cenários.md
-      #- Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
-      - Especificação Suplementar: analise-grupo6/modelagem/especificacao_suplementar.md
-    - Planejamento:
-      - Cronograma: analise-grupo6/planejamento/cronograma.md
-      - Ferramentas: analise-grupo6/planejamento/ferramentas.md
-        #- Metodologias: analise-grupo6/planejamento/metodologias.md
-        #- Aplicativo Selecionado: analise-grupo6/planejamento/Aplicativo Selecionado.md
-    - Extra:
-      - GitPage: analise-grupo6/extras/gitpage.md
-      - Atas: analise-grupo6/extras/atas.md
-      
-#- Verificação Simplenote:
-
-
-- Planejamento:
+  
+  - Planejamento:
   - Cronograma pretendido: planejamento/cronograma.md
   - Cronograma realizado: planejamento/cronograma_realizado.md
   - Ferramentas: planejamento/ferramentas.md
@@ -129,3 +96,44 @@ nav:
 - Pré-rastreabilidade:
   - Rich Picture: pré-rastreabilidade/rich_picture.md
   - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
+
+- Análises (V&V):
+  - Verificação Grupo 6:
+    - Verificação geral: analise-grupo6/verificacao_grupo6.md
+    - Elicitação:
+      - Perfil do usuário: analise-grupo6/elicitacao/PerfilDeUsuario.md
+      - Análise de documento: analise-grupo6/elicitacao/analise_documentos.md
+      - Entrevista: analise-grupo6/elicitacao/entrevista.md
+      - Introspecção: analise-grupo6/elicitacao/introspecção.md
+      - Personas: analise-grupo6/elicitacao/personas.md
+      - Priorização: analise-grupo6/elicitacao/priorizacao.md
+      - Questionário: analise-grupo6/elicitacao/questionario.md
+      - Priorização: analise-grupo6/elicitacao/priorizacao.md
+      - Storytelling: analise-grupo6/elicitacao/storytelling.md
+
+    - Modelagem:
+      - Modelagem Ágil:
+        - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
+        - Backlog: analise-grupo6/modelagem/Agil/backlog.md
+      - NFR: analise-grupo6/modelagem/nfr.md
+      - Léxicos: analise-grupo6/modelagem/lexicos.md
+      - Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
+      - Cenários: analise-grupo6/modelagem/cenarios.md    
+      - Especificação Suplementar: analise-grupo6/modelagem/especificacao_suplementar.md
+      - Léxicos: analise-grupo6/modelagem/lexicos.md
+    - Planejamento:
+      - Cronograma: analise-grupo6/planejamento/cronograma.md
+      - Ferramentas: analise-grupo6/planejamento/ferramentas.md
+      - Metodologias: analise-grupo6/planejamento/metodologia.md
+      - Aplicativo Selecionado: analise-grupo6/planejamento/app.md
+      - Rich Picture: analise-grupo6/planejamento/RichPicture.md
+
+    - Extra:
+      - GitPage: analise-grupo6/extras/gitpage.md
+      - Atas: analise-grupo6/extras/atas.md
+    - Template: analise-grupo6/template.md
+
+#- Verificação Simplenote:
+
+
+
