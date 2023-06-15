@@ -56,82 +56,82 @@ extra:
   - icon: fontawesome/brands/github
     link: https://github.com/Requisitos-de-Software/2023.1-Simplenote
 
-nav:
-- Home: index.md
-- Atas: atas.md
-- Entregas: entregas.md
-- Elicitação:
-  - Técnicas Planejadas:
-    - StoryTelling: elicitacao/storytelling.md
-    - Personas: elicitacao/personas.md
-    - Questionário: elicitacao/questionario.md
-    - Introspecção: elicitacao/Introspecção.md
-    - Glossário: elicitacao/glossario.md
-    - Entrevista: elicitacao/entrevista.md
-    - Brainstorm: elicitacao/brainstorming.md
+  nav:
+  - Home: index.md
+  - Atas: atas.md
+  - Entregas: entregas.md
+  - Elicitação:
+    - Técnicas Planejadas:
+      - StoryTelling: elicitacao/storytelling.md
+      - Personas: elicitacao/personas.md
+      - Questionário: elicitacao/questionario.md
+      - Introspecção: elicitacao/Introspecção.md
+      - Glossário: elicitacao/glossario.md
+      - Entrevista: elicitacao/entrevista.md
+      - Brainstorm: elicitacao/brainstorming.md
 
-  - Priorização:
-    - MosCoW: elicitacao/Priorização/MoScoW.md
-    - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
-    - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
-    - Priorização final: elicitacao/Priorização/priorizacao_final.md
+    - Priorização:
+      - MosCoW: elicitacao/Priorização/MoScoW.md
+      - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
+      - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
+      - Priorização final: elicitacao/Priorização/priorizacao_final.md
 
-- Modelagem:
-  - Modelagem Ágil:
-    - História de Usuário: modelagem/agil/User_story.md
-    - Backlog: modelagem/agil/backlog.md
-    - NFR: modelagem/nfr.md
-  - Léxicos: modelagem/lexico.md
-  - Cenários: modelagem/cenários.md
-  - Casos de Uso: modelagem/casos_de_uso.md
-  - Especificação Suplementar: modelagem/especificacao_suplementar.md
-  
-  - Planejamento:
-  - Cronograma pretendido: planejamento/cronograma.md
-  - Cronograma realizado: planejamento/cronograma_realizado.md
-  - Ferramentas: planejamento/ferramentas.md
-  - Metodologias: planejamento/metodologias.md
-  - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
+  - Modelagem:
+    - Modelagem Ágil:
+      - História de Usuário: modelagem/agil/User_story.md
+      - Backlog: modelagem/agil/backlog.md
+      - NFR: modelagem/nfr.md
+    - Léxicos: modelagem/lexico.md
+    - Cenários: modelagem/cenários.md
+    - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
 
-- Pré-rastreabilidade:
-  - Rich Picture: pré-rastreabilidade/rich_picture.md
-  - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
-
-- Análises (V&V):
-  - Verificação Grupo 6:
-    - Verificação geral: analise-grupo6/verificacao_grupo6.md
-    - Elicitação:
-      - Perfil do usuário: analise-grupo6/elicitacao/PerfilDeUsuario.md
-      - Análise de documento: analise-grupo6/elicitacao/analise_documentos.md
-      - Entrevista: analise-grupo6/elicitacao/entrevista.md
-      - Introspecção: analise-grupo6/elicitacao/introspecção.md
-      - Personas: analise-grupo6/elicitacao/personas.md
-      - Priorização: analise-grupo6/elicitacao/priorizacao.md
-      - Questionário: analise-grupo6/elicitacao/questionario.md
-      - Priorização: analise-grupo6/elicitacao/priorizacao.md
-      - Storytelling: analise-grupo6/elicitacao/storytelling.md
-
-    - Modelagem:
-      - Modelagem Ágil:
-        - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
-        - Backlog: analise-grupo6/modelagem/Agil/backlog.md
-      - NFR: analise-grupo6/modelagem/nfr.md
-      - Léxicos: analise-grupo6/modelagem/lexicos.md
-      - Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
-      - Cenários: analise-grupo6/modelagem/cenarios.md    
-      - Especificação Suplementar: analise-grupo6/modelagem/especificacao_suplementar.md
-      - Léxicos: analise-grupo6/modelagem/lexicos.md
     - Planejamento:
-      - Cronograma: analise-grupo6/planejamento/cronograma.md
-      - Ferramentas: analise-grupo6/planejamento/ferramentas.md
-      - Metodologias: analise-grupo6/planejamento/metodologia.md
-      - Aplicativo Selecionado: analise-grupo6/planejamento/app.md
-      - Rich Picture: analise-grupo6/planejamento/RichPicture.md
+    - Cronograma pretendido: planejamento/cronograma.md
+    - Cronograma realizado: planejamento/cronograma_realizado.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Metodologias: planejamento/metodologias.md
+    - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
 
-    - Extra:
-      - GitPage: analise-grupo6/extras/gitpage.md
-      - Atas: analise-grupo6/extras/atas.md
-    - Template: analise-grupo6/template.md
+  - Pré-rastreabilidade:
+    - Rich Picture: pré-rastreabilidade/rich_picture.md
+    - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
+
+  - Análises (V&V):
+    - Verificação Grupo 6:
+      - Verificação geral: analise-grupo6/verificacao_grupo6.md
+      - Elicitação:
+        - Perfil do usuário: analise-grupo6/elicitacao/PerfilDeUsuario.md
+        - Análise de documento: analise-grupo6/elicitacao/analise_documentos.md
+        - Entrevista: analise-grupo6/elicitacao/entrevista.md
+        - Introspecção: analise-grupo6/elicitacao/introspecção.md
+        - Personas: analise-grupo6/elicitacao/personas.md
+        - Priorização: analise-grupo6/elicitacao/priorizacao.md
+        - Questionário: analise-grupo6/elicitacao/questionario.md
+        - Priorização: analise-grupo6/elicitacao/priorizacao.md
+        - Storytelling: analise-grupo6/elicitacao/storytelling.md
+
+      - Modelagem:
+        - Modelagem Ágil:
+          - História de Usuário: analise-grupo6/modelagem/Agil/Historias_de_usuario.md
+          - Backlog: analise-grupo6/modelagem/Agil/backlog.md
+        - NFR: analise-grupo6/modelagem/nfr.md
+        - Léxicos: analise-grupo6/modelagem/lexicos.md
+        - Casos de Uso: analise-grupo6/modelagem/casos_de_uso.md
+        - Cenários: analise-grupo6/modelagem/cenarios.md
+        - Especificação Suplementar: analise-grupo6/modelagem/especificacao_suplementar.md
+        - Léxicos: analise-grupo6/modelagem/lexicos.md
+      - Planejamento:
+        - Cronograma: analise-grupo6/planejamento/cronograma.md
+        - Ferramentas: analise-grupo6/planejamento/ferramentas.md
+        - Metodologias: analise-grupo6/planejamento/metodologia.md
+        - Aplicativo Selecionado: analise-grupo6/planejamento/app.md
+        - Rich Picture: analise-grupo6/planejamento/RichPicture.md
+
+      - Extra:
+        - GitPage: analise-grupo6/extras/gitpage.md
+        - Atas: analise-grupo6/extras/atas.md
+      - Template: analise-grupo6/template.md
 
 #- Verificação Simplenote:
 
