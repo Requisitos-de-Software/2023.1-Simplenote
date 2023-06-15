@@ -3,6 +3,7 @@
 ## Introdução
 
 Este documento é destinado para a revisão do [Git Page](https://requisitos-de-software.github.io/2023.1-Letterboxd/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+<br> Foi feita a vericação  no dia 10/06/2023.
 
 ## Metodologia
 
