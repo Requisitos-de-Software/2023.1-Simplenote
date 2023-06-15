@@ -32,28 +32,43 @@ Tabela 1 - Checklist do documento - (Fonte: Autor,2023)
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-|06| Possui ator(es)?    | Sim | |
-|07| Os atores estão do lado correto do limite do sistema? | Sim |  |
-|08| Os atores possuem associação com Caso de Uso? | Sim |  |
-|09| Existe multiplicidade entre ator(es) e Caso de Uso? | Não | Não foi encontrado relação de multiplicidade entre os atores e os casos de uso. |
-|10| Possui relação de extend ou include? | Sim |  |
-|11| Os Casos de Uso estão no infinitivo? | Sim |  |
-|12| Existe limite do sistema? | Sim |  |
-|13| O fluxo principal está correto? | Sim |  |
-|13| O fluxo de exceção está correto? | Sim |  |
-|13| Possui rastreabilidade? | Sim |  |
-|13| O fluxo principal está correto? | Sim |  |
-|13| Os casos de uso possuem especificações | Sim |  |
+|06| É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso? | Não | Não é citada a técnica utilizada para o desenvolvimento. |
+|07| O diagrama de caso de uso possui atores?   | Sim | |
+|08| O ator principal está do lado esquerdo do sistema? | Sim |  |
+|09| Os atores estão fora da fronteira do sistema? | Sim |  |
+|10| Os atores interagem com os Casos de Uso? | Sim |  |
+|11| Existe multiplicidade entre ator e Caso de Uso? | Não | Não foi encontrado relação de multiplicidade entre os atores e os casos de uso. |
+|12| Possui relação de extend ou include? | Sim | Muito bem utilizado. Pontuando até mesmo se a relação ocorre dependendo da interação do usuário no sistema. |
+|13| Há algum nome associado ao(s) usuário(s) do sistema | Sim |  |
+|14| Há tag << system >> quando o ator é representa um software ou hardware? | Não | Não foi encontrada a tag system no Servidor. |
+|15| Os casos de uso representam o usuário e suas diferentes interações com o sistema? | Sim |  |
+|16| Existe limite do sistema? | Sim |  |
+|17| Os fluxos principais representam como a aplicação seria utilizada pelo usuário de forma esperada? | Sim |  |
+|18| Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal? | Incompleto | Existem fluxos alternativos que deviam compor o fluxo principal. |
+|19| Os fluxos de exceção demonstram a resposta do sistema diante de situações inesperadas?| Não | Não foi apresentado nenhum fluxo de exceção |
+|20| Os casos de uso possuem rastreabilidade? | Sim |  |
+|21| Os casos de uso possuem especificações? | Sim |  |
 
 
 Tabela 2 - Checklist do conteúdo
 
-## Problemas encontrados
-Nenhum problema crítico encontrado.
+## Problemas encontrados e sugestões
+### ID 06
+Citar a técnica utilizada para o desenvolvimento do diagrama de casos de uso.
+### ID 11
+Adicionar relações de multiplidade para as interações.
+### ID 14
+Adicionar a tag <<System>> para o Servidor que está incluído no diagrama.
+### ID 18
+O fluxo alternativo do UC05 compõe o fluxo principal ou até mesmo outro caso de uso.
+### ID 19
+Adicionar possíveis fluxos de exceção que podem ser encontrados nos casos de uso.
 
 
 ## Bibliografia
 [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
+[1] “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Univerdade de Brasilia. Acesso em 2023.
+
 
 
 ## Histórico de Versão
@@ -61,3 +76,4 @@ Nenhum problema crítico encontrado.
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)       |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------------ |
 | `1.0`  | 13/06/2023    | Criação do documento.              |  Ian         | - |
+| `1.1`  | 13/06/2023    | Adicionando novas verificações e corrigindo antigas. |  Ian         | - |
