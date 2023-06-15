@@ -1,7 +1,7 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [documento NFR](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/NFRFramework/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+Este documento é destinado para a revisão da versão 1.0 do artefato [NFR](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/NFRFramework/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
 <br> Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
@@ -38,6 +38,10 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 |14| Os tipos de rótulos utilizados são: satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado? |Sim| |
 
 <p align="center"> Tabela 2 - Checklist Preenchido <br> Fonte: autores </p>
+
+## Problemas encontrados
+
+Não foram identificados problemas em relação ao domínio do conteúdo da disciplina.
 
 ## Sugestões
 
