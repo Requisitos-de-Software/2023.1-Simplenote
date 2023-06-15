@@ -30,7 +30,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | ID |                                   Questão                                   | Resposta (Sim / Não / Incompleto) | Observação|
 | :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: | :----:|
 |       7       |               As personas possuem identidade (nome, sobrenome, idade, foto)?        |                Sim                |
-|       8       |          As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           |                Sim                |
+|       8       |          As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           |                Sim               |
 |       9       |       As personas possuem objetivos?       |                Sim                |
 |       10       |           As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?                     |                Sim                | 
 |       11       |               As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?                     |             Sim            |
