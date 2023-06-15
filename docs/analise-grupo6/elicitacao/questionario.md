@@ -48,7 +48,6 @@ Apesar de o questionário ter sido aplicado, não foi feita um resumo de como é
 ### ID10
 Não é possível saber quanto tempo ficou disponível para resposta e assim fica um pouco mais difícil de fazer a rastreabilidade.
 
-
 ## Bibliografia
 
 [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
