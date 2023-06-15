@@ -1,7 +1,7 @@
 # Verificação - Especificação Suplementar
 
 ## Introdução
-Este documento é destinado para a revisão da [especificação suplementar](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd),vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão da [especificação suplementar](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd),vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Versão do arquivo analisada foi a 1.0 no dia 20/05/2023.
 
 ## Metodologia
 
@@ -28,20 +28,33 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|7|O documento aborda sobre a estética e o design na Usabilidade?|Sim|
-|8|O documento é orientado pelo padrão FURPS+?|Sim|
-|9|O documento fala sobre a Satisfação na Usabilidade?|Sim|
-|10|O documento fala sobre a disponibilidade na Confiabilidade?|Sim|
-|11|O documento fala sobre a rapidez na resposta no Desempenho?|Sim|
-|12|O documento fala sobre a compatibilidade na Suportabilidade ?|Não|
-|13|O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade?|Incompleto|
+|7|O documento aborda sobre a estética e o design na Usabilidade?|Sim||
+|8|O documento é orientado pelo padrão FURPS+?|Sim||
+|9|O documento fala sobre a Satisfação na Usabilidade?|Sim||
+|10|O documento fala sobre a disponibilidade na Confiabilidade?|Sim||
+|11|O documento fala sobre a rapidez na resposta no Desempenho?|Sim||
+|12|O documento fala sobre a compatibilidade na Suportabilidade ?|Não||
+|13|O documento fala sobre sobre a segurança no armazenamento de dados na confiabilidade?|Incompleto||
+|14|É apresentado os sistemas operacionais que o sistema funcionará?|Não||
+|15|O documento possui um tópico de Desempenho?|Não|Perfomance é diferente de desempenho|
+|16|O documento possui um tópico de Restrições de Design?|Não||
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e problemas encontrados
 
-Nenhum problema crítico foi encontrado.
+### ID14 - É apresentado os sistemas operacionais que o sistema funcionará?
+- Não é apresentado no documento em nenhum momento
 
+### ID15 - O documento possui um tópico de Desempenho?
+Por definição, performance e desempenho são diferentes, a primeira é relacionado com resultado final, e a ultima está relacionada a exercicio/ execução de uma atividade. 
+
+### ID16 - O documento possui um tópico de Restrições de Design?
+Não contém.
+
+## Sugestões
+Apresentar os sistemas operacionais que o sistema funcionará.</br>
+Adicionar no documento um tópico abordando a respeito das restrições de design do aplicativo.</br>
 ## Bibliografia
 [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
 
