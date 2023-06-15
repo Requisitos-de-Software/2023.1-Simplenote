@@ -2,8 +2,9 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre Léxico, desenvolvido pelo grupo 6 - Letterboxd (https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
+Neste documento, será realizado a verificação do artefato sobre Léxico, desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
 Que consiste na identificação de defeitos dentro do sistema e também se cumprem aos requisitos funcionais e não funcionais.
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 20/05/2023.
 
 ## Metodologia
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em repositórios antigos e no plano de ensino da disciplina de requisitos de software. Foi usado como base a apresentação de slides "Requisitos - Aula 10" dos professores Maurício Serrano e Mylene Serrano para a verificação do conteúdo, mais especificamente, a seção que aborda léxicos. A principio, foram criadas tabelas para avaliar os léxicos, nas quais temos 8 linhas, cada linha se refere a uma questão levantada, e as colunas
