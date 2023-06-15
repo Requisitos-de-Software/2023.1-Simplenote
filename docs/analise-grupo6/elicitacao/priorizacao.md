@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre Priorização, desenvolvido pelo grupo 6 - Letterboxd (<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Neste documento, será realizado a verificação do artefato sobre Priorização, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 ## Metodologia
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
