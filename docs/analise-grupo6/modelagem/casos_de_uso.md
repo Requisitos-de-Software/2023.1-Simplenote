@@ -3,7 +3,8 @@
 ## Introdução
 Este documento é destinado para a revisão do artefato de [casos de uso](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/casoUso/) 
 do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial,
-sem a intenção de atacar ninguém. Foi analisado a versão 1.1 do documento, no dia 13/06/2023.
+sem a intenção de atacar ninguém.
+<br> Foi analisado a versão 1.1 do documento, no dia 13/06/2023.
 
 ## Metodologia
 
