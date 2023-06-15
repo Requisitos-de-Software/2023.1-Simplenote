@@ -3,7 +3,7 @@
 ## Introdução
 
 Este documento é destinado para a revisão das [reuniões e apresentações](https://requisitos-de-software.github.io/2023.1-Letterboxd/reunioes/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
-Foi feita a vericação da versão 4.0 do artefato no dia 10/06/2023.
+<br> Foi feita a vericação da versão 4.0 do artefato no dia 10/06/2023.
 
 ## Metodologia
 
