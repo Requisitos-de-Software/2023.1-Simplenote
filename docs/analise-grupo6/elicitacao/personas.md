@@ -44,8 +44,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 
 ## Observações e Problemas encontrados
-Nenhuma observação ou problema no documento de Personas.
-
+Estrutura bem organizada do artefato, que apresenta ótima abordagem do tema, convidando os leitores a conhecerem de forma imersiva cada persona do elenco. 
 ## Sugestão
 Nenhuma sugestão a ser feita.
 
@@ -53,4 +52,4 @@ Nenhuma sugestão a ser feita.
 
 | Versão | Data       | Descrição                  | Autor(es)    | Revisor(es) |
 | ------ | ---------- | -------------------------- | ------------ | ----------- |
-| `1.0`  | 20/05/2023 | Criação do documento       |    Ian      |     -       |
+| `1.0`  | 20/05/2023 | Criação do documento       |    Ian      |     Kauã      |
