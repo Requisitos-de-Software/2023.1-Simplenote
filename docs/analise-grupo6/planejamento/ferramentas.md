@@ -3,6 +3,7 @@
 ## Introdução
 
 Neste documento, será realizado a verificação do artefato sobre as Ferramentas utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
+<br> Foi feita a vericação da versão 3.0 do artefato no dia 20/05/2023.
 
 ## Metodologia
 
