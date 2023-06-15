@@ -4,6 +4,7 @@
 Este documento é destinado para a revisão do artefato de [cenários](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/cenarios.md>) 
 do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial,
 sem a intenção de atacar ninguém.
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 09/06/2023.
 
 ## Metodologia
 
