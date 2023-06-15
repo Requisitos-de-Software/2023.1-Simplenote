@@ -1,7 +1,8 @@
 # Verificação - Documento
 
 ## Introdução
-Este documento é destinado para a revisão do [documento NFR](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/NFRFramework/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
+Este documento é destinado para a revisão do [documento NFR](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/NFRFramework/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+<br> Foi feita a vericação da versão 1.0 do artefato no dia 11/06/2023.
 
 ## Metodologia
 
@@ -27,11 +28,11 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 ## Checklist do conteúdo
 |ID|Questão|Resposta|Observação|
 |-|-------|--------|----------|
-| 7 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |   sim     |          |
-| 8 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |   sim     |          |
-| 9 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |   sim     |          |
-|10 |Os Softgoals NFR representam os Requisitos Não-Funcionais?                                                     |   sim     |          |
-|11 |Os Softgoals de Operacionalização representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização? |   sim     |  |
+| 7 |No documento NFR possui uma legendas explicando os símbolos utilizados?                                        |   Sim     |          |
+| 8 |Os NFR estão documentados de forma organizada, acessível e clara na modelagem?                                 |   Sim     |          |
+| 9 |Os NFR são identificados com atributos específicos, como desempenho, segurança, usabilidade, etc?              |   Sim     |          |
+|10 |Os Softgoals NFR representam os Requisitos Não-Funcionais?                                                     |   Sim     |          |
+|11 |Os Softgoals de Operacionalização representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização? |   Sim     |  |
 |12 |Os Softgoals de Afirmação permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão?  |   Não utilizaram     |          |
 |13 |O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões? | Sim | O procedimento de avaliação determina se cada softgoal ou interdependência do SIG foi suficientemente satisfeito. |  
 |14| Os tipos de rótulos utilizados são: satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado? |Sim| |
