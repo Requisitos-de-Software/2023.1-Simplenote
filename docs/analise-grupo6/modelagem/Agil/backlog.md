@@ -37,7 +37,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | 09  | São apresentados os requisitos priorizados ?                        | Sim      | -                                                      |                                          |
 | 10  | O backlog possui validação de um PO ?                               | Sim      | -                                                      |
 |11| Os itens do backlog estão escritos em forma de História de usuário? | Sim |-||
-|12| Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito prequenos)?|Sim|-|
+|12| Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito pequenos)?|Sim|-|
 |13| Cada item do backlog está adequadamente rastreado até sua fonte de origem?|Sim|-|
 
 
@@ -67,4 +67,4 @@ Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |
 | ------ | ---------- | -------------------- | ----------- | ----------- |
 | `1.0`  | 27/05/2023 | Criação do documento | Ana Beatriz | -           |
-| `1.1`  | 09/06/2023 | Ajsutes              | Ana Beatriz |Mylena       |
+| `1.1`  | 15/06/2023 | Ajsutes              | Ana Beatriz |Mylena       |
