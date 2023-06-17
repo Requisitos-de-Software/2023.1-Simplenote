@@ -91,7 +91,7 @@ A primeira versão da quinta entrega buscou-se realizar a verificação dos arte
 
 
 ### 🔗 Links
-[Gravação](https://www.youtube.com/watch?v=96LKBbCr9mk)
+[Gravação](https://youtu.be/imGMXbuWMsQ)
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote5.1)
 
