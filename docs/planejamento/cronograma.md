@@ -13,9 +13,11 @@ A princípio, para melhor organização, foi criado um cronograma geral que deve
 |       Entrega 1 – planejamento     |      App selecionado, tecnologias utilizadas, metodologia, reuniões, cronograma do projeto e rich Picture.|     17/04/2023      |    
 | Entrega 2 - Elicitação   |       Técnicas e Priorização. Perfil dos usuários, personas, técnicas de elicitação usadas e que serão usadas, técnicas de priorização usadas e que serão usadas no projeto      |     01/05/2023      |   
 | Entrega 3 -  Modelagem de Requisitos |       Cenários, Léxico, Use Case, Especificação Suplementar.|     17/05/2023      |    
-|   Entrega 4 - Modelagem de Requisitos   |       Ágil (Histórias de Usuário, Backlogs, NFR Framework).      |     24/05/2023      |   
-|     Entrega 5-  Análise de Requisitos      |       Verificação e Validação|     14/06/2023      |  
+|   Entrega 4 - Modelagem de Requisitos   |       Ágil (Histórias de Usuário, Backlogs, NFR Framework).      |     24/05/2023      | 
+|     Entrega 5.1-  Análise de Requisitos grupo N+1    |       Verificação e Validação|     07/06/2023      |  
+|     Entrega 5.2-  Análise de Requisitos      |       Verificação e Validação|     14/06/2023      |  
 |       Entrega 6 - Pós-Rastreabilidade        |      Gerência II |     21/06/2023      |    
+
 **Tabela 1: Cronograma geral,(Fonte: autor, 2023).**
 
 ## Cronogramas de cada ponto de controle
