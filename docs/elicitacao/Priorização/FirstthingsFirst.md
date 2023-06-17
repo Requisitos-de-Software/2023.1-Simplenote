@@ -24,10 +24,11 @@ Para realizar a análise de priorização, foram utilizados os seguintes método
 - Horário: 10:00 e 20:30
 - Local: Campus FGA - UnB e Discord
 
+Após a discusão do grupo, chegou-se ao concenso de que os custos relativos a desenvolvimento seria do valor 1, agora, para os de usuário, foi atribuído 1 para o maleficio de perda e 2 para o benefício.
+
 ## Resultados
 
-A tabela a seguir mostra os resultados alcançados após a priorização dos requisitos: </br>
-Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benefício, no qual foi atribuido o valor 2.
+A tabela 1 mostra os resultados alcançados após a priorização dos requisitos: </br>
 
 | **Codigo** | **Req** | **valor** | **penalidade** | **valor total** | **valor(%)** | **custo relativo** | **custo (%)** | **Dificuldade imp** | **Difi(%)** | **Prioridade** |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -113,7 +114,7 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 
 ## Bibliografia
 
-[1] https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
+Slides Requisitos - aula 15. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
 ## Histórico de versão
 
