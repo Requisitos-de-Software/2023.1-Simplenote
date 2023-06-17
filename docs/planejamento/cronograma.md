@@ -33,7 +33,6 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 |     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz     |Ian e Leonardo |
 |       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
 | Gravação da apresentação |       16/04/2023       |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena
-|       -       |
 | Ajuste com base nos feedbacks|  23/04/2023        | 26/04/2023          | Mylena e João        | Kauã           |
 
 **Tabela 2: Cronograma do Ponto de Controle 1,(Fonte: autor, 2023).**
