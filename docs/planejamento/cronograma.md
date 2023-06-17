@@ -32,7 +32,8 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 |   Organização de Equipe  |       31/03/2023       |     06/04/2023      |     Ana e Mylena     |Ian e Leonardo |
 |     App selecionado      |       14/04/2023       |     16/04/2023      |     Beatriz     |Ian e Leonardo |
 |       Rich Picture       |       14/04/2023       |     16/04/2023      |     Beatriz    |Ian e Leonardo |
-| Gravação da apresentação |       16/04/2023       |          -          | Todos os integrantes |       -       |
+| Gravação da apresentação |       16/04/2023       |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena
+|       -       |
 | Ajuste com base nos feedbacks|  23/04/2023        | 26/04/2023          | Mylena e João        | Kauã           |
 
 **Tabela 2: Cronograma do Ponto de Controle 1,(Fonte: autor, 2023).**
@@ -52,7 +53,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 | Frist things Frist  |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 | Escala de três níveis |       27/04/2023        |     29/04/2023       |    João e Kauã |     Mylena  |
 | MoSCow| 27/04/2023| 29/04/2023| Ana e Beatriz| Mylena
-|  Gravação da apresentação  |       30/04/2023      |          -          | Todos os integrantes| - |
+|  Gravação da apresentação  |       30/04/2023      |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena| - |
 | Ajuste com base nos feedbacks| 10/05/2023          |    13/05/2023          | Mylena e João       | Kauã  |
 
 
@@ -79,7 +80,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 |   Histórias de Usuário   |      17/05/2023       |     19/05/2023     | Kauã e João |      Mylena    | 
 |         Backlog          |       20/05/2023       |     22/05/2023      |     Ian      |    João    |
 |      NFR Framework       |       20/05/2023       |     22/05/2023      |          Leonardo e Beatriz |       Ana      |
-| Gravação da apresentação |       23/05/2023      |          -          |     Todos os integrantes     |          -           |
+| Gravação da apresentação |       23/05/2023      |          -          |     Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena     |          -           |
 | Ajuste com base nos feedbacks| 02/06/2023| 05/06/2023| Mylena e João| Kauã|
 
 **Tabela 5: Cronograma do Ponto de Controle 4,(Fonte: autor, 2023).**
@@ -94,7 +95,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 | Verificação NFR |       30/05/2023      |     01/06/2023      | Ian| Beatriz|
 | Verificação do Rich Picture |       30/05/2023      |     01/06/2023      | Beatriz| Mylena|
 |  Validação dos requisitos  |       03/06/2023       |     05/06/2023      | Ana,Leonardo e Kauã|João, Beatriz e Ian|
-|  Gravação da apresentação  |       06/06/2023       |          -          | Todos os integrantes  |       -       |
+|  Gravação da apresentação  |       06/06/2023       |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena  |       -       |
 | Ajuste com base nos feedbacks| 18/06/2023| 21/06/2023| Mylena e João| Kauã|
 
 **Tabela 6: Cronograma do Ponto de Controle 5,(Fonte: autor, 2023).**
@@ -105,7 +106,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
 |               Backward From                |       17/06/2023       |     19/06/2023      | Ana|Ian|
 |                Forward From                |       17/06/2023       |     19/06/2023      |    Leonardo     |     Beatriz|
-|          Gravação da apresentação          |       20/06/2023       |          -          |  Todos os integrantes   |      -       |
+|          Gravação da apresentação          |       20/06/2023       |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena   |      -       |
 | Ajuste com base nos feedbacks| 22/06/2023| 25/06/2023| Mylena e João| Kauã|
 
 **Tabela 7: Cronograma do Ponto de Controle 6,(Fonte: autor, 2023).**
@@ -114,8 +115,8 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 
 |                   Atividade                   | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :-------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
-|   Planejamento de verificação dos artefatos   |       03/07/2023      |     05/07/2023      |        Todos os integrantes      |Todos os integrantes             |
-|           Gravação da apresentação            |       06/07/2023       |          -          | Todos os integrantes |      -      |
+|   Planejamento de verificação dos artefatos   |       03/07/2023      |     05/07/2023      |        Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena      |Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena            |
+|           Gravação da apresentação            |       06/07/2023       |          -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena |      -      |
 
 **Tabela 8: Cronograma da Entrega Final,(Fonte: autor, 2023).**
 
@@ -127,7 +128,7 @@ Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do
 | Produção de atas | Mylena|
 | Gravação das apresentações e reuniões| João|
 | Criação da gitpage|Ana e Mylena|
-| Atualizar o cronograma realizado | Todos|
+| Atualizar o cronograma realizado | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena|
 
 **Tabela 9: Encarregados de atividades extras,(Fonte: autor, 2023).**
 
