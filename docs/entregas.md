@@ -83,6 +83,18 @@ Na quarta release buscou-se cobrir a parte de modelagem de requisitos ágeis
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote4)
 
+## Entrega  5.1  (15/06/2023)
+### 📖 Descrição: 
+A primeira versão da quinta entrega buscou-se realizar a verificação dos artefactos do grupo 6.
+### ⚙️ Documentação
+- Verificação do grupo 6
+
+
+### 🔗 Links
+[Gravação](https://www.youtube.com/watch?v=96LKBbCr9mk)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote5.1)
+
 
 ## Histórico de versão
 
@@ -90,7 +102,8 @@ Na quarta release buscou-se cobrir a parte de modelagem de requisitos ágeis
 |--|--|--|--|--|
 | `1.0`|17/04/2022|Entrega 1| Mylena| Todos
 | `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
-| `3.0`| 25/02/2023| Entrega 3 e 4| Mylena | Todos
+| `3.0`| 25/05/2023| Entrega 3 e 4| Mylena | Todos
+| `4.0`| 17/06/2023| Entrega 5.1| Mylena | Todos
 
 
 
