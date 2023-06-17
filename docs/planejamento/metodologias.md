@@ -4,12 +4,14 @@ Para a realização de nossas atividades, utilizamos o método ágil Scrumban, a
 
 ## Scrumban
 
-O método ágil Scrumban é uma estrutura Agile que combina o Scrum e o Kanban. Para implementar o método, deve-se padronizar um fluxo de trabalho. No caso da equipe foram definidos sprints semanais.
+O método ágil Scrumban é uma estrutura Agile que combina o Scrum e o Kanban, unificando a natureza formal do primeiro e a capacidade de melhoria de processos do segundo, aprimorando assim a equipe como um todo. A princípio, indica-se utilizar o ScrumBan em casos em que o produto necessita de uma forma ágil de desenvolvimento seja para desenvolver, manter ou gerenciar o mesmo. Para implementar o método, deve-se padronizar um fluxo de trabalho como apresentado na figura a seguir:
 
 <div align="center">
-    <img src="https://ora.pm/posts/assets/scrumban-software-teams.png" style="width:60vw"/>
-    <p> Figura 1: Modelo Scrumban . Fonte: <a href="https://ora.pm/blog/scrumban/">Ora.pm</a></p> 
+    <img src="docs/img/scrum-ban-delivery-sample.png" style="width:60vw"/>
+    <p> Figura 1: Modelo Scrumban . Fonte: <a href="https://hexaware.com/blogs/agile-devops-part-1-a-guide-to-scrumban/">Hexaware Tecnologies</a></p> 
 </div>
+
+Para melhor integração e comunicação da equipe, os integrantes decidiram por fazer reuniões semanais para tomar conhecimento do andamento do projeto e dos próximos passos.
 
 ## Motivação da escolha
 
@@ -29,7 +31,8 @@ As issues devem seguir o modelo de Issues já pre-disponibilizado no github da e
 
 ## Bibliografia
 
-[1] https://asana.com/pt/templates/scrumban
+https://asana.com/pt/templates/scrumban </br>
+https://kanbantool.com/pt/scrumban-kanban-e-scrum
 
 ## Histórico de Versão
 
