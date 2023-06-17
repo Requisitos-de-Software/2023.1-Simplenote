@@ -41,7 +41,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 
 |                    Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :---------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
-|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Todos do grupo       |       -    |
+|               Técnicas planejadas               |       19/04/2023       |     20/04/2023      |       Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena      |       -    |
 | StoryTelling |       27/04/2023       |     29/04/2023     | Leonardo | Ian |
 | Personas |       27/04/2023       |     29/04/2023      | Ian | João  |
 | Questionário |       27/04/2023      |     29/04/2023     | Mylena | Kauã  |
@@ -66,7 +66,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 |         Cenários          |       13/05/2023|    15/05/2023| Mylena | Kauã|
 |          Léxico           |       07/05/2023      |     09/05/2023      |     João     | Ana  |
 | Especificação Suplementar |       13/05/2023       |      15/05/2023      |    Kauã    |  Leonardo |
-| Gravação da apresentação  |       16/05/2023|       -          | Todos os integrantes |      -       |
+| Gravação da apresentação  |       16/05/2023|       -          | Ana,Beatriz,Ian,João, Kauã, Leonardo e Mylena|      -       |
 | Ajuste com base nos feedbacks| 03/06/2023| 06/06/2023| Mylena e João| Kauã|
 
 
