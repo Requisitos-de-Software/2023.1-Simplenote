@@ -6,6 +6,7 @@ Este documento é referente ao cronograma que será seguido pela equipe durante 
 O mesmo apresenta as datas limites de entrega e revisão, juntamente com os autores e revisores, para cada etapa do desenvolvimento do projeto.
 
 ## Cronograma geral
+A princípio, para melhor organização, foi criado um cronograma geral que deve ser seguido que é mostrado a seguir:
 
 |        Atividade         | Descrição | Data Limite de Entrega |      
 | :----------------------: | :--------------------: | :-----------------: | 
@@ -18,6 +19,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 **Tabela 1: Cronograma geral,(Fonte: autor, 2023).**
 
 ## Cronogramas de cada ponto de controle
+Para o melhor detalhamento das atividades, foi criado um cronograma para cada ponto de controle da disciplina, que são descritos pelas tabelas 2 até a tabela 8 que são apresentadas a seguir:
 ## Cronograma Ponto de Controle 1
 
 |        Atividade         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
@@ -116,8 +118,7 @@ O mesmo apresenta as datas limites de entrega e revisão, juntamente com os auto
 **Tabela 8: Cronograma da Entrega Final,(Fonte: autor, 2023).**
 
 ## Atividades extras
-
-Referentes a atividades importantes para o grupo nas quais foram discutidas durante as reuniões iniciais
+Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do grupo durante todo o desenvolvimento do projeto, tais funções são abordadas pela seguinte tabela:
 
 | Atividade | Encarregado(a) |
 | :-------------------------------------------: | :--------------------: |
