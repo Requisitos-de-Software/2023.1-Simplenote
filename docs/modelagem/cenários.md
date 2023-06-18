@@ -1,11 +1,11 @@
 # Cenários
 
 ## Introdução
-Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos . Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. Portanto, é uma estratégia para elicitar a parte comportamental do software. [1]
+Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos . Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. Portanto, é uma estratégia para elicitar a parte comportamental do software. [¹](#ancora1)
 
 ## Metodologia
 
-Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma escolhida utiliza a linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente. [2]
+Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma escolhida utiliza a linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente. [²](#ancora2)
 
 <center>
 
