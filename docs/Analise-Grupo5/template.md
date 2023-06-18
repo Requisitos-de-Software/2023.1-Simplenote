@@ -58,7 +58,7 @@ explicação ....
 
 ## Bibliografia
 
-https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
+> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
 https://github.com/Requisitos-de-Software/2023.1-Caesb
 
 ## Histórico de Versão
