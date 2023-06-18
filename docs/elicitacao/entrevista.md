@@ -1,27 +1,32 @@
 # Entrevista
 
 ## Introdução
-  
-  Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
-  
+
+Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
+
 ## Metodologia
 
-  A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça-DF.
+A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça-DF e são relevantes e adequados para o projeto do aplicativo Simplenote devido à sua experiência na área de TI e ao seu conhecimento sobre os requisitos e regulamentos do setor governamental. Suas opiniões e insights podem contribuir significativamente para o desenvolvimento de um aplicativo robusto, seguro e que atenda às necessidades dos usuários. A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://www.google.com/url?q=https://youtu.be/9wbc4-v2vWc&sa=D&source=editors&ust=1687057181895079&usg=AOvVaw0OIsuT3E6zY_9TR363l_Xo) e [Entrevistado 2](https://www.google.com/url?q=https://youtu.be/x1gkQIUbq_k&sa=D&source=editors&ust=1687057181895444&usg=AOvVaw3PcXBDVTAUbqLfeFvbxYaX), o cronograma da entrevista e termo de consentimento pode ser conferida no Toggle abaixo:
 
-  Foi utilizada a metodologia 5W2H, é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+<details>
+   <summary>Cronograma da entrevista e Termo de Consentimento</summary>
+      <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2U-6AevGXt2S44w-BTpVMDEtaWkHgij7S2_uSHQk7ALTVSGzQagKsOKsLXC9GSxdP1dv6dD5ISk_T/pub?embedded=true" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+</details>
+
+#
+Foi utilizada a metodologia 5W2H (Tabela 1), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
 <center>
 
-
-  | Acrônimo | Pergunta |
-  | -------- | -------- |
-  | What     | O quê    |
-  | Why      | Por quê  |
-  | Who      | Quem     |
-  | When     | Quando   |
-  | Where    | Onde     |
-  | How      | Como     |
-  | How much | Quanto   |
+| Acrônimo | Pergunta |
+| -------- | -------- |
+| What     | O quê    |
+| Why      | Por quê  |
+| Who      | Quem     |
+| When     | Quando   |
+| Where    | Onde     |
+| How      | Como     |
+| How much | Quanto   |
 
 </center>
 
@@ -30,7 +35,6 @@
 </div>
 
 ## Perguntas feitas na entrevista utilizando a técnica 5W2H:
-
 
 | Tipo          | Perguntas                                                                                                                                            |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +49,6 @@
 <div style="text-align: center">
    <p> Tabela 2: Perguntas realizadas na entrevista (Fonte: Autor, 2023).</p>
 </div>
-
 
 <details>
    <summary>Respostas entrevistado 1</summary>
@@ -169,6 +172,8 @@
 
 ## Dados Demográficos
 
+Como abordado no termo de consentimento os entrevistados não se sentiram confortáveis oferecer informações completas sobre seus dados, portanto, segue os Dados demográficos que foram possíveis de obter.
+
 <table>
     <tr>
         <th style="text-align: center" colspan=6>
@@ -207,17 +212,20 @@
     </p>
 </div>
 
-## Entrevista 1: 
+## Entrevista 1:
 
      Data: 28/04/2023
      Local: Teams
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wbc4-v2vWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br> Vídeo 1: Entrevista 1. <br> Fonte: Autor (2023).
 
-## Entrevista 2: 
+## Entrevista 2:
+
      Data: 28/04/2023
      Local: Teams
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x1gkQIUbq_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
      
 <br> Vídeo 2: Entrevista 2. <br> Fonte: Autor (2023).
@@ -241,20 +249,21 @@
 | ENT07         | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação                                                         | RNF  |
 | ENT08         | O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias                                                                            | RNF  |
 | ENT09         | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo | RNF  |
+
 <div style="text-align: center">
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
 </div>
 
 # Bibliografia
 
-[1] VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
-
-
+VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
 
 ### Histórico de versão
+
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
 | `1.0`  | 27/04/2023 | Adicionando perguntas                   | Ana Beatriz | Beatriz     |
 | `1.1`  | 29/04/2023 | Adicionando respostas dos entrevistados | Ana Beatriz | Beatriz     |
 | `1.2`  | 29/04/2023 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
-| `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena     |
+| `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
+| `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | Mylena      |
