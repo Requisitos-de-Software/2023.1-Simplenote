@@ -395,3 +395,4 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 | `1.1`  | 14/05/2023 | Ana Beatriz e Ian | Finalização da Tabela de RF | João    |
 | `1.2`  | 12/06/2023 | Ana Beatriz       | Ajustes                     | João    |
 | `1.3`  | 13/06/2023 | Ana Beatriz       | Ajustes                     | João    |
+| `1.4`  | 18/06/2023 | Ana Beatriz       | Ajustes Verificação         | Beatriz |
