@@ -29,7 +29,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do grupo 4
-Para reverificação dos pontos já feitos pelo [Frupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb), segue a tabela 2 que aborda os pontos já citados pelos mesmos.
+Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb), segue a tabela 2 que aborda os pontos já citados pelos mesmos.
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
