@@ -266,4 +266,4 @@ VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport,
 | `1.1`  | 29/04/2023 | Adicionando respostas dos entrevistados | Ana Beatriz | Beatriz     |
 | `1.2`  | 29/04/2023 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
-| `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | Mylena      |
+| `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | João        |
