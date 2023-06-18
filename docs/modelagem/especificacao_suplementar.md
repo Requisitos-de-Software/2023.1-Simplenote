@@ -77,6 +77,7 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 - Físico: determinação de restrições de hardware e implantação, por exemplo, espaço em disco (HD) e memória RAM.
 
 ## Especificação suplementar
+A tabela 1 apresenta os resultados da especificação suplementar, contendo o id do requisito, o texto do requisito, sua categoria e sua classificação (Requisito funcional e não funcional). Seguem os resultados:
 
 | ID    | Requisito   | Categoria | Requisito Funcional (RF) ou Requisito não Funcional (RNF) |
 | ----- | ----------- | --------- | ----------------------------------------------------- |
@@ -94,14 +95,18 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 | ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas   | U         | RNF |
 | ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         | RF |
 | GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes       | U       | RF |
+| ES01  | O aplicativo deve ser de fácil entendimento para pessoas mais leigas com tecnologia | U|RNF|
+| ES02  | O aplicativo deve conter uma cor que estimula calma para trazer a sensação de bem estar ao utilizar o aplicativo| U| RNF|
+| ES03  | O aplicativo deve sempre guardar as notas que o usuário cria | C |RNF|
+| ES04  | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 300 horas| C |RNF|
+| ES05  | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser 4 horas | C |RNF|
 
-Tabela 1: Resultado da especificação suplementar.
-Autores: Ana e Kauã
+Tabela 1: Resultado da especificação suplementar. (Fonte: Dos autores,2023)
 
 ## Bibliografia
 
-[1] <https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf> </br>
-[2] <https://qualidadebr.wordpress.com/2008/07/10/furps/>
+FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/
+SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor
 
 ## Histórico de versão
 
@@ -111,3 +116,4 @@ Autores: Ana e Kauã
 | `1.1`  | 06/05/2023 | Adição de informações e do quadro | Ana e Kauã | Leonardo    |
 | `1.2`  | 08/05/2023 | Finalizando documento             | Ana e Kauã | Leonardo    |
 | `1.3`  | 04/06/2023 | Correções após a entrega 3        | Leonardo   | Ian         |
+| `1.4`  | 17/06/2023 | Correções após entrega 5.1        | Kauã       |      -      |
