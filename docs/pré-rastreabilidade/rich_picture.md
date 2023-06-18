@@ -16,7 +16,7 @@ Aqui está a abordagem para desenhar Rich Picture:
 2. Para cada ator, identifique as operações que eles precisam realizar
 3. Identificar os requisitos de dados de cada operação, observando
  * Onde os dados serão mantidos; e
- * A direção do fluxo de dados entre atores, operações e lojas
+ * A direção do fluxo de dados entre atores, operações
 4. Desenhe o limite do sistema para definir sua área de responsabilidade.
 
 </p>
