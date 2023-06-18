@@ -6,7 +6,7 @@ Este documento é destinado para a revisão do [Documento](<link para o document
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software), no plano de ensino da disciplina de requisitos de software e nas obras que estão citadas na bibliografia. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter:
+A verificação foi feita por meio da insperção, utilizando uma checklist criado com base no plano de ensino da disciplina de requisitos de software e nas obras que estão citadas na bibliografia. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter:
 
 - Sim : caso um critério for atendido.
 - Não : caso um critério não for atendido.
