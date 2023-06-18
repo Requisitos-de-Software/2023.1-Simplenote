@@ -21,20 +21,22 @@ Aqui está a abordagem para desenhar Rich Picture:
 
 </p>
 
-## Rich picture versão 2.0
+## Rich picture versão 3.0
 
 Abaixo, na Figura 1, podemos ver a primeira versão do Rich Picture.
 
-![RichPictureSimpleNoteV2 0](../pr%C3%A9-rastreabilidade/RichPictureSimpleNoteV3.0.drawio.png)
-  <figcaption>Figura 1: Rich Picture versão 2.0 </figcaption>
-  <p> Figura 1 Fonte: Leonardo e Beatriz- Abril/2023</p> 
+ <img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/71-CorrigirDocumentosComBaseNaAvaliacaoDoGrupo4/docs/pr%C3%A9-rastreabilidade/RichPictureSimpleNoteV3.0.jpg" width = "1000px" />
+
+
+ <p align="center">Figura 1: Rich Picture versão 2.0 </p>
+ <p align="center"> Figura 1 Fonte: Leonardo e Beatriz- Abril/2023</p> 
 
 ## Legenda 
 
 Abaixo, na Figura 2, podemos ver a legenda da Rich Picture.
 ![LegendaRP](https://user-images.githubusercontent.com/86479209/232245580-b86bc88f-d76b-4b85-a8ae-6e13ead681dd.jpg)
-<figcaption>Figura 2: Legenda da versão 1.1 do rich Picture </figcaption>
-  <p> Fonte: Leonardo e Beatriz- Abril/2023</p>
+<p align="center">Figura 2: Legenda da versão 3.0 do rich Picture </p>
+  <p align="center"> Fonte: Autores - Jun/2023</p>
 
 
 ## Bibliografia
@@ -52,6 +54,6 @@ Abaixo, na Figura 2, podemos ver a legenda da Rich Picture.
 |`1.2`| 24/04/2023| [Versão 1.0- SimpleNote](https://user-images.githubusercontent.com/86479209/234722757-eae43354-ebbc-4ea5-9f12-c4f3de8d1378.jpg) | Leonardo| Beatriz|
 |`2.0`| 26/04/2023| Versão revisada do rich picture do SimpleNote | Leonardo| Beatriz|
 |`2.1`| 13/05/2023| Rich picture versão 2.0   | Beatriz | Leonardo |
-|`2.2`| 18/06/2023| Correção de documento  | Beatriz | Leonardo |
+|`3.0`| 18/06/2023| Correção de documento  | Beatriz | Leonardo |
 
 
