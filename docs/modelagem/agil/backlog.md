@@ -2,13 +2,20 @@
 
 ## Introdução
 
-O backlog do produto é uma relação priorizada de requisitos e funcionalidades do projeto que trazem benefícios comerciais para o cliente. Novos itens podem ser acrescentados ao backlog em qualquer momento durante o projeto. Os requisitos são descritos em diferentes níveis de abstração, que variam desde temas, que são a forma mais abstrata, até histórias de usuário, que são a forma mais concreta.
+O backlog do produto é uma relação priorizada de requisitos e funcionalidades do projeto que trazem benefícios comerciais para o cliente. Ele desempenha um papel fundamental no projeto Simplenote, fornecendo um guia central para o time de desenvolvimento, auxiliando na tomada de decisões, na comunicação eficaz e no alinhamento das necessidades e desejos do cliente.
 
-O Backlog do Produto foi escolhido pois ele prioriza as necessidades e desejos do cliente em um projeto, oferecendo flexibilidade, transparência e comunicação eficaz, permitindo ajustes rápidos de acordo com as mudanças. Sendo assim, o backlog do produto garante a satisfação do cliente e impulsiona o sucesso do projeto.
+Ao utilizar o backlog do produto, o projeto Simplenote se beneficia da flexibilidade, transparência e eficácia na comunicação. Esse artefato permite a inclusão de novos itens a qualquer momento durante o projeto, garantindo que as demandas emergentes sejam consideradas. Além disso, os requisitos são descritos em diferentes níveis de abstração, desde temas até histórias de usuário, o que facilita a compreensão e a implementação das funcionalidades.
+
+Ao priorizar as necessidades e desejos do cliente, o backlog do produto no projeto Simplenote assegura a satisfação do cliente e impulsiona o sucesso do projeto. Ele fornece uma lista priorizada de itens a serem entregues, permitindo um planejamento eficiente e flexível, adaptando-se rapidamente às mudanças e garantindo que as funcionalidades mais valiosas sejam desenvolvidas e entregues em primeiro lugar.
 
 ## Metodologia
 
-O backlog do produto foi realizado a partir da análise e revisão dos requisitos funcionais coletados. Em seguida, esses requisitos foram agrupados em temas e épicos, que foram utilizados como base para criação das [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
+A elaboração do Backlog do Produto foi baseada em referências relevantes na área de gerenciamento de projetos ágeis. O site [[1]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) da Atlassian forneceu informações valiosas sobre a definição de histórias de usuário e sua utilização no contexto de um backlog ágil. O vídeo [[2]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) disponível no YouTube 
+apresentado por Agile Coach Diego Gomes também trouxe insights sobre o tema. Além disso, o vídeo 
+[[3]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) do mesmo autor 
+sobre a introdução ao Product Backlog foi utilizado como base para entender a importância e o 
+propósito desse artefato. Em seguida, esses requisitos foram agrupados em temas e épicos, que 
+foram utilizados como base para criação das [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
 
 - [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
 - [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
@@ -24,7 +31,9 @@ Posteriormente, foi efetuado a priorização dos requisitos elicitados com as te
 - [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
 - [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
 
-Os épicos e temas foram escritos de maneira ágil e padronizada, garantindo consistência com os requisitos funcionais identificados. Para garantir a qualidade do documento, uma validação foi realizada por meio de uma reunião com o pseudo-Product Owner (PO) do projeto. Nessa reunião, foi discutido e revisado o conteúdo, buscando alinhar as expectativas e garantir que as necessidades do projeto fossem adequadamente refletidas no backlog do produto.
+Os épicos e temas foram escritos de maneira ágil e padronizada, garantindo consistência com os requisitos funcionais identificados. Para garantir a qualidade do documento, uma validação foi realizada por meio de uma reunião com o pseudo-Product Owner (PO) do projeto. Nessa reunião, foi discutido e revisado o conteúdo, buscando alinhar as expectativas e garantir que as necessidades do projeto fossem adequadamente refletidas no backlog do produto ([Tabela 7 e Tabela 8](../../modelagem/agil/backlog.md#product-backlog)).
+
+
 
 ## Elicitação de Requisitos
 
@@ -79,7 +88,7 @@ Foram identificados dois grandes temas durante a etapa de verificação e análi
 
 Os épicos são muito importantes no desenvolvimento de produtos de software, consistem basicamente em histórias de usuário que descrevem funcionalidades importantes que o produto de forma a atender às necessidades dos usuários. Elas são escritas de maneira mais abstrata e genérica do que as histórias de usuário comuns, o que permite uma visão mais ampla do projeto.
 
-Neste tópico, os épicos foram divididos em histórias de usuário menores e mais detalhadas para que possam ser implementados em partes menores e iterativamente.
+Neste tópico, os épicos disponíveis na [Tabela 2]() foram divididos em histórias de usuário menores e mais detalhadas para que possam ser implementados em partes menores e iterativamente.
 
 Com base nos temas, foi possível criar os seguintes épicos:
 
@@ -368,7 +377,7 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
 
 Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
 
-## Referências
+## Referências Bibliográficas
 
 [1] https://www.atlassian.com/br/agile/project-management/user-stories 
 
