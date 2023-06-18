@@ -220,8 +220,8 @@ A seguir, eles podem ser observados por meio das tabelas 2 a 14 abaixo.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     | Data da Revisão |
-| ------ | ---------- | --------------------       | ------------- | -------------   |-----------------|
-| `1.0`  | 06/05/2023 | Criação do documento       | Mylena e Leonardo | Kauã        |07/05/2023 |
-| `1.1` | 04/06/2023  | Correções após a entrega 3 | Leonardo          | Ian         |05/06/2023 |
-| `1.2` | 18/06/2023  | Ajustes no documento       | Beatriz           | Ana Beatriz |18/06/2023 |
+| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
+| ------ | ---------- | --------------------       | ------------- | -------------   |
+| `1.0`  | 06/05/2023 | Criação do documento       | Mylena e Leonardo | Kauã        |
+| `1.1` | 04/06/2023  | Correções após a entrega 3 | Leonardo          | Ian         |
+| `1.2` | 18/06/2023  | Ajustes no documento       | Beatriz           | Ana Beatriz |
