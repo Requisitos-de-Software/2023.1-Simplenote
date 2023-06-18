@@ -51,7 +51,7 @@ Abaixo, na Figura 2, podemos ver a legenda da Rich Picture.
 |`1.1`| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
 |`1.2`| 24/04/2023| [Versão 1.0- SimpleNote](https://user-images.githubusercontent.com/86479209/234722757-eae43354-ebbc-4ea5-9f12-c4f3de8d1378.jpg) | Leonardo| Beatriz|
 |`2.0`| 26/04/2023| Versão revisada do rich picture do SimpleNote | Leonardo| Beatriz|
-|'2.1'| 13/05/2023| Rich picture versão 2.0   | Beatriz | Leonardo |
-|'2.2'| 18/06/2023| Correção de documento  | Beatriz | Leonardo |
+|`2.1`| 13/05/2023| Rich picture versão 2.0   | Beatriz | Leonardo |
+|`2.2`| 18/06/2023| Correção de documento  | Beatriz | Leonardo |
 
 
