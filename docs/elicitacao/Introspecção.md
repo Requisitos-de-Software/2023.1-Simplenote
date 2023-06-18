@@ -5,7 +5,7 @@
 A elicitação de requisitos por meio da introspecção consiste em entender as propriedades fundamentais para o sucesso de um sistema, 
 e conjecturar o sistema ideal para determinado usuário, tendo em vista suas necessidades e anseios. A introspecção consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso.
 
->Definições de Oxford Languages 
+>Definições de [Oxford Languages]( https://languages.oup.com/google-dictionary-pt/)
 >
 >introspecção
 >
@@ -14,6 +14,8 @@ e conjecturar o sistema ideal para determinado usuário, tendo em vista suas nec
 >1. reflexão que a pessoa faz sobre o que ocorre no seu íntimo, sobre suas experiências etc.
 >
 >2. PSICOLOGIA observação e descrição do conteúdo (pensamentos, sentimentos) da própria mente.
+
+
 
 
 ## Elicitação de requisitos
