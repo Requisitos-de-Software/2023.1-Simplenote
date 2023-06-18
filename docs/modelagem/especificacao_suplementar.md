@@ -103,6 +103,18 @@ A tabela 1 apresenta os resultados da especificação suplementar, contendo o id
 
 Tabela 1: Resultado da especificação suplementar. (Fonte: Dos autores,2023)
 
+Para melhor entendimento da tabela 1, temos a tabela 2 que mostra os simbolos referentes aos IDs dos requisitos:
+
+|ID| Significado|
+|--|------------|
+|B|Brainstorming|
+|ENT|Entrevista|
+|ES|Especificação Suplementar|
+|GLO|Glossário|
+|INT| Introspecção|
+
+Tabela 2: Tabela de significados da tabela 1. (Fonte: Dos autores,2023)
+
 ## Bibliografia
 
 FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/
