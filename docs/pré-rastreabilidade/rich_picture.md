@@ -40,16 +40,18 @@ Abaixo, na Figura 2, podemos ver a legenda da Rich Picture.
 ## Bibliografia
 > [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 >
-> [2] Rich Picture. Disponivel [aprender3](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso: 18 de junho de 2023.
+> [2] Rich Picture. Disponivel: [systems.open.ac.uk](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso: 18 de junho de 2023.
 >
 > [3] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 18 de junho de 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
-|`1.0` | 10/04/2023 | [Criação da 1º versão- Crunchyroll](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)| Beatriz |Leonardo e Ian |
+|`1.0`| 10/04/2023 | [Criação da 1º versão- Crunchyroll](https://user-images.githubusercontent.com/86479209/232245538-602723e0-920d-4c1b-92ad-82db289cbe32.jpg)| Beatriz |Leonardo e Ian |
 |`1.1`| 15/04/2023| Versão revisada| Leonardo| Beatriz e Ian|
 |`1.2`| 24/04/2023| [Versão 1.0- SimpleNote](https://user-images.githubusercontent.com/86479209/234722757-eae43354-ebbc-4ea5-9f12-c4f3de8d1378.jpg) | Leonardo| Beatriz|
 |`2.0`| 26/04/2023| Versão revisada do rich picture do SimpleNote | Leonardo| Beatriz|
+|'2.1'| 13/05/2023| Rich picture versão 2.0   | Beatriz | Leonardo |
+|'2.2'| 18/06/2023| Correção de documento  | Beatriz | Leonardo |
 
 
