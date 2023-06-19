@@ -66,3 +66,7 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 > [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
 https://github.com/Requisitos-de-Software/2023.1-Caesb
+
+| Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
+| ------ | ---------- | --------------------- | --------- | ------------------ |
+| `1.0`  | 18/06/2023 | Criação do documento. | Kauã      |       -            |
