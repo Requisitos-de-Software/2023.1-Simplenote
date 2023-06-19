@@ -1,8 +1,8 @@
-# Verificação - Documento
+# Verificação - Cenários
 
 ## Introdução
 
-Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.x do documento no dia XX/XX/2023.
+Este documento é destinado para a revisão do artefato [Cenarios](<https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote>), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi avaliado a versão 1.1 do documento no dia 19/06/2023.
 
 ## Metodologia
 
@@ -19,12 +19,12 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |   Sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |    Sim    |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |    Sim    |          |
+|4|Todos os textos estão na norma padrão?                                                                       |    Sim    |          |
+|5|As tabelas são chamadas no texto?                                                                            |    Sim    |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |    Sim    |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
@@ -33,7 +33,22 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
-| 01  |           |           |            |
+|  01  | O artefato possui uma introdução condizente com o conteudo do texto? | Sim  |    |
+|  02  | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Não   |  Não é referenciado no texto |
+|  03  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  Incompleto | As tabelas e imagens não são chamadas no texto  |
+|  04  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Sim  |   Poderia falar de onde foi retirada a matodologia  |
+| CN01   | O cenário possui um título claro e descritivo?                                                               | Sim       |     |
+| CN02   | O objetivo do cenário está claramente estabelecido?                                                         | Sim       |     |
+| CN03   | O cenário descreve como o objetivo deve ser alcançado?                                                       | Sim       |     |
+| CN04   | O cenário descreve as pré-condições relevantes?                                           | Sim       |     |
+| CN05   | O cenário especifica restrições relacionadas ao contexto (limitações ou condições específicas que devem ser consideradas durante a execução do cenário)?   | Sim       |     |
+| CN06   | O cenário identifica os recursos envolvidos?                                                         | Sim       |     |
+| CN07   | O cenário identifica os atores envolvidos, como pessoas ou estruturas organizacionais?                       | Sim       |     |
+| CN08   | O papel de cada ator no cenário está claro?                                                                   | Sim       |     |
+| CN09  | O cenário descreve as ações (episódios) realizadas pelos atores e pelo aplicativo?                                       |     Incompleto       |     |
+| CN10  | O cenário especifica restrições relevantes?                                                      | Sim       |     |
+| CN11  | O cenário especifica exceções relevantes?                                                      | Sim       |     |
+| CN12  | O cenário está associado a requisitos ou histórias de usuário específicas?                                   | Sim       |     |
 
 <p align="center"> Tabela 2 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
 ## Checklist do conteúdo
