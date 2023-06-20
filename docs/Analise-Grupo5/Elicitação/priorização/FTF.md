@@ -30,31 +30,17 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 ## Checklist do conteúdo
 
-| ID  | Questão | Resposta | Observação |
-| --- | ------- | -------- | ---------- |
-|     | A técnica que foi utilizada para priorização é descrita?                                   | sim 	  |            |
-
+| ID  | Questão | Resposta | Observação | Referências
+| --- | ------- | -------- | ---------- | |
+|  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	  |              |   |
+|  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	  |              | [1](#ancora1)   |
+|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	  |              | [1](#ancora1)  |
+|  10  | A fórmula para o cálculo do valor está correta?                                                 |  	  |              | [1](#ancora1)  |
+|  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	  |              | [1](#ancora1) |
+|  12  | Os requisitos funcionais descrevem as funções que o software deve executar?                     |  	  |              | [2](#ancora2) |
+|  13  | Os requisitos não funcionais são restrições ou requisitos de qualidade?                         |  	  |              | [2](#ancora2) |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
-
-## Observações e Problemas encontrados
-
-### ID56
-
-explicação ....
-
-### ID7
-
-explicação ....
-
-## Checklist do grupo 4
-Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb), segue a tabela 3 que aborda os pontos já citados pelos mesmos.
-
-| ID  | Descrição | Avaliação | Observação |
-| --- | --------- | --------- | ---------- |
-| 07  |           |           |            |
-
-<p align="center"> Tabela 3 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
 
 ## Observações e Problemas encontrados
 
@@ -70,10 +56,13 @@ explicação ....
 
 ## Bibliografia
 
-> [1] Slides Requisitos - aula 15. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> [1] Wiegers, Karl; Beatty, Joy. Software Requiriments. Disponível em [aprender3](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 20 de jun de 2023.
+>
+> [2] BOURQUE, Pierre; FAIRLEY, Richard.E ; Guide to the Software Engineering Body of Knowledge. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523020/mod_resource/content/1/SWEBOKv3.pdf). Acesso em: 13 de junho de 2023.
+
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 18/06/2023 | Criação do documento. | Beatriz   | Ana Beatriz            |
+| `1.0`  | 18/06/2023 | Criação do documento. | Beatriz   | Ana Beatriz        |
