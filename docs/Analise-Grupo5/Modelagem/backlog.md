@@ -37,13 +37,13 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID   | Questão | Resposta | Observação | Referências |
 | ---- | ------- | -------- | ---------- |-------------|
-|  7   | O artefato contém o objetivo do uso da técnica?	                                                |          |            |     []      |
+|  7   | O artefato contém o objetivo do uso da técnica?	                                                 |          |            |           |
 |  8   | Os épicos e os temas estão bem definidos?                                                        |          |            |     []      |
 |  9   | São apresentados os requisitos priorizados ?	                                                    |          |            |     []      |
-|  10  | O backlog possui validação de um PO ?	                                                          |          |            |     []      |
-|  11  | Os itens do backlog estão escritos em forma de História de usuário?	                            |          |            |     []      |
+|  10  | O backlog possui validação de um PO ?	                                                           |          |            |     []      |
+|  11  | Os itens do backlog estão escritos em forma de História de usuário?	                             |          |            |     []      |
 |  12  | Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito pequenos)?   |          |            |     []      |
-|  13  | Cada item do backlog está adequadamente rastreado até sua fonte de origem?		                    |          |            |     []      |
+|  13  | Cada item do backlog está adequadamente rastreado até sua fonte de origem?		                     |          |            |     []      |
 |  14  | Os requisitos listados estão conectados a uma história de usuário ?                              |          |            |     []      |
  
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
@@ -62,8 +62,8 @@ explicação ....
 
 ## Bibliografia
 
-> [1] Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523020/mod_resource/content/1/SWEBOKv3.pdf). Acesso em 20 de jun de 2023.
-
+> [1]
+> 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
