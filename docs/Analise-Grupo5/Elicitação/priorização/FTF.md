@@ -32,7 +32,8 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-|     |         |          |            |
+|     | A técnica que foi utilizada para priorização é descrita?                                   | sim 	  |            |
+
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
