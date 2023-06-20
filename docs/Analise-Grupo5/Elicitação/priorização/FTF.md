@@ -64,4 +64,4 @@ explicação ....
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 18/06/2023 | Criação do documento. | Kauã      | Beatriz            |
+| `1.0`  | 18/06/2023 | Criação do documento. | Beatriz   | Ana Beatriz            |
