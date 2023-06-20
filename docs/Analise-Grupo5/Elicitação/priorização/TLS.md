@@ -20,7 +20,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
 |1|O artefato possui Introdução?                                                                                |   sim     |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   sim     | Poderia melhorar a forma que esta sendo feito a referencia         |
 |3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |   sim     |          |
 |4|Todos os textos estão na norma padrão?                                                                       |   sim     |          |
 |5|As tabelas são chamadas no texto?                                                                            |   sim     |          |
@@ -32,7 +32,13 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-|     |         |          |            |
+|     | A técnica que foi utilizada para priorização é descrita?                                   | sim 	  |            |
+|     | Os requisitos são identificados em funcionais e não funcionais?                            | sim 	  |            |
+|     | Os níveis de priorização foram divididos em 3 na tecnica TLE? ('Alta', 'Média' e 'Baixa')  | sim 	  |            |
+|     | Foi utilizado um modelo de quadrante para enquadrar os requistitos entre prioridade 'Alta' (primeiro quadrante), 'Média' (segundo quadrante), 'Baixa (terceiro quadrante)' e requistos propostos com nenhum valor para o projeto (quarto quadrante)?              | sim 	  |            |
+|     | As dependências de requisitos foram levadas em consideração no processo de ranqueamento?   | não 	  |            |
+|     | Os requisitos funcionais descrevem as funções que o software deve executar?                | sim 	  |            |
+|     | Os requisitos não funcionais são restrições ou requisitos de qualidade?                    | sim 	  |            |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -51,13 +57,14 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
-| 07  |           |           |            |
+| 8   | Foi determinado um cronograma para a realização dessa priorização?          |    não       |            |
 
 <p align="center"> Tabela 3 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
 
 ## Observações e Problemas encontrados
 
-### ID56
+### Observações
+Alguns tópicos do checklist não foram levados em consideração por serem repetitivos quando se comparado a tabela 1 ou 2.
 
 explicação ....
 
@@ -69,7 +76,7 @@ explicação ....
 
 ## Bibliografia
 
-> [1] 
+> [1] Wiegers, Karl; Beatty, Joy. Software Requiriments. Disponível em [aprender3](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 20 de jun de 2023.
 
 ## Histórico de Versão
 
