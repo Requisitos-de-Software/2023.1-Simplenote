@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do documento [First things First (FTF)](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi avaliado a versão 1.4 do documento no dia 20/06/2023.
+Este documento é destinado para a revisão do documento [First things First (FTF)](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. Foi avaliado a versão 1.3 do documento no dia 20/06/2023.
 
 ## Metodologia
 
