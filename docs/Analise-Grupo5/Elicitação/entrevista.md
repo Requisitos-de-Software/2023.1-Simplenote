@@ -71,8 +71,11 @@ A referência não é citada no texto do artefato
 ## Bibliografia
 
 > [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
+
 > [2] https://github.com/Requisitos-de-Software/2023.1-Caesb
-> [3] https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md
+> 
+> [3] https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega2/elicitacao/entrevista.md
+> 
 > [4] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
 
 ## Histórico de Versão
