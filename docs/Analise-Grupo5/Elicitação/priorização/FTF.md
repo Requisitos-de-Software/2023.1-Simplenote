@@ -35,9 +35,9 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 |  7  | A técnica que foi utilizada para priorização é descrita?                                       | sim 	 |              | [1](#ancora1) |
 |  8  | Há uma explicação de cada tipo de prioridade?                                                  | sim 	 |              | [1](#ancora1) |
 |  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                           | sim 	 |              | [1](#ancora1) |
-| 10  | A fórmula para o cálculo do valor está correta?                                                | sim 	 | Poderia dar mais destaque as formulas no texto | [1](#ancora1) |
+| 10  | A fórmula para o cálculo do valor está correta?                                                | sim 	 | Sugestão abaixo | [1](#ancora1) |
 | 11  | A tabela possui os pesos relativos e sua justificativa?                                        | sim 	 |              | [1](#ancora1) |
-| 12  | Os requisitos são unicos e não se repetem?	                                                   | não | Existem requisitos repetidos, mas escritos de forma diferente             |               | 
+| 12  | Os requisitos são unicos e não se repetem?	                                                    | não | Existem requisitos repetidos, mas escritos de forma diferente             |               | 
 | 13  | Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos?  | não | Não está falando sobre quem foi responsável no documento | [2](#ancora2) |
 | 14  | Os cálculos estão corretos?                                                                    | sim 	 | Foi refeito todos os calculos e estão corretos| [1](#ancora1) |
 
@@ -45,17 +45,13 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
-## Observações e Problemas encontrados
-
-### ID56
-
-explicação ....
-
-### ID7
-
-explicação ....
-
 ## Sugestões
+
+- Adicionar introdução
+- Poderia dar mais destaque as fórmulas no texto
+- Colocar os participantes da classificação
+- Retirar os requisitos repetidos
+
 
 ## Bibliografia
 
