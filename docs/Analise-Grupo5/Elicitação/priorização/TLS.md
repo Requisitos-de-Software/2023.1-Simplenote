@@ -64,4 +64,4 @@ Não é explicitado as dependências dos requisitos.
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 18/06/2023 | Criação do documento. | Beatriz   | Ana Beatriz            |
+| `1.0`  | 20/06/2023 | Criação do documento. | Beatriz   | Ana Beatriz            |
