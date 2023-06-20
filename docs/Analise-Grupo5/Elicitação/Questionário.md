@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.x do documento no dia XX/XX/2023.
+Este documento é destinado para a revisão do [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 2.0 do documento no dia 19/06/2023.
 
 ## Metodologia
 
@@ -19,12 +19,12 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |   Sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   Sim     |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |   Sim    |          |
+|4|Todos os textos estão na norma padrão?                                                                       |   Sim     |          |
+|5|As tabelas são chamadas no texto?                                                                            |   Não     | OBS: apenas a figura 1 é chamada|
+|6|Os revisores são pessoas diferentes dos autores?                                                             |   Sim     |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
@@ -33,16 +33,16 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
-| 07  | Foi informado o motivo da escolha do questionário?         |           |            |
-| 08  | Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?|||
-| 09  | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer?|||
-| 10  | O questionário apresenta mais perguntas fehchadas do que perguntas abertas?|||
-| 11  | O questionário foi aplicado onde se tinha o público alvo?|||
-| 12  | Os resultados foram tratados e apresentados?|||
-| 13  | O perfíl de usuário fei definido com base nos resultados dos questionários?|||
-| 14  | O perfil de usuário apresenta os pontos principais requisitados?|||
-| 15  | É demostrado o por que definir um perfil de usuário no projeto?|||
-| 16  | É mostrado como o perfil de usuário vai ser usado durante o projeto?|||
+| 07  | Foi informado o motivo da escolha do questionário?| Sim ||
+| 08  | Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?|Sim||
+| 09  | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer?|Não||
+| 10  | O questionário apresenta mais perguntas fehchadas do que perguntas abertas?|Sim||
+| 11  | O questionário foi aplicado onde se tinha o público alvo?|Sim||
+| 12  | Os resultados foram tratados e apresentados?|Sim||
+| 13  | O perfíl de usuário fei definido com base nos resultados dos questionários?|Sim||
+| 14  | O perfil de usuário apresenta os pontos principais requisitados?|Sim||
+| 15  | É demostrado o por que definir um perfil de usuário no projeto?|Sim||
+| 16  | É mostrado como o perfil de usuário vai ser usado durante o projeto?|Sim||
 
 
 <p align="center"> Tabela 2 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega2/elicitacao/questionario.md) </p>
@@ -51,17 +51,22 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-| 17  |  É explicitado como o questionário será utilizado?|    |    |
-| 18  |  As perguntas apresentam alguma ordem ou padrão estratégico? |||
-| 19  |  Apresenta no texto os locais onde o Questionário foi distribuído?|||
-| 20  |  Apresenta no texto o prazo em que ficou aberto ? |||
-| 21  |  Houve o cuidado para não haver perguntas pessoais ou evasivas ? |||
+| 17  |  É explicitado como o questionário será utilizado?| Sim |    |
+| 18  |  As perguntas apresentam alguma ordem ou padrão estratégico? |Não||
+| 19  |  Apresenta no texto os locais onde o Questionário foi distribuído?|Sim||
+| 20  |  Apresenta no texto o prazo em que ficou aberto ? |Sim||
+| 21  |  Houve o cuidado para não haver perguntas pessoais ou evasivas ? |Sim||
 
 <p align="center"> Tabela 3 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
+### ID5
+As tabelas estão referenciadas incorretamente e apenas a figura 1 está referenciada no texto.
+
 ## Sugestões
+
+Referenciar a tabela e as figuras no texto
 
 ## Bibliografia
 
