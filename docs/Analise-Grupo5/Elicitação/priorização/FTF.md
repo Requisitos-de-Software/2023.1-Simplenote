@@ -32,12 +32,16 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação | Referências|
 | --- | ------- | -------- | ---------- |------------|
-|  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	 |              | [1](#ancora1) |
-|  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	 |              | [1](#ancora1) |
-|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	 |              | [1](#ancora1) |
-|  10  | A fórmula para o cálculo do valor está correta?                                                 |  	 |              | [1](#ancora1) |
-|  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	 |              | [1](#ancora1) |
-|  12  | Os requisitos são unicos e não se repetem?	                                                     | não | Existem requisitos repetidos, mas escritos de forma diferente             |               | 
+|  7  | A técnica que foi utilizada para priorização é descrita?                                       | sim 	 |              | [1](#ancora1) |
+|  8  | Há uma explicação de cada tipo de prioridade?                                                  | sim 	 |              | [1](#ancora1) |
+|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                           | sim 	 |              | [1](#ancora1) |
+| 10  | A fórmula para o cálculo do valor está correta?                                                | sim 	 | Poderia dar mais destaque as formulas no texto | [1](#ancora1) |
+| 11  | A tabela possui os pesos relativos e sua justificativa?                                        | sim 	 |              | [1](#ancora1) |
+| 12  | Os requisitos são unicos e não se repetem?	                                                   | não | Existem requisitos repetidos, mas escritos de forma diferente             |               | 
+| 13  | Participação dos representantes dos desenvolvedores na classificação dos custos e dos riscos?  | não | Não está falando sobre quem foi responsável no documento | [2](#ancora2) |
+| 14  | Os cálculos estão corretos?                                                                    | sim 	 | Foi refeito todos os calculos e estão corretos| [1](#ancora1) |
+
+
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -56,7 +60,9 @@ explicação ....
 ## Bibliografia
 
 > [1] Wiegers, Karl; Beatty, Joy. Software Requiriments. Disponível em [aprender3](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 20 de jun de 2023.
-
+>
+> [2] Verificação (Grupo 5), Tabela 1, First Things First- Grupo 6 Caesb. Disponivel em [gitpage](https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega2/priorizacao/FTF/). Acesso em 20 de jun de 2023.
+ 
 
 ## Histórico de Versão
 
