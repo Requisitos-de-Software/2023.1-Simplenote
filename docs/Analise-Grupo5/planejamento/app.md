@@ -38,26 +38,29 @@ O checklist do conteúdo foi feito levando em considerando a verificação do [g
 | ID  | Questão | Resposta | Observação | Referências|
 | --- | ------- | -------- | ---------- |------------|
 |  7  | O artefato possui uma introdução condizente com o conteúdo do texto?                             |  sim	  |              | [3](#ancora1) |
-|  8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                       |  	  |              | [3](#ancora1) |
-|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	  |              | [1](#ancora1) |
-|  10  | A fórmula para o cálculo do valor está correta?                                                 |  	  |              | [1](#ancora1) |
-|  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	  |              | [1](#ancora1) |
-|  12  | Os requisitos funcionais descrevem as funções que o software deve executar?                     |  	  |              | [2](#ancora2) |
-|  13  | Os requisitos não funcionais são restrições ou requisitos de qualidade?                         |  	  |              | [2](#ancora2) |
+|  8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                       |  sim	  |           | [3](#ancora1) |
+|  9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?   |  não	  |     Não possui metodologia         | [3](#ancora1) |
+|  10  | O aplicativo escolhido é um aplicativo OpenSource?                                              |  sim	  |              | [3](#ancora1) |
+|  11  | O grupo considerou os critérios estabelecidos pelo professor para a escolha do aplicativo?                   |  sim	  |              | [3](#ancora1) |
+|  12  | É apresentado qual foi o motivo da escolha do Aplicativo?	                         |  sim	  |              | [3](#ancora1) |
+|  13  | O grupo demonstrou que sabia quem eram os usuários? E sabiam como encontrar ou tinham acesso a eles?	                         |  sim	  |              | [3](#ancora1) |
+|  14  | Antes de tomar a decisão, teve mais de um aplicativo levantado e analisado?                         |  sim	  |              | [3](#ancora1) |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
-### ID56
+### ID 05 - As tabelas são chamadas no texto?                                                                            
+A tabela não possui legenda e nem ela nem a imagem são chamadas no texto.
 
-explicação ....
+### ID 09 - As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?
 
-### ID7
-
-explicação ....
+O artefato não possui metodologia. Desse modo não é possível julgar
 
 ## Sugestões
+
+* Fazer uma seção de metodologia
+* Corrigir as referências da tabela
 
 ## Bibliografia
 
