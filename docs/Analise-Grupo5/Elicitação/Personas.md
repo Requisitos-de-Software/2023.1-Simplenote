@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão das [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão x.x do documento no dia XX/XX/2023.
+Este documento é destinado para a revisão das [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 3.0 do documento no dia 19/06/2023.
 
 ## Metodologia
 
@@ -19,12 +19,12 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |   Sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   Sim     |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |   Sim     |          |
+|4|Todos os textos estão na norma padrão?                                                                       |   Sim     |          |
+|5|As tabelas são chamadas no texto?                                                                            |   Sim     |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |   Sim     |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
@@ -33,17 +33,17 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
-| 07  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?         |           |            |
-| 08  | É informado o motivo de se ter personas no projeto? |||
-| 09  | É mostrado como as personas serão usadas no projeto?|||
-| 10  | A persona foi definida usando o perfil de usuário?|||
-| 11  | A persona é um personagem fictício?|||
-| 12  | A persona primária representa o público alvo?|||
-| 13  | A persona apresentam as características esperadas? |||
-| 14  | A persona possui citações para melhor entendimento do que ela precisa? |||
-| 15  | A persona é bem detalhada?|||
-| 16  | Foi definido um elenco de personas?|||
-| 17  | É informado por que a quantidade de personas?|||
+| 07  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Não | Olhar no texto |
+| 08  | É informado o motivo de se ter personas no projeto? | Sim ||
+| 09  | É mostrado como as personas serão usadas no projeto?| Sim ||
+| 10  | A persona foi definida usando o perfil de usuário?| Sim ||
+| 11  | A persona é um personagem fictício?| Sim ||
+| 12  | A persona primária representa o público alvo?| Sim ||
+| 13  | A persona apresentam as características esperadas? | Sim ||
+| 14  | A persona possui citações para melhor entendimento do que ela precisa? | Sim ||
+| 15  | A persona é bem detalhada?| Sim ||
+| 16  | Foi definido um elenco de personas?| Sim ||
+| 17  | É informado por que a quantidade de personas?| Não ||
 
 
 <p align="center"> Tabela 2 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega2/elicitacao/personas.md) </p>
@@ -51,16 +51,29 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Questão | Resposta | Observação |
 | --- | ------- | -------- | ---------- |
-|  18 |  No texto é explicitado a metodologia utilizada pra criação das personas ?   |      |        |
-|  19 |  Todas as personas foram descritos de modo pessoal, tecnico e profissional ? |      |        |
-|  20 |  Foram descritas as motivações de cada persona ?                             |      |        |
-|  21 |  Houve algum registro de gravação no processo de criação das personas?       |      |        |
+|  18 |  No texto é explicitado a metodologia utilizada pra criação das personas ?   |  Incompleto   |  Olhar no texto       |
+|  19 |  Todas as personas foram descritos de modo pessoal, tecnico e profissional ? |    Sim  |        |
+|  20 |  Foram descritas as motivações de cada persona ?                             |    Incompleto |     Olhar no texto   |
+|  21 |  Houve algum registro de gravação no processo de criação das personas?       |   Não   |        |
   
 <p align="center"> Tabela 3 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
+### ID 7 e ID 18
+É importante colocar no texto como foram feitas as personas, utilizando-se de parâmetros e padrões
+
+### ID 17
+É preciso informar o porque de ter sido escolhido especificamente 4 personas no projeto e não mais do que isso.
+
+### ID20 
+Algumas personas apresentam uma motivação explicita para utilizar o app, outras não.
+
 ## Sugestões
+- Corrigir as metodologias
+- Informar o porque de apenas 4 personas
+- Explicitar as motivações de cada persona em utilizar o app
+- Realizar a gravação do processo de criação das personas.
 
 ## Bibliografia
 
