@@ -40,6 +40,7 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 | 11  | A participação do cliente e/ou persona no processo de priorização?|     Sim      |            |
 
 <p align="center"> Tabela 2 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega2/priorizacao/moscow.md) </p>
+
 ## Checklist do conteúdo
 
 | ID  | Questão | Resposta | Observação |
