@@ -44,12 +44,12 @@ referenciado como "[4]".
 |  8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                       |  sim	  |           | [3](#ancora1) |
 |  9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?   |  sim	  |           | [3](#ancora1) |
 |  10  |O processo de elicitação foi devidamente explicado e documentado?                                             |  sim	  |              | [4](#ancora2) |
-|  10  |Os participantes são relevantes para esse processo?                                            |  sim	  |              | [4](#ancora2) |
-|  10  | O brainstorming é organizado e de fácil compreensão?                                             |  sim	  |              | [4](#ancora2) |
-|  11  | Os requisitos elicitados foram classificados corretamente?	                         |  sim	  |              | [3](#ancora1) |
-|  12  | Foram elicitados requisitos que não estão presentes no aplicativo?	                         |  não	  |   não consta no artefato        | [3](#ancora1) |
-|  13  | Foram registradas as sugestões?                         |  sim	  |              | [3](#ancora1) |
-|  14  | Após o brainstorming, os requisitos foram explicitados de forma coerente?                      |  sim	  |              | [3](#ancora1) |
+|  11  |Os participantes são relevantes para esse processo?                                            |  sim	  |              | [4](#ancora2) |
+|  12  | O brainstorming é organizado e de fácil compreensão?                                             |  sim	  |              | [4](#ancora2) |
+|  13  | Os requisitos elicitados foram classificados corretamente?	                         |  sim	  |              | [3](#ancora1) |
+|  14  | Foram elicitados requisitos que não estão presentes no aplicativo?	                         |  não	  |   não consta no artefato        | [3](#ancora1) |
+|  15  | Foram registradas as sugestões?                         |  sim	  |              | [3](#ancora1) |
+|  16  | Após o brainstorming, os requisitos foram explicitados de forma coerente?                      |  sim	  |              | [3](#ancora1) |
 
 
 
@@ -58,7 +58,7 @@ referenciado como "[4]".
 
 ## Observações e Problemas encontrados
 
-### ID 12 - Foram elicitados requisitos que não estão presentes no aplicativo?
+### ID 14 - Foram elicitados requisitos que não estão presentes no aplicativo?
 
 Em momento nenhum é citado a presença de requisitos não presentes no aplicativo
 
