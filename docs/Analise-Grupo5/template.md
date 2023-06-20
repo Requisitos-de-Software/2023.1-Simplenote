@@ -31,7 +31,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 ## Checklist do conteúdo
 
 | ID  | Questão | Resposta | Observação | Referências |
-| --- | ------- | -------- | ---------- |     []      |
+| --- | ------- | -------- | ---------- |     -       |
 |     |         |          |            |     []      |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
