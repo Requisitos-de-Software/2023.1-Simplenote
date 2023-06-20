@@ -46,8 +46,7 @@ referenciado como "[4]".
 |  10  |O processo de elicitação foi devidamente explicado e documentado?                                             |  não	  |   Não explica            | [4](#ancora2) |
 |  11  | Os requisitos elicitados foram classificados corretamente?	                         |  sim	  |              | [3](#ancora1) |
 |  12  | Foram elicitados requisitos que não estão presentes no aplicativo?	                         |  não	  |              | [3](#ancora1) |
-|  13  | Antes de tomar a decisão, teve mais de um aplicativo levantado e analisado?                         |  sim	  |              | [3](#ancora1) |
-|  14  | A pessoa que fez a introspeção estudou o aplicativo primeiro?                        |  sim	  |              | [3](#ancora1) |
+|  13  | A pessoa que fez a introspeção estudou o aplicativo primeiro?                        |  sim	  |              | [3](#ancora1) |
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
