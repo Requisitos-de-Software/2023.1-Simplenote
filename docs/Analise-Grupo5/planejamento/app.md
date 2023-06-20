@@ -3,11 +3,12 @@
 ## Introdução
 
 Este documento é destinado para a revisão do [Aplicativo selecionado](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/planejamento/Aplicativo%20Selecionado.md) 
-do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 2.0 do documento no dia  14/06/2023.
+do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+Foi avaliado a versão 2.0 do documento no dia 14/06/2023.
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando um checklist criado com base no plano de ensino da disciplina de requisitos de software e nas obras que estão citadas na bibliografia. A princípio, foram criadas duas tabelas nas quais, 
+A verificação foi feita por meio da insperção, utilizando um checklist criado com base no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) da disciplina de requisitos de software e nas obras que estão citadas na bibliografia. A princípio, foram criadas duas tabelas nas quais, 
 temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter:
 
 - Sim : caso um critério for atendido.
