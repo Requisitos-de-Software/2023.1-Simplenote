@@ -54,7 +54,7 @@ Deve-se chamar as tabelas no texto
 
 ## Sugestões
 - Chamar as tabelas no texto
-- 
+
 ## Bibliografia
 
 > [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
