@@ -49,6 +49,11 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 Não é explicitado as dependências dos requisitos.
 
+## Sugestão
+
+- Tirar os requisitos repetidos
+- Desmostrar que as depedências foram levadas em consideração
+
 ## Bibliografia
 
 > [1] Wiegers, Karl; Beatty, Joy. Software Requiriments. Disponível em [aprender3](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em 20 de jun de 2023.
