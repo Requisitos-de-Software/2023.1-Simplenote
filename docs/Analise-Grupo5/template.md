@@ -33,7 +33,7 @@ Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Req
 
 | ID  | Descrição | Avaliação | Observação |
 | --- | --------- | --------- | ---------- |
-| 01  |           |           |            |
+| 07  |           |           |            |
 
 <p align="center"> Tabela 2 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
 
