@@ -30,7 +30,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 ## Checklist do conteúdo
 
-| ID  | Questão | Resposta | Observação | Referências
+| ID  | Questão | Resposta | Observação | Referências|
 | --- | ------- | -------- | ---------- | |
 |  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	  |              |   |
 |  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	  |              | [1](#ancora1)   |
