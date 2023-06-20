@@ -37,18 +37,17 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID   | Questão | Resposta | Observação | Referências |
 | ---- | ------- | -------- | ---------- |-------------|
-|  7   | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [1](#ancora1)       |
+|  7   | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [2](#ancora2)     |
 |  8   | O diagrama de caso de uso possui atores?                                                           |          |            | [1](#ancora1)     |
 |  9   | O ator principal está do lado esquerdo do sistema?                                                 |          |            | [1](#ancora1) e [2](#ancora2)     |
-|  10  | Os atores estão fora da fronteira do sistema?                                                      |          |            | [1](#ancora1) e [2](#ancora2)      |
+|  10  | Os atores estão fora da fronteira do sistema?                                                      |          |            | [1](#ancora1) e [2](#ancora2)     |
 |  11  | Os atores interagem com os Casos de Uso?                                                           |          |            | [1](#ancora1) e [2](#ancora2)     |
-|  12  | Existe multiplicidade entre ator e Caso de Uso?                                                    |          |            | [1](#ancora1)      |
-|  13  | Há algum nome associado ao(s) usuário(s) do sistema?                                               |          |            | [1](#ancora1)      |
-|  14  | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [1](#ancora1)     |
-|  15  | Existe limite do sistema?                                                                          |          |            | [1](#ancora1)      |
-|  16  | Os casos de uso possuem especificações?                                                            |          |            | [1](#ancora1)      |
-|  17  | Os casos de uso possuem rastreabilidade?                                                           |          |            | [1](#ancora1)     |
-|  18  | Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal? |          |            | [1](#ancora1)      |
+|  12  | Existe multiplicidade entre ator e Caso de Uso?                                                    |          |            | [1](#ancora1)     |
+|  13  | Há algum nome associado ao(s) usuário(s) do sistema?                                               |          |            | [1](#ancora1)     |
+|  14  | Existe limite do sistema?                                                                          |          |            | [1](#ancora1)     |
+|  15  | Os casos de uso possuem especificações?                                                            |          |            | [1](#ancora1)     |
+|  16  | Os casos de uso possuem rastreabilidade?                                                           |          |            | [1](#ancora1)     |
+|  17  | Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal? |          |            | [1](#ancora1)     |
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
