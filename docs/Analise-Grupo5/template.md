@@ -30,30 +30,11 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 ## Checklist do conteúdo
 
-| ID  | Questão | Resposta | Observação |
-| --- | ------- | -------- | ---------- |
-|     |         |          |            |
+| ID  | Questão | Resposta | Observação | Referências |
+| --- | ------- | -------- | ---------- |     []      |
+|     |         |          |            |     []      |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
-
-## Observações e Problemas encontrados
-
-### ID56
-
-explicação ....
-
-### ID7
-
-explicação ....
-
-## Checklist do grupo 4
-Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb), segue a tabela 3 que aborda os pontos já citados pelos mesmos.
-
-| ID  | Descrição | Avaliação | Observação |
-| --- | --------- | --------- | ---------- |
-| 07  |           |           |            |
-
-<p align="center"> Tabela 3 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
 
 ## Observações e Problemas encontrados
 
