@@ -32,14 +32,14 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação | Referência |
 | --- | ------- | -------- | ---------- | ------------ |
-| 7   | A técnica que foi utilizada para priorização é descrita?                                    | sim 	  |              | [1](#ancora1)  |
-| 8   | Os requisitos são identificados em funcionais e não funcionais?                             | sim 	  |              | [1](#ancora1)  |
-| 9   | Os níveis de priorização foram divididos em 3 na tecnica TLE? ('Alta', 'Média' e 'Baixa')   | sim 	  |              | [1](#ancora1)  |
-| 10   | Foi utilizado um modelo de quadrante para enquadrar os requistitos entre prioridade 'Alta' (primeiro quadrante), 'Média' (segundo quadrante), 'Baixa (terceiro quadrante)' e requistos propostos com nenhum valor para o projeto (quarto quadrante)?               | sim 	  |              | [1](#ancora1) |
-| 11   | As dependências de requisitos foram levadas em consideração no processo de ranqueamento?   | não 	  |              | [1](#ancora1) |
-| 12   | Os requisitos funcionais descrevem as funções que o software deve executar?                | sim 	  |              | [2](#ancora2) |
-| 13   | Os requisitos não funcionais são restrições ou requisitos de qualidade?                    | sim 	  |              | [2](#ancora2) |
-| 14   | Os requisitos são unicos e não se repetem?                                                 | não 	  | Existem requisitos repetidos.             | |
+| 7   | A técnica que foi utilizada para priorização é descrita?                                    | sim 	  |                      | [1](#ancora1)  |
+| 8   | Os requisitos são identificados em funcionais e não funcionais?                             | sim 	  |                      | [1](#ancora1)  |
+| 9   | Os níveis de priorização foram divididos em 3 na tecnica TLE? ('Alta', 'Média' e 'Baixa')   | sim 	  |                      | [1](#ancora1)  |
+| 10   | Foi utilizado um modelo de quadrante para enquadrar os requistitos entre prioridade 'Alta' (primeiro quadrante), 'Média' (segundo quadrante), 'Baixa (terceiro quadrante)' e requistos propostos com nenhum valor para o projeto (quarto quadrante)?               | sim 	  |                      | [1](#ancora1) |
+| 11   | As dependências de requisitos foram levadas em consideração no processo de ranqueamento?   | não 	  | Explicação abaixo    | [1](#ancora1) |
+| 12   | Os requisitos funcionais descrevem as funções que o software deve executar?                | sim 	  |                      | [2](#ancora2) |
+| 13   | Os requisitos não funcionais são restrições ou requisitos de qualidade?                    | sim 	  |                      | [2](#ancora2) |
+| 14   | Os requisitos são unicos e não se repetem?                                                 | não 	  | Existem requisitos repetidos. | |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
