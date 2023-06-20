@@ -62,7 +62,7 @@ explicação ....
 
 ## Bibliografia
 
-> [1] Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em [swebok](http://www.computer.org/web/swebok/v3). Acesso em 20 de jun de 2023.
+> [1] Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523020/mod_resource/content/1/SWEBOKv3.pdf). Acesso em 20 de jun de 2023.
 
 ## Histórico de Versão
 
