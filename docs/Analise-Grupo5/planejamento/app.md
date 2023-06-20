@@ -3,7 +3,7 @@
 ## Introdução
 
 Este documento é destinado para a revisão do [Aplicativo selecionado](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/planejamento/Aplicativo%20Selecionado.md) 
-do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.x do documento no dia XX/XX/2023.
+do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 2.0 do documento no dia  14/06/2023.
 
 ## Metodologia
 
@@ -21,24 +21,24 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |    sim    |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |     sim   |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |     sim   |          |
+|4|Todos os textos estão na norma padrão?                                                                       |   sim     |          |
+|5|As tabelas são chamadas no texto?                                                                            |    não    |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |    sim    |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 
-O checklist do conteúdo foi feito levando em considerando a verificação do [grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md?plain=1)
-bem como o 
+O checklist do conteúdo foi feito levando em considerando a verificação do [grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md?plain=1) referenciado na tabela 2 abaixo com um "[3]" no campo "Referências".
+
 
 | ID  | Questão | Resposta | Observação | Referências|
 | --- | ------- | -------- | ---------- |------------|
-|  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	  |              | [1](#ancora1) |
-|  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	  |              | [1](#ancora1) |
+|  7  | O artefato possui uma introdução condizente com o conteúdo do texto?                             |  sim	  |              | [3](#ancora1) |
+|  8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                       |  	  |              | [3](#ancora1) |
 |  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	  |              | [1](#ancora1) |
 |  10  | A fórmula para o cálculo do valor está correta?                                                 |  	  |              | [1](#ancora1) |
 |  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	  |              | [1](#ancora1) |
@@ -57,31 +57,13 @@ explicação ....
 
 explicação ....
 
-## Checklist do grupo 4
-Para reverificação dos pontos já feitos pelo [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Caesb), segue a tabela 3 que aborda os pontos já citados pelos mesmos.
-
-| ID  | Descrição | Avaliação | Observação |
-| --- | --------- | --------- | ---------- |
-| 07  |           |           |            |
-
-<p align="center"> Tabela 3 - Checklist do Grupo 4 <br> Fonte: [Grupo 4](ADICIONAR LINK PARA A PÁGINA DA TABELA) </p>
-
-## Observações e Problemas encontrados
-
-### ID56
-
-explicação ....
-
-### ID7
-
-explicação ....
-
 ## Sugestões
 
 ## Bibliografia
 
 > [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
-https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [2] https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [3] https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Verificacao/Grupo5/Entrega1/Aplicativo_Selecionado.md?plain=1
 
 ## Histórico de Versão
 
