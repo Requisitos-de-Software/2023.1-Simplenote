@@ -35,10 +35,17 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 ## Checklist do conteúdo
 
-| ID  | Questão | Resposta | Observação | Referências |
-| --- | ------- | -------- | ---------- |-------------|
-|     |         |          |            |     []      |
-
+| ID   | Questão | Resposta | Observação | Referências |
+| ---- | ------- | -------- | ---------- |-------------|
+|  7   | O artefato contém o objetivo do uso da técnica?	                                                |          |            |     []      |
+|  8   | Os épicos e os temas estão bem definidos?                                                        |          |            |     []      |
+|  9   | São apresentados os requisitos priorizados ?	                                                    |          |            |     []      |
+|  10  | O backlog possui validação de um PO ?	                                                          |          |            |     []      |
+|  11  | Os itens do backlog estão escritos em forma de História de usuário?	                            |          |            |     []      |
+|  12  | Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito pequenos)?   |          |            |     []      |
+|  13  | Cada item do backlog está adequadamente rastreado até sua fonte de origem?		                    |          |            |     []      |
+|  14  | Os requisitos listados estão conectados a uma história de usuário ?                              |          |            |     []      |
+ 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
@@ -55,7 +62,7 @@ explicação ....
 
 ## Bibliografia
 
-> [1] 
+> [1] Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em [swebok](http://www.computer.org/web/swebok/v3). Acesso em 20 de jun de 2023.
 
 ## Histórico de Versão
 
