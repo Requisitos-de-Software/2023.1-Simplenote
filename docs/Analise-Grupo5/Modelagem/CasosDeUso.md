@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.x do documento no dia XX/XX/2023.
+Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.1 do documento no dia 20/06/2023.
 
 ## Metodologia
 
@@ -24,20 +24,32 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |   sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   sim     | Poderia melhorar a formatação da bibliografia |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |   sim     |          |
+|4|Todos os textos estão na norma padrão?                                                                       |   sim     |          |
+|5|As tabelas são chamadas no texto?                                                                            |   não     |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |   sim     |          |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
 ## Checklist do conteúdo
 
-| ID  | Questão | Resposta | Observação | Referências |
-| --- | ------- | -------- | ---------- |-------------|
-|  7  |         |          |            |     []      |
+| ID   | Questão | Resposta | Observação | Referências |
+| ---- | ------- | -------- | ---------- |-------------|
+|  7   | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [1](#ancora1)       |
+|  8   | O diagrama de caso de uso possui atores?                                                           |          |            | [1](#ancora1)     |
+|  9   | O ator principal está do lado esquerdo do sistema?                                                 |          |            | [1](#ancora1) e [2](#ancora2)     |
+|  10  | Os atores estão fora da fronteira do sistema?                                                      |          |            | [1](#ancora1) e [2](#ancora2)      |
+|  11  | Os atores interagem com os Casos de Uso?                                                           |          |            | [1](#ancora1) e [2](#ancora2)     |
+|  12  | Existe multiplicidade entre ator e Caso de Uso?                                                    |          |            | [1](#ancora1)      |
+|  13  | Há algum nome associado ao(s) usuário(s) do sistema?                                               |          |            | [1](#ancora1)      |
+|  14  | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [1](#ancora1)     |
+|  15  | Existe limite do sistema?                                                                          |          |            | [1](#ancora1)      |
+|  16  | Os casos de uso possuem especificações?                                                            |          |            | [1](#ancora1)      |
+|  17  | Os casos de uso possuem rastreabilidade?                                                           |          |            | [1](#ancora1)     |
+|  18  | Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal? |          |            | [1](#ancora1)      |
+
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -55,7 +67,9 @@ explicação ....
 
 ## Bibliografia
 
-> [1] 
+> [1] Serrano, Milene; Serrano, Maurício. Requisitos aula 13. Disponivel em [aprender3](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em 20/06/2023. 
+>
+> [2] Diagrama de caso de uso UML: O que é, como fazer e exemplos. Disponivel em [lucidchart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em 20/06/2023.
 
 ## Histórico de Versão
 
