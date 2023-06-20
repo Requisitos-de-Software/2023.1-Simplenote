@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do [Documento](<link para o documento>) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.1 do documento no dia 20/06/2023.
+Este documento é destinado para a revisão do [documento Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) do grupo 5 - [Simplenote](https://github.com/Requisitos-de-Software/2023.1-Simplenote), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.Foi avaliado a versão 1.1 do documento no dia 20/06/2023.
 
 ## Metodologia
 
