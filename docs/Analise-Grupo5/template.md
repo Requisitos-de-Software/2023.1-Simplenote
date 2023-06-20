@@ -30,6 +30,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 |4|Todos os textos estão na norma padrão?                                                                       |        |          |
 |5|As tabelas são chamadas no texto?                                                                            |        |          |
 |6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|7|As referências bibliográficas são utilizadas no texto do documento? | | |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
 
