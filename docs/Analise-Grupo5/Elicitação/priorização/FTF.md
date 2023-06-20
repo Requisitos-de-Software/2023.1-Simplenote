@@ -32,13 +32,14 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação | Referências|
 | --- | ------- | -------- | ---------- |------------|
-|  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	  |              | [1](#ancora1) |
-|  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	  |              | [1](#ancora1) |
-|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	  |              | [1](#ancora1) |
-|  10  | A fórmula para o cálculo do valor está correta?                                                 |  	  |              | [1](#ancora1) |
-|  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	  |              | [1](#ancora1) |
-|  12  | Os requisitos funcionais descrevem as funções que o software deve executar?                     |  	  |              | [2](#ancora2) |
-|  13  | Os requisitos não funcionais são restrições ou requisitos de qualidade?                         |  	  |              | [2](#ancora2) |
+|  7  | A técnica que foi utilizada para priorização é descrita?                                         |  	 |              | [1](#ancora1) |
+|  8  | Há uma explicação de cada tipo de prioridade?                                                    |  	 |              | [1](#ancora1) |
+|  9  | Os requisitos estão ordenados em ordem de prioridade na técnica FTF?                             |  	 |              | [1](#ancora1) |
+|  10  | A fórmula para o cálculo do valor está correta?                                                 |  	 |              | [1](#ancora1) |
+|  11  | A tabela possui os pesos relativos e sua justificativa?                                         |  	 |              | [1](#ancora1) |
+|  12  | Os requisitos funcionais descrevem as funções que o software deve executar?                     |  	 |              | [2](#ancora2) |
+|  13  | Os requisitos não funcionais são restrições ou requisitos de qualidade?                         |  	 |              | [2](#ancora2) |
+|  14  | Os requisitos são unicos e não se repetem?	                                                     | não | Existem requisitos repetidos, mas escritos de forma diferente             |               | 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
