@@ -16,6 +16,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 
 (Caso não sejam usados tópicos do grupo 4 não insira o parágrafo abaixo)
+
 Foi utilizada a *checklist* de verificação elaborada pelo Grupo 4 ([Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega1/Entrega1/)) para definir parte dos itens da *checklist* deste artefato. Os itens do Grupo 4 que foram acatados estão referenciados para o documento de verificação elaborado e também possuem respaldo em algum documento da bibliografia usada na elaboração do *checklist* 
 
 ## Checklist de documento
