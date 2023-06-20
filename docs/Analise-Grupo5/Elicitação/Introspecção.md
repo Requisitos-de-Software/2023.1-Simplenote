@@ -43,11 +43,11 @@ referenciado como "[4]".
 |  7  | O artefato possui uma introdução condizente com o conteúdo do texto?                             |  sim	  |              | [3](#ancora1) |
 |  8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                       |  sim	  |           | [3](#ancora1) |
 |  9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?   |  não	  |     Não possui metodologia         | [3](#ancora1) |
-|  10  |O processo de elicitação foi devidamente explicado e documentado?                                             |  não	  |   Não explica            | [3](#ancora1) |
+|  10  |O processo de elicitação foi devidamente explicado e documentado?                                             |  não	  |   Não explica            | [4](#ancora2) |
 |  11  | Os requisitos elicitados foram classificados corretamente?	                         |  sim	  |              | [3](#ancora1) |
 |  12  | Foram elicitados requisitos que não estão presentes no aplicativo?	                         |  não	  |              | [3](#ancora1) |
 |  13  | Antes de tomar a decisão, teve mais de um aplicativo levantado e analisado?                         |  sim	  |              | [3](#ancora1) |
-|  14  | A pessoa que fez a introspeção estudou o aplicativo primeiro?                        |  sim	  |              | [4](#ancora2) |
+|  14  | A pessoa que fez a introspeção estudou o aplicativo primeiro?                        |  sim	  |              | [3](#ancora1) |
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
