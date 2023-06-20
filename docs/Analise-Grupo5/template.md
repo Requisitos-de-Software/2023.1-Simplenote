@@ -14,6 +14,8 @@ A verificação foi feita por meio da insperção, utilizando um checklist criad
 
 Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
 
+Foi utilizada a *checklist* de verificação elaborada pelo Grupo 4 ([Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega1/Entrega1/)) para definir parte dos itens da *checklist* deste artefato. Os itens do Grupo 4 que foram acatados estão referenciados para o documento de verificação elaborado e também possuem respaldo em algum documento da bibliografia usada na elaboração do *checklist* 
+
 ## Checklist de documento
 Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabela 1. Segue:
 
