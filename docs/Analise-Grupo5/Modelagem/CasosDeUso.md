@@ -37,30 +37,32 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID   | Questão | Resposta | Observação | Referências |
 | ---- | ------- | -------- | ---------- |-------------|
-|  7   | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?       |          |            | [2](#ancora2)     |
-|  8   | O diagrama de caso de uso possui atores?                                                           |          |            | [1](#ancora1)     |
-|  9   | O ator principal está do lado esquerdo do sistema?                                                 |          |            | [1](#ancora1) e [2](#ancora2)     |
-|  10  | Os atores estão fora da fronteira do sistema?                                                      |          |            | [1](#ancora1) e [2](#ancora2)     |
-|  11  | Os atores interagem com os Casos de Uso?                                                           |          |            | [1](#ancora1) e [2](#ancora2)     |
-|  12  | Existe multiplicidade entre ator e Caso de Uso?                                                    |          |            | [1](#ancora1)     |
-|  13  | Há algum nome associado ao(s) usuário(s) do sistema?                                               |          |            | [1](#ancora1)     |
-|  14  | Existe limite do sistema?                                                                          |          |            | [1](#ancora1)     |
-|  15  | Os casos de uso possuem especificações?                                                            |          |            | [1](#ancora1)     |
-|  16  | Os casos de uso possuem rastreabilidade?                                                           |          |            | [1](#ancora1)     |
-|  17  | Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal? |          |            | [1](#ancora1)     |
+|  7   | É citada qual técnica/metodologia foi utilizada para desenvolver o diagrama de casos de Uso?        | sim     |            | [2](#ancora2)     |
+|  8   | O diagrama de caso de uso possui atores?                                                            | sim     |            | [1](#ancora1)     |
+|  9   | O ator principal está do lado esquerdo do sistema?                                                  | sim     |            | [1](#ancora1) e [2](#ancora2)    |
+|  10  | Os atores estão fora da fronteira do sistema?                                                       | sim     |            | [1](#ancora1) e [2](#ancora2)     |
+|  11  | Os atores interagem com os Casos de Uso corretamente?                                               | sim     |            | [1](#ancora1) e [2](#ancora2)     |
+|  12  | Existe multiplicidade entre ator e Caso de Uso?                                                     | sim         |            | [1](#ancora1)     |
+|  13  | Há algum nome associado ao(s) usuário(s) do sistema?                                                | sim         |            | [1](#ancora1)     |
+|  14  | Existe limite do sistema?                                                                           | sim         |            | [1](#ancora1)     |
+|  15  | Os casos de uso possuem especificações?                                                             | Incompleto  | Obs. abaixo           | [1](#ancora1)     |
+|  16  | Os casos de uso possuem rastreabilidade?                                                            | Incompleto  | Obs. abaixo          | [1](#ancora1)     |
+|  17  | Os fluxos alternativos representam possibilidades de cenários alternativos para o fluxo principal?  | Incompleto  | Obs. abaixo          | [1](#ancora1)     |
+|  18  | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema?       |  Não        | Obs. abaixo        | [2](#ancora2)     |
+
 
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
 ## Observações e Problemas encontrados
 
-### ID56
+### ID15,ID16,ID17
 
-explicação ....
+Falta a do caso de uso de fazer login ou fazer Cadastro ou acessar as notas.
 
-### ID7
+### ID18
 
-explicação ....
+O sistema backend não deveria ser ator, pois ele não é uma pessoa, organização ou sistema externo.[2](#ancora2)
 
 ## Sugestões
 
