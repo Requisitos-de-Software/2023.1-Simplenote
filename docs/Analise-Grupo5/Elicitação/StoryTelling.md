@@ -35,16 +35,16 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Descrição | Avaliação | Observação |Referências|
 | --- | --------- | --------- | ---------- |-----------|
-| 08  | Foi mostrado como o storytelling foi criado?       |  Sim     |            ||
-| 09  | O storytelling foi criada levando em conta as caraterísticas das pessoas ou personas participantes?| Sim|||
-| 10  | O storytelling apresenta a utilização típica do aplicativo?|Sim|||
-| 11  | Foi mostrado os requisitos elicitados com os storytellings?|Sim|||
-| 12  | Os requisitos elicitados foram classificados corretamente?|Sim|||
-| 13  | Foram elicitados requisitos que não estavam presentes no aplicativo?|Sim|||
-| 14  | Todos os requisitos são testáveis?|Sim|||
-| 15  | É definido os atores do documento?  | Sim |    ||
-| 16  | O documento inclui eventos importantes na história de cada personagem ? |Sim|||
-| 17  | As histórias são de fato relevante para a equipe de desenvolvimento e a eliticação de requisitos?|Sim|||
+| 08  | Foi mostrado como o storytelling foi criado?       |  Sim     |            |[1](#ancora1)|
+| 09  | O storytelling foi criada levando em conta as caraterísticas das pessoas ou personas participantes?| Sim||[1](#ancora1)|
+| 10  | O storytelling apresenta a utilização típica do aplicativo?|Sim||[1](#ancora1)|
+| 11  | Foi mostrado os requisitos elicitados com os storytellings?|Sim||[1](#ancora1)|
+| 12  | Os requisitos elicitados foram classificados corretamente?|Sim||[1](#ancora1)|
+| 13  | Foram elicitados requisitos que não estavam presentes no aplicativo?|Sim||[1](#ancora1)|
+| 14  | Todos os requisitos são testáveis?|Sim||[1](#ancora1)|
+| 15  | É definido os atores do documento?  | Sim |    |[2](#ancora2)|
+| 16  | O documento inclui eventos importantes na história de cada personagem ? |Sim||[2](#ancora2)|
+| 17  | As histórias são de fato relevante para a equipe de desenvolvimento e a eliticação de requisitos?|Sim||[2](#ancora2)|
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -57,8 +57,9 @@ Deve-se chamar as tabelas no texto
 
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
-https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [1] https://github.com/Requisitos-de-Software/2023.1-Caesb
+>
+> [2] https://sol.sbc.org.br/index.php/sbqs/article/view/15275/15118
 
 
 ## Histórico de Versão
