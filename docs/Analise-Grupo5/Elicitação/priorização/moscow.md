@@ -36,14 +36,14 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Descrição | Avaliação | Observação |Referências|
 | --- | --------- | --------- | ---------- |-----------|
-| 08  | A metodologia esta de acordo com o processo de priorização?       |     Sim      |            ||
-| 09  | Possui registro da atividade de priorização dos requisitos?       |     Não      |            ||
-| 10  | Todos os requisitos foram classificados?                          |     Sim      |            ||
-| 11  | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?| Sim |||
-| 12  | A participação do cliente e/ou persona no processo de priorização?|     Não      |         ||
-|  13   | O campo "Must-have" compreende de fato todos os requisitos indispensáveis ? |   Sim     |            ||
-|  14   | O campo de "Wont have" apresenta requisitos que são realmente dispensáveis ? |     Sim     |            ||
-|  15   | Foi listado todas as demandas antes de fazer a priorização ?                 |     Sim     | É comentado no texto a reunião via discord||
+| 08  | A metodologia esta de acordo com o processo de priorização?       |     Sim      |            |[1](#ancora1)|
+| 09  | Possui registro da atividade de priorização dos requisitos?       |     Não      |            |[1](#ancora1)|
+| 10  | Todos os requisitos foram classificados?                          |     Sim      |            |[1](#ancora1)|
+| 11  | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?| Sim ||[1](#ancora1)|
+| 12  | A participação do cliente e/ou persona no processo de priorização?|     Não      |         |[1](#ancora1)|
+|  13   | O campo "Must-have" compreende de fato todos os requisitos indispensáveis ? |   Sim     |            |[2](#ancora2)|
+|  14   | O campo de "Wont have" apresenta requisitos que são realmente dispensáveis ? |     Sim     |            |[2](#ancora2)|
+|  15   | Foi listado todas as demandas antes de fazer a priorização ?                 |     Sim     | É comentado no texto a reunião via discord|[2](#ancora2)|
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -61,8 +61,9 @@ Utilizar uma persona ou cliente para ajudar na priorização
 
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
-https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [1] https://github.com/Requisitos-de-Software/2023.1-Caesb
+>
+> [2] https://www.cursospm3.com.br/blog/metodo-moscow-framework-para-priorizar-tarefas/#:~:text=Boa%20leitura!-,O%20que%20%C3%A9%20o%20m%C3%A9todo%20MoSCoW,das%20estrat%C3%A9gias%20que%20ser%C3%A3o%20feitas.
 
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
