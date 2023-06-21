@@ -39,17 +39,17 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação | Referências |
 | --- | ------- | -------- | ---------- |     -       |
-|8|Existe alguém relacionado ao app para validar as histórias?                               |Sim|                                    |   | 
-|9|Essa validação é verificável?                                                             |Sim|                                   |   |
-|10|As histórias de usuário seguem um padrão?                                                |Sim|                                   |   |
-|11|As histórias possuem critério de aceitação?                                              |Sim|                                   |   |
-|12|Épicos possuem nome, descrição e feature relacionados?                                   |Não|                                   |   |
-|13|Os critérios de aceitação estão definidos para cada história de usuário?                 |Sim|                                   |   |
-|14|Os critérios de aceitação são concisos com as suas respectivas histórias de usuário?     |Sim|                                   |   |
-|15|Cada história de usuário possui uma prioridade atribuída?                                |Sim|                                   |   |
-|16|Todas as histórias de usuário passaram por um processo de refinamento?                   |Sim|Reunião com PO                     |  |
-|17|Todas as informações necessárias estão presentes e são consistentes em todo o documento? |Sim|                                   |   |
-|18|As estimativas de esforço foram registradas para cada história de usuário?               |Sim|Dificuldade de Implementaçao(DI)   |   |
+|8|Existe alguém relacionado ao app para validar as histórias?                               |Sim|                                   | [1](#ancora1)  | 
+|9|Essa validação é verificável?                                                             |Sim|                                   | [1](#ancora1)  |
+|10|As histórias de usuário seguem um padrão?                                                |Sim|                                   | [1](#ancora1)  |
+|11|As histórias possuem critério de aceitação?                                              |Sim|                                   | [1](#ancora1) e [2](#ancora2)   |
+|12|Épicos possuem nome, descrição e feature relacionados?                                   |Não|                                   | [1](#ancora1)  |
+|13|Os critérios de aceitação estão definidos para cada história de usuário?                 |Sim|                                   | [1](#ancora1)  |
+|14|Os critérios de aceitação são concisos com as suas respectivas histórias de usuário?     |Sim|                                   | [1](#ancora1)  |
+|15|Cada história de usuário possui uma prioridade atribuída?                                |Sim|                                   | [1](#ancora1)  |
+|16|Todas as histórias de usuário passaram por um processo de refinamento?                   |Sim|Reunião com PO                     | [1](#ancora1)  |
+|17|Todas as informações necessárias estão presentes e são consistentes em todo o documento? |Sim|                                   | [1](#ancora1)  |
+|18|As estimativas de esforço foram registradas para cada história de usuário?               |Sim|Dificuldade de Implementaçao(DI)   | [1](#ancora1)  |
 |19|Os títulos das histórias de usuário são auto-explicativo?                                |Não|As histórias não possuem titulo    | [2](#ancora2)  |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
@@ -63,10 +63,10 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 ## Bibliografia
 
-> [1] REHKOPF, Max .Histórias de usuários com exemplos e um template. Disponivel em [atlassian](https://www.atlassian.com/br/agile/project-management/user-storie). Acesso em 21/06/2023
->
-> [2] Sales, Andre. Plano de ensino. Disponivel em [aprender3](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Acesso em 21/06/2023
+> [1] Serrano, Milene; Serrano, Mauricio. Requisitos – Aula 15. Disponivel em [aprender3](https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em 21/06/2023
 > 
+> [2] Sales, Andre. Plano de ensino. Disponivel em [aprender3](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Acesso em 21/06/2023
+
 
 ## Histórico de Versão
 
