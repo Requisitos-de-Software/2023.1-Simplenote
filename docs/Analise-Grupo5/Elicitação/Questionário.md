@@ -35,21 +35,21 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Descrição | Avaliação | Observação |Referências|
 | --- | --------- | --------- | ---------- |-----------|
-| 08  | Foi informado o motivo da escolha do questionário?| Não |||
-| 09  | Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?|Não|||
-| 10  | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer?|Não|||
-| 11  | O questionário apresenta mais perguntas fechadas do que perguntas abertas?|Sim|||
-| 12  | O questionário foi aplicado onde se tinha o público alvo?|Sim|||
-| 13  | Os resultados foram tratados e apresentados?|Sim|||
-| 14  | O perfíl de usuário fei definido com base nos resultados dos questionários?|Sim|||
-| 15  | O perfil de usuário apresenta os pontos principais requisitados?|Sim|||
-| 16  | É demostrado o por que definir um perfil de usuário no projeto?|Não|||
-| 17  | É mostrado como o perfil de usuário vai ser usado durante o projeto?|Sim|||
-| 18  |  É explicitado como o questionário será utilizado?| Não |    ||
-| 19  |  As perguntas apresentam alguma ordem ou padrão estratégico? |Não|||
-| 20  |  Apresenta no texto os locais onde o Questionário foi distribuído?|Sim|||
-| 21  |  Apresenta no texto o prazo em que ficou aberto ? |Sim|||
-| 22  |  Houve o cuidado para não haver perguntas pessoais ou evasivas ? |Sim|||
+| 08  | Foi informado o motivo da escolha do questionário?| Não ||[1](#ancora1)|
+| 09  | Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?|Não||[1](#ancora1)|
+| 10  | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer?|Não||[1](#ancora1)|
+| 11  | O questionário apresenta mais perguntas fechadas do que perguntas abertas?|Sim||[1](#ancora1)|
+| 12  | O questionário foi aplicado onde se tinha o público alvo?|Sim||[1](#ancora1)|
+| 13  | Os resultados foram tratados e apresentados?|Sim||[1](#ancora1)|
+| 14  | O perfíl de usuário fei definido com base nos resultados dos questionários?|Sim||[1](#ancora1)|
+| 15  | O perfil de usuário apresenta os pontos principais requisitados?|Sim||[1](#ancora1)|
+| 16  | É demostrado o por que definir um perfil de usuário no projeto?|Não||[1](#ancora1)|
+| 17  | É mostrado como o perfil de usuário vai ser usado durante o projeto?|Sim||[1](#ancora1)|
+| 18  |  É explicitado como o questionário será utilizado?| Não |    |[2](#ancora2)|
+| 19  |  As perguntas apresentam alguma ordem ou padrão estratégico? |Não||[2](#ancora2)|
+| 20  |  Apresenta no texto os locais onde o Questionário foi distribuído?|Sim||[2](#ancora2)|
+| 21  |  Apresenta no texto o prazo em que ficou aberto ? |Sim||[2](#ancora2)|
+| 22  |  Houve o cuidado para não haver perguntas pessoais ou evasivas ? |Sim||[2](#ancora2)|
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
@@ -74,8 +74,9 @@ Não é falado no texto.
 
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
-https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [1] https://github.com/Requisitos-de-Software/2023.1-Caesb
+>
+> [2] https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-questionarios
 
 ## Histórico de Versão
 
