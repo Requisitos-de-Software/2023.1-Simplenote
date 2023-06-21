@@ -14,7 +14,7 @@ A verificação foi feita por meio da insperção, utilizando um checklist criad
 
 Também temos o campo "Observação", um campo no qual pode ser feito algum comentário a respeito da questão em específico. Posteriormente, neste mesmo documento, pode-se encontrar uma sessão na qual serão sumarizados todos os problemas do artefacto em estudo e outra nos quais se encontram as sugestões de soluções dos mesmos.
 
-Foi utilizada a *checklist* de verificação elaborada pelo Grupo 4 ([Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega1/Entrega1/)) para definir parte dos itens da *checklist* deste artefato. Os itens do Grupo 4 que foram acatados estão referenciados para o documento de verificação elaborado e também possuem respaldo em algum documento da bibliografia usada na elaboração do *checklist* 
+Foi utilizada a *checklist* de verificação elaborada pelo Grupo 4 ([Caesb](https://requisitos-de-software.github.io/2023.1-Caesb/Verificacao/Grupo5/Entrega2)) para definir parte dos itens da *checklist* deste artefato. Os itens do Grupo 4 que foram acatados estão referenciados para o documento de verificação elaborado e também possuem respaldo em algum documento da bibliografia usada na elaboração do *checklist* 
 
 ## Checklist de documento
 Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabela 1. Segue:
@@ -35,21 +35,21 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Descrição | Avaliação | Observação |Referências|
 | --- | --------- | --------- | ---------- |-----------|
-| 08  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Não | Olhar no texto ||
-| 09  | É informado o motivo de se ter personas no projeto? | Não |||
-| 10  | É mostrado como as personas serão usadas no projeto?| Não |||
-| 11  | A persona foi definida usando o perfil de usuário?| Sim |||
-| 12  | A persona é um personagem fictício?| Incompleto |||
-| 13  | A persona primária representa o público alvo?| Sim |||
-| 14  | A persona apresentam as características esperadas? | Sim |||
-| 15  | A persona possui citações para melhor entendimento do que ela precisa? | Não |||
-| 16  | A persona é bem detalhada?| Sim |||
-| 17  | Foi definido um elenco de personas?| Sim |||
-| 18  | É informado o por que da quantidade de personas?| Não |||
-| 19  |  No texto é explicitado a metodologia utilizada pra criação das personas ?   |  Incompleto   |  Olhar no texto       ||
-| 20  |  Todas as personas foram descritos de modo pessoal, tecnico e profissional ? |    Sim  |        ||
-| 21  |  Foram descritas as motivações de cada persona ?                             |    Incompleto |     Olhar no texto   ||
-| 22  |  Houve algum registro de gravação no processo de criação das personas?       |   Não   |        ||
+| 08  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Não | Olhar no texto |[1](#ancora1) |
+| 09  | É informado o motivo de se ter personas no projeto? | Não ||[1](#ancora1) |
+| 10  | É mostrado como as personas serão usadas no projeto?| Não ||[1](#ancora1) |
+| 11  | A persona foi definida usando o perfil de usuário?| Sim ||[1](#ancora1) |
+| 12  | A persona é um personagem fictício?| Incompleto ||[1](#ancora1) |
+| 13  | A persona primária representa o público alvo?| Sim ||[1](#ancora1) |
+| 14  | A persona apresentam as características esperadas? | Sim ||[1](#ancora1) |
+| 15  | A persona possui citações para melhor entendimento do que ela precisa? | Não ||[1](#ancora1) |
+| 16  | A persona é bem detalhada?| Sim ||[1](#ancora1) |
+| 17  | Foi definido um elenco de personas?| Sim ||[1](#ancora1) |
+| 18  | É informado o por que da quantidade de personas?| Não ||[1](#ancora1)|
+| 19  |  No texto é explicitado a metodologia utilizada pra criação das personas ?   |  Incompleto   |  Olhar no texto       |[2](#ancora2)|
+| 20  |  Todas as personas foram descritos de modo pessoal, tecnico e profissional ? |    Sim  |        |[2](#ancora2)|
+| 21  |  Foram descritas as motivações de cada persona ?                             |    Incompleto |     Olhar no texto   |[2](#ancora2)|
+| 22  |  Houve algum registro de gravação no processo de criação das personas?       |   Não   |        |[2](#ancora2)|
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
   
@@ -74,8 +74,9 @@ Algumas personas apresentam uma motivação explicita para utilizar o app, outra
 
 ## Bibliografia
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf </br>
-https://github.com/Requisitos-de-Software/2023.1-Caesb
+> [1] https://github.com/Requisitos-de-Software/2023.1-Caesb
+>
+> [2] https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
