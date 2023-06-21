@@ -82,4 +82,4 @@ https://github.com/Requisitos-de-Software/2023.1-Caesb
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 18/06/2023 | Criação do documento. | Ian      | Kauã            |
+| `1.0`  | 21/06/2023 | Criação do documento. | Ian      | Kauã            |
