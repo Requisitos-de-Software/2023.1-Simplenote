@@ -25,12 +25,12 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |        |          |
-|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |        |          |
-|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |        |          |
-|4|Todos os textos estão na norma padrão?                                                                       |        |          |
-|5|As tabelas são chamadas no texto?                                                                            |        |          |
-|6|Os revisores são pessoas diferentes dos autores?                                                             |        |          |
+|1|O artefato possui Introdução?                                                                                |   sim     |          |
+|2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |   sim    |          |
+|3|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |   sim     |          |
+|4|Todos os textos estão na norma padrão?                                                                       |   sim     |          |
+|5|As tabelas são chamadas no texto?                                                                            |   sim     |          |
+|6|Os revisores são pessoas diferentes dos autores?                                                             |   sim     |          |
 |7|As referências bibliográficas são utilizadas no texto do documento? | | |
 
 <p align="center"> Tabela 1 - Checklist do documento <br> Fonte: autores </p>
@@ -39,7 +39,17 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 | ID  | Questão | Resposta | Observação | Referências |
 | --- | ------- | -------- | ---------- |     -       |
-|     |         |          |            |     []      |
+|8|Existe alguém relacionado ao app para validar as histórias?                               |Sim|   |   | 
+|9|Essa validação é verificável?                                                             |Sim|   |   |
+|10|As histórias de usuário seguem um padrão?                                                |Sim|   |   |
+|11|As histórias possuem critério de aceitação?                                              |Sim|   |   |
+|12|Épicos possuem nome, descrição e feature relacionados?                                   |   |   |   |
+|13|Os critérios de aceitação estão definidos para cada história de usuário?                 |Sim|   |   |
+|14|Os critérios de aceitação são concisos com as suas respectivas histórias de usuário?     |Sim|   |   |
+|15|Cada história de usuário possui uma prioridade atribuída?                                |Sim|   |   |
+|16|Todas as histórias de usuário passaram por um processo de refinamento?                   |Sim|Reunião com PO|  |
+|17|Todas as informações necessárias estão presentes e são consistentes em todo o documento? |Sim|   |   |
+|18|As estimativas de esforço foram registradas para cada história de usuário?               |Sim| Dificuldade de Implementaçao(DI)   |   |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
