@@ -6,7 +6,9 @@ A validação[¹](#referencias) é um processo essencial no desenvolvimento de s
 produto atende às necessidades e expectativas dos stakeholders. Diferente da verificação, que
 verifica se o software construído está correto de acordo com as especificações, a validação
 concentra-se em analisar se o software está sendo construído corretamente, ou seja, se está
-sendo desenvolvido o software certo. Isso envolve a participação direta dos usuários e a
+sendo desenvolvido o software certo. 
+
+Isso envolve a participação direta dos usuários e a
 avaliação do produto em seu ambiente desejado, garantindo que ele cumpra seu propósito e
 entregue o valor esperado. A validação pode ser realizada em várias etapas do processo de
 desenvolvimento, como a análise de requisitos, a criação de protótipos, as discussões com os
@@ -15,7 +17,14 @@ necessidades dos stakeholders de forma eficaz.
 
 ## Metodologia
 
-No processo de criação deste artefato, seguimos uma abordagem sistemática. Inicialmente, identificamos todos os requisitos do aplicativo que ainda não haviam sido implementados, e que possuem alta prioridade de acordo com a fase de avaliação. Em seguida, utilizamos o [Figma](https://www.figma.com)[³](#referencias), para criar uma representação visual interativa das funcionalidades implementadas. Essa abordagem permitiu-nos visualizar o progresso e as características do aplicativo, proporcionando uma experiência mais envolvente e facilitando a comunicação entre os membros da equipe de desenvolvimento e os stakeholders.
+No processo de criação deste artefato, seguimos uma abordagem sistemática, utilizando a técnica de prototipação. Inicialmente, identificamos 
+todos os requisitos do aplicativo que ainda não haviam sido implementados, e que possuem alta prioridade 
+de acordo com a fase de avaliação. Em seguida, utilizamos o [Figma](https://www.figma.com)[³](#referencias),
+ para criar uma representação visual interativa das funcionalidades implementadas.
+
+Essa abordagem permitiu-nos visualizar o progresso e as características do aplicativo, proporcionando 
+uma experiência mais envolvente e facilitando a comunicação entre os membros da equipe de 
+desenvolvimento e os stakeholders.
 
 A prototipação - [Modelo 1](#prototipo) considerará exclusivamente requisitos de funcionalidade. Sendo elas:
 
