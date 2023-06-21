@@ -58,7 +58,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 - Adicionar titulos auto-explicativos nas historias de usuário
 - Adicionar os épicos relacionados
-- Deixara bibliografia com uma formatação melhor
+- Deixar a bibliografia com uma formatação melhor
 - Arruma a tabela de reunião que não esta formatada na gitpage
 
 ## Bibliografia
