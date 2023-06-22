@@ -21,7 +21,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 
 |ID|Questão|Resposta|Observação|
 |--|-------|--------|----------|
-|1|O artefato possui Introdução?                                                                                |    Incompleto    |    Não foi alterado o nome do app após mudança de aplicativo    |
+|1|O artefato possui Introdução?                                                                                |    Sim    |      |
 |2|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                        |     Sim   |        |
 |3| O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?       |     Sim   |          |
 |4|Todos os textos estão na norma padrão?                                                                       |   Sim     |          |
