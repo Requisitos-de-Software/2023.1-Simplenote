@@ -45,7 +45,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 |16|Todas as histórias de usuário passaram por um processo de refinamento?                   |Sim|Reunião com PO                     | [1](#ancora1)  |
 |17|Todas as informações necessárias estão presentes e são consistentes em todo o documento? |Sim|                                   | [1](#ancora1)  |
 |18|As estimativas de esforço foram registradas para cada história de usuário?               |Sim|Dificuldade de Implementaçao(DI)   | [1](#ancora1)  |
-|19|Os títulos das histórias de usuário são auto-explicativo?                                |Não|As histórias não possuem titulo    | [2](#ancora2)  |
+|19|Os títulos das histórias de usuário são auto-explicativo?                                |Não|As histórias não possuem titulo    | [1](#ancora1) e [2](#ancora2)  |
 
 <p align="center"> Tabela 2 - Checklist dos pontos relativos ao conteúdo <br> Fonte: autores </p>
 
