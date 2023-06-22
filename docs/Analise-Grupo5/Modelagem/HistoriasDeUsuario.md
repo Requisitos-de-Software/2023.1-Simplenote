@@ -1,4 +1,4 @@
-# Verificação - Documento
+# Verificação - Histórias de Usuário
 
 ## Introdução
 
