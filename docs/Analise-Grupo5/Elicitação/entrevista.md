@@ -82,4 +82,4 @@ A referência não é citada no texto do artefato
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |                    |
+| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |   Kauã             |
