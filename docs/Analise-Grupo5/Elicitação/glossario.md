@@ -1,4 +1,4 @@
-# Verificação - Documento
+# Verificação - Glossário
 
 ## Introdução
 
@@ -90,4 +90,4 @@ Não existe nada no texto citando isso
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |                    |
+| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |  Kauã                   |
