@@ -28,7 +28,7 @@ para a equipe do Simplenote. Pode ser visualizada na Figura 1, uma captura de te
 
 <div align="center">
  
-<img src="../../img/informal_validation.png">
+<img src="/img/informal_validation.png">
 <figcaption>Figura 1 - Mensagem enviada para equipe do Simplenote. Fonte Autor (2023). </figcaption>
  
 </div>
