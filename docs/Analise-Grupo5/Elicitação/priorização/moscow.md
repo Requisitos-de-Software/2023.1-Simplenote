@@ -68,4 +68,4 @@ Utilizar uma persona ou cliente para ajudar na priorização
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 18/06/2023 | Criação do documento. | Kauã      |        -           |
+| `1.0`  | 18/06/2023 | Criação do documento. | Kauã      |        João           |
