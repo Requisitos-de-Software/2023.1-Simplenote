@@ -1,4 +1,7 @@
 # Three Level Scale ou TLS
+## Introdução
+
+Este é o documento de Three Level Scale do projeto de requisitos do grupo 5 referente ao Simplenote. A princípio, o documento tem a finalidade de definir quais requisitos serão priorizados pela equipe de desenvolvimento através das tabelas dos requisitos.
 
 ## Definição
 
