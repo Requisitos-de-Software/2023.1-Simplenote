@@ -18,7 +18,7 @@ necessidades dos stakeholders de forma eficaz.
 ## Metodologia
 
 No processo de criação deste artefato utilizamos a técnica de Comprovação Informal[²](#referencias).
-Basicamente, é uma tarfa de laitura de descrições em linguagem natural e do uso dos clientes
+Basicamente, é uma tarefa de leitura de descrições em linguagem natural e do uso dos clientes
 para identificar problemas na expressão dos requisitos. Com base nisso, foi enviado uma mensagem
 para a equipe do Simplenote. Pode ser visualizada na Figura 1, uma captura de tela referente a mensagem.
 
