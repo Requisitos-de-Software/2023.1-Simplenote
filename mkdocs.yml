@@ -144,7 +144,7 @@ nav:
           - Escala de Três Níveis: analise/verificacao/verificacao-Grupo5/elicitacao/priorização/TLS.md
         - Modelagem:
           - Modelagem Ágil:
-            - História de Usuário: analise/verificacao/verificacao-Grupo5/modelagem/HistoriasDeUsario.md
+            - História de Usuário: analise/verificacao/verificacao-Grupo5/modelagem/HistoriasDeUsuario.md
             - Backlog: analise/verificacao/verificacao-Grupo5/modelagem/backlog.md
             - NFR: analise/verificacao/verificacao-Grupo5/modelagem/nfr.md
           - Léxicos: analise/verificacao/verificacao-Grupo5/modelagem/lexicos.md
@@ -156,8 +156,8 @@ nav:
           - Cronograma realizado: analise/verificacao/verificacao-Grupo5/planejamento/cronograma_realizado.md
           - Ferramentas: analise/verificacao/verificacao-Grupo5/planejamento/ferramentas.md
           - Metodologias: analise/verificacao/verificacao-Grupo5/planejamento/metodologias.md
-        - Aplicativo Selecionado: analise/verificacao/verificacao-Grupo5/planejamento/app.md
-        - Rich Picture: analise/verificacao/verificacao-Grupo5/planejamento/rich_picture.md 
+          - Aplicativo Selecionado: analise/verificacao/verificacao-Grupo5/planejamento/app.md
+          - Rich Picture: analise/verificacao/verificacao-Grupo5/planejamento/rich_picture.md 
     - Validação: 
       - Protótipo: analise/validacao/prototipo.md
       - Comprovação informal: analise/validacao/comprovacao_informal.md
