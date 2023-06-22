@@ -140,13 +140,27 @@ Modelo 1 - Protótipo Simplenote. Fonte Autor (2023).
 Após a prototipação foi feita uma reunião para avaliação com a PO do projeto, na qual:
 
 - Data: 21 de junho de 2023
-- Horário: 19:00
+- Horário: 18:30
 - Local: Online via Teams
-- Link: 
+- Link: <https://youtu.be/LjZ1S_u8vkw>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LjZ1S_u8vkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Durante a avaliação, podemos considerar que o entrevistado aprovou as funcionalidades
+Vídeo 1 - Validação do protótipo. Fonte: Autor (2023). 
+
+#
+
+Durante a avaliação, constatamos que o entrevistado expressou sua aprovação em relação às
+funcionalidades implementadas no protótipo em questão. No entanto, foi recomendado que 
+aprimorássemos o **fluxo de tela do protótipo** para proporcionar uma melhor experiência de uso.
+Além disso, foram sugeridas melhorias na **acessibilidade** do aplicativo Simplenote.
+
+As sugestões recebidas são cruciais para direcionar o processo de aperfeiçoamento do protótipo. 
+Ao melhorar o fluxo de tela, será possível otimizar a navegação e a interação dos usuários,
+tornando o uso do aplicativo mais intuitivo e eficiente. Além disso, ao priorizar a 
+acessibilidade, garantimos que o Simplenote possa ser utilizado por um público mais amplo, 
+incluindo pessoas com deficiências visuais ou outras limitações que possam afetar sua 
+experiência de uso. Com base nisso, e estamos comprometidos em levar em consideração essas sugestões e aplicar as melhorias necessárias para oferecer uma experiência ainda melhor aos usuários do Simplenote.
 
 ## Referências
 
