@@ -73,4 +73,4 @@ O artefato não possui metodologia. Desse modo não é possível julgar
 
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
 | ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |                    |
+| `1.0`  | 20/06/2023 | Criação do documento. | Joao      |  Kauã                  |
