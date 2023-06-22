@@ -1,4 +1,7 @@
 # First things First (FTF)
+## Introdução
+
+Este é o documento de Frist things Frist do projeto de requisitos do grupo 5 referente ao Simplenote. A princípio, o documento tem a finalidade de definir quais requisitos serão priorizados pela equipe de desenvolvimento através de reuniões e uma planilha.
 
 ## Definição
 
