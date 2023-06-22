@@ -36,7 +36,7 @@ Para avaliação do documento em aspectos formais e tecnicos, foi criado a tabel
 |  8   | Os épicos e os temas estão bem definidos?                                                        |  sim        |            |     [1](#ancora1)         |
 |  9   | São apresentados os requisitos priorizados ?	                                                    |  sim        |            |     [1](#ancora1)         |
 |  10  | O backlog possui validação de um PO ?	                                                           |  sim        |            |     [1](#ancora1)         |
-|  11  | Os itens do backlog estão escritos em forma de História de usuário?	                             |  sim        |            |     [1](#ancora1) e [1](#ancora2)  |
+|  11  | Os itens do backlog estão escritos em forma de História de usuário?	                             |  sim        |            |     [1](#ancora1) e [2](#ancora2)  |
 |  12  | Os épicos do backlog estão escritos em um tamanho ideal (não muito grandes ou muito pequenos)?   |  sim        |            |     [1](#ancora1)          |
 |  13  | Cada item do backlog está adequadamente rastreado até sua fonte de origem?		                     |  sim        |            |     [1](#ancora1)         |
 |  14  | Os requisitos listados estão conectados a uma história de usuário ?                              |  sim        |            |     [1](#ancora1)         |
