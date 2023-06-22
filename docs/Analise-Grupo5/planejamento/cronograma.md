@@ -1,4 +1,4 @@
-# Cronograma - Documento
+# Verificação - Cronograma
 
 ## Introdução
 
