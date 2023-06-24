@@ -48,7 +48,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
    |      Épico        |[E1](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/backlog.md)|
    |História de usuário|[US01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/User_story.md)|
    |       Tema        |  Notas   |
-   |     Elicitação    |          |
+   |     Elicitação    |[INT13](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)
+                        [B02](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)|
    |       Léxico      |[L06](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/lexico.md)|
    |     Caso de Uso   |[UC01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/casos_de_uso.md)|
    |      Cenário      |[C01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/cen%C3%A1rios.md)|
