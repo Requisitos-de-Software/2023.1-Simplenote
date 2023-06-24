@@ -1,6 +1,6 @@
 # Forward-From
 ## Introdução
-De acordo com o livro "Requirements Engineering Fundamentals"[2](#ancora2) de Klaus Pohl e Chris Rupp, rastreabilidade de requisitos é a capacidade de traçar rastros de requisitos durante toda a vida de um software.
+De acordo com o livro "Requirements Engineering Fundamentals"[²](#ancora2) de Klaus Pohl e Chris Rupp, rastreabilidade de requisitos é a capacidade de traçar rastros de requisitos durante toda a vida de um software.
 Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
 
 - Backward-To;
