@@ -233,9 +233,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 ## Bibliografia
 > [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019. Acessado em: 23/06/2023 </br>
 >
-> [2] https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf </br>
+> [2] Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). Acesso em 23 de jun de 2023 </br>
 >
-> [3] https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf </br>
+> [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf ). Acesso em 23 de jun de 2023</br>
 
 
 ### Histórico de versão
