@@ -18,6 +18,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
+| E       | Épico                     |
 | P       | Personas                  |
 | US      | Histórias de usuário      |
 | ST      | Storytelling              |
@@ -41,25 +42,17 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 
 <details>
  <summary> US01 - Escrever uma nota</summary>
-   <table>
-      <thead>
-         <tr>
-           <th>Épico</th>
-           <th>História de usuário</th>
-           <th>Tema</th>
-           <th>Elicitado</th> 
-           <th>Léxico</th>
-           <th>Caso de Uso</th>
-           <th>Cenário</th>
-           <th>Funcionalidade</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Notas</td>
-         </tr>
-      </tbody>
-   </table>
+
+   |      Tópico       |Referência|
+   |:-----------------:|:--------:|
+   |      Épico        |[E1](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/backlog.md)|
+   |História de usuário|[US01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/User_story.md)|
+   |       Tema        |  Notas   |
+   |     Elicitação    |          |
+   |       Léxico      |[L06](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/lexico.md)|
+   |     Caso de Uso   |[UC01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/casos_de_uso.md)|
+   |      Cenário      |[C01](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/cen%C3%A1rios.md)|
+   |   Funcionalidade  |          |
    
    <div style="text-align: center">
       <p> Tabela 2: Requisito funcional 1 (Fonte: Autores, 2023).</p>
