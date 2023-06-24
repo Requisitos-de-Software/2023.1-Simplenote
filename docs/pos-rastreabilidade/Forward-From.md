@@ -9,7 +9,7 @@ Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
 - Forward-From;
 
 Este documento relaciona a tecnica de Forward-From com os [requisitos elicitados](https://github.com/Requisitos-de-Software/2023.1-Simplenote/tree/main/docs/elicitacao) no projeto envolvendo o aplicativo Simplenote. Desta maneira, é importante
-salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[3](#ancora3).
+salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[³](#ancora3).
 
 ## Metodologia
 
@@ -232,8 +232,11 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 
 ## Bibliografia
 > [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019. Acessado em: 23/06/2023 </br>
+>
 > [2] https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf </br>
+>
 > [3] https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf </br>
+
 
 ### Histórico de versão
 
