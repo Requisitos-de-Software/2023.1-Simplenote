@@ -12,7 +12,7 @@ Este documento relaciona a tecnica de Forward-From com os [requisitos elicitados
 salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[³](#ancora3).
 
 ## Metodologia
-A princípio, foi separado todos os documentos nos quais seriam analisados e sumarizados. Para realizar a técnica para os requisitos funcionais, foi relacionado cada história de usuário ao seu respectivo épico,tema,cenário, léxico , caso de uso e onde foi elicitado. Já para os não-funcionais, cada requisito foi retirado dos documentos de especificação suplementar ou NFR, posteriormente, foi relacionado com onde foi elicitado. 
+A princípio, foi separado todos os documentos nos quais seriam analisados e sumarizados. Para realizar a técnica para os requisitos funcionais, foi relacionado cada história de usuário ao seu respectivo épico,tema,cenário, léxico , caso de uso e onde foi elicitado. Já para os não-funcionais, cada requisito foi associado ao seu respectivo NFR e Especificação Suplementar e foi decidido se o mesmo já foi implementado. 
 
 ## Mapeamento
 Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o bom entendimento dos tópicos abaixo:
