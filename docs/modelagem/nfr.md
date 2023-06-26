@@ -3,9 +3,17 @@
 ## Introdução
 NFR é um framework conceitual que utiliza o modelo Softgoal Interdependency Graph (SIG). Ele tem como foco os requisitos Não-Funcionais do aplicativo. 
 O Framework utiliza de softgoals, um objetivo que não possui uma clara definição nem critérios de satisfação precisos. São utilizados para representar Requisitos 
-Não-Funcionais e podem estar inter-relacionados, expressando a influência de uma softgoal em outro.
+Não-Funcionais e podem estar inter-relacionados, expressando a influência de uma softgoal em outro. [¹](#ancora1)
 
-Os softgoals são separados em 3 tipos:
+### Requisitos Não Funcionais Elicitados
+
+| ID | Requisito | Fonte |
+|----|-----------|-------|
+|RN01| bla       | [link](nome)|
+
+### Softgoals
+
+Os softgoals são separados em 3 tipos: [¹](#ancora1)
 
 - NFR Softgoal: É um requisito não-funcional que é considerado durante a análise, a fim de determinar se ele será ou não implementado. 
 Esses requisitos são vistos como atributos de qualidade e são avaliados para garantir que o produto final atenda aos padrões desejados. Em outras palavras, eles são critérios usados para avaliar a qualidade do produto.
@@ -21,7 +29,7 @@ Além dessa separação, cada um desses softgoals podem ser especificados, serem
 - Decomposição de Afirmação (Claims): Essa técnica permite reafirmar ou negar as justificativas específicas do projeto.
 - Priorização: Essa é um tipo especial de separação, na qual um softgoal é refinado em outro softgoal com o mesmo tipo e tópicos, mas com uma prioridade associada.
 
-Esse refinamento são especificações dos softgoals e são contribuições e existe 10 tipos. Esses são:
+Esse refinamento são especificações dos softgoals e são contribuições e existe 10 tipos. Esses são: [¹](#ancora1)
 
 | Contribuição       | Descrição  | Notação    |  
 | ------------------ | ---------- | ---------- |
@@ -35,19 +43,20 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 | *AND*    | “Pai” é satisfeito se_somente_se todos os “filhos” forem satisfeitos sob a perspectiva dos envolvidos| AND|
 | *OR* | “Pai” é satisfeito se_somente_se um dos “filhos” é satisfeito sob a perspectiva dos envolvidos |OR|    
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
-
+ 
 ## Participantes 
 
 |Nome | Cargo | Técnica | 
 |-----|-------|---------|
-|Beatriz| Equipe de modelagem| Persona: Alicía|
+|Beatriz| Equipe de modelagem| Modelagem |
 |Leonardo | Equipe de priorização| Entrevistas da elicitação|
 |Mylena | Equipe de elicitação| Público alvo: questionário|
-| Paulo | Product Owner | Membro do grupo 4  |
+|Paulo | Product Owner | Membro do grupo 4 |
+ 
+## Legendas
 
-## NFR
- Foram feitos 4 tipos de NFR: usabilidade (figura 2), disponibilidade (figura 3), portabilidade (figura 4) e performance (figura 5). 
-## Legenda 
+### Softgoals
+
 <div align="center">
   
 <img src="../../img/legenda.png">
@@ -56,9 +65,19 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 <div align="center">
  Figura 1: Legenda
- </div>
+</div>
+
+
+### Propagação
+
+.......
+
+## NFR
+ Foram feitos 4 tipos de NFR: usabilidade (figura 2), disponibilidade (figura 3), portabilidade (figura 4) e performance (figura 5).
 
 ## NFR-1 Usabilidade
+
+### Sem Propagação
 
 <div align="center">
  
@@ -67,8 +86,32 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
  
 </div>
 
+### Com Propagação
+ BLA BLA
+
+### Requisitos
+
+| ID | Requisito |
+|----|-----------|
+|RN01|           |
+
+### Cartões de Especificação
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+
+
 ## NFR-2 Disponibilidade
 
+### Sem Propagação
 <div align="center">
  
 <img src="../../img/disponibilidade.png">
@@ -78,6 +121,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 ## NFR-3 Portabilidade
 
+### Sem Propagação
 <div align="center">
  
 <img src="../../img/portabilidade.png">
@@ -90,8 +134,7 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 
 ## NFR-4 Performance
 
-Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utilizados requisitos não funcionais elecitados por meio das técnicas de priorização.
-
+### Sem Propagação
 <div align="center"> 
 
   <img src="../../img/performance.png">
@@ -104,14 +147,12 @@ Na figura 5 temos o diagrama de performance. Para a sua elaboração foram utili
 
 ## Referências
 
-[1] Repositório de disciplina do semestre passado- Lichess
-
-[2] Slides da aula da professora Milene.
-
-[3] [NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados](https://aprender3.unb.br/pluginfile.php/2523130/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+> [1] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 26/06/2023
+> 
 
 ## Histórico de versão
 
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
 |`1.0` | 14/05/2023 | Criação da documentação| Mylena, Beatriz e Leonardo |Ana Beatriz|
+|`2.0` | 26/06/2023 | Adicionando Propagação, RNF elicitados e Cartões de Especificação| Beatriz |Ana Beatriz|
