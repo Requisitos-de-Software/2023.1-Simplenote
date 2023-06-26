@@ -155,11 +155,13 @@ Figura 3: NFR-1 Usabilidade Sem Propagação, Autor(a): Beatriz
 Figura 4: NFR-1 Usabilidade com Propagação, Autor(a): Beatriz
 </div>
 
-### Requisitos
+### Requisitos de Usabilidade
 
 | ID  | Requisito |
 |-----|-----------|
-|RNF01|           |
+|RNF10| O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias|
+|RNF15| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.|
+|RNF20| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.|
 
 <div align="center">
 Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz 
@@ -219,7 +221,11 @@ Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz
 
 | ID  | Requisito |
 |-----|-----------|
-|RNF01|           |
+|RNF02| Ser capaz de funcionar sem internet	| 
+|RNF09| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação|
+|RNF11| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|
+|RNF17| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|
+
 
 <div align="center">
 Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz 
@@ -282,7 +288,10 @@ Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz
 
 | ID  | Requisito |
 |-----|-----------|
-|RNF01|           |
+|RNF01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)|
+|RNF05| Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)|
+|RNF16| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.|
+|RNF06| Ser capaz de ler e editar arquivos de texto de outras fontes| 
 
 <div align="center">
 Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz 
@@ -331,7 +340,11 @@ Figura 10: NFR-1 Performance com Propagação, Autor(a): Beatriz </figcaption>
 
 | ID  | Requisito |
 |-----|-----------|
-|RNF01|           |
+|RNF03| O aplicativo salvará a nota em até 1 segundo|
+|RNF04| O aplicativo abrirá em um tempo limite de até 2 segundos|
+|RNF12| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.|
+|RNF13| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| 
+|RNF19| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | 
 
 <div align="center">
 Tabela 12: Requisitos de Performance, Autor(a): Beatriz 
