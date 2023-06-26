@@ -72,11 +72,12 @@ Para mais informações, verificar a parte de [personas](https://requisitos-de-s
 
 ## Referências Bibliográficas
 
-[1] Elicitação de requisitos, Questionario. Disponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/questionario/
-
-[2] Repositório: https://github.com/Requisitos-de-Software/2019.2-Waze
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> 
 
 ## Histórico de Versões
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
 |`1.0` | 30/04/2023 | Criação da documentação| Mylena |Kauã |
+|`2.0` | 26/06/2023 | Arrumando a documentação| Beatriz |Kauã |
+
