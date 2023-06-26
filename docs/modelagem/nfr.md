@@ -170,29 +170,29 @@ Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz
 
 ### Cartões de Especificação
 
-| Classificação         |  | 
+| Classificação         | Fácil Aprendizagem / Usabilidade | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve ter uma interface simples e fácil de usar. |
+| Justificativa         | Com uma interface simples o usuario não vai ter dificuldade em aprender a usar o aplicativo, assim terá menos chances dele abandonar o uso e te uma experiencia melhor com o app. |
+| Origem do requisito   | RNF07, RNF10 e RNF20 |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)|
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 <div align="center">
-Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 5: Cartões de Especificação - Fácil Aprendizagem , Autor(a): Beatriz 
 </div>
 <p></p>
 
-| Classificação         |  | 
+| Classificação         | Acessibilidae / Usabilidade | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve ser acessível para usuários com deficiências. |
+| Justificativa         | Proporcionar à maior quantidade possível de pessoas, independentemente da limitação de mobilidade ou percepção, a utilização de maneira autônoma do aplicativo  |
+| Origem do requisito   | RNF15 |
+| Critério de aceitação | Nenhum  |
+| Prioridade            | Média prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)  |
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 
