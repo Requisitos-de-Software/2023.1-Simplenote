@@ -17,8 +17,7 @@ salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de des
 ## Metodologia
 A princípio, foi separado todos os documentos nos quais seriam analisados e sumarizados. Para realizar a técnica para os
 requisitos funcionais, foi relacionado cada história de usuário ao seu respectivo épico, tema, cenário, léxico, caso de
-uso e onde foi elicitado. Já para os não-funcionais, cada requisito foi associado ao seu respectivo NFR e Especificação
-Suplementar e foi decidido se o mesmo já foi implementado.
+uso e onde foi elicitado, também foi feito um vídeo no qual é evidenciado como a funcionalidade é implementada no aplicativo ou no protótipo. Já para os não-funcionais, cada requisito foi associado ao seu respectivo NFR, Especificação Suplementar e onde foi elicitado .
 
 ## Mapeamento
 Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o
@@ -51,6 +50,7 @@ bom entendimento dos tópicos abaixo:
 </div>
 
 #### Requisitos funcionais
+As tabelas 2 até a 15 contidas dentros dos toggles evidenciam as informações já citadas dos requisitos funcionais elicitados durante o projeto. Tabelas a seguir:
 
 <details>
   <summary>RF01 - Escrever uma nota</summary>
@@ -801,6 +801,7 @@ bom entendimento dos tópicos abaixo:
 #
 
 #### Requisitos não funcionais
+As tabelas 16 até a 33 contidas dentros dos toggles evidenciam as informações já citadas dos requisitos não-funcionais elicitados durante o projeto. Tabelas a seguir:
 
 <details>
   <summary> RNF01 - O aplicativo salvará a nota em até 1 segundo</summary>
