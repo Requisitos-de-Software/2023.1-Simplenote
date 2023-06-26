@@ -114,7 +114,7 @@ Descrição: [¹](#ancora1)
 - Indeterminado: Refere-se a uma relação incerta ou desconhecida entre requisitos não funcionais. Isso ocorre quando há informações insuficientes para determinar o impacto de um requisito em outro.
 
 ## NFR
- Foram feitos 4 tipos de NFR: usabilidade (figura 2), disponibilidade (figura 3), portabilidade (figura 4) e performance (figura 5).
+ Foram feitos 4 tipos de NFR: usabilidade (figura 3 e 4), disponibilidade (figura 5 e 6), portabilidade (figura 7 e 8) e performance (figura 9 e 10).
 
 ## NFR-1 Usabilidade
 
