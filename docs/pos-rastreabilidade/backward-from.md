@@ -65,6 +65,8 @@ bom entendimento dos tópicos abaixo:
 (o foda e que parece q os grupos passados fizeram errado dnv, pq os elos são basicamente o mesmo codigo do requisito com uma tag a mais no final do doc.
 Mas assim, isso aqui parece ser mais extenso do que dificil)
 
+(R/Kaua- é melhor fazer em toggle pra ficar mais bonito na gitpage, por mais que seja mais dificil, é melhor pro produto final)
+
 https://requisitos-de-software.github.io/2022.2-Lichess/posrastreabilidade/backward/#introducao
 
 https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/backward-form/#1-introducao
