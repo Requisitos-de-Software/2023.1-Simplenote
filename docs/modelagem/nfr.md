@@ -29,9 +29,7 @@ Não-Funcionais e podem estar inter-relacionados, expressando a influência de u
 |RN18| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 |RN19| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 |RN20| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-
-
-
+|RN21| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 
 ### Softgoals
 
