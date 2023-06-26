@@ -3,7 +3,7 @@
 Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
 |Nome|Cargo|
 |----|-----|
-|Júlio César|PO|
+|[Júlio César](https://github.com/JulioDinizN)|PO|
 |Kauã|Equipe de desenvolvimento|
 |Ana Beatriz|Equipe de desenvolvimento|
 
