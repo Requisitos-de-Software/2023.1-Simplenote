@@ -1005,7 +1005,7 @@ bom entendimento dos tópicos abaixo:
 </details>
 
 <details>
-  <summary> RNF08 -O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para
+  <summary> RNF08 - O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para
     garantir que os usuários possam acessar suas notas em qualquer dispositivo.</summary>
 
   <table>
