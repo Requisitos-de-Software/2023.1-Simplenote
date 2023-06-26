@@ -27,12 +27,19 @@ Devido ao ambiente acadêmico, a disponibilidade da equipe e a experiência dos 
 
 ## Política de Issues 
 
-As issues devem seguir o modelo de Issues já pre-disponibilizado no github da equipe.
+As issues devem seguir o modelo de Issues já pre-disponibilizado no github da equipe. As mesmas devem ser abertas em casos de:
+- Problema a relatar
+- Documento a se produzir
+- Documento a se revisar
+- Nova entrega
+
+## Política de Pull Request
+Para abrir um novo Pull Request, deve-se realizar o procedimento padrão do github, após, deve ser preenchido o template que é disponibilizado e preencher a solicitação com os dados necessários como "oque foi feito"," como revisar".
 
 ## Bibliografia
 
-https://asana.com/pt/templates/scrumban </br>
-https://kanbantool.com/pt/scrumban-kanban-e-scrum
+> [1] https://asana.com/pt/templates/scrumban </br>
+> [2] https://kanbantool.com/pt/scrumban-kanban-e-scrum
 
 ## Histórico de Versão
 
