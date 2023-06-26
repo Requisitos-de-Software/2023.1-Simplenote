@@ -10,7 +10,7 @@ Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
 - Forward-From;
 
 Este documento relaciona a tecnica de Forward-From com os [requisitos
-elicitados](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/) no projeto envolvendo o
+elicitados](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final/) no projeto envolvendo o
 aplicativo Simplenote. Desta maneira, é importante
 salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[³](#ancora3).
 
