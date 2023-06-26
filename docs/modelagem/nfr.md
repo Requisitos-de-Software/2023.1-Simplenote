@@ -7,6 +7,12 @@ Não-Funcionais e podem estar inter-relacionados, expressando a influência de u
 
 ### Requisitos Não Funcionais Elicitados
 
+<p></p>
+
+Abaixo, na tabela 1, estão os requisitos não funcionais elicitados pela equipe.
+
+<p></p>
+
 | ID | Requisito | Fonte |
 |----|-----------|-------|
 |RNF01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)| [StoryTelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
@@ -29,6 +35,10 @@ Não-Funcionais e podem estar inter-relacionados, expressando a influência de u
 |RNF18| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 |RNF19| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 |RNF20| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+
+<div align="center">
+Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Beatriz 
+</div>
 
 ### Softgoals
 
@@ -62,6 +72,10 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 | *AND*    | “Pai” é satisfeito se_somente_se todos os “filhos” forem satisfeitos sob a perspectiva dos envolvidos| AND|
 | *OR* | “Pai” é satisfeito se_somente_se um dos “filhos” é satisfeito sob a perspectiva dos envolvidos |OR|    
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
+
+<div align="center">
+Tabela 2: Refinamento, Autor(a): Mylena 
+</div>
  
 ## Participantes 
 
@@ -71,6 +85,10 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
 |Leonardo | Equipe de priorização| Entrevistas da elicitação|
 |Mylena | Equipe de elicitação| Público alvo: questionário|
 |Paulo | Product Owner | Membro do grupo 4 |
+
+<div align="center">
+Tabela 3: Participantes, Autor(a): Mylena 
+</div>
  
 ## Legendas
 
@@ -143,6 +161,10 @@ Figura 4: NFR-1 Usabilidade com Propagação, Autor(a): Beatriz
 |----|-----------|
 |RN01|           |
 
+<div align="center">
+Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz 
+</div>
+
 ### Cartões de Especificação
 
 | Classificação         |  | 
@@ -155,7 +177,9 @@ Figura 4: NFR-1 Usabilidade com Propagação, Autor(a): Beatriz
 | Conflito              |  |
 | Historia              |  |
 
-
+<div align="center">
+Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
 
 ## NFR-2 Disponibilidade
 
