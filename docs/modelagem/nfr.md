@@ -157,9 +157,9 @@ Figura 4: NFR-1 Usabilidade com Propagação, Autor(a): Beatriz
 
 ### Requisitos
 
-| ID | Requisito |
-|----|-----------|
-|RN01|           |
+| ID  | Requisito |
+|-----|-----------|
+|RNF01|           |
 
 <div align="center">
 Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz 
@@ -180,6 +180,21 @@ Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz
 <div align="center">
 Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz 
 </div>
+<p></p>
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
 
 ## NFR-2 Disponibilidade
 
@@ -199,6 +214,48 @@ Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz
 <figcaption>Figura 6: NFR-1 Disponibilidade com Propagação, Autor(a): Beatriz </figcaption>
  
 </div>
+
+### Requisitos
+
+| ID  | Requisito |
+|-----|-----------|
+|RNF01|           |
+
+<div align="center">
+Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz 
+</div>
+
+### Cartões de Especificação
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
+<p></p>
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 9: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
+<p></p>
 
 ## NFR-3 Portabilidade
 
@@ -221,6 +278,33 @@ Figura 7: NFR-3 Portabilidade, Autor(a): Beatriz  </figcaption>
 Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz 
 </div>
 
+### Requisitos
+
+| ID  | Requisito |
+|-----|-----------|
+|RNF01|           |
+
+<div align="center">
+Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz 
+</div>
+
+### Cartões de Especificação
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 11: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
+<p></p>
+
 ## NFR-4 Performance
 
 ### Sem Propagação
@@ -242,6 +326,48 @@ Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz
 <div align="center">
 Figura 10: NFR-1 Performance com Propagação, Autor(a): Beatriz </figcaption>
 </div>
+
+### Requisitos
+
+| ID  | Requisito |
+|-----|-----------|
+|RNF01|           |
+
+<div align="center">
+Tabela 12: Requisitos de Performance, Autor(a): Beatriz 
+</div>
+
+### Cartões de Especificação
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 13: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
+<p></p>
+
+| Classificação         |  | 
+| ----------------------|--|
+| Descrição             |  |
+| Justificativa         |  |
+| Origem do requisito   |  |
+| Critério de aceitação |  |
+| Prioridade            |  |
+| Conflito              |  |
+| Historia              |  |
+
+<div align="center">
+Tabela 14: Cartões de Especificação .... , Autor(a): Beatriz 
+</div>
+<p></p>
 
 ## Referências
 
