@@ -80,7 +80,11 @@ Esse refinamento são especificações dos softgoals e são contribuições e ex
  Figura 2: Legenda Rótulos, Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.¹
 </div>
 
+<p></p>
+
 Descrição: [¹](#ancora1)
+
+<p></p>
 
 - Satisfeito: Reflete que um requisito não funcional contribui de maneira positiva para a realização de outro requisito, resultando em satisfação.
 - Fracamente satisfeito: ndica uma relação de impacto positiva, mas menos forte do que a notação satisfeito.
