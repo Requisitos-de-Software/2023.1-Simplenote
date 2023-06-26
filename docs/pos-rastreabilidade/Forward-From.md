@@ -810,7 +810,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Performance</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -826,7 +826,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 15: Requisito não-funcional 1 (Fonte: Autores, 2023).</p>
+  <p> Tabela 16: Requisito não-funcional 1 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -840,7 +840,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Performance</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -856,7 +856,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 16: Requisito não-funcional 2 (Fonte: Autores, 2023).</p>
+  <p> Tabela 17: Requisito não-funcional 2 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -870,7 +870,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Performance</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -887,14 +887,12 @@ bom entendimento dos tópicos abaixo:
   </table>
 
 
-  <p> Tabela 17: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
+  <p> Tabela 18: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
 
 </details>
 
 <details>
   <summary> RNF04 - O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.</summary>
-
-
 
   <table>
     <tr>
@@ -903,7 +901,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Disponibilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -918,7 +916,7 @@ bom entendimento dos tópicos abaixo:
   </table>
 
 
-  <p> Tabela 18: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
+  <p> Tabela 19: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -932,7 +930,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Usabilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -946,7 +944,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 19: Requisito não-funcional 5 (Fonte: Autores, 2023).</p>
+  <p> Tabela 20: Requisito não-funcional 5 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -960,7 +958,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -974,11 +972,11 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 20: Requisito não-funcional 6 (Fonte: Autores, 2023).</p>
+  <p> Tabela 21: Requisito não-funcional 6 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF07 -O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como
+  <summary> RNF07 - O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como
     suporte a leitores de tela e opções de zoom.</summary>
 
   <table>
@@ -988,12 +986,12 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Usabilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
       <td><a
-          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Suportabilidade</a>
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
       </td>
     </tr>
     <tr>
@@ -1002,7 +1000,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 21: Requisito não-funcional 7 (Fonte: Autores, 2023).</p>
+  <p> Tabela 22: Requisito não-funcional 7 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1016,7 +1014,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Portabilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -1030,7 +1028,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 22: Requisito não-funcional 8 (Fonte: Autores, 2023).</p>
+  <p> Tabela 23: Requisito não-funcional 8 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1047,7 +1045,7 @@ bom entendimento dos tópicos abaixo:
     <tbody>
       <tr>
         <td>NFR</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Disponibilidade</a></td>
       </tr>
       <tr>
         <td>Especificação Suplementar</td>
@@ -1063,7 +1061,7 @@ bom entendimento dos tópicos abaixo:
     </tbody>
   </table>
 
-  <p> Tabela 23: Requisito não-funcional 9 (Fonte: Autores, 2023).</p>
+  <p> Tabela 24: Requisito não-funcional 9 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1077,7 +1075,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Performance</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -1091,7 +1089,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 24: Requisito não-funcional 10 (Fonte: Autores, 2023).</p>
+  <p> Tabela 25: Requisito não-funcional 10 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1108,7 +1106,7 @@ bom entendimento dos tópicos abaixo:
     <tbody>
       <tr>
         <td>NFR</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Disponibilidade</a></td>
       </tr>
       <tr>
         <td>Especificação Suplementar</td>
@@ -1124,7 +1122,7 @@ bom entendimento dos tópicos abaixo:
     </tbody>
   </table>
 
-  <p> Tabela 25: Requisito não-funcional 11 (Fonte: Autores, 2023).</p>
+  <p> Tabela 26: Requisito não-funcional 11 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1137,7 +1135,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Usabilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -1151,7 +1149,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 26: Requisito não-funcional 12 (Fonte: Autores, 2023).</p>
+  <p> Tabela 27: Requisito não-funcional 12 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1165,7 +1163,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Disponibilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -1179,7 +1177,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 27: Requisito não-funcional 13 (Fonte: Autores, 2023).</p>
+  <p> Tabela 28: Requisito não-funcional 13 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
@@ -1192,7 +1190,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>NFR</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">Portabilidade</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -1206,7 +1204,138 @@ bom entendimento dos tópicos abaixo:
     </tr>
   </table>
 
-  <p> Tabela 28: Requisito não-funcional 14 (Fonte: Autores, 2023).</p>
+  <p> Tabela 29: Requisito não-funcional 14 (Fonte: Autores, 2023).</p>
+</details>
+
+<details>
+  <summary> RNF15 - O aplicativo deve ser de fácil entendimento para pessoas mais leigas com tecnologia</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES01</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 30: Requisito não-funcional 15 (Fonte: Autores, 2023).</p>
+</details>
+
+<details>
+  <summary> RNF16 - O aplicativo deve conter uma cor que estimula calma para trazer a sensação de bem estar ao utilizar o aplicativo</summary>
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES02</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 31: Requisito não-funcional 16 (Fonte: Autores, 2023).</p>
+</details>
+
+<details>
+  <summary> RNF17 - O aplicativo deve sempre guardar as notas que o usuário cria</summary>
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES03</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 32: Requisito não-funcional 17 (Fonte: Autores, 2023).</p>
+</details>
+
+<details>
+  <summary> RNF18 - O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 300 horas</summary>
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES04</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 33: Requisito não-funcional 18 (Fonte: Autores, 2023).</p>
+</details>
+
+<details>
+  <summary> RNF19 - O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser 4 horas</summary>
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">-</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES05</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 33: Requisito não-funcional 18 (Fonte: Autores, 2023).</p>
 </details>
 
 ## Bibliografia
@@ -1228,3 +1357,4 @@ jun de 2023</br>
 | `1.0` | 23/06/2023 | Criação do documento | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
 | `1.1` | 24/06/2023 | Adição de alguns requisitos funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
 | `1.2` | 26/06/2023 | Adicionando requisitos não funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
+| `1.3` | 26/06/2023 | Adicionando mais requisitos não funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
