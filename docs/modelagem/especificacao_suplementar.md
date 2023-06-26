@@ -79,27 +79,27 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 ## Especificação suplementar
 A tabela 1 apresenta os resultados da especificação suplementar, contendo o id do requisito, o texto do requisito, sua categoria e sua classificação (Requisito funcional e não funcional). Seguem os resultados:
 
-| ID    | Requisito   | Categoria | Requisito Funcional (RF) ou Requisito não Funcional (RNF) |
-| ----- | ----------- | --------- | ----------------------------------------------------- |
-| INT07 | O aplicativo salvará a nota em até 1 segundo  | P       | RNF |
-| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos  | P         | RNF |
-| INT10 | Deve ser possível fazer notas sem internet   | U         | RF |
-| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.  | C         | RNF |
-| B20   | O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.  | U         | RNF |
-| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.  | S         | RNF |
-| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom. | S    | RNF |
-| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | P         | RNF |
-| B25   | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. | U         | RNF |
-| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.   | P    | RNF |
-| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.      | S         | RNF |
-| ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas   | U         | RNF |
-| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         | RF |
-| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes       | U       | RF |
-| ES01  | O aplicativo deve ser de fácil entendimento para pessoas mais leigas com tecnologia | U|RNF|
-| ES02  | O aplicativo deve conter uma cor que estimula calma para trazer a sensação de bem estar ao utilizar o aplicativo| U| RNF|
-| ES03  | O aplicativo deve sempre guardar as notas que o usuário cria | C |RNF|
-| ES04  | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 300 horas| C |RNF|
-| ES05  | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser 4 horas | C |RNF|
+| ID    | Requisito   | Categoria | 
+| ----- | ----------- | --------- | 
+| INT07 | O aplicativo salvará a nota em até 1 segundo  | P       |
+| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos  | P         | 
+| INT10 | Deve ser possível fazer notas sem internet   | U         | 
+| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.  | C         | 
+| B20   | O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.  | U         | 
+| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.  | S         |
+| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom. | U    |
+| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | P         |
+| B25   | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. | U         | 
+| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.   | P    | 
+| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.      | S         | 
+| ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas   | U         | 
+| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         | 
+| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes       | U       |
+| ES01  | O aplicativo deve ser de fácil entendimento para pessoas mais leigas com tecnologia | U|
+| ES02  | O aplicativo deve conter uma cor que estimula calma para trazer a sensação de bem estar ao utilizar o aplicativo| U| 
+| ES03  | O aplicativo deve sempre guardar as notas que o usuário cria | C |
+| ES04  | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 300 horas| C |
+| ES05  | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser 4 horas | C |
 
 Tabela 1: Resultado da especificação suplementar. (Fonte: Dos autores,2023)
 
