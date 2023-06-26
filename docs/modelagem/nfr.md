@@ -28,13 +28,12 @@ Abaixo, na tabela 1, estão os requisitos não funcionais elicitados pela equipe
 |RNF11| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
 |RNF12| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 |RNF13| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF14| O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF15| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF16| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF17| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF18| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF19| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RNF20| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF14| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF15| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF16| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF17| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF18| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF19| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 
 <div align="center">
 Tabela 1: Requisitos Não Funcionais Elicitados, Autor(a): Beatriz 
@@ -161,8 +160,8 @@ Figura 4: NFR-1 Usabilidade com Propagação, Autor(a): Beatriz
 |-----|-----------|
 |RNF07| O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas|
 |RNF10| O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias|
-|RNF15| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.|
-|RNF20| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.|
+|RNF14| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.|
+|RNF19| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.|
 
 <div align="center">
 Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz 
@@ -226,8 +225,7 @@ Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz
 |RNF02| Ser capaz de funcionar sem internet	| 
 |RNF09| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação|
 |RNF11| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|
-|RNF14| O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.| 
-|RNF17| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|
+|RNF16| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|
 
 
 <div align="center">
@@ -236,14 +234,14 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 
 ### Cartões de Especificação
 
-| Classificação         |  | 
+| Classificação         | Backup das notas do usuário / Disponibilidade | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas. |
+| Justificativa         | Evita perda de informação e o usuário pode ter acesso as suas notas sempre que necessário.|
+| Origem do requisito   | RNF02, RNF09 |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 
@@ -252,14 +250,14 @@ Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz
 </div>
 <p></p>
 
-| Classificação         |  | 
+| Classificação         | Servidores executando a aplicação / Disponibilidade | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. |
+| Justificativa         | O usuário pode ter acesso as suas notas sempre que necessário |
+| Origem do requisito   | RNF17, RNF14 e RNF11 |
+| Critério de aceitação | Servidores com preço acessivel |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 
@@ -296,7 +294,7 @@ Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz
 |RNF01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)|
 |RNF05| Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)|
 |RNF08| O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones|
-|RNF16| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.|
+|RNF15| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.|
 |RNF06| Ser capaz de ler e editar arquivos de texto de outras fontes| 
 
 <div align="center">
@@ -351,8 +349,8 @@ Figura 10: NFR-1 Performance com Propagação, Autor(a): Beatriz </figcaption>
 |RNF04| O aplicativo abrirá em um tempo limite de até 2 segundos|
 |RNF12| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.|
 |RNF13| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| 
-|RNF18| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. |
-|RNF19| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | 
+|RNF17| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. |
+|RNF18| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | 
 
 <div align="center">
 Tabela 12: Requisitos de Performance, Autor(a): Beatriz 
