@@ -42,270 +42,713 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 #### Requisitos funcionais
 
 <details>
- <summary> RF01 - Escrever uma nota</summary>
+  <summary>RF01 - Escrever uma nota</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E1](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US01](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Notas   |
-   |     Elicitação    |[INT13](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)/[B02](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-   |       Léxico      |[L06](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)|
-   |     Caso de Uso   |[UC01](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/)|
-   |      Cenário      |[C01](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 2: Requisito funcional 1 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L06</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC01</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C01</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 2: Requisito funcional 1 (Fonte: Autores, 2023).</p>
+  
 </details>
 
 <details>
- <summary> RF02 - Vizualizar uma nota</summary>
+  <summary>RF02 - Visualizar uma nota</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E1](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US02](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Notas   |
-   |     Elicitação    |[INT06](https://github.com/Requisitos-de-Software/2023.1note/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C03](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US02</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2023.1note/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md">INT06</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C03</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  
+    <p>Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF03 - Editar uma nota</summary>
+  <summary>RF03 - Editar uma nota</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E1](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US03](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Notas   |
-   |     Elicitação    |[INT13](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)/[B02](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-   |       Léxico      |[L02](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)|
-   |     Caso de Uso   |[UC02](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/)|
-   |      Cenário      |[C04](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US03</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L02</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC02</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C04</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+ 
+    <p>Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
+ 
 </details>
 
 <details>
- <summary> RF04 - Excluir uma nota</summary>
+  <summary>RF04 - Excluir uma nota</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E1](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US07](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Notas   |
-   |     Elicitação    |[INT02](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)/[B03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-   |       Léxico      |[L11](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C02](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US07</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT02</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B03</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L11</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C02</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+ 
+    <p>Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
+  
 </details>
 
 <details>
- <summary> RF05 - Recuperar uma nota da lixeira</summary>
+  <summary>RF05 - Recuperar uma nota da lixeira</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E1](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US04](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Notas   |
-   |     Elicitação    |[INT03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-   |       Léxico      |[L08](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C09](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US04</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L08</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+ 
+    <p>Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF06 - Separar notas por tag</summary>
+  <summary>RF06 - Separar notas por tag</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E2](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US08](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Organização   |
-   |     Elicitação    |[INT14](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)/[B05](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)/[ENT03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-   |       Léxico      |[L04](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)|
-   |     Caso de Uso   |[UC03](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/)|
-   |      Cenário      |[C05/C013](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E2</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US08</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Organização</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT14</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L04</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC03</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C05/C013</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  
+    <p>Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
+  
 </details>
 
 <details>
- <summary> RF07 - Separar notas em pastas</summary>
+  <summary>RF07 - Separar notas em pastas</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E2](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US09](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Organização   |
-   |     Elicitação    |[INT03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |-|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E2</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US09</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Organização</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+ 
+    <p>Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF08 - Escrever notas em latex</summary>
+  <summary>RF08 - Escrever notas em LaTeX</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E3](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US10](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        |  Suporte a formatos avançados de notas   |
-   |     Elicitação    |-|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |-|
-   |   Funcionalidade  |          |
-   
-   <div style="text-align: center">
-      <p> Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US10</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Suporte a formatos avançados de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+    <p>Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF08 - Escrever notas em Markdown</summary>
+  <summary>RF09 - Escrever notas em Markdown</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E3](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US11](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Suporte a formatos avançados de notas  |
-   |     Elicitação    |[INT05](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)/[GLO04](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)/[ST2](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)/[ENT04](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C06](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  | |
-   
-   <div style="text-align: center">
-      <p> Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US11</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Suporte a formatos avançados de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT05</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO04</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST2</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT04</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C06</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  
+  <p>Tabela 10: Requisito funcional 9 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF09 - Anexar imagens às notas</summary>
+  <summary>RF10 - Anexar imagens às notas</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E3](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US12](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Suporte a formatos avançados de notas  |
-   |     Elicitação    |[B10](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C10](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  | |
-   
-   <div style="text-align: center">
-      <p> Tabela 10: Requisito funcional 9 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US12</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Suporte a formatos avançados de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B10</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C10</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 11: Requisito funcional 10 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
- <summary> RF10 - Sincronizar notas com todos os dispositivos</summary>
+  <summary>RF11 - Sincronizar notas com todos os dispositivos</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US05](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Sincronização e armazenamento de notas  |
-   |     Elicitação    |[ENT02](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |-|
-   |   Funcionalidade  | |
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Sincronização e armazenamento de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT02</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 12: Requisito funcional 11 (Fonte: Autores, 2023).</p>
    
-   <div style="text-align: center">
-      <p> Tabela 11: Requisito funcional 10 (Fonte: Autores, 2023).</p>
-   </div>
 </details>
 
 <details>
- <summary> RF11 - Desenhar nas notas</summary>
+  <summary>RF12 - Desenhar nas notas</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US05](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Sincronização e armazenamento de notas  |
-   |     Elicitação    |[ST04](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |-|
-   |   Funcionalidade  | |
-   
-   <div style="text-align: center">
-      <p> Tabela 12: Requisito funcional 11 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Sincronização e armazenamento de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST04</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 13: Requisito funcional 12 (Fonte: Autores, 2023).</p>
+  
 </details>
 
 <details>
- <summary> RF12 - Baixar cópia de uma nota</summary>
+  <summary>RF13 - Baixar cópia de uma nota</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US13](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Sincronização e armazenamento de notas  |
-   |     Elicitação    |[ST06](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)/[GLO06](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |[C09](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)|
-   |   Funcionalidade  | |
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US13</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Sincronização e armazenamento de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST06</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO06</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+   <p>Tabela 14: Requisito funcional 13 (Fonte: Autores, 2023).</p>
    
-   <div style="text-align: center">
-      <p> Tabela 13: Requisito funcional 12 (Fonte: Autores, 2023).</p>
-   </div>
 </details>
 
 <details>
- <summary> RF13 - Salvar notas automaticamente</summary>
+  <summary>RF14 - Salvar notas automaticamente</summary>
 
-   |      Tópico       |Referência|
-   |:-----------------:|:--------:|
-   |      Épico        |[E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)|
-   |História de usuário|[US14](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-   |       Tema        | Sincronização e armazenamento de notas  |
-   |     Elicitação    |[ENT07](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)/[GLO05](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)/[B19](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-   |       Léxico      |-|
-   |     Caso de Uso   |-|
-   |      Cenário      |-|
-   |   Funcionalidade  | |
-   
-   <div style="text-align: center">
-      <p> Tabela 14: Requisito funcional 13 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a></td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Sincronização e armazenamento de notas</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <p>Tabela 15: Requisito funcional 14 (Fonte: Autores, 2023).</p>
+
 </details>
+
 
 #### Requisitos não funcionais
 
