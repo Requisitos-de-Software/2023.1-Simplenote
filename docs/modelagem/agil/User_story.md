@@ -59,7 +59,7 @@ Em seguida, temos as histórias de usuário:
 
 <details>
    
-   <summary>US01</summary>
+   <summary>US01 - Escrever uma nota</summary>
    <table>
       <thead>
          <tr>
@@ -86,7 +86,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US02</summary>
+   <summary>US02 - Visualizar minhas notas</summary>
    <table>
       <thead>
          <tr>
@@ -113,7 +113,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US03</summary>
+   <summary>US03 - Editar notas</summary>
    <table>
       <thead>
          <tr>
@@ -140,7 +140,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US04</summary>
+   <summary>US04 - Recuperar notas</summary>
    <table>
       <thead>
          <tr>
@@ -167,7 +167,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US05</summary>
+   <summary>US05 - Sincronizar notas em todos os dispositivos</summary>
    <table>
       <thead>
          <tr>
@@ -194,7 +194,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US06</summary>
+   <summary>US06 - Desenhar nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -221,7 +221,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US07</summary>
+   <summary>US07 - Excluir notas</summary>
    <table>
       <thead>
          <tr>
@@ -249,7 +249,7 @@ Em seguida, temos as histórias de usuário:
 
 
 <details>
-   <summary>US08</summary>
+   <summary>US08 - Separar notas em tags</summary>
    <table>
       <thead>
          <tr>
@@ -276,7 +276,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US09</summary>
+   <summary>US09 - Separar notas em pastas</summary>
    <table>
       <thead>
          <tr>
@@ -303,7 +303,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US10</summary>
+   <summary>US10 - Escrever em latex nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -330,7 +330,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US11</summary>
+   <summary>US11 - Escrever em markdown nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -357,7 +357,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US12</summary>
+   <summary>US12 - Anexar imagens nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -384,7 +384,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US13</summary>
+   <summary>US13 - Baixar cópia das notas</summary>
    <table>
       <thead>
          <tr>
@@ -411,7 +411,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US14</summary>
+   <summary>US14 - Salvar notas automaticamente</summary>
    <table>
       <thead>
          <tr>
