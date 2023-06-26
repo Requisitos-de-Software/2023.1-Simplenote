@@ -180,7 +180,7 @@ Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz
 | Historia              | 26 de jun. 2023 |
 
 <div align="center">
-Tabela 5: Cartões de Especificação - Fácil Aprendizagem , Autor(a): Beatriz 
+Tabela 5: Cartão de Especificação - Fácil Aprendizagem, Autor(a): Beatriz 
 </div>
 <p></p>
 
@@ -196,7 +196,7 @@ Tabela 5: Cartões de Especificação - Fácil Aprendizagem , Autor(a): Beatriz
 
 
 <div align="center">
-Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 6: Cartão de Especificação - Acessibilidae, Autor(a): Beatriz 
 </div>
 
 ## NFR-2 Disponibilidade
@@ -222,10 +222,11 @@ Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz
 
 | ID  | Requisito |
 |-----|-----------|
-|RNF02| Ser capaz de funcionar sem internet	| 
 |RNF09| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação|
 |RNF11| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo|
+|RNF12| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.|
 |RNF16| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.|
+|RNF18| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | 
 
 
 <div align="center">
@@ -238,7 +239,7 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas. |
 | Justificativa         | Evita perda de informação e o usuário pode ter acesso as suas notas sempre que necessário.|
-| Origem do requisito   | RNF02, RNF09 |
+| Origem do requisito   | RNF09 |
 | Critério de aceitação | Nenhum |
 | Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
 | Conflito              | Nenhum |
@@ -246,15 +247,15 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 
 
 <div align="center">
-Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 8: Cartão de Especificação - Backup das notas do usuário, Autor(a): Beatriz 
 </div>
 <p></p>
 
 | Classificação         | Servidores executando a aplicação / Disponibilidade | 
 | ----------------------|--|
-| Descrição             | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. |
-| Justificativa         | O usuário pode ter acesso as suas notas sempre que necessário |
-| Origem do requisito   | RNF16 e RNF11 |
+| Descrição             | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. E em caso de manutenção ele será avisado. |
+| Justificativa         | O usuário pode ter acesso as suas notas sempre que necessário e se houver manutenção ele será notificado.|
+| Origem do requisito   | RNF16, RNF18, RNF11 e RNF12 |
 | Critério de aceitação | Servidores com preço acessivel |
 | Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
 | Conflito              | Nenhum |
@@ -262,7 +263,7 @@ Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz
 
 
 <div align="center">
-Tabela 9: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 9: Cartão de Especificação - Servidores executando a aplicação, Autor(a): Beatriz 
 </div>
 <p></p>
 
@@ -293,9 +294,10 @@ Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz
 |-----|-----------|
 |RNF01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)|
 |RNF05| Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)|
+|RNF06| Ser capaz de ler e editar arquivos de texto de outras fontes| 
 |RNF08| O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones|
 |RNF15| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.|
-|RNF06| Ser capaz de ler e editar arquivos de texto de outras fontes| 
+
 
 <div align="center">
 Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz 
@@ -303,19 +305,19 @@ Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz
 
 ### Cartões de Especificação
 
-| Classificação         |  | 
+| Classificação         | Multiplataforma / Portabilidade | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve ser acessível em diferentes plataformas. |
+| Justificativa         | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. |
+| Origem do requisito   | RNF01, RNF05, RNF08, RNF15 e RNF06 |
+| Critério de aceitação | Recurso financeiro disponivel. |
+| Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
+| Conflito              | Custo elevado. |
 | Historia              | 26 de jun. 2023 |
 
 
 <div align="center">
-Tabela 11: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 11: Cartão de Especificação - Multiplataforma, Autor(a): Beatriz 
 </div>
 <p></p>
 
@@ -345,12 +347,11 @@ Figura 10: NFR-1 Performance com Propagação, Autor(a): Beatriz </figcaption>
 
 | ID  | Requisito |
 |-----|-----------|
+|RNF02| Ser capaz de funcionar sem internet	| 
 |RNF03| O aplicativo salvará a nota em até 1 segundo|
 |RNF04| O aplicativo abrirá em um tempo limite de até 2 segundos|
-|RNF12| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.|
 |RNF13| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| 
 |RNF17| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. |
-|RNF18| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | 
 
 <div align="center">
 Tabela 12: Requisitos de Performance, Autor(a): Beatriz 
@@ -358,35 +359,35 @@ Tabela 12: Requisitos de Performance, Autor(a): Beatriz
 
 ### Cartões de Especificação
 
-| Classificação         |  | 
+| Classificação         | Otimização / Performance | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.  |
+| Justificativa         | O usuario tera uma navegação mais fluida e rapida pelo aplicativo. |
+| Origem do requisito   | RNF03, RNF02 e RNF13 |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)  |
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 
 <div align="center">
-Tabela 13: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 13: Cartão de Especificação - Otimização, Autor(a): Beatriz 
 </div>
 <p></p>
 
-| Classificação         |  | 
+| Classificação         | Mémoria / Performance | 
 | ----------------------|--|
-| Descrição             |  |
-| Justificativa         |  |
-| Origem do requisito   | Projetista de Software |
-| Critério de aceitação |  |
-| Prioridade            |  |
-| Conflito              |  |
+| Descrição             | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente. Possibilitando até o uso offline do aplicativo. |
+| Justificativa         | Extrair o melhor rendimento e uso do app.|
+| Origem do requisito   | RNF02 e RNF17 |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Média prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
+| Conflito              | Nenhum |
 | Historia              | 26 de jun. 2023 |
 
 
 <div align="center">
-Tabela 14: Cartões de Especificação .... , Autor(a): Beatriz 
+Tabela 14: Cartão de Especificação -  Mémoria, Autor(a): Beatriz 
 </div>
 <p></p>
 
