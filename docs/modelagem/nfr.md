@@ -174,11 +174,11 @@ Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
 
 <div align="center">
 Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -189,11 +189,12 @@ Tabela 5: Cartões de Especificação .... , Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -217,8 +218,8 @@ Tabela 6: Cartões de Especificação .... , Autor(a): Beatriz
 <figcaption>Figura 6: NFR-1 Disponibilidade com Propagação, Autor(a): Beatriz </figcaption>
  
 </div>
-
-### Requisitos
+ 
+### Requisitos de Disponibilidade
 
 | ID  | Requisito |
 |-----|-----------|
@@ -239,11 +240,12 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -254,11 +256,12 @@ Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 9: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -286,7 +289,7 @@ Figura 7: NFR-3 Portabilidade, Autor(a): Beatriz  </figcaption>
 Figura 8: NFR-1 Portabilidade com Propagação, Autor(a): Beatriz 
 </div>
 
-### Requisitos
+### Requisitos de Portabilidade
 
 | ID  | Requisito |
 |-----|-----------|
@@ -306,11 +309,12 @@ Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 11: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -339,7 +343,7 @@ Tabela 11: Cartões de Especificação .... , Autor(a): Beatriz
 Figura 10: NFR-1 Performance com Propagação, Autor(a): Beatriz </figcaption>
 </div>
 
-### Requisitos
+### Requisitos de Performance
 
 | ID  | Requisito |
 |-----|-----------|
@@ -360,11 +364,12 @@ Tabela 12: Requisitos de Performance, Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 13: Cartões de Especificação .... , Autor(a): Beatriz 
@@ -375,11 +380,12 @@ Tabela 13: Cartões de Especificação .... , Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             |  |
 | Justificativa         |  |
-| Origem do requisito   |  |
+| Origem do requisito   | Projetista de Software |
 | Critério de aceitação |  |
 | Prioridade            |  |
 | Conflito              |  |
-| Historia              |  |
+| Historia              | 26 de jun. 2023 |
+
 
 <div align="center">
 Tabela 14: Cartões de Especificação .... , Autor(a): Beatriz 
