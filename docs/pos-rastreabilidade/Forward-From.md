@@ -367,7 +367,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1cYuq9hB-Dk8bYRyFRf5o17a128KgyMtJ/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
@@ -421,7 +421,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1IDD-gZT1IvufTL3E8KvJFxISODgqCxgr/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
@@ -529,7 +529,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1Hu8RKJsbN0NDwkE4gvLLmXuV0vaJOE3e/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
@@ -581,7 +581,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1dtGUscbXALihip2gOxY5N7MBXbuLswIl/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
@@ -632,7 +632,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../../img/Sincronizar.PNG width="400"></td>
       </tr>
     </tbody>
   </table>
@@ -683,7 +683,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1dtGUscbXALihip2gOxY5N7MBXbuLswIl/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
@@ -735,7 +735,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1Uoh7bTqas_D2VmTzhlEFCsnFdPa_dYCx/preview" width="640" height="480"></iframe></td>
       </tr>
     </tbody>
   </table>
