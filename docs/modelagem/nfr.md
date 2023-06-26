@@ -254,7 +254,7 @@ Tabela 8: Cartões de Especificação .... , Autor(a): Beatriz
 | ----------------------|--|
 | Descrição             | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. |
 | Justificativa         | O usuário pode ter acesso as suas notas sempre que necessário |
-| Origem do requisito   | RNF17, RNF14 e RNF11 |
+| Origem do requisito   | RNF16 e RNF11 |
 | Critério de aceitação | Servidores com preço acessivel |
 | Prioridade            | Alta prioridade.  Fonte: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
 | Conflito              | Nenhum |
