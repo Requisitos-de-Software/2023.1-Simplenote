@@ -9,27 +9,27 @@ Não-Funcionais e podem estar inter-relacionados, expressando a influência de u
 
 | ID | Requisito | Fonte |
 |----|-----------|-------|
-|RN01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)| [StoryTelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
-|RN02| Ser capaz de funcionar sem internet	| [StoryTelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
-|RN03| O aplicativo salvará a nota em até 1 segundo| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-|RN04| O aplicativo abrirá em um tempo limite de até 2 segundos| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-|RN05| Deve ser possível fazer notas sem internet| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-|RN06| Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
-|RN07| Ser capaz de ler e editar arquivos de texto de outras fontes| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
-|RN08| O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-|RN09| O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-|RN10| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-|RN11| O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-|RN12| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-|RN13| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN14| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN15| O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN16| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN17| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN18| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN19| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN20| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-|RN21| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF01| Ser capaz de usar a aplicação em dispositivos mobile (celulares e tablets)| [StoryTelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
+|RNF02| Ser capaz de funcionar sem internet	| [StoryTelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)|
+|RNF03| O aplicativo salvará a nota em até 1 segundo| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+|RNF04| O aplicativo abrirá em um tempo limite de até 2 segundos| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+|RNF05| Deve ser possível fazer notas sem internet| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+|RNF06| Estar disponível em diversos dispositivos (celulares, laptops, tablets, etc)| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
+|RNF07| Ser capaz de ler e editar arquivos de texto de outras fontes| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
+|RNF08| O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+|RNF09| O aplicativo deve ser acessível em diferentes plataformas, como computadores, tablets e smartphones| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+|RNF10| O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+|RNF11| O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+|RNF12| O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+|RNF13| O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF14| O aplicativo deve ser responsivo e rápido, permitindo que os usuários criem e acessem suas notas rapidamente.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF15| O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF16| O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF17| O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF18| O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF19| O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF20| O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado. | [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+|RNF21| O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.| [Brainstorm](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
 
 ### Softgoals
 
