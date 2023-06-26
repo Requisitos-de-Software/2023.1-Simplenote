@@ -101,7 +101,7 @@ Tabela 3: Participantes, Autor(a): Mylena
 </div>
 
 <div align="center">
- Figura 1: Legenda Softgoals
+ Figura 1: Legenda Softgoals,  Fonte: Beatriz
 </div>
 
 
