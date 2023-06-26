@@ -310,7 +310,199 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 #### Requisitos não funcionais
 
 <details>
+  <summary> RNF01 - O aplicativo salvará a nota em até 1 segundo</summary>
  
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[INT07](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 15: Requisito não-funcional 1 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF02 - O aplicativo abrirá em um tempo limite de até 2 segundos</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[INT09](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 16: Requisito não-funcional 2 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF03 - Deve ser possível fazer notas sem internet</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[INT10](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 17: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF04 - O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Confiabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B19](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 18: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF05 - O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B20](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 19: Requisito não-funcional 5 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF06 - O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Confiabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B22](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 20: Requisito não-funcional 6 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF07 -O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B23](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 21: Requisito não-funcional 7 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF08 -O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B24](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 22: Requisito não-funcional 8 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF09 - O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B25](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 23: Requisito não-funcional 9 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF10 - O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B26](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 24: Requisito não-funcional 10 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF11 - O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[B27](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 25: Requisito não-funcional 11 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF12 - O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[ENT01](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 26: Requisito não-funcional 12 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF13 - O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo.</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[ENT09](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 27: Requisito não-funcional 13 (Fonte: Autores, 2023).</p>
+   </div>
+</details>
+
+<details>
+  <summary> RNF14 - Ser capaz de ler e editar arquivos de texto de outras fontes</summary>
+ 
+  |Tópico                   |Referência|
+  |-------------------------|----------|
+  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
+  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
+  |Elicitação               |[GLO03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
+  
+  <div style="text-align: center">
+      <p> Tabela 28: Requisito não-funcional 14 (Fonte: Autores, 2023).</p>
+   </div>
 </details>
 
 ## Bibliografia
@@ -327,3 +519,4 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 | ------ | ---------- | ------------------------------------------ | ----------- | ----------- |
 | `1.0`  | 23/06/2023 | Criação do documento                       | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
 | `1.1`  | 24/06/2023 | Adição de alguns requisitos funcionais     | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
+| `1.2`  | 26/06/2023 | Adicionando requisitos não funcionais      | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
