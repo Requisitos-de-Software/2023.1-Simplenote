@@ -1,6 +1,7 @@
 # Forward-From
 ## Introdução
-De acordo com o livro "Requirements Engineering Fundamentals"[²](#ancora2) de Klaus Pohl e Chris Rupp, rastreabilidade de requisitos é a capacidade de traçar rastros de requisitos durante toda a vida de um software.
+De acordo com o livro "Requirements Engineering Fundamentals"[²](#ancora2) de Klaus Pohl e Chris Rupp, rastreabilidade
+de requisitos é a capacidade de traçar rastros de requisitos durante toda a vida de um software.
 Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
 
 - Backward-To;
@@ -8,35 +9,45 @@ Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
 - Forward-To;
 - Forward-From;
 
-Este documento relaciona a tecnica de Forward-From com os [requisitos elicitados](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/) no projeto envolvendo o aplicativo Simplenote. Desta maneira, é importante
+Este documento relaciona a tecnica de Forward-From com os [requisitos
+elicitados](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/) no projeto envolvendo o
+aplicativo Simplenote. Desta maneira, é importante
 salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[³](#ancora3).
 
 ## Metodologia
-A princípio, foi separado todos os documentos nos quais seriam analisados e sumarizados. Para realizar a técnica para os requisitos funcionais, foi relacionado cada história de usuário ao seu respectivo épico,tema,cenário, léxico , caso de uso e onde foi elicitado. Já para os não-funcionais, cada requisito foi associado ao seu respectivo NFR e Especificação Suplementar e foi decidido se o mesmo já foi implementado. 
+A princípio, foi separado todos os documentos nos quais seriam analisados e sumarizados. Para realizar a técnica para os
+requisitos funcionais, foi relacionado cada história de usuário ao seu respectivo épico, tema, cenário, léxico, caso de
+uso e onde foi elicitado. Já para os não-funcionais, cada requisito foi associado ao seu respectivo NFR e Especificação
+Suplementar e foi decidido se o mesmo já foi implementado.
 
 ## Mapeamento
-Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o bom entendimento dos tópicos abaixo:
+Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o
+bom entendimento dos tópicos abaixo:
 
-| Legenda | Artefato                  |
-| ------- | ------------------------- |
-| E       | Épico                     |
-| P       | Personas                  |
-| US      | Histórias de usuário      |
-| ST      | Storytelling              |
-| UC      | Casos de Uso              |
-| C       | Cenários                  |
-| L       | Léxico                    |
-| ES      | Especificação Suplementar |
-| INT     | Introspecção              |
-| Q       | Questionário              |
-| GLO     | Glossário                 |
-| B       | Brainstorming             |
-| ENT     | Entrevista                |
-| RF      | Requisitos Funcionais     |
-| RNF     | Requisitos não Funcionais |
+<center>
+
+  | Legenda | Artefato |
+  | ------- | ------------------------- |
+  | E | Épico |
+  | P | Personas |
+  | US | Histórias de usuário |
+  | ST | Storytelling |
+  | UC | Casos de Uso |
+  | C | Cenários |
+  | L | Léxico |
+  | ES | Especificação Suplementar |
+  | INT | Introspecção |
+  | Q | Questionário |
+  | GLO | Glossário |
+  | B | Brainstorming |
+  | ENT | Entrevista |
+  | RF | Requisitos Funcionais |
+  | RNF | Requisitos não Funcionais |
+
+</center>
 
 <div style="text-align: center">
-<p> Tabela 1: Sigla de cada etapa (Fonte: autor, 2023).</p>
+  <p> Tabela 1: Sigla de cada etapa (Fonte: autor, 2023).</p>
 </div>
 
 #### Requisitos funcionais
@@ -58,7 +69,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -66,7 +78,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -88,7 +102,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
   </table>
 
   <p>Tabela 2: Requisito funcional 1 (Fonte: Autores, 2023).</p>
-  
+
 </details>
 
 <details>
@@ -108,7 +122,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US02</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US02</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -116,7 +131,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://github.com/Requisitos-de-Software/2023.1note/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md">INT06</a></td>
+        <td><a
+            href="https://github.com/Requisitos-de-Software/2023.1note/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md">INT06</a>
+        </td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -137,8 +154,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
-  
-    <p>Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
+
+  <p>Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -159,7 +176,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US03</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US03</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -167,7 +185,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -188,9 +208,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
- 
-    <p>Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
- 
+
+  <p>Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
@@ -210,7 +230,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US07</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US07</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -218,7 +239,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT02</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B03</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT02</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B03</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -239,9 +262,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
- 
-    <p>Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
-  
+
+  <p>Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
@@ -261,7 +284,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US04</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US04</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -269,7 +293,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a>
+        </td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -290,8 +316,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
- 
-    <p>Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
+
+  <p>Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -312,7 +338,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US08</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US08</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -320,7 +347,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT14</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT14</a>
+        </td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -332,7 +361,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C05/C013</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C05/C013</a>
+        </td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
@@ -341,9 +371,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
-  
-    <p>Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
-  
+
+  <p>Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
@@ -363,7 +393,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US09</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US09</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -371,7 +402,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a>
+        </td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -392,8 +425,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
- 
-    <p>Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
+
+  <p>Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -414,7 +447,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US10</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US10</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -444,7 +478,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
   </table>
 
 
-    <p>Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
+  <p>Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
 
 </details>
 
@@ -465,7 +499,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US11</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US11</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -473,7 +508,11 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT05</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO04</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST2</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT04</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT05</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO04</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST2</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT04</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -494,7 +533,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
-  
+
   <p>Tabela 10: Requisito funcional 9 (Fonte: Autores, 2023).</p>
 
 </details>
@@ -516,7 +555,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US12</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US12</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -566,7 +606,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -596,7 +637,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
   </table>
 
   <p>Tabela 12: Requisito funcional 11 (Fonte: Autores, 2023).</p>
-   
+
 </details>
 
 <details>
@@ -616,7 +657,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -646,7 +688,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
   </table>
 
   <p>Tabela 13: Requisito funcional 12 (Fonte: Autores, 2023).</p>
-  
+
 </details>
 
 <details>
@@ -666,7 +708,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US13</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US13</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -674,7 +717,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST06</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST06</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO06</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -695,8 +739,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
     </tbody>
   </table>
 
-   <p>Tabela 14: Requisito funcional 13 (Fonte: Autores, 2023).</p>
-   
+  <p>Tabela 14: Requisito funcional 13 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
@@ -716,7 +760,8 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a>
+        </td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -724,7 +769,9 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>/<a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -744,222 +791,440 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
       </tr>
     </tbody>
   </table>
-  
+
   <p>Tabela 15: Requisito funcional 14 (Fonte: Autores, 2023).</p>
 
 </details>
 
 
+#
+
 #### Requisitos não funcionais
 
 <details>
   <summary> RNF01 - O aplicativo salvará a nota em até 1 segundo</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[INT07](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 15: Requisito não-funcional 1 (Fonte: Autores, 2023).</p>
-   </div>
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Performance</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT07</a>
+      </td>
+    </tr>
+  </table>
+
+  <p> Tabela 15: Requisito não-funcional 1 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
   <summary> RNF02 - O aplicativo abrirá em um tempo limite de até 2 segundos</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[INT09](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 16: Requisito não-funcional 2 (Fonte: Autores, 2023).</p>
-   </div>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Performance</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT09</a>
+      </td>
+    </tr>
+  </table>
+
+  <p> Tabela 16: Requisito não-funcional 2 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
   <summary> RNF03 - Deve ser possível fazer notas sem internet</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[INT10](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 17: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
-   </div>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT10</a>
+      </td>
+    </tr>
+  </table>
+
+
+  <p> Tabela 17: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
   <summary> RNF04 - O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Confiabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B19](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 18: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
-   </div>
+
+
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
+    </tr>
+  </table>
+
+
+  <p> Tabela 18: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
+
 </details>
 
 <details>
   <summary> RNF05 - O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B20](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 19: Requisito não-funcional 5 (Fonte: Autores, 2023).</p>
-   </div>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B20</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 19: Requisito não-funcional 5 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF06 - O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Confiabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B22](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 20: Requisito não-funcional 6 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF06 - O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra
+    acesso não autorizado ou perda de dados.</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B22</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 20: Requisito não-funcional 6 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF07 -O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B23](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 21: Requisito não-funcional 7 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF07 -O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como
+    suporte a leitores de tela e opções de zoom.</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Suportabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B23</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 21: Requisito não-funcional 7 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF08 -O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B24](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 22: Requisito não-funcional 8 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF08 -O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para
+    garantir que os usuários possam acessar suas notas em qualquer dispositivo.</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Suportabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B24</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 22: Requisito não-funcional 8 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF09 - O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B25](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 23: Requisito não-funcional 9 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF09 - O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou
+    indisponibilidades não planejadas.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B25</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p> Tabela 23: Requisito não-funcional 9 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF10 - O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Performance](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B26](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 24: Requisito não-funcional 10 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF10 - O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU,
+    memória e bateria.</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Performance</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B26</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 24: Requisito não-funcional 10 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF11 - O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[B27](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 25: Requisito não-funcional 11 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF11 - O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.
+  </summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Suportabilidade</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B27</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p> Tabela 25: Requisito não-funcional 11 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
   <summary> RNF12 - O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[ENT01](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 26: Requisito não-funcional 12 (Fonte: Autores, 2023).</p>
-   </div>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT01</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 26: Requisito não-funcional 12 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
-  <summary> RNF13 - O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo.</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Suportabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[ENT09](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 27: Requisito não-funcional 13 (Fonte: Autores, 2023).</p>
-   </div>
+  <summary> RNF13 - O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para
+    facilitar o acesso ao aplicativo após formatação ou troca de dispositivo.</summary>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Suportabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT09</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 27: Requisito não-funcional 13 (Fonte: Autores, 2023).</p>
 </details>
 
 <details>
   <summary> RNF14 - Ser capaz de ler e editar arquivos de texto de outras fontes</summary>
- 
-  |Tópico                   |Referência|
-  |-------------------------|----------|
-  |NFR                      |[NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)       |
-  |Especificação Suplementar|[Usabilidade](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/)|
-  |Elicitação               |[GLO03](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)|
-  
-  <div style="text-align: center">
-      <p> Tabela 28: Requisito não-funcional 14 (Fonte: Autores, 2023).</p>
-   </div>
+
+  <table>
+    <tr>
+      <th>Tópico</th>
+      <th>Referência</th>
+    </tr>
+    <tr>
+      <td>NFR</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/">NFR</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td><a
+          href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Elicitação</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO03</a></td>
+    </tr>
+  </table>
+
+  <p> Tabela 28: Requisito não-funcional 14 (Fonte: Autores, 2023).</p>
 </details>
 
 ## Bibliografia
 > [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019. Acessado em: 23/06/2023 </br>
 >
-> [2] Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). Acesso em 23 de jun de 2023 </br>
+> [2] Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em
+[Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). Acesso em 23 de
+jun de 2023 </br>
 >
-> [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em [Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf ). Acesso em 23 de jun de 2023</br>
+> [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em
+[Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf ). Acesso em 23 de
+jun de 2023</br>
 
 
 ### Histórico de versão
 
-| Versão | Data       | Descrição                                  | Autor(es)   | Revisor(es) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---------- | ------------------------------------------ | ----------- | ----------- |
-| `1.0`  | 23/06/2023 | Criação do documento                       | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
-| `1.1`  | 24/06/2023 | Adição de alguns requisitos funcionais     | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
-| `1.2`  | 26/06/2023 | Adicionando requisitos não funcionais      | Ana, Beatriz E Kauã | João, Leonardo e Mylena      |
+| `1.0` | 23/06/2023 | Criação do documento | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
+| `1.1` | 24/06/2023 | Adição de alguns requisitos funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
+| `1.2` | 26/06/2023 | Adicionando requisitos não funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
