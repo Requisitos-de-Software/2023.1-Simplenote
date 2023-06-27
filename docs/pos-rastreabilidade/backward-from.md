@@ -470,7 +470,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT07</a>
+      </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -494,7 +495,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+     <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT09</a>
+    </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -518,7 +520,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT10,</a> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST07</a>
+      </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -543,7 +546,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td>  <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a> 
+      </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -567,7 +571,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B20,</a> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT08,</a>
+      </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -591,7 +596,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B22</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -615,7 +620,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B23</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -639,7 +644,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B24,</a><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO02,</a><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST05,</a><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT06</a>
+      </td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -666,7 +672,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B25</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -689,7 +695,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B26</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -715,7 +721,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B27</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -737,7 +743,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT01</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -760,7 +766,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT09</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -781,7 +787,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO03</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -802,7 +808,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES01</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -823,7 +829,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES02</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -843,7 +849,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES03</a></td>
     </tr>
     <tr>
       <td>Elo</td>
@@ -863,7 +869,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES04</a></tr>
     <tr>
       <td>Elo</td>
       <td>ENF18</td>
@@ -882,7 +888,7 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     </tr>
     <tr>
       <td>Origem</td>
-      <td></tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES05</a></tr>
     <tr>
       <td>Elo</td>
       <td>ENF19</td>
