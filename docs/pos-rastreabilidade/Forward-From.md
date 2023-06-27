@@ -796,8 +796,7 @@ As tabelas 2 até a 15 contidas dentros dos toggles evidenciam as informações 
 
 </details>
 
-
-#
+<br>
 
 #### Requisitos não funcionais
 As tabelas 16 até a 33 contidas dentros dos toggles evidenciam as informações já citadas dos requisitos não-funcionais elicitados durante o projeto. Tabelas a seguir:
