@@ -117,8 +117,9 @@ Tabela 2: Tabela de significados da tabela 1. (Fonte: Dos autores,2023)
 
 ## Bibliografia
 
-FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/
-SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor
+> [1] FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/
+>
+> [2] SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor
 
 ## Histórico de versão
 
