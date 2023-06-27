@@ -59,6 +59,15 @@ Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 - Adicionar a Prioridade e o ID dos requisitos elicitados.
 - Adicionar o obrjetico do uso da técnica Backlog.
 
+## Referências Bibliográficas
+
+[1] https://www.atlassian.com/br/agile/project-management/user-stories 
+
+[2] https://www.youtube.com/watch?v=pLJ3LxR292w
+
+[3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
+
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |
