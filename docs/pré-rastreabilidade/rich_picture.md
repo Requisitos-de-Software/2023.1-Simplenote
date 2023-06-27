@@ -25,18 +25,19 @@ Aqui está a abordagem para desenhar Rich Picture:
 
 Abaixo, na Figura 1, podemos ver a primeira versão do Rich Picture.
 
- <img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-Simplenote/71-CorrigirDocumentosComBaseNaAvaliacaoDoGrupo4/docs/pr%C3%A9-rastreabilidade/RichPictureSimpleNoteV3.0.jpg" width = "1000px" />
+ <img src = "../../img/RichPictureSimpleNoteV3.0.jpg" />
 
-
- <p align="center">Figura 1: Rich Picture versão 2.0 </p>
+ <p align="center">Figura 1: Rich Picture versão 3.0 </p>
  <p align="center"> Figura 1 Fonte: Leonardo e Beatriz- Abril/2023</p> 
 
 ## Legenda 
 
 Abaixo, na Figura 2, podemos ver a legenda da Rich Picture.
-![LegendaRP](https://user-images.githubusercontent.com/86479209/232245580-b86bc88f-d76b-4b85-a8ae-6e13ead681dd.jpg)
+
+<img src=../../img/LegendaRP.jpg>
+
 <p align="center">Figura 2: Legenda da versão 3.0 do rich Picture </p>
-  <p align="center"> Fonte: Autores - Jun/2023</p>
+<p align="center"> Fonte: Autores - Jun/2023</p>
 
 
 ## Bibliografia
