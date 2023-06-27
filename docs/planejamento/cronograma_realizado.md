@@ -110,8 +110,8 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 
 |                 Atividade                  | Data Limite de Entrega | Data Limite Revisão |        Autor(es)        | Revisor(es)  |
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
-|               Backward From                |       17/06/2023       |     19/06/2023      | -                       |-             |
-|                Forward From                |       17/06/2023       |     19/06/2023      |   -                     |     -        |
+|               Backward From                |       17/06/2023       |     19/06/2023      | João,Leonardo e Mylena  | Ana, Beatriz e Kauã             |
+|                Forward From                |       17/06/2023       |     19/06/2023      |Ana, Beatriz e Kauã      |João,Leonardo e Mylena        |
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena   |      -       |
 | Ajuste com base nos feedbacks              | 22/06/2023             | 25/06/2023          |-                        | -            |
 
@@ -127,7 +127,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 **Tabela 9: Cronograma da Entrega Final,(Fonte: autor, 2023).**
 
 ## Atividades extras
-Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do grupo durante todo o desenvolvimento do projeto, tais funções são abordadas pela seguinte tabela:
+Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do grupo durante todo o desenvolvimento do projeto, tais funções são abordadas pela tabela 10:
 
 | Atividade | Encarregado(a) |
 | :-------------------------------------------: | :--------------------: |
@@ -140,9 +140,9 @@ Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do
 
 ## Bibliografia
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 09 de Abril de 2023;
-
-Analise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/)
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf>. Acesso em: 09 de Abril de 2023; </br>
+> 
+> [2] Analise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/)
 
 ## Histórico de Versão
 
