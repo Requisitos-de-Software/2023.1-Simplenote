@@ -132,7 +132,7 @@ Por fim, nas reuniões iniciais foram acordadas funções para alguns membros do
 **Tabela 9: Encarregados de atividades extras,(Fonte: autor, 2023).**
 
 ## Bibliografia
-Analise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/)
+> [1] Analise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/)
 
 ## Histórico de Versão
 
