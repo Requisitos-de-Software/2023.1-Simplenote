@@ -40,10 +40,12 @@ Para abrir um novo Pull Request, deve-se realizar o procedimento padrão do gith
 ## Bibliografia
 
 > [1] https://asana.com/pt/templates/scrumban </br>
+>
 > [2] https://kanbantool.com/pt/scrumban-kanban-e-scrum
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 18/11/2022    |  Confecção do artefacto | Kauã  | João |
+| `1.0`  | 18/04/2022    |  Confecção do artefacto | Kauã  | João |
+| `1.1`  | 26/06/2023    |   Correção do documento  | Kauã |João|
