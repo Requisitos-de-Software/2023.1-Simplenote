@@ -473,11 +473,10 @@ As tabelas 2 até a 15 contidas dentros dos toggles evidenciam as informações 
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1oKd3A_4mWGxV7yFkGeEVoE9CUVmWrz3z/preview" width="640" height="480"></td>
       </tr>
     </tbody>
   </table>
-
 
   <p>Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
 
@@ -788,7 +787,7 @@ As tabelas 2 até a 15 contidas dentros dos toggles evidenciam as informações 
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../../img/Sincronizar.PNG width="400"></td>
       </tr>
     </tbody>
   </table>
