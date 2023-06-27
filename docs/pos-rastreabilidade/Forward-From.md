@@ -1359,3 +1359,5 @@ jun de 2023</br>
 | `1.1` | 24/06/2023 | Adição de alguns requisitos funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
 | `1.2` | 26/06/2023 | Adicionando requisitos não funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
 | `1.3` | 26/06/2023 | Adicionando mais requisitos não funcionais | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
+| `1.4` | 26/06/2023 | Adicionando vídeos das funcionalidades | Ana, Beatriz E Kauã | João, Leonardo e Mylena |
+
