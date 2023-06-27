@@ -6,13 +6,14 @@ A Especificação Suplementar é uma tecnica de modelagem que captura os requisi
 
 ## Metodologia
 
-Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual definimos os requisitos de sistema com base em:
+Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual definimos os requisitos não funcionais elicitados no projeto de acordo com o método FURPS+ no qual é expandido em:
 
 - Funcionalidade;
 - Usabilidade;
 - Confiabilidade;
 - Performance;
 - Suportabilidade;
+- +;
 
 ## Definições da especificação suplementar
 
