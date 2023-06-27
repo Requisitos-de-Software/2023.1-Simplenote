@@ -42,14 +42,14 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 |        Caracteristica       |  Resposta   |
 | :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Enzo Gabriel.    |
-| **Idade**            |          17 Anos.     | 
+| **Idade**            |          28 Anos.     | 
 | **Gênero**       | Masculino.      |
-| **Localidade**            |        São Paulo, capital, Brasil.       |   
+| **Localidade**            |        São Paulo, SP, Brasil.       |   
 | **Experiência**       | Tecnófilo, intermediário     |
 | **Particularidades**            |        Palmeirense e Usuário de discord.       |    
-| **Escolaridade**            |        Cursando Ensino médio.       |    
-| **Profissão**            |        Estudante.       |   
-| **História**            |       Enzo Gabriel sempre teve dificuldade na escola, gosta muito de jogos online e de jogar futebol. Atualmente, Enzo busca melhorar suas notas.    |    
+| **Escolaridade**            |        Graduado em Física e cursando mestrado também em física       |    
+| **Profissão**            |        Professor de ensino médio       |   
+| **História**            |       Enzo Gabriel sempre foi fascinado por matemática desde criança e quando entrou no ensino médio se apaixonou por física, da qual seguiu graduação. Atualmente trabalha como professor de ensino médio e continua sua carreira acadêmica.     |    
 | **Objetivos**       | Melhorar o desempenho escolar e otimizar seu tempo através do aplicativo Simplenote. |
 | **Habilidades**     | Muito bom em matemática.  |
 | **Rotina**         | De manhã ele vai para a escola, e por volta de 13:50, almoça em casa e divide a sua tarde entre os estudos e seus vícios. Pela noite, ele joga um pouco e vai dormir por volta de 22:00, sob bronca de seus pais. |
