@@ -85,7 +85,7 @@ bom entendimento dos tópicos abaixo:
         <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a>
         <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L06</a>
         <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>
-        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B01</a>
         <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC01</a>
         <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C01</a>
         </td>
@@ -518,7 +518,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF01
+      <td>-
       </td>
     </tr>
     
@@ -543,7 +543,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF02
+      <td>-
       </td>
     </tr>
     
@@ -568,7 +568,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF03
+      <td>-ENF01
       </td>
     </tr>
     
@@ -593,7 +593,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF04
+      <td>-
       </td>
     </tr>
   </table>
@@ -617,7 +617,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF05
+      <td>ENF02
       </td>
     </tr>
     
@@ -641,7 +641,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF06
+      <td>-
       </td>
     </tr>
     
@@ -665,7 +665,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF07
+      <td>-
       </td>
     </tr>
     
@@ -690,7 +690,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF08
+      <td>ENF03
       </td>
     </tr>
     
@@ -717,7 +717,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Elo</td>
-        <td>ENF09
+        <td>-
         </td>
       </tr>
         </table>
@@ -740,7 +740,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF10
+      <td>-
       </td>
     </tr>
     </table>
@@ -766,7 +766,7 @@ bom entendimento dos tópicos abaixo:
       </tr>
       <tr>
         <td>Elo</td>
-        <td>ENF11
+        <td>-
         </td>
       </tr>
       </table>
@@ -788,7 +788,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF12
+      <td>-
       </td>
     </tr>
   </table>
@@ -811,7 +811,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF13</td>
+      <td>-</td>
     </tr>
     </table>
 
@@ -832,7 +832,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF14 </td>
+      <td>- </td>
     </tr>
   </table>
 
@@ -853,7 +853,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF15
+      <td>-
       </td>
     </tr>
   </table>
@@ -874,7 +874,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF16</td>
+      <td>-</td>
     </tr>
   </table>
 
@@ -894,7 +894,7 @@ bom entendimento dos tópicos abaixo:
     </tr>
     <tr>
       <td>Elo</td>
-      <td>ENF17</td>
+      <td>-</td>
     </tr>
   </table>
 
@@ -913,7 +913,7 @@ bom entendimento dos tópicos abaixo:
       <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES04</a></tr>
     <tr>
       <td>Elo</td>
-      <td>ENF18</td>
+      <td>-</td>
     </tr>
   </table>
 
@@ -932,16 +932,266 @@ bom entendimento dos tópicos abaixo:
       <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/">ES05</a></tr>
     <tr>
       <td>Elo</td>
-      <td>ENF19</td>
+      <td>-</td>
     </tr>
   </table>
 
   <p> Tabela 33: Requisito não-funcional 18 (Fonte: Autores, 2023).</p>
 </details>
 
+
 ### Elos Funcionais
 
+
+#### EF01
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US01
+  - Léxico: L06
+  - Introspecção: INT13
+  - Brainstorming: B01
+  - Casos de Uso: UC01
+  - Cenários: C01
+
+- Elos:
+  - C01 representa INT13 e B01
+  - L06 representa INT3 e B01
+  - UC01 representa C01
+  - E1 representa INT13 e B01
+  - US01 representa  E1
+
+#### EF02
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US02
+  - Introspecção: INT06
+  - Cenários: C01
+- Elos:
+  - C01 representa INT06
+  - E1 representa INT06
+  - US02 representa  E1
+
+
+#### EF03
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US03
+  - Introspecção: INT13
+  - Brainstorming: B02
+  - Casos de Uso: UC02
+  - Cenários: C04
+  - Léxico: L02
+
+- Elos:
+  - C04 representa INT13 e B02
+  - L02 representa INT13 e B02
+  - UC02 representa C04
+  - E1 representa INT13 e B02
+  - US03 representa E1
+
+#### EF04
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US07
+  - Léxicos: L11
+  - Introspecção: INT02
+  - Brainstorming: B03
+  - Cenários: C02
+- Elos:
+  - C02 representa INT02 e B03
+  - L11 representa INT02 e B03
+  - E1 representa INT02 e B03
+  - US07 representa E1
+
+#### EF05
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US04
+  - Léxicos: L08
+  - Introspecção: INT03
+  - Cenários: C09 
+- Elos:
+  - C09 representa INT03
+  - L08 representa INT03
+  - E1 representa INT03
+  - US04 representa E1
+
+#### EF06
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E2
+  - Histórias de Usuário: US08
+  - Léxicos: L04
+  - Introspecção: INT14
+  - Casos de Uso: UC03
+  - Cenários: C05, C13
+- Elos:
+  - C05 representa INT14
+  - C13 representa INT14
+  - L04 representa INT14
+  - UC03 representa C05 e C13
+  - E2 representa INT14
+  - US08 representa E2
+
+#### EF07
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E1
+  - Histórias de Usuário: US09
+  - Introspecção: INT03
+- Elos:
+  - E1 representa INT03
+  - US09 representa E1
+
+#### EF08
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E3
+  - Histórias de Usuário: US10
+- Elos:
+  - US10 representa E3
+
+
+#### EF09
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E3
+  - Histórias de Usuário: US11
+  - Storytelling: ST2
+  - Introspecção: INT05
+  - Glossário: GLO04
+  - Entrevista: ENT04
+  - Cenários: C06
+- Elos:
+  - ST2 depende de um recurso provido por ENT04
+  - C06 representa INT05, GLO04, ENT04 e ST2
+  - E3 representa INT05, GLO04, ENT04 e ST2
+  - US1 representa 1E3
+
+#### EF10
+
+- Categoria: Desenvolviumento
+
+- Elementos Rastreáveis:
+  - Épicos: E3
+  - Histórias de Usuário: US12
+  - Brainstorming: B10
+  - Cenários: C10
+- Elos:
+  - C10 representa B10
+  - E3 representa B10
+  - US12 representa E3
+
+#### EF11
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E4
+  - Histórias de Usuário: US05
+  - Entrevista: ENT02
+- Elos:
+  - E4 representa ENT02
+  - US05 representa E4
+
+#### EF12
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E4
+  - Histórias de Usuário: US05
+  - Storytelling: ST04
+- Elos:
+  - E4 representa ST04
+  - US05 representa E4
+
+#### EF13
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E4
+  - Histórias de Usuário: US13
+  - Storytelling: ST06
+  - Glossário: GL006
+  - Cenários: C09
+- Elos:
+  - C09 representa ST06 e GLO06
+  - E4 representa ST06 e GLO06
+  - US13 representa E4
+
+#### EF14
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Épicos: E4
+  - Histórias de Usuário: US14
+  - Brainstorming: B19
+  - Glossário: GLO05
+  - Entrevista: ENT07
+- Elos:
+  - E4 representa B19, GLO05 e ENT07
+  - US14 representa E4
+
 ### Elos não funcionais
+
+#### ENF01
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Introspecção: INT10
+  - Storytelling: ST07
+- Elos:
+  - ST07 agrega INT10
+
+#### ENF02
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Brainstorming: B20
+  - Entrevista: ENT08
+- Elos:
+  - B20 agrega ENT08
+
+#### ENF03
+
+- Categoria: Desenvolvimento
+
+- Elementos Rastreáveis:
+  - Brainstorming: B24
+  - Glossário: GLO02
+  - Storytelling: ST05
+  - Entrevista: ENT06
+- Elos:
+  - ST05 depende de recursos providos por ENT06
+
 
 ## Bibliografia
 
@@ -961,3 +1211,4 @@ bom entendimento dos tópicos abaixo:
 | ------ | ---------- | ------------------------ | ----------------------- | ------------------- |
 | `1.0`  | 26/06/2023 | Criação do documento     | João, Leonardo e Mylena | Ana, Beatriz E Kauã |
 | `1.1`  | 27/06/2023 | Atualização do documento | João, Leonardo e Mylena | Ana, Beatriz E Kauã |
+|`1.2`|28/06/2023|Inserção dos elos|João, Leonardo e Mylena|Ana, Beatriz E Kauã|
