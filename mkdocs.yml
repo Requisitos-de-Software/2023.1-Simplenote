@@ -93,6 +93,9 @@ nav:
     - Rich Picture: pré-rastreabilidade/rich_picture.md
     - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
     - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
+  - Pós-rastreabilidade:
+    - Forward-From: pos-rastreabilidade/Forward-From.md
+    - Backward-From: pos-rastreabilidade/backward-from.md
 
   - Análises (V&V):
     - Verificação:
@@ -161,10 +164,7 @@ nav:
     - Validação: 
       - Protótipo: analise/validacao/prototipo.md
       - Comprovação informal: analise/validacao/comprovacao_informal.md
-  
-  - Pós-rastreabilidade:
-    - Forward-From: pos-rastreabilidade/Forward-From.md
-    - Backward-From: pos-rastreabilidade/backward-from.md
+
   
 
 
