@@ -27,22 +27,21 @@ bom entendimento dos tópicos abaixo:
 
   | Legenda | Artefato |
   | ------- | ------------------------- |
-  | E | Épico |
-  | P | Personas |
-  | US | Histórias de usuário |
-  | ST | Storytelling |
-  | UC | Casos de Uso |
-  | C | Cenários |
-  | L | Léxico |
-  | ES | Especificação Suplementar |
-  | INT | Introspecção |
-  | Q | Questionário |
-  | GLO | Glossário |
   | B | Brainstorming |
+  | C | Cenários |
+  | E | Épico |
   | ENT | Entrevista |
+  | ES | Especificação Suplementar |
+  | GLO | Glossário |
+  | INT | Introspecção |
+  | L | Léxico |
+  | P | Personas |
+  | Q | Questionário |
   | RF | Requisitos Funcionais |
   | RNF | Requisitos não Funcionais |
-
+  | ST | Storytelling |
+  | UC | Casos de Uso |
+  | US | Histórias de usuário |
 </center>
 
 <div style="text-align: center">
