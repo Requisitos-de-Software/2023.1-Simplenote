@@ -57,7 +57,7 @@ extra:
     link: https://github.com/Requisitos-de-Software/2023.1-Simplenote
 
 nav:
-  - Home: index.md
+  - Teste: index.md
   - Atas: atas.md
   - Entregas: entregas.md
   - Elicitação:
