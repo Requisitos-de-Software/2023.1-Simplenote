@@ -1,5 +1,7 @@
 # Backward-From
+
 ## Introdução
+
 De acordo com o livro "Requirements Engineering Fundamentals"[²](#ancora2) de Klaus Pohl e Chris Rupp, rastreabilidade
 de requisitos é a capacidade de traçar rastros de requisitos durante toda a vida de um software.
 Sendo assim, temos 4 formas de acompanhar a vida de cada requisito:
@@ -15,43 +17,48 @@ aplicativo Simplenote. Desta maneira, é importante
 salientar que a tecnica tem como objetivo ligar os requisitos a artefatos de desenho e implementação[³](#ancora3).
 
 ## Metodologia
+
 Para a realização desse artefato, considerou-se o meta-modelo de Toranzo[³](#ancora3) que é composto por 4 categorias de informação:
-- Ambiental: Trata 
-- Organizacional:
-- Gerencial:
-- Desenvolvimento:
+
+- Ambiental: Informações provenientes do ambiente em que a organização opera
+- Organizacional: Informações relacionadas à identidade e direcionamento da organização.
+- Gerencial: Dados relevantes para a gestão do projeto.
+- Desenvolvimento: Dados relacionados aos diferentes artefatos produzidos durante o processo de desenvolvimento.
 
 Além dessas categorias, os elos entre os requisitos são divididos entre:
-- Satisfação:
-- Recurso:
-- Responsabilidade:
-- Representação
-- Alocado:
-- Agregação:
+
+- Satisfação: A classe "Origem" possui dependência de satisfação com a classe "Destino".
+- Recurso: A classe "Origem" possui uma dependência de recurso com a classe "Destino".
+- Responsabilidade: Registra a participação, responsabilidade e ação de pessoas em relação aos artefatos.
+- Representação: Captura a representação ou modelagem dos requisitos em linguagens alternativas.
+- Alocado: A classe "Origem" está relacionada à classe "Destino", que representa um subsistema.
+- Agregação: Indica “composição” de elementos.
+
 
 ## Mapeamento
+
 Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o
 bom entendimento dos tópicos abaixo:
 
 <center>
 
-  | Legenda | Artefato                  |
-  | ------- | ------------------------- |
-  | E       | Épico                     |
-  | P       | Personas                  |
-  | US      | Histórias de usuário      |
-  | ST      | Storytelling              |
-  | UC      | Casos de Uso              |
-  | C       | Cenários                  |
-  | L       | Léxico                    |
-  | ES      | Especificação Suplementar |
-  | INT     | Introspecção              |
-  | Q       | Questionário              |
-  | GLO     | Glossário                 |
-  | B       | Brainstorming             |
-  | ENT     | Entrevista                |
-  | RF      | Requisitos Funcionais     |
-  | RNF     | Requisitos não Funcionais |
+| Legenda | Artefato                  |
+| ------- | ------------------------- |
+| E       | Épico                     |
+| P       | Personas                  |
+| US      | Histórias de usuário      |
+| ST      | Storytelling              |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
+| INT     | Introspecção              |
+| Q       | Questionário              |
+| GLO     | Glossário                 |
+| B       | Brainstorming             |
+| ENT     | Entrevista                |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
 
 </center>
 
@@ -60,16 +67,6 @@ bom entendimento dos tópicos abaixo:
 </div>
 
 ### Requisitos funcionais
-
-(o Kaua pediu pra fazer tudo em toggle, mas eu achei feio pra krl, toma o link pro que o povo do lichess fez pq eu queria deixar esse esqueleto pronto o mais rápido possivel, basicamente tem que pegar TODOS os requisitos, dividir entre funcionais e não, e atribuir tanto origem quanto um elo a ele)
-(o foda e que parece q os grupos passados fizeram errado dnv, pq os elos são basicamente o mesmo codigo do requisito com uma tag a mais no final do doc.
-Mas assim, isso aqui parece ser mais extenso do que dificil)
-
-(R/Kaua- é melhor fazer em toggle pra ficar mais bonito na gitpage, por mais que seja mais dificil, é melhor pro produto final)
-
-https://requisitos-de-software.github.io/2022.2-Lichess/posrastreabilidade/backward/#introducao
-
-https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/backward-form/#1-introducao
 
 <details>
   <summary>RF01 - Escrever uma nota</summary>
@@ -84,7 +81,14 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L06</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC01</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C01</a>
+        </td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -111,7 +115,10 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT06</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C01</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -120,7 +127,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
 
@@ -139,7 +145,13 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US03</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C04</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -148,7 +160,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
 
@@ -167,7 +178,12 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US07</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L11</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT02</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B03</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C02</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -176,7 +192,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
 
@@ -195,7 +210,11 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US04</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L08</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -204,7 +223,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
 
@@ -223,7 +241,12 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E2</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US08</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L04</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT14</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC03</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C05/C13</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -232,7 +255,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
 
@@ -251,7 +273,9 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td><</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US09</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -260,7 +284,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
 
@@ -279,7 +302,8 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US10</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -306,7 +330,13 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US11</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST2</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT05</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO04</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT04</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C06</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -315,7 +345,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </tr>
       
   </table>
-
 
   <p>Tabela 10: Requisito funcional 9 (Fonte: Autores, 2023).</p>
 
@@ -331,10 +360,12 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
         <th>Referência</th>
       </tr>
     </thead>
-    <>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US12</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B10</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C10</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -362,7 +393,9 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT02</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -389,7 +422,9 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST04</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -416,7 +451,11 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US13</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST06</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO06</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -443,7 +482,11 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     <tbody>
       <tr>
         <td>Origem</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>
+        <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a></td>
       </tr>
       <tr>
         <td>Elo</td>
@@ -531,7 +574,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
     
   </table>
 
-
   <p> Tabela 18: Requisito não-funcional 3 (Fonte: Autores, 2023).</p>
 
 </details>
@@ -555,7 +597,6 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
       </td>
     </tr>
   </table>
-
 
   <p> Tabela 19: Requisito não-funcional 4 (Fonte: Autores, 2023).</p>
 
@@ -903,16 +944,16 @@ https://requisitos-de-software.github.io/2022.2-LinkedIn/pos-rastreabilidade/bac
 ### Elos não funcionais
 
 ## Bibliografia
+
 > [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019. Acessado em: 23/06/2023 </br>
 >
 > [2] Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em
-[Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). Acesso em 23 de
-jun de 2023 </br>
+> [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). Acesso em 23 de
+> jun de 2023 </br>
 >
 > [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em
-[Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf ). Acesso em 23 de
-jun de 2023</br>
-
+> [Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf). Acesso em 23 de
+> jun de 2023</br>
 
 ### Histórico de versão
 
