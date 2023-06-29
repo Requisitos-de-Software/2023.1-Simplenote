@@ -7,12 +7,43 @@ e na rastreabilidade [_Backward-from_](pos-rastreabilidade/backward_from.md) atr
 ## 2. Metodologia
 A abordagem utilizada envolve a criação de uma tabela com 5 colunas, conforme descritas abaixo, que têm o objetivo de apresentar os dados do requisito de forma estruturada e resumida.
 
-  Colunas a serem incluídas na tabela de rastreabilidade:
+### Colunas a serem incluídas na tabela de rastreabilidade:
 - ID: Identificação do requisito;
 - Descrição: Breve explicação do requisito;
 - Origem: Método que o requisito foi elicitado;
 - Artefatos: Documentos/Artefatos relacionados ao requisito;
 - Implementação: Descreve o status de implementação do requisito após a conclusão do projeto.
+
+### Mapeamento
+
+Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o
+bom entendimento dos tópicos abaixo:
+
+<center>
+
+| Legenda | Artefato                  |
+| ------- | ------------------------- |
+| E       | Épico                     |
+| P       | Personas                  |
+| US      | Histórias de usuário      |
+| ST      | Storytelling              |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
+| INT     | Introspecção              |
+| Q       | Questionário              |
+| GLO     | Glossário                 |
+| B       | Brainstorming             |
+| ENT     | Entrevista                |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
+
+</center>
+
+<div style="text-align: center">
+  <p> Tabela 1: Sigla de cada etapa (Fonte: autor, 2023).</p>
+</div>
 
 ## 3. Matriz Geral
 A matriz geral pode ser observada na _Tabela 1_ a seguir.
