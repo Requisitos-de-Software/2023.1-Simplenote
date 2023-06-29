@@ -96,6 +96,7 @@ nav:
   - Pós-rastreabilidade:
     - Forward-From: pos-rastreabilidade/Forward-From.md
     - Backward-From: pos-rastreabilidade/backward-from.md
+    - Matriz: pos-rastreabilidade/matriz.md
   - Análises (V&V):
     - Verificação:
       - Verificação - Grupo 6:
