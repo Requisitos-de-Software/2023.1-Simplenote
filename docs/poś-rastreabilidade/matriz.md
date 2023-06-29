@@ -34,6 +34,8 @@ A matriz geral pode ser observada na _Tabela 1_ a seguir.
 | RF13 | Baixar cópia de uma nota | [Storytelling](../elicitacao/storytelling.md)/[Glossário](../elicitacao/glossario.md) | [E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) [US13](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/) [ST06](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/) [GLO06](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) [C09](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/) | [Implementado](https://drive.google.com/file/d/1Uoh7bTqas_D2VmTzhlEFCsnFdPa_dYCx/preview) |
 | RF14 | Salvar notas automaticamente | [Entrevista](../elicitacao/entrevista.md)/[Glossário](../elicitacao/glossario.md)/[Brainstorming](../elicitacao/brainstorming.md) | [E4](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) [US14](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/) [B19](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) [GLO05](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) [ENT07](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) | [Implementado](https://drive.google.com/file/d/1Uoh7bTqas_D2VmTzhlEFCsnFdPa_dYCx/preview) |
 
+Tabela 1: Matriz-Geral de Rastreabilidade (Fonte: autor, 2023).
+
 ## Bibliografia
 
 > [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019 </br>
@@ -42,6 +44,7 @@ A matriz geral pode ser observada na _Tabela 1_ a seguir.
 > [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). </br>
 > [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em
 > [Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf). </br>
+
 
 ### Histórico de versão
 
