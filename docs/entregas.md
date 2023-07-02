@@ -95,6 +95,35 @@ A primeira versão da quinta entrega buscou-se realizar a verificação dos arte
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote5.1)
 
+## Entrega  5.2  (22/06/2023)
+### 📖 Descrição: 
+Na segunda versão da quinta release buscou-se realizar a verificação e validação dos artefactos do nosso grupo.
+### ⚙️ Documentação
+- Verificação do grupo 5
+- Validação do grupo 5
+- Protótipo
+
+
+### 🔗 Links
+[Gravação](https://www.youtube.com/watch?v=CEK9yAVYg7g)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote5.2)
+
+## Entrega  6  (29/06/2023)
+### 📖 Descrição: 
+Na sexta entrega buscou-se produzir os artefactos de pos-rastreabilidade
+### ⚙️ Documentação
+- Backward-from
+- Forward-From
+- Matriz Geral
+
+
+### 🔗 Links
+[Gravação](https://www.youtube.com/watch?v=jzbskGjNgxk)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote6)
+
+
 
 ## Histórico de versão
 
@@ -104,6 +133,7 @@ A primeira versão da quinta entrega buscou-se realizar a verificação dos arte
 | `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
 | `3.0`| 25/05/2023| Entrega 3 e 4| Mylena | Todos
 | `4.0`| 17/06/2023| Entrega 5.1| Mylena | Todos
+| `5.0`| 02/07/2023| Entrega 5.2 e entrega 6| Mylena | Todos
 
 
 
