@@ -54,21 +54,6 @@ Na terceira release buscou-se cobrir a parte de modelagem de requisitos.
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote)
 
-## Entrega 4 (24/05/2023)
-### 📖 Descrição: 
-Na Quarta entrega buscou-se cobrir a parte de modelagem de requisitos ágeis.
-### ⚙️ Documentação
-- Backlog
-- Histórias de usuário
-- NFR Framework
-
-### 🔗 Links
-[Gravação](hhttps://www.youtube.com/watch?v=aXE6jrN7GOM)
-
-[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote4)
-
-
-
 ## Entrega  4  (24/05/2023)
 ### 📖 Descrição: 
 Na quarta release buscou-se cobrir a parte de modelagem de requisitos ágeis
