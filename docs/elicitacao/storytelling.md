@@ -42,10 +42,13 @@ Outro dia, Valentina repara no desenho do plano de fundo do tablet de Clara e pe
 
 ## Elicitação de Requisitos
 
-Com base nas histórias criadas usando a técnica de storytelling, foi possível elicitar os seguintes requisitos:
+Com base nas histórias criadas usando a técnica de storytelling, foi possível elicitar os requisitos presentes na tabela 1:
+
+Os requisitos ST04 e ST06 foram elicitados mas não foram implementados na versão mais atual do aplicativo (03/07/2023)
 
 <center>
-
+<p align="center"> Tabela 1: Requisitos elicitados </p>
+  
 | Número | Requisito                                                                    | Classificação |
 | ------ | ---------------------------------------------------------------------------- | ------------- |
 | ST01   | Escrever notas em conjunto com outros usuários                               | RF            |
@@ -81,3 +84,4 @@ RNF: Requisito não funcional
 | ------ | ---------- | ------------------------------------ | ----------- | ----------- |
 | `1.0`  | 30/04/2023 | Criação do documento de Storytelling | Leonardo    | Ian         |
 | `1.1`  | 15/05/2023 | Ajustes Feedbacks entrega 2          | Ana Beatriz | Mylena      |
+| `2.0`  | 03/07/2023 | Ajustes entrega final                | Mylena      | Ana Beatriz |
