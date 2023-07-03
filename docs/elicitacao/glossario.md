@@ -39,9 +39,9 @@ Tabela 2: Requisitos Elicitados (Fonte: autor 2023)
 
 # Bibliografia
 
-[1] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
+> [1] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
 
-[2] Página [Help Center](https://simplenote.com/help/) do [Simplenote](https://app.simplenote.com), acesso em abril de 2023
+> [2] Página [Help Center](https://simplenote.com/help/) do [Simplenote](https://app.simplenote.com), acesso em abril de 2023
 
 ## Histórico de Versão
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |

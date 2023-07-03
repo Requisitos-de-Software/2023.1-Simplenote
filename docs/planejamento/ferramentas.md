@@ -26,7 +26,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 
 ## Bibliografia
 
-[1] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
+> [1] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
 
 ## Histórico de Versão
 

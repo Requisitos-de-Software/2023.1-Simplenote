@@ -1,7 +1,8 @@
 # Personas
 
 ## Introdução
-Neste documento, temos a exposição das personas criadas pelo grupo. Esta técnica consiste em criar personagens fictícios (personas) para realizar a técnica de roleplay (encenação) e, assim, obter mais requisitos para a aplicação. Essa técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona ao utilizar a aplicação. Temos a seguinte divisão de personas: </br>
+Neste documento, temos a exposição das personas criadas pelo grupo. Esta técnica consiste em criar personagens fictícios (personas) para realizar a técnica de roleplay (encenação) e, assim, obter mais requisitos para a aplicação. Essa técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona ao utilizar a aplicação. Temos a seguinte divisão de personas: 
+
 - Persona primária: é aquela para qual o programa foi feito e sempre está engajada com a aplicação.</br>
 - Persona secundária: é aquela que eventualmente utiliza a aplicação, normalmente sem muitas exigências.</br>
 - Anti-Persona: é aquela para a qual a aplicação não foi destinada.</br>
@@ -194,9 +195,9 @@ Ao coletar dados, é perceptível a existência de mais de um perfil predominant
 
 ## Bibliografia
 
-[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-[2] This Person Doest Not Exist. Acesso em: 09 de Abril de 2022.Disponível em: <https://this-person-does-not-exist.com/en> <br>
+> [2] This Person Doest Not Exist. Acesso em: 09 de Abril de 2022.Disponível em: <https://this-person-does-not-exist.com/en> <br>
 
 
 ## Histórico de Versão

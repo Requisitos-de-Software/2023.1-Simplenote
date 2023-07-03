@@ -20,17 +20,17 @@ Planilha 1: Checklist de Verificação - Grupo 6. (Fonte: autor, 2023).
 
 ## Referências Bibliobrágicas
 
-[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Slides Aula 23.
+> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Slides Aula 23.
 
-[2] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 27 mai. 2023
+> [2] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 27 mai. 2023
 
-[3] UNIVESP. Gerência e Qualidade de Software - Aula 06 - Técnica de revisão. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>. Acesso em: 2 jun. 2023
+> [3] UNIVESP. Gerência e Qualidade de Software - Aula 06 - Técnica de revisão. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>. Acesso em: 2 jun. 2023
 
-[4] BARROS, A. Aula 19: Apoio aos discentes: Análise de Requisitos: Verificação e Validação. YouTube, 8 abr. 2021. Disponível em: <https://www.youtube.com/watch?v=8wjdopWzTGc>. Acesso em: 2 jun. 2023
+> [4] BARROS, A. Aula 19: Apoio aos discentes: Análise de Requisitos: Verificação e Validação. YouTube, 8 abr. 2021. Disponível em: <https://www.youtube.com/watch?v=8wjdopWzTGc>. Acesso em: 2 jun. 2023
 
 ## Bibliografia
 
-Requisitos - Letterboxd. Disponível em: <https://requisitos-de-software.github.io/2023.1-Letterboxd/>. Acesso em: 27 mai. 2023.
+> Requisitos - Letterboxd. Disponível em: <https://requisitos-de-software.github.io/2023.1-Letterboxd/>. Acesso em: 27 mai. 2023.
 
 
 ## Histórico de Versão

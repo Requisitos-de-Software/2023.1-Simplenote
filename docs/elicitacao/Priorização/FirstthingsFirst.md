@@ -45,16 +45,19 @@ Para realizar a etapa de priorização, foi reunido todos os requisitos elicitad
 Em seguida, foi feito uma filtragem dos requisitos obtidos afim de que possa ter uma amostragem de dados mais consistênte e menos repetitiva. Após, foi montado uma tabela no excel nos quais foram inseridos os requisitos já filtrados e com seus respectivos códigos(podendo ser mais de um) além dos campos para os pesos de cada requisito e a sua prioridade final. Com a tabela em mãos, foram feitas duas reuniões, uma com o PO do projeto, e outra com a lider da equipe de desenvolvedores. Seguem as informações das mesmas:
 
 Reunião com o PO:
+
 - Nome: Bruno Henrique.
 - Dia e Horário: 18 de junho de 2023 às 21H;
 - Ambiente: Teams.
-- Link para a reunião: https://youtu.be/D4a7vA9LOOg
+- Link para a reunião: <https://youtu.be/D4a7vA9LOOg>
 
+<br>
 Reunião com a lider da equipe de desenvolvimento:
+
 - Nome: Carla Araújo.
 - Dia e Horário: 19 de junho de 2023 às 14H;
 - Ambiente: Teams.
-- Link para a reunião: https://youtu.be/RKZUsCj00us
+- Link para a reunião: <https://youtu.be/RKZUsCj00us>
 
 Ao fim da reunião, foi ordenado a tabela com a prioridade dos requisitos em ordem crescente e aplicado um gradiente nas celulas relativas a esta informação de cada requisito.
 
@@ -62,7 +65,7 @@ Ao fim da reunião, foi ordenado a tabela com a prioridade dos requisitos em ord
 
 A planilha 1 mostra os resultados alcançados após a priorização dos requisitos: </br>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmDdYYUuEdBZfqWU2-2GBiffaU2Fhas8h2KMDUmtkTYc6B99i9V0BVxO0w4nTVIxdlap1tYpi52Y-_/pubhtml?gid=1831982803&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmDdYYUuEdBZfqWU2-2GBiffaU2Fhas8h2KMDUmtkTYc6B99i9V0BVxO0w4nTVIxdlap1tYpi52Y-_/pubhtml?gid=1831982803&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 
 <p align="center"> Planilha 1: Planilha de priorização FTF <br> Fonte: autores <br> Autores: João e Kauã </p>
 

@@ -43,7 +43,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 Nenhum problema crítico foi encontrado.
 
 ## Bibliografia
-[1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
 
 ## Histórico de Versão
 

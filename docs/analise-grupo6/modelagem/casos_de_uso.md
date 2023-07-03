@@ -66,8 +66,8 @@ Adicionar possíveis fluxos de exceção que podem ser encontrados nos casos de 
 
 
 ## Bibliografia
-[1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
-[1] “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Univerdade de Brasilia. Acesso em 2023.
+> [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
+> [2] “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Univerdade de Brasilia. Acesso em 2023.
 
 
 

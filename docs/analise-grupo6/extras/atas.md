@@ -50,9 +50,9 @@ Adicionar na página ao que se refere a reunião, por exemplo em vez de escrever
 
 ## Bibliografia
 
-[1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
+> [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
 
-[2] SILVA, Leonardo. Ata de Reunião: O Que É, Como Fazer e Modelo Pronto. [S. l.], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
+> [2] SILVA, Leonardo. Ata de Reunião: O Que É, Como Fazer e Modelo Pronto. [S. l.], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
 
 ## Histórico de Versão
 

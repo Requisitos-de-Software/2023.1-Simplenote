@@ -1,6 +1,7 @@
 # Histórias de Usuário
 ## Participantes
 Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
+
 |Nome|Cargo|
 |----|-----|
 |[Júlio César](https://github.com/JulioDinizN)|PO|
@@ -442,9 +443,11 @@ Em seguida, temos as histórias de usuário:
 Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que está disponivel [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às 21 horas,após a entrevista, foram feitas as alterações necessárias.
 
 ### Bibliografia
-> [1] https://www.atlassian.com/br/agile/project-management/user-stories </br>
+
+> [1] ATLASSIAN. Histórias de usuários | Exemplos e template | Atlassian. Disponível em: <https://www.atlassian.com/br/agile/project-management/user-stories>. Acesso em: 13 maio 2023.
 >
-> [2] https://www.youtube.com/watch?v=pLJ3LxR292w
+> [2] DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 11 jul. 2022. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>. Acesso em: 13 maio 2023
+
 
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)

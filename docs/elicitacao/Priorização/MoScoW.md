@@ -97,7 +97,7 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 
 # Referências Bibliográficas
 
-[1] SERANO, Milene. Requisitos - Aula 07. Disponível em: <https://aprender3.com>. Acesso em: 26 abr. 2023.
+> [1] SERANO, Milene. Requisitos - Aula 07. Disponível em: <https://aprender3.com>. Acesso em: 26 abr. 2023.
 
 # Bibliografia
 

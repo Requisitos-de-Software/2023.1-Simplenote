@@ -114,9 +114,9 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 ## Bibliografia
 
-[1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
-[2] Repositório de disciplina: [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/lexico/)
+> [2] Repositório de disciplina: [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/lexico/)
 
 ## Histórico de Versão
 

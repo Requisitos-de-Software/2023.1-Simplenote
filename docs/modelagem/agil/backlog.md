@@ -379,11 +379,11 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 
 ## Referências Bibliográficas
 
-[1] https://www.atlassian.com/br/agile/project-management/user-stories 
+> [1] ATLASSIAN. Histórias de usuários | Exemplos e template | Atlassian. Disponível em: <https://www.atlassian.com/br/agile/project-management/user-stories>. Acesso em: 13 maio 2023.
+>
+> [2] DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 11 jul. 2022. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>. Acesso em: 13 maio 2023
 
-[2] https://www.youtube.com/watch?v=pLJ3LxR292w
-
-[3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
+> [3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
 
 
 

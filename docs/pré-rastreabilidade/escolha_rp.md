@@ -22,9 +22,9 @@ Mylena Angélica | [Ribon](https://github.com/Requisitos-de-Software/2023.1-Simp
   
 ## Referências
 
-[1] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
+> [1] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
-[2] Slides da aula do professor André.
+> [2] Slides da aula do professor André.
 
 ## Histórico de versão
 

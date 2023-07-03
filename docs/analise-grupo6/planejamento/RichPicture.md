@@ -46,9 +46,9 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 Adicionar uma explicação dos simbolos utilizados no diagrama.
 
 ## Bibliografia
-[1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
+> [1] Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures) Disponivel: [Aprender](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso: 09 de junho de 2023.
 
-[2] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
+> [2] MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
 
 ## Histórico de Versão

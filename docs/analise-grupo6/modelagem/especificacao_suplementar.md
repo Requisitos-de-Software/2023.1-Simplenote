@@ -57,7 +57,7 @@ Não contém.
 Apresentar os sistemas operacionais que o sistema funcionará.</br>
 Adicionar no documento um tópico abordando a respeito das restrições de design do aplicativo.</br>
 ## Bibliografia
-[1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
 
 ## Histórico de Versão
 

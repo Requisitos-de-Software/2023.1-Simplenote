@@ -91,6 +91,8 @@ das tarefas que deverá realizar utilizando o produto. [¹](ancora#1)
  Com base nas respostas do questionario, podemos definir o perfil de usuário como como:
 </p>
 
+<center>
+
 |Especificação      | Perfil                                  | 
 |-------------      |---------------------                    |
 | Idade             | Entre 17 a 59 anos                      |  
@@ -98,6 +100,8 @@ das tarefas que deverá realizar utilizando o produto. [¹](ancora#1)
 | Experiência       | Estão entre intermediário e experiente  |
 | Atitudes          | Tecnófilo                               | 
 | Tarefas primárias | Anotar, Compartilhar notas e fazer trabalhos              |
+
+</center>
 
 <p align="center"> Tabela 1 - Perfil do usuário. <br> Autora: Mylena </p>
 

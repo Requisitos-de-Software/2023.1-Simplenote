@@ -55,7 +55,7 @@ Apenas sugerir para que adicionem legenda na tabela de [Cronograma](https://requ
 
 # Bibliografia
 
-VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
 
 
 ## Histórico de Versão

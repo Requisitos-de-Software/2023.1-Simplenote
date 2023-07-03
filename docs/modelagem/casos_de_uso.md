@@ -147,9 +147,9 @@ Especificação dos casos de uso identificados:
 
 ## Bibliografia
 
-[1] LUCIDCHART - Diagrama de Caso de Uso UML - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml.</br>
-[2] UML DIAGRAMS - Use Case Diagrams - https://www.uml-diagrams.org/use-case-diagrams.html <br>
-[3] IBM. Diagramas de Caso de Uso. IBM. Disponível em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case
+> [1] LUCIDCHART - Diagrama de Caso de Uso UML - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml.</br>
+> [2] UML DIAGRAMS - Use Case Diagrams - https://www.uml-diagrams.org/use-case-diagrams.html <br>
+> [3] IBM. Diagramas de Caso de Uso. IBM. Disponível em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case
 
 ## Histórico de versão
 

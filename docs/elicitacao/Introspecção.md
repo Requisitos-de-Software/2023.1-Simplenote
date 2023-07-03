@@ -51,9 +51,9 @@ RNF -> Requisito não funcional
 </p>
   
 ### Bibliografia
-<p>
-[1] Oxford Languages . Disponível em: https://languages.oup.com/google-dictionary-pt/
-</p>
+
+> [1] Oxford Languages . Disponível em: https://languages.oup.com/google-dictionary-pt/
+
 
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)

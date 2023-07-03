@@ -69,11 +69,11 @@ RNF: Requisito não funcional
 
 ## Bibliografia
 
-[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-[2] Arquivo de Storytelling do trabalho do Lichess da disciplina de Requisitos de Software, 2022-2. Disponível em <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/storytelling.md>. Acesso em 04/2023.
+> [2] Arquivo de Storytelling do trabalho do Lichess da disciplina de Requisitos de Software, 2022-2. Disponível em <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/storytelling.md>. Acesso em 04/2023.
 
-[3] Arquivo de Personas do trabalho Simplenote da disciplina de Requisitos de Software, 2023-1. Disponível em <https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md> Acesso em 04/2023.
+> [3] Arquivo de Personas do trabalho Simplenote da disciplina de Requisitos de Software, 2023-1. Disponível em <https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md> Acesso em 04/2023.
 
 ## Histórico de Versão
 

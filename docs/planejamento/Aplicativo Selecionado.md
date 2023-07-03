@@ -40,15 +40,13 @@ O Simplenote foi desenvolvido pela Simperium em 2008 e teve uma versão premium 
 A principal razão para escolher o Simplenote foi o fato de ser um aplicativo [open source](https://simplenote.com/blog/?s=open%20source), o que nos permitiria utilizá-lo sem preocupações na realização do trabalho. Além disso, trata-se de um aplicativo de fácil uso e bastante acessível, disponível em diversos países e com um grande número de usuários. Por fim, a característica de ser um aplicativo multiplataforma, disponível em iOS, Android, Linux, Windows e navegadores, também foi um fator determinante na nossa escolha.
 
 ### Bibliografia
-<p>
-[1] Simplenote. Disponível em: https://simplenote.com/ 
-</p>
-<p>
-[2] iOS, Android, and macOS Apps Now Open Source. Disponivel em: https://simplenote.com/blog/?s=open%20source
-</p>
-<p>
-[3] Termo de Uso. Disponivel em: https://simplenote.com/terms/    
-</p>
+
+> [1] Simplenote. Disponível em: https://simplenote.com/ 
+
+> [2] iOS, Android, and macOS Apps Now Open Source. Disponivel em: https://simplenote.com/blog/?s=open%20source
+
+> [3] Termo de Uso. Disponivel em: https://simplenote.com/terms/    
+
 
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)

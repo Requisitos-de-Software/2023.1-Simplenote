@@ -56,9 +56,9 @@ Outra sugestão é trazer mais informações sobre o storytelling na introduçã
 
 ## Bibliografia
 
-[1] COOPER, Alan et al. About Face: The Essentials of Interaction Design. 4. ed. Indianapolis: John Wiley & Sons, Inc., 2014. p. 102-106
+> [1] COOPER, Alan et al. About Face: The Essentials of Interaction Design. 4. ed. Indianapolis: John Wiley & Sons, Inc., 2014. p. 102-106
 
-[2] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
+> [2] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
 
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor | Revisor |

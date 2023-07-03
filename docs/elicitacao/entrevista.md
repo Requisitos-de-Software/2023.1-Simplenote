@@ -256,7 +256,7 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 
 # Bibliografia
 
-VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
 
 ### Histórico de versão
 
