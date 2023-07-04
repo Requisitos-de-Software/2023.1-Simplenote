@@ -12,13 +12,14 @@ Neste documento, temos a exposição das personas criadas pelo grupo. Esta técn
 Ao criar personas para representar os possíveis usuários do Simplenote, seguimos as diretrizes de Courage e Baxter, que destacam a necessidade de um conjunto específico de personas para cada projetoe recomental ter entre 3 a 12 personas. No caso do Simplenote, após analisar as necessidades do projeto, foram desenvolvidas 3 personas e 1 antipersona. Todas as imagens utilizadas neste documento foram obtidas do site "[This Person Does Not Exist](https://this-person-does-not-exist.com/en)", que utiliza inteligência artificial para gerar imagens que não possuem direitos autorais.
 
 ## Perfil de Usuário
-Para que sejam definidas as personas, primeiramente é necessário definir o perfil de usuário. Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).</br>
+Para que sejam definidas as personas, primeiramente é necessário definir o perfil de usuário. Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021)[1].</br>
 
 Com base nas informações obtidas por meio da técnica de coleta de dados por [questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/), é factível criar perfis de usuários que compartilham características similares.</br>
 
 Perfil de usuário:
 
 Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino médio, ensino superior ou têm ambos completos. Eles estão em busca de soluções para organizar suas rotinas e aumentar sua produtividade nos estudos ou no trabalho.
+Nas tabelas 1,2,3 e 4 é possível observar a construção do perfil das personas.
 
 </br>
 
@@ -153,7 +154,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <div align="center">
 
-<img src="../img/seu-nene.png" width="350" height="300">
+<img src="../img/seu-nene-2.png" width="350" height="300">
 </div>
 <div align="center">
 <figcaption align='center'>
@@ -192,6 +193,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 ## Conclusão
 
 Ao coletar dados, é perceptível a existência de mais de um perfil predominante entre os clientes, o que leva à criação de mais de uma persona. Ter muitas personas pode tirar o foco das estratégias e conteúdos. Então, escolhemos uma quantidade pequena de personas, mas com características distintas para que se perceba as diferenças entre elas e não fique sobrecarregado de personas.
+Os requisitos elicitados por meio das personas foram utilizados em diversos artefatos como: priorização, validação.
 
 ## Bibliografia
 
@@ -207,4 +209,5 @@ Ao coletar dados, é perceptível a existência de mais de um perfil predominant
 | `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas.                                             |Kauã        | João |
 | `2.0`  | 09/04/2023 | Atualização de todas as personas e criação do perfil de usuário.                                             |Ian        | Mylena |
 | `2.1`  | 01/05/2023 | Add ajustes de entrega                                             |Mylena      | Ian|
+| `3.0`  | 03/07/2023 | Ajustes entrega final                                            |Mylena      | Beatriz|
 
