@@ -1,4 +1,4 @@
-# Verificação - Documento
+# Verificação - NFR
 
 ## Introdução
 Este documento é destinado para a revisão da versão 1.0 do artefato [NFR](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/NFRFramework/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
@@ -48,7 +48,7 @@ Não foram identificados problemas em relação ao domínio do conteúdo da disc
 - Colocar um breve texto explicando sobre a diferença do NFR sem propagação e com propagação.
 
 ## Bibliografia
-> [1] [NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados](https://aprender3.unb.br/pluginfile.php/2523130/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+> [1] NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados
 
 ## Histórico de Versão
 
