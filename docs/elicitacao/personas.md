@@ -96,7 +96,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <div style="text-align: center">
 <p>Tabela 1: Persona 1 - Enzo Gabriel</p>
-<p>Fonte: Ian da Costa</p>
+<p>Fonte: Autor (2023)</p>
 </div>
 
 
@@ -159,7 +159,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <p>Tabela 2: Persona 2 - Alicia Kane</p>
 
-<p>Fonte: Ian da Costa</p>
+<p>Fonte: Autor (2023)</p>
 
 </div>
 
@@ -220,7 +220,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <p>Tabela 3: Persona 3 - Valentina Becker</p>
 
-<p>Fonte: Autor</p>
+<p>Fonte: Autor (2023)</p>
 
 </div>
 
@@ -230,7 +230,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 
 
-### Walter Assis da Gama (Seu Nenê) - Anti-persona
+### Walter Assis (Seu Nenê) - Anti-persona
 
 
 
@@ -284,7 +284,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <p>Tabela 4: Persona 4 - Walter Assis (Seu Nenê)</p>
 
-<p>Fonte: Autor</p>
+<p>Fonte: Autor (2023)</p>
 
 </div>
 
