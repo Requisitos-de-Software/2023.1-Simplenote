@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre as [Ferramentas](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Planejamento/ferramentas.md) utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
+Neste documento, será realizado a verificação do artefato sobre as [Ferramentas](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/ferramentas/) utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
 <br> Foi feita a vericação da versão 3.0 do artefato no dia 20/05/2023.
 
 ## Metodologia
