@@ -60,6 +60,12 @@ nav:
   - Home: index.md
   - Atas: atas.md
   - Entregas: entregas.md
+  - Planejamento:
+    - Cronograma pretendido: planejamento/cronograma.md
+    - Cronograma realizado: planejamento/cronograma_realizado.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Metodologias: planejamento/metodologias.md
+    - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
   - Elicitação:
     - Técnicas Planejadas:
       - StoryTelling: elicitacao/storytelling.md
@@ -83,12 +89,6 @@ nav:
     - Cenários: modelagem/cenários.md
     - Casos de Uso: modelagem/casos_de_uso.md
     - Especificação Suplementar: modelagem/especificacao_suplementar.md
-  - Planejamento:
-    - Cronograma pretendido: planejamento/cronograma.md
-    - Cronograma realizado: planejamento/cronograma_realizado.md
-    - Ferramentas: planejamento/ferramentas.md
-    - Metodologias: planejamento/metodologias.md
-    - Aplicativo Selecionado: planejamento/Aplicativo Selecionado.md
   - Pré-rastreabilidade:
     - Rich Picture: pré-rastreabilidade/rich_picture.md
     - Escolha do aplicativo: pré-rastreabilidade/escolha_rp.md
