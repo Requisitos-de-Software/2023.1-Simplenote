@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Neste documento, temos a exposição das personas criadas pelo grupo. Esta técnica consiste em criar personagens fictícios (personas) para realizar a técnica de roleplay (encenação) e, assim, obter mais requisitos para a aplicação. Essa técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona ao utilizar a aplicação. Temos a seguinte divisão de personas: </br>
+Neste documento, temos a exposição das personas criadas pelo grupo. Esta técnica consiste em criar personagens fictícios (personas) para realizar a técnica de roleplay (encenação) e, assim, obter mais requisitos para a aplicação. As personas elaboradas nesse documento serão fundamentais para a elaboração do documento de Storytelling, visto que serão os protagonistas das narrativas. Essa técnica é extremamente útil, pois permite imaginar as limitações e necessidades de uma persona ao utilizar a aplicação. Temos a seguinte divisão de personas: </br>
 
 - Persona primária: é aquela para qual o programa foi feito e sempre está engajada com a aplicação.</br>
 
@@ -80,8 +80,8 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Localidade**            |        São Paulo, SP, Brasil.       |   
 | **Experiência**       | Tecnófilo, intermediário     |
 | **Particularidades**            |        Palmeirense e Usuário de discord.       |    
-| **Escolaridade**            |        Graduado em Física e cursando mestrado também em física       |    
-| **Profissão**            |        Professor de ensino médio       |   
+| **Escolaridade**            |        Graduado em Física e cursando mestrado, também em física       |    
+| **Profissão**            |        Professor de ensino médio  e pesquisador     |   
 | **História**            |       Enzo Gabriel sempre foi fascinado por matemática desde criança e quando entrou no ensino médio se apaixonou por física, da qual seguiu graduação na Universidade de São Paulo. Atualmente trabalha como professor de ensino médio e continua sua carreira acadêmica.     |    
 | **Objetivos**       | Compartilhar conhecimento com seus alunos atraavés do Simplenote e taambém compartilhar anotações das aulas de mestrado e de sua pesquisa com seus colegas de faculdade |
 | **Habilidades**     | Muito bom em física e matemática, além de ter uma boa oratória. |
@@ -140,18 +140,18 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Gênero**       | Feminino.      |
 | **Localidade**            |        Londres, Inglaterra.       |      
 | **Experiência**       | Tecnófila, especialista    |
-| **Particularidades**            |        Ativista social e Universitária de ciências físicas em Cambridge.    |    
+| **Particularidades**            |        Ativista social e Universitária de ciências sociais em Cambridge.    |    
 | **Escolaridade**            |        Cursando o ensino superior.       |    
 | **Profissão**            |        Estudante e estagiária.   |   
-| **História**            | Alicia sempre foi apaixonada pela luta por direitos iguais e justiça social. Com dedicação, ela conseguiu ingressar na Universidade de Cambridge, onde estuda ciências físicas. Além disso, Alicia se dedica a ser uma ativista social comprometida e ajuda o máximo de pessoas que pode. Com sua determinação, ela busca mudar o mundo para melhor.   | 
+| **História**            | Alicia sempre foi apaixonada pela luta por direitos iguais e justiça social. Com dedicação, ela conseguiu ingressar na Universidade de Cambridge, onde estuda ciências sociais. Além disso, Alicia se dedica a ser uma ativista social comprometida e ajuda o máximo de pessoas que pode. Com sua determinação, ela busca mudar o mundo para melhor.   | 
 | **Objetivos**       | Conseguir com a ajuda do aplicativo, manter seus pensamentos organizados e focar em seus objetivos, mesmo enquanto enfrenta uma carga de trabalho pesada na universidade. |
 | **Habilidades**     | Forte senso de justiça social e habilidade de liderança e organização para planejar e executar projetos sociais  |
 | **Rotina**         | Pela manhã acorda, estuda até meio dia, almoça e pela tarde vai para o seu estágio, volta para casa e a noite, Alicia costuma relaxar fazendo atividades que lhe dão prazer, como ler livros, ouvir música ou assistir filmes. |
 | **Relacionamentos** | Conversa com seus amigos, pais e colegas de faculdade e estágio.   |
-| **Requisitos**      | Alicia gostaria de sincronização em nuvem, o app deve permitir que as notas sejam sincronizadas automaticamente em vários dispositivos do usuário, para que se possa acessá-las de onde estiver. |
+| **Requisitos**      | Alicia tem os seguintes pensamentos sobre a aplicação que precisa: </br> "Preciso que seja possivel sincronizar as notas de diferentes dispositivos" |
 | **Frequência** | Utiliza o aplicativo diariamente| 
-| **Necessidades** |Estudo, salvamento automático, organização|
-| **Expectativas**    | Deseja que o app seja compatível com diferentes sistemas operacionais, para que se possa usá-lo independentemente da plataforma que estiver usando. |
+| **Necessidades** |Estudo e organização|
+| **Expectativas**    | Alícia possui as seguintes expectativas ao usar o aplicativo: </br> "Espero conseguir organizar melhor minha rotina" </br> "Espero não perder prazos de entrega de trabalhos na faculdade" |
 
 
 
@@ -198,21 +198,21 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 |        Caracteristica       |  Resposta   |
 | :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Valentina Becker.    |
-| **Idade**            |          10 anos.     | 
+| **Idade**            |          17 anos.     | 
 | **Gênero**       | Feminino.      |
 | **Localidade**            |        Porto Alegre, Rio grande do Sul, Brasil.       |   
 | **Experiência**       | Tecnófila, novata   |
-| **Particularidades**            |        Gosta muito de desenhar e pintar   | **Escolaridade**            |        Cursando o ensino fundamental 1.      |    
+| **Particularidades**            |        Gosta muito de desenhar   | **Escolaridade**            |        Cursando o ensino médio.      |    
 | **Profissão**            |        Estudante.   |   
-| **História**            | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar  | 
-| **Objetivos**       | Apenas estudar e se divertir. |
+| **História**            | Valentina é filha de classe média-alta Porto alegrense, desde cedo foi matriculada em um curso particular de desenho, a qual se especializou e têm uma uma habilidade fantástica para desenhar. Entretanto ao entrar no ensino médio terminou o curso de desenho, mas continuou praaticando suas habilidades. | 
+| **Objetivos**       | Apenas estudar e aprimorar suas habilidades de desenho. |
 | **Habilidades**     | Capacidade alta de aprendizado artístico.  |
 | **Rotina**         | Ao acordar cedo, ela toma um café e segue para o cursinho de desenho, onde passa a manhã aprimorando suas habilidades. Após o término da aula, almoça rapidamente e segue para a escola, onde passa a tarde toda. Ao chegar em casa, assiste suas séries favoritas em seu tablet, janta e logo vai dormir.   |
-| **Relacionamentos** | Conversa com seus pais, secretária de casa e suas colegas de cursinho e escola.   |
-| **Requisitos**      | Valentina gostaria que o Simplenote tivesse um modo de escrita livre para que pudesse utilizar sua caneta touch para fazer seus desenhos. |
-| **Frequência** | Raramente utiliza o aplicativo|
-| **Necessidades** | Desenvolvimento de hobbie|
-| **Expectativas**    | Desenhar no aplicativo Simplenote. |
+| **Relacionamentos** | Conversa com seus pais, secretária de casa e suas colegas de escola.   |
+| **Requisitos**      | Valentina tem os seguintes pensamentos sobre a aplicação: </br> "Gostaria que pudesse desenhar com uma caneta touch em meu tablet e criar notas sobre os desenhos" </br> "Gostaria de compartilhar meus desenhos com meus amigos" |
+| **Frequência** | Utiliza o aplicativo de maneira regular, sendo entorno de duas vezes por semana|
+| **Necessidades** | Aprimoramento de hobbie|
+| **Expectativas**    | As expectativas de Valentina são: </br> "Espero aprimorar minhas habilidades de desenho" </br> "Espero criar artes para meus amigos colecionarem" |
 
 
 
@@ -220,7 +220,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <p>Tabela 3: Persona 3 - Valentina Becker</p>
 
-<p>Fonte: Ian da Costa</p>
+<p>Fonte: Autor</p>
 
 </div>
 
@@ -260,7 +260,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 |        Caracteristica       |  Resposta   |
 | :------------------ | ---------------------- |
-| **Nome**            | Walter Assis da Gama (Seu Nenê).    |
+| **Nome**            | Walter Assis (Seu Nenê).    |
 | **Idade**            |          70 anos.    | 
 | **Gênero**       | Masculino.      |
 | **Localidade**            |      São Cristóvão, Rio de Janeiro, Brasil.      |     
@@ -273,18 +273,18 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 | **Habilidades**     | Bastante força devido ao seu modo de vida.  |
 | **Rotina**         | Seu nenê é bastante ocupado apesar de sua idade, pela manhã ele faz a sua comida, pela tarde ele se dirige para a rua com a finalidade de encontrar algum serviço, ele volta para casa à noite a fim de descansar, ele dorme cedo, entre 20:00 e 21:30. |
 | **Relacionamentos** | Conversa com seus netos e seus amigos de bairro.   |
-| **Requisitos**      | Seu Nenê quer descansar quando chega em casa e se sente motivado a escrever sua história de vida para registrar seu passado, entretanto, ele precisa de facilidade. |
+| **Requisitos**      | Seu Nenê tem os seguintes pensamentos ao pensar sobre como escrever sobre sua história de vida: </br> "Quero escrever em papel" </br> "Preciso que meus registros durem por muitos anos" |
 | **Frequência** | Nunca utiliza| 
-| **Necessidades** | Descansar|
-| **Expectativas**    | Seu Nenê quer viver uma vida feliz até o final de sua existência. |
+| **Necessidades** | Escrever sobre sua vida|
+| **Expectativas**    | Seu Nenê tem as seguintes expectativas:</br> "Espero que meus filhos e netos leiam sobre minha vida e passem isso para as próximas gerações" |
 
 
 
 <div style="text-align: center">
 
-<p>Tabela 4: Persona 4 - Walter Assis da Gama (Seu Nenê)</p>
+<p>Tabela 4: Persona 4 - Walter Assis (Seu Nenê)</p>
 
-<p>Fonte: Ian da Costa</p>
+<p>Fonte: Autor</p>
 
 </div>
 
@@ -321,6 +321,5 @@ Ao coletar dados, é perceptível a existência de mais de um perfil predominant
 | `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas.                                             |Kauã        | João |
 | `2.0`  | 09/04/2023 | Atualização de todas as personas e criação do perfil de usuário.                                             |Ian        | Mylena |
 | `2.1`  | 01/05/2023 | Add ajustes de entrega                                             |Mylena      | Ian|
-
-
+|`2.2`|04/07/2023|Correções após elaboração da verificação| Leonardo|Beatriz|
 
