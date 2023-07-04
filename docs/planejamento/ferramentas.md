@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Crunchyroll.
+As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Simplenote.
 
 ## Ferramentas utilizadas
 
