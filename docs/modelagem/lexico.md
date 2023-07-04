@@ -121,7 +121,9 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                    | Autor(es)      | Revisor(es) |
-| ------ | ---------- | --------------------         | -------------- | ----------- |
+| ------ | ---------- | --------------------         | :--------------: | :-----------: |
 | `1.0`  | 07/05/2023 | Criação do documento         | João e Beatriz | Ana         |
 | `1.1`  | 08/05/2023 | Adição dos léxicos           | João e Beatriz | Ana         |
 | `1.2`  | 04/06/2023 | Correções após a entrega 3   | Leonardo       | Ian         |
+| `1.3`  | 04/07/2023 | Correções após verificação   | João       | -         |
+
