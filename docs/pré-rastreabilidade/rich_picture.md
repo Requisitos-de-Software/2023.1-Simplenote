@@ -1,4 +1,4 @@
-# Rich Picture do app Crunchyroll
+# Rich Picture do app Simplenote
 
 ## Introdução
 As Rich pictures são ferramentas de representação visual que tiveram origem na Metodologia de Sistemas Suaves (SSM), que foi desenvolvida por Peter Checkland e seus alunos na Universidade de Lancaster durante as décadas de 1960 e 1970 [²](#ancora2). 
