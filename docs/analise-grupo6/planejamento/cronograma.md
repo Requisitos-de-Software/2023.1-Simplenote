@@ -50,7 +50,7 @@ Nenhum problema crítico foi encontrado.
 Não há nenhuma sugestão a ser feita.
 
 ## Bibliografia
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
 
 ## Histórico de Versão
 
