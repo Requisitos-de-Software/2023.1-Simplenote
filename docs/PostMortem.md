@@ -36,13 +36,13 @@ Contudo, a experiência como um todo foi gratificante. Aprendi bastante com a ma
 
 ### João Pedro Nóbrega
 
-Com a matéria de requisitos de software, pude aprender uma parte da burocracia e de documentação de software que nunca sequer ouvi falar. Pude aprender o processo de documntação e elicitação do zero, e ja consegui aplicar alguns tópicos usados na disciplina em outras matérias e em atividades de extensão.
+Com a matéria de requisitos de software, pude aprender uma parte da burocracia e de documentação de software que nunca sequer ouvi falar. Pude aprender o processo de documentação e elicitação do zero, e já consegui aplicar alguns tópicos usados na disciplina em outras matérias e em atividades de extensão.
 
 Entretanto, o andamento da fase final se mostrou deveras estressante, devido ao ritmo constante de entregas, e também a quantidade bruta de artefatos gerados. Sinto que a quantidade de técnicas diferentes que usamos na matéria a torna maçante nas etapas finais, e talvez pudéssemos ver menos técnicas a fim de explorar mais as que utilizamos.
 
 Dito isso, entendo que isso seria consideravelmente trabalhoso e até contra a ementa da disciplina, mas seria de grande ajuda para semestres posteriores. 
 
-De resto a ajuda do meu grupo foi fundamental para o andamento e sucesso do projeto, e me considero satisfeito com o resultado até então.
+De resto, a ajuda do meu grupo foi fundamental para o andamento e sucesso do projeto, e me considero satisfeito com o resultado até então.
 
 ## Histórico de versão
 
