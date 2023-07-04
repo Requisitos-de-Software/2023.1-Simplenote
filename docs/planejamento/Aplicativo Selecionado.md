@@ -51,7 +51,7 @@ A principal razão para escolher o Simplenote foi o fato de ser um aplicativo [o
 ### Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| `1.0` |15/04/2022|O que é e porque| Beatriz e Leonardo| Ian
-| `2.0` |21/04/2022|O que é e porque| Beatriz| Ian
+| `1.0` |15/04/2023|O que é e porque| Beatriz e Leonardo| Ian
+| `2.0` |21/04/2023|O que é e porque| Beatriz| Ian
 
 

@@ -10,7 +10,7 @@ Léxicos podem ser clasificados como verbos, objetos ou estados. Os léxicos do 
 
 ## Modelo de Léxico
 
-Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seguir temos um exemplo de léxico:
+Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seguir temos um exemplo de léxico na Tabela 1 abaixo:
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
@@ -74,7 +74,7 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 |    Léxico     |     Sinônimo      |                             Noção                              |                           Impacto                            | Classificação |
 | :-----------: | :---------------: | :------------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
-| Coladoradores | Ajudantes, amigos | Pessoa adicionada pelo usuário para contribuir com alguma nota | Ajudar o proprietário da nota com anotações, sugestões úteis |    Estado     |
+| Coladoradores | Ajudantes, amigos | Pessoa adicionada pelo usuário para contribuir com alguma nota | Ajudar o proprietário da nota com anotações, sugestões úteis |    Objeto     |
 
 ### L10 - Nota
 
@@ -114,9 +114,9 @@ Os léxicos foram identificados por meio do uso do aplicativo SimpleNote e a seg
 
 ## Bibliografia
 
-> [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise. Disponível em: https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf (Acessado em 04/07/2023)
 
-> [2] Repositório de disciplina: [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/lexico/)
+> [2] Repositório de disciplina: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/lexico/ (Acessado em: 04/06/2023)
 
 ## Histórico de Versão
 

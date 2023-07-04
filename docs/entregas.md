@@ -88,8 +88,8 @@ Na quarta release buscou-se cobrir a parte de modelagem de requisitos ágeis
 
 | Versão | Data | Descrição| Autor(es)| Revisor(es)
 |--|--|--|--|--|
-| `1.0`|17/04/2022|Entrega 1| Mylena| Todos
-| `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
+| `1.0`|17/04/2023|Entrega 1| Mylena| Todos
+| `2.0`|01/05/2023|Entrega 2 | Mylena| Todos
 | `3.0`| 25/02/2023| Entrega 3 e 4| Mylena | Todos
 
 

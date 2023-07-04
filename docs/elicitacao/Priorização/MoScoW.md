@@ -107,8 +107,8 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 
 | Versão | Data       | Descrição                     | Autor(es)             | Revisor(es) |
 | ------ | ---------- | ----------------------------- | --------------------- | ----------- |
-| `1.0`  | 26/04/2022 | Instrospecção                 | Beatriz e Ana Beatriz | Mylena      |
-| `1.1`  | 28/04/2022 | Adicionando alguns requisitos | Beatriz e Ana Beatriz | Mylena      |
+| `1.0`  | 26/04/2023 | Instrospecção                 | Beatriz e Ana Beatriz | Mylena      |
+| `1.1`  | 28/04/2023 | Adicionando alguns requisitos | Beatriz e Ana Beatriz | Mylena      |
 | `1.2`  | 29/04/2023 | Finalizando requisitos        | Beatriz e Ana Beatriz | Mylena      |
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2   | Ana Beatriz           | Mylena      |
 | `1.4`  | 18/06/2023 | Ajustes Verificação           | Ana Beatriz           | Kauã        |

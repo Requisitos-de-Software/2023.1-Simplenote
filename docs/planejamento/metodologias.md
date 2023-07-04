@@ -48,5 +48,5 @@ Para abrir um novo Pull Request, deve-se realizar o procedimento padrão do gith
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 18/04/2022    |  Confecção do artefacto | Kauã  | João |
+| `1.0`  | 18/04/2023    |  Confecção do artefacto | Kauã  | João |
 | `1.1`  | 26/06/2023    |   Correção do documento  | Kauã |João|
