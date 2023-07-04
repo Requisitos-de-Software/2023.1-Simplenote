@@ -53,7 +53,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 
 <div align="center">
-<img src="../img/enzo.png" width="300" height="300">
+<img src="../img/enzo2.png" width="300" height="300">
 </div>
 
 <div align="center">
@@ -175,7 +175,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 <div align="center">
 
-<img src="../img/valentina.png" width="300" height="300">
+<img src="../img/valentina2.png" width="300" height="300">
 
 </div>
 
@@ -238,7 +238,7 @@ Os usuários do Simplenote têm entre 17 e 40 anos e são estudantes do ensino m
 
 
 
-<img src="../img/seu-nene.png" width="350" height="300">
+<img src="../img/seuNene2.png" width="350" height="300">
 
 </div>
 
