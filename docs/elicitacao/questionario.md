@@ -28,7 +28,7 @@ O questionário ficou aberto do dia 23/04/23 a 28/04/23.
  No inicio de questionario foi informado sobre o uso de dados de usuario.
 </p>
 
-![termo](../../img/usoQuestionario.jpeg)
+![termo](../img/usoQuestionario.jpeg)
  <p align="center"> Figura 1 - Termo de consientimento .Fonte: Questionário análise do SimpleNote <br> Autora: Mylena </p>
 
 ###  Você já usou o Simplenote?
