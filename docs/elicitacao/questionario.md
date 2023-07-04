@@ -22,13 +22,13 @@ O questionário foi elaborado com 9 questões, buscando somente respostas de pes
 O questionário ficou aberto do dia 23/04/23 a 28/04/23.
 </p>
 
-### Termo de consientimento
+### Termo de Consentimento
 
 <p>
  No inicio de questionario foi informado sobre o uso de dados de usuario.
 </p>
 
-![termo](../../docs/img/usoQuestionario.jpeg)
+![termo](../../img/usoQuestionario.jpeg)
  <p align="center"> Figura 1 - Termo de consientimento .Fonte: Questionário análise do SimpleNote <br> Autora: Mylena </p>
 
 ###  Você já usou o Simplenote?

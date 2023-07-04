@@ -2,11 +2,25 @@
 
 ## Introdução
 
-Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
+Utilizamos a técnica de entrevista[¹](#referência-bibliografica) com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
 
 ## Metodologia
 
-A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça-DF e são relevantes e adequados para o projeto do aplicativo Simplenote devido à sua experiência na área de TI e ao seu conhecimento sobre os requisitos e regulamentos do setor governamental. Suas opiniões e insights podem contribuir significativamente para o desenvolvimento de um aplicativo robusto, seguro e que atenda às necessidades dos usuários. A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://www.google.com/url?q=https://youtu.be/9wbc4-v2vWc&sa=D&source=editors&ust=1687057181895079&usg=AOvVaw0OIsuT3E6zY_9TR363l_Xo) e [Entrevistado 2](https://www.google.com/url?q=https://youtu.be/x1gkQIUbq_k&sa=D&source=editors&ust=1687057181895444&usg=AOvVaw3PcXBDVTAUbqLfeFvbxYaX), o cronograma da entrevista e termo de consentimento pode ser conferida no Toggle abaixo:
+A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, 
+realizada no Campus FGA. Os entrevistados são profissionais da área de TI e 
+atuam no Ministério da Justiça-DF e são relevantes e adequados para o 
+projeto do aplicativo Simplenote devido à sua experiência na área de TI e ao
+seu conhecimento sobre os requisitos e regulamentos do setor governamental. 
+
+Durante a entrevista, foi utilizado principalmente perguntas abertas para 
+permitir que os entrevistados expressassem livremente suas opiniões, 
+experiências e sugestões. Suas opiniões e insights podem contribuir 
+significativamente para o desenvolvimento de um aplicativo robusto, seguro e 
+que atenda às necessidades dos usuários. 
+
+A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://www.google.com/url?q=https://youtu.be/9wbc4-v2vWc&sa=D&source=editors&ust=1687057181895079&usg=AOvVaw0OIsuT3E6zY_9TR363l_Xo)
+ e [Entrevistado 2](https://www.google.com/url?q=https://youtu.be/x1gkQIUbq_k&sa=D&source=editors&ust=1687057181895444&usg=AOvVaw3PcXBDVTAUbqLfeFvbxYaX), o cronograma da entrevista e termo
+de consentimento pode ser conferida no Toggle abaixo:
 
 <details>
    <summary>Cronograma da entrevista e Termo de Consentimento</summary>
@@ -14,7 +28,7 @@ A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no
 </details>
 
 #
-Foi utilizada a metodologia 5W2H (Tabela 1), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referência-bibliografica), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H[²](#referência-bibliografica) consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
 <center>
 
@@ -254,9 +268,11 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
 </div>
 
-# Bibliografia
+# Referência Bibliografica
 
-> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+> [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 abril 2023.
+
+> [2] VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
 
 ### Histórico de versão
 
@@ -267,3 +283,4 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 | `1.2`  | 29/04/2023 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
 | `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | João        |
+| `1.5`  | 03/07/2023 | Ajustes Verificação 2.0                 | Ana Beatriz | Mylena      |
