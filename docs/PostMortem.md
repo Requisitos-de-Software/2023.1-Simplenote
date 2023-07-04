@@ -9,6 +9,14 @@ Neste post mortem, analisaremos o projeto do Simplenote para a disciplina de req
 - Prazos muito curtos;
 - Muitos detalhes
 ## Feedback pessoal
+
+### Kauã Vinícius
+No decorrer do semestre, aprendi bastante sobre o processo de obter requisitos de software e consegui desmistificar muitas coisas que ainda não estavam claras no meu entender. Foi relativamente divertido entender como que deve ser feito o processo e a interação com o usuário durante o mesmo.
+
+Uma dificuldade que acabei sentindo foi a questão dos prazos serem muito curtos que obrigam os membros do grupo a trabalharem pesado desde o início de uma sprint. Outro problema enfrentado foi a questão das bibliografias e falta de referência relativo aos conteúdos finais, acabou tornando o final da matéria ainda mais desafiador.
+
+No geral, foi uma matéria tranquila de se cursar e fácil de aprender.
+
 ### Mylena Angélica
 Durante o trabalho de requisitos, enfrentei um desafio significativo devido aos prazos curtos estabelecidos. Foi um período bastante cansativo, mas considero essa experiência extremamente valiosa, pois pude aprender muito com ela.
 
