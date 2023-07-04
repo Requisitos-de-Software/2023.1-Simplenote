@@ -1,7 +1,7 @@
 # Verificação - Cronograma
 
 ## Introdução
-Este documento é destinado para a revisão do [cronograma](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Planejamento/cronograma.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão do [cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/cronograma/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 <br> <br> Foi feita a vericação da versão 5.0 do artefato no dia 20/05/2023.
 
 ## Metodologia
