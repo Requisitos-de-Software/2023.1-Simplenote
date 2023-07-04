@@ -60,13 +60,10 @@ Recomenda-se consultar as referências [2] e [3] da bibliografia. Elas apresenta
 
 ## Bibliografia
 > [1] SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Universidade de Brasília. 2023
-
 > [2] LEITE, J. C. S. P. et al. Enhancing a requirements baseline with scenarios. In:
 PROC. OF THE THIRD IEEE INTERNATIONAL SYMPOSIUM ON
-REQUIREMENTS ENGINEERING (RE’97), IEEE Computer Society Press,
-1997. p. 193-195
-
-[3] SERRANO, M. SERRANO, M. Requisitos - Aula 10, Modelagem de Requisitos. p. 8-11 
+REQUIREMENTS ENGINEERING (RE’97), IEEE Computer Society Press,1997. p. 193-195
+> [3] SERRANO, M. SERRANO, M. Requisitos - Aula 10, Modelagem de Requisitos. p. 8-11 
 
 ## Histórico de Versão
 
