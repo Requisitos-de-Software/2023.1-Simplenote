@@ -42,9 +42,9 @@ A principal razão para escolher o Simplenote foi o fato de ser um aplicativo [o
 ### Bibliografia
 
 > [1] Simplenote. Disponível em: https://simplenote.com/ 
-
+>
 > [2] iOS, Android, and macOS Apps Now Open Source. Disponivel em: https://simplenote.com/blog/?s=open%20source
-
+>
 > [3] Termo de Uso. Disponivel em: https://simplenote.com/terms/    
 
 
