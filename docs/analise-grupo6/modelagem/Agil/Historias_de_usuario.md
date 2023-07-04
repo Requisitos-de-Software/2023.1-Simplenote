@@ -52,7 +52,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 Adicionar as prioridades e estimativas de esforço em cada US e realizar uma validação com um PO.
 
 ## Bibliografia
-[1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
+> [1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
 
 ## Histórico de Versão
 
