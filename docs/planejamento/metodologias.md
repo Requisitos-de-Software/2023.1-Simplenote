@@ -39,9 +39,10 @@ Para abrir um novo Pull Request, deve-se realizar o procedimento padrão do gith
 
 ## Bibliografia
 
-> [1] https://asana.com/pt/templates/scrumban </br>
+> [1] ASANA. Asana. Disponível em: <https://asana.com/pt/templates/scrumban>. Acesso em: 04/07/2023. </br>
 >
-> [2] https://kanbantool.com/pt/scrumban-kanban-e-scrum
+> [2] Scrumban - o melhor do Kanban e Scrum | Kanban Tool.Disponível em: <https://kanbantool.com/pt/scrumban-kanban-e-scrum>. Acesso em: 04/07/2023.
+
 
 ## Histórico de Versão
 
