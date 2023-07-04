@@ -25,8 +25,8 @@ Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma 
 
 ## Cenários identificados
 
-Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelos métodos MoSCoW, FTF e 3 Levels documentado na [Priorização](docs/elicitacao/Priorização). 
-A escolha dos cenários foram feitas com base no artefato [Requisitos prioritários](docs/elicitacao/Priorização/priorizacao_final.md). Devido a similaridade de alguns cenários, somente a forma mais abrangente foi modelada. 
+Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelos métodos MoSCoW, FTF e 3 Levels documentado na [Priorização](../elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final.md). 
+A escolha dos cenários foram feitas com base no artefato [Requisitos prioritários](../elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final.md). Devido a similaridade de alguns cenários, somente a forma mais abrangente foi modelada. 
 A seguir, eles podem ser observados por meio das tabelas 2 a 14 abaixo. 
 
 ### C01- Criar uma nota
