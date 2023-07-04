@@ -1,7 +1,7 @@
 # Verificação - Especificação Suplementar
 
 ## Introdução
-Este documento é destinado para a revisão da [especificação suplementar](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/espSuplementar.md) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd),vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+Este documento é destinado para a revisão da [especificação suplementar](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/espSuplementar/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd),vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
 <br> Versão do arquivo analisada foi a 1.0 no dia 20/05/2023.
 
 ## Metodologia
@@ -57,7 +57,7 @@ Não contém.
 Apresentar os sistemas operacionais que o sistema funcionará.</br>
 Adicionar no documento um tópico abordando a respeito das restrições de design do aplicativo.</br>
 ## Bibliografia
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1]  SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
 
 ## Histórico de Versão
 
