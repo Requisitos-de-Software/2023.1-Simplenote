@@ -110,7 +110,7 @@ Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Sim
 | Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo, Ana B. e Mylena | Ian, Ana B. e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
 | Elicitação | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/) | Questionário | Ian, Mylena, Beatriz e Leonardo | João, Ian, Mylena, Beatriz, Ana B.| Arquétipo hipotético desenvolvido a fim de retratar principais usuários do sistema e, assim, elicitar requisitos condizentes com sus necessidades |
 | Elicitação | [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/) | Questionário | Mylena e Beatriz| Kauã | Fazer uma checagem do público alvo para a construção das personas |
-| Elicitação | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) | Introspecção | Beatriz e João | Leonardo e João| Idealizar o sistema ideal com base nas necessidades e desejos do usuário, definindo propriedades e funcionalidades para o desenvolvimento bem-sucedido do produto.|
+| Elicitação | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) | Introspecção | Beatriz e João | Leonardo | Idealizar o sistema ideal com base nas necessidades e desejos do usuário, definindo propriedades e funcionalidades para o desenvolvimento bem-sucedido do produto.|
 | Elicitação | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) | Glossário |Leonardo| Kauã |  Proporcionar uma compreensão clara e consistente dos termos usados, evitando ambiguidades e melhorando a comunicação entre as partes interessadas|
 | Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana B. | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
 | Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian e Beatriz | Ana B. | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
@@ -171,8 +171,9 @@ A tabela 3 apresenta os artefatos referentes ao planejamento da equipe durante o
 
 | Artefato                                                                                                                 | Autor(es) | Revisor(es)    |
 | ------------------------------------------------------------------------------------------------------------------------ | --------- | -------------- |
-| [Escolha do aplicativo](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/escolha_rp/) | Mylena    | Ana            |
-| [RichPicture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/)         | Beatriz   | Leonardo e Ian |
+| [Escolha do aplicativo](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/escolha_rp/) | Mylena   | Ana B.           |
+| [Aplicativo Selecionado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) | Beatriz, Leonardo   | Ian           |
+| [RichPicture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/)         | Beatriz e Leonardo  | Leonardo e Ian |
 
 
 <div style="text-align: center">
@@ -189,16 +190,16 @@ A tabela 4 apresenta os artefatos referentes a etapa de elicitação e prioriza�
 
 | Artefato                                                                                                                            | Autor(es)     | Revisor(es)                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------ |
-| [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)                               | Ian           | Ana                                              |
-| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)                                     | Ana           | Beatriz                                          |
+| [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/)                               | Ian e Beatriz | Ana                                              |
+| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/)                                     | Ana           | Beatriz, Mylena e João                           |
 | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)                                       | Leonardo      | Kauã                                             |
-| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)                       | Beatriz       | Leonardo                                         |
-| [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/)                                         | Ian           | João                                             |
-| [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/)                                 | Mylena        | Kauã                                             |
-| [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)                                 | Leonardo      | Ian                                              |
-| [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)                | Kauã e João   | Mylena                                           |
-| [TLE](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)                 | Kauã          | Mylena                                           |
-| [Moscow ](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)                      | Ana e Beatriz | Mylena                                           |
+| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)                       | Beatriz e João  | Leonardo                                         |
+| [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/)                                         | Ian, Mylena, Beatriz e Leonardo  | João, Ian, Mylena, Beatriz, Ana B.   |
+| [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/)                                 | Mylena e Beatriz    | Kauã                                             |
+| [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)                                 | Leonardo, Ana B. e Mylena      | Ian, Ana B. e Mylena                                              |
+| [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)                | Kauã, Ana B. e João   | Mylena                                           |
+| [TLE](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)                 | Ana B. e Kauã          | Mylena                                           |
+| [Moscow ](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)                      | Beatriz e Ana B. | Mylena                                           |
 | [Priorização Final](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final/) | Mylena        | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
 
 <div style="text-align: center">
