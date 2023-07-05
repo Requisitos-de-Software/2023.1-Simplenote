@@ -286,14 +286,42 @@ A tabela 8 apresenta a sinteze dos artefatos que não foram especificados nas et
 
 ### 8.1. Tabela da Verificação
 
-Na parte de verificação foi feito um planejamento de um modelo a se seguir para todas as checklists e foi utilizada a técnica de inspeção, que visa em montar um checklist e verificar se o artefato corresponde aos pontos levantados.
+Na parte de verificação foi feito um planejamento de um modelo e foi testado na [verificação do grupo 06](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/verificacao_grupo6/). 
+No links abaixo é possível verificar a tabela de verificação do nosso grupo. 
 
 | Artefatos | Autor | Revisor |
 | --------- | ----- | ------- |
+| [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/StoryTelling/) | Kauã | João |
+| [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Personas/) | Kauã | João |
+| [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Question%C3%A1rio/) | Kauã | João |
+| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Introspec%C3%A7%C3%A3o/) | João| Kauã |
+| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/glossario/) | João | Kauã | 
+|[Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/entrevista/) | João | Kauã |
+| [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming/) | João | Kauã| 
+| [Moscow](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/moscow/) | Kauã | João |
+|[First things First](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/FTF/) | Beatriz | Ana Beatriz |
+|[Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/TLS/) | Beatriz | Ana Beatriz |
+|[Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/HistoriasDeUsuario/) |Beatriz | Ana Beatriz |
+| [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/backlog/) | Beatriz | Kauã |
+ | [NFR Framework](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/nfr/) | Leonardo | Beatriz |
+ | [Léxicos](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/lexicos/) |Leonardo | Kauã |
+ | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/Cenarios/) | Leonardo | Beatriz |
+ | [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/) | Beatriz | Ana Beatriz |
+ | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/especificacao_suplementar/) | Leonardo | Beatriz |
+ | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/cronograma/) | Ian | Kauã |
+ | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/cronograma_realizado/) | Ian | Kauã | 
+ | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/ferramentas/) | Ian | Kauã | 
+ | [Metodologia](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/metodologias/) | Ian | Kauã |
+ | [Escolha do  Aplicativo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/app/) | João | Kauã|
+ | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/rich_picture/) | Ian | Kauã |
+ 
+
 
 ### 8.2 Tabela da Validação
-| Artefatos | Autor | Revisor | Justificativa |
-| --------- | ----- | ------- | ------------- |
+| Artefatos | Autor | Revisor |
+| --------- | ----- | ------- | 
+| [Comprovação Informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) | Ana Beatriz e Mylena | João |
+| [Prototipação](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana Beatriz e Mylena | João |
 
 
 ## 9. Síntese das Ferramentas
@@ -345,5 +373,6 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 | `1.1`  | 04/07/2023 | Adição dos artefactos e revisores   | Kauã        | Ana         |
 | `1.2`  | 04/07/2023 | Síntese dos Videos                  | Ana Beatriz | Kauã        |
 | `1.3`  | 04/07/2023 | Conclusão e atualização das tabelas | João        | Kauã        |
+| `2.0`  | 05/07/2023 | Versão final | Mylena      | Beatriz      |
 
 
