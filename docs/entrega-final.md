@@ -272,17 +272,21 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 | Gravação de Reunião<br>[Início da etapa 3](https://youtu.be/El_cwOEWp14)| Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
 | Gravação de Reunião<br>[Verificação e validação pt2](https://www.youtube.com/watch?v=t4xvg6oHiZI)| Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
 | [Reunião com PO](https://youtu.be/LjZ1S_u8vkw) - Prototipação | Ana Beatriz e Product Owner|
-|[Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog||
-|[Reunião com PO]() - FTF||
-| Elicitação de Requisitos - <br> [Entreviata 1]() / [Entrevista 2]() ||
+|[Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog|Ana Beatriz, Kauã e Product Owner|
+|[Reunião com a Equipe<br> de Desenvolvimento](https://youtu.be/RKZUsCj00us) - FTF | Kauã e Equipe de Desenvolvimento|
+|[Reunião com PO](https://youtu.be/D4a7vA9LOOg) - FTF| Kauã e Product Owner|
+| Elicitação de Requisitos - <br> [Entreviata 1](https://youtu.be/9wbc4-v2vWc) | Ana Beatriz e Entrevistado 1|
+| Elicitação de Requisitos - <br> [Entrevista 2](https://youtu.be/x1gkQIUbq_k) | Ana Beatriz e Entrevistado 1|
 
 
 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
-| ------ | ---------- | ------------------- | -------------------- | ----------- |
-| `1.0`  | 04/07/2023 | Criação do artefato | Mylena               |  Kaua       |
-| `1.1`  | 04/07/2023 | Adição dos artefactos e revisores | Kauã   |  Ana        |
+| Versão | Data       | Descrição                         | Autor(es)            | Revisor(es) |
+| ------ | ---------- | --------------------------------- | -------------------- | ----------- |
+| `1.0`  | 04/07/2023 | Criação do artefato               | Mylena               |  Kaua       |
+| `1.1`  | 04/07/2023 | Adição dos artefactos e revisores | Kauã                 |  Ana        |
+| `1.2`  | 04/07/2023 | Síntese dos Videos                | Ana Beatriz          |  Kauã       |
+
 
