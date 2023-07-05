@@ -1,10 +1,11 @@
 # Glossário
 
 ## Introdução
-Um glossário é um documento que cataloga e define palavras e termos usados no processo de planejamento e  desenvolvimento do software. O objetivo é que não haja problemas de interpretação dos outros documentos e que a comunicação entre "stakeholders" seja sempre clara. Sem a elaboração de um glossário, palavras que possuem mais de um sentido e termos técnicos podem causar problemas de comunicação. 
+Um glossário é um documento que cataloga e define palavras e termos usados no processo de planejamento e  desenvolvimento do software. O objetivo é que não haja problemas de interpretação dos outros documentos e que a comunicação entre "stakeholders" seja sempre clara. Sem a elaboração de um glossário, palavras que possuem mais de um sentido e termos técnicos podem causar problemas de comunicação. [1]
 
 ## Glossário
-Nesse glossário estão incluidos termos que fazem parte das funcionalidades do Simplenote.
+Nesse glossário estão incluidos termos que fazem parte das funcionalidades do Simplenote, que podem ser vistos na tabela 1. 
+A maioria dos termos selecionados para o glossário, foram escolhidos devido a sua especificidade que pode ser confuso para pessoas sem conhecimentos na parte de tecnologias. Além disso, os termos foram os que mais percebemos que os usuários se referiam.
 
 | Termo | Definição |
 | :-: | - |
@@ -24,7 +25,7 @@ Tabela 1: Glossário (Fonte: autor 2023)
 
 ## Elicitação de Requisitos
 
-Com base no glossário elaborado, foi possível elicitar requisitos, que serão dispostos na tabela abaixo. Utilizamos GLO + número para listar os requisitos e eles são classificados em requisitos funcionais (RF) e requisitos não funcionais (RNF).
+Com base no glossário elaborado, foi possível elicitar requisitos, que serão dispostos na tabela 2. Utilizamos GLO + número para listar os requisitos e eles são classificados em requisitos funcionais (RF) e requisitos não funcionais (RNF).
 
 | Número | Requisito | Classificação |
 | :-: | - | - |
@@ -37,6 +38,8 @@ Com base no glossário elaborado, foi possível elicitar requisitos, que serão 
 
 Tabela 2: Requisitos Elicitados (Fonte: autor 2023)
 
+Os requisitos GLO03 e GLO06 não estão presentes na atual versão do aplicativo (05/07/2023).
+
 # Bibliografia
 
 > [1] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
@@ -47,3 +50,4 @@ Tabela 2: Requisitos Elicitados (Fonte: autor 2023)
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/04/2023 | Criação do glossário e primeira versão da elicitação de requisitos.              | Leonardo  |       Kauã        |
+| `1.1`  | 05/07/2023 | Ajustes feedback grupo 4             | Mylena |     Ian     |
