@@ -32,6 +32,15 @@ Durante a fase de trabalho com requisitos, enfrentei um desafio considerável de
 
 ### Ian Da Costa
 
+Ao longo do semestre, tive oportunidade de adquirir um amplo conhecimento a respeito das diferentes áreas relacionadas a requisitos de software, bem como compreender a importância da comunicação eficiente entre os membros da equipe.
+
+Uma das principais lições que tirei dessa experiência foi a valorização da colaboração em equipe. Ao longo do projeto, aprimorei minha habilidade de ouvir as opiniões dos colegas e a trabalhar em conjunto para encontrar soluções para os desafios encontrados. A troca de ideias e a diversidade de perspectivas enriqueceram o processo de desenvolvimento, permitindo-nos alcançar melhores resultados
+
+Além de aprender conceitos e técnicas relacionadas aos diversos artefatos de requisitos de software, também tive a oportunidade de explorar diferentes metodologias e ferramentas de documentação. Isso ampliou minha visão e conhecimento sobre o assunto, o que me permitiu abordar os problemas de forma mais abrangente.
+
+Essas lições serão fundamentais em projetos futuros, onde buscarei alcançar resultados de qualidade, mantendo um ambiente colaborativo e de respeito mútuo.
+
+
 ### João Pedro Nóbrega
 
 Com a matéria de requisitos de software, pude aprender uma parte da burocracia e de documentação de software que nunca sequer ouvi falar. Pude aprender o processo de documentação e elicitação do zero, e já consegui aplicar alguns tópicos usados na disciplina em outras matérias e em atividades de extensão.
