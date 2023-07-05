@@ -22,6 +22,14 @@ Contudo, a experiência como um todo foi gratificante. Aprendi bastante com a ma
 
 ### Beatriz Vieira
 
+Ao longo do desenvolvimento do projeto, obtive uma grande quantidade de conhecimentos relevantes sobre a elicitação, priorização e modelagem de requisitos de software. 
+
+Foi interessante entender como o processo de interação com o usuário desempenha um papel crucial no desenvolvimento de software. Através dessa interação, pude obter feedback direto e garantir que as funcionalidades do produto atendessem às expectativas e requisitos dos usuários finais.
+
+Durante a fase de trabalho com requisitos, enfrentei um desafio considerável devido aos prazos restritos estabelecidos. Esse período foi bastante exigente, no entanto, considero essa experiência extremamente valiosa, pois aprendi muito com ela. Essa constante pressão me incentivou a ser mais organizada e disciplinada.
+
+
+
 ### Ian Da Costa
 
 ### João Pedro Nóbrega
