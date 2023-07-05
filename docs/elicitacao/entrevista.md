@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Utilizamos a técnica de entrevista[¹](#referência-bibliografica) com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
+Utilizamos a técnica de entrevista[¹](#referencias-bibliograficas) com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
 
 ## Metodologia
 
@@ -18,8 +18,8 @@ experiências e sugestões. Suas opiniões e insights podem contribuir
 significativamente para o desenvolvimento de um aplicativo robusto, seguro e 
 que atenda às necessidades dos usuários. 
 
-A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://www.google.com/url?q=https://youtu.be/9wbc4-v2vWc&sa=D&source=editors&ust=1687057181895079&usg=AOvVaw0OIsuT3E6zY_9TR363l_Xo)
- e [Entrevistado 2](https://www.google.com/url?q=https://youtu.be/x1gkQIUbq_k&sa=D&source=editors&ust=1687057181895444&usg=AOvVaw3PcXBDVTAUbqLfeFvbxYaX), o cronograma da entrevista e termo
+A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://youtu.be/9wbc4-v2vWc)
+ e [Entrevistado 2](https://youtu.be/x1gkQIUbq_k), o cronograma da entrevista e termo
 de consentimento pode ser conferida no Toggle abaixo:
 
 <details>
@@ -27,8 +27,9 @@ de consentimento pode ser conferida no Toggle abaixo:
       <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2U-6AevGXt2S44w-BTpVMDEtaWkHgij7S2_uSHQk7ALTVSGzQagKsOKsLXC9GSxdP1dv6dD5ISk_T/pub?embedded=true" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 </details>
 
-#
-Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referência-bibliografica), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H[²](#referência-bibliografica) consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+<br.>
+
+Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H[²](#referencias-bibliograficas) consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
 <center>
 
@@ -162,6 +163,8 @@ Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referência-bibliografica), é 
          <title>Entrevista Simplenote</title>
       </head>
       <body>
+         <p>Apresentação do Termo de Consentimento...</p>
+         <p>Início da gravação...</p><br>
          <h1>Introdução</h1>
          <p>Ana Beatriz: Olá, meu nome é Ana Beatriz e eu sou estudante de Engenharia de Software na Universidade de Brasília. Estou realizando uma entrevista para elicitar requisitos do aplicativo Simplenote, para a disciplina Requisitos de Software ministrada pelo professor André Barros. Gostaria de enfatizar que suas respostas são confidenciais e usadas apenas para fins acadêmicos. Além disso, não há respostas certas ou erradas, estou apenas interessada em saber a sua opinião sincera sobre o uso do aplicativo. Por fim, a entrevista deve durar em torno de 5 a 10 minutos. Obrigada por aceitar participar da entrevista!</p>
          <h2>Perguntas</h2>
@@ -268,7 +271,7 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
 </div>
 
-# Referência Bibliografica
+# Referências Bibliograficas
 
 > [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 abril 2023.
 
@@ -284,3 +287,5 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
 | `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | João        |
 | `1.5`  | 03/07/2023 | Ajustes Verificação 2.0                 | Ana Beatriz | Mylena      |
+| `1.6`  | 03/07/2023 | Ajustes Finais                          | Ana Beatriz | Mylena      |
+
