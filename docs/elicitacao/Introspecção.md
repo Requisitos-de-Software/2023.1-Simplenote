@@ -65,5 +65,5 @@ RNF -> Requisito não funcional
 | Versão | Data       | Descrição                | Autor(es) | Revisor(es) |
 | ------ | :----------: | :------------------------: | :---------: | :-----------: |
 | `1.0`  | 26/04/2023 | Instrospecção            | Beatriz   | Leonardo    |
-| `1.1`  | 04/07/2023 | Correção pós verificação | João      | -   |
+| `1.1`  | 04/07/2023 | Correção pós verificação | João      | Leonardo   |
 
