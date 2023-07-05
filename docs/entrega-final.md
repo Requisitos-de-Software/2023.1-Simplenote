@@ -101,11 +101,9 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 
 | Etapa | Artefato | Técnica | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- | --- | --- |
-| Planejamento | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma/) |
-| Planejamento | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma_realizado/)|
-| Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/) |
-| Planejamento | [Metodologias](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/metodologias/) |
-| Planejamento | [Aplicativo selecionado para o projeto da disciplina](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) |
+| Planejamento | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma/) | Cronograma | Kauã, Mylena e João | Todos | Planejamento eficiente, gestão do tempo, cumprimento de prazos, sucesso do projeto |
+| Planejamento | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma_realizado/)| Cronograma | Kauã, Mylena e João | Todos | Mostrar o cronograma que realmente foi seguido |
+| Planejamento | [Aplicativo selecionado para o projeto da disciplina](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) | Análise | Todos | Todos | Cada um da equipe análisou um aplicativo para decidir qual seria o melhor para elicitar os requisitos |
 | Pré- rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) | Rich Picture | Leonardo | Beatriz | Esclarecer funcionalidades e responsabilidades do sistema |
 | Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana Beatriz e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
 | Elicitação | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/) | Questionário | Ian | Mylena| Arquétipo hipotético desenvolvido a fim de retratar principais usuários do sistema e, assim, elicitar requisitos condizentes com sus necessidades |
@@ -114,28 +112,28 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 | Elicitação | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) | Glossário |Leonardo| Kauã |  Proporcionar uma compreensão clara e consistente dos termos usados, evitando ambiguidades e melhorando a comunicação entre as partes interessadas|
 | Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana Beatriz | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
 | Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian | Ana Beatriz | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
-| Priorização | [First things first](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)  |
-| Priorização | [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/) |
-| Priorização | [Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
-| Modelagem | [Léxico](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) |
-| Modelagem | [Especificação suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) |
-| Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)  |
-| Modelagem | [Casos de uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) |
-| Modelagem ágil | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) |
-| Modelagem ágil | [User story](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
-| Modelagem ágil | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) |
-| Análise de Requisitos | [Verificação] |
-| Análise de Requisitos | Validação | [Protótipo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) |
-| Análise de Requisitos | Validação | [Comprovação informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) |
-| Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) |
-| Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) |
-| Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) |
-| Entrega Final | [Post mortem] |
-| Entrega Final | [Documento final] |
-| Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) |
-| Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) |
-| Contínua | Gravações |
-| Contínua | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/) |
+| Priorização | [First things first](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)  | First things first |Kauã, Ana Beatriz e João | Mylena | A ponderação entre benefícios, custos e riscos de cada requisito permite a classificação e priorização dos requisitos com base nas necessidades dos usuários |
+| Priorização | [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/) | MoScoW |  Ana Beatriz e Beatriz  |  Mylena | A priorização de tarefas contribui para a eficiência do fluxo de entregas do projeto, garantindo que as atividades mais importantes sejam concluídas primeiro, otimizando o uso dos recursos disponíveis e maximizando a produtividade da equipe |
+| Priorização | [Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) | Escala de 3 níveis | Ana Beatriz e Kauã | Mylena | Priorizar os requisitos mais importantes |
+| Modelagem | [Léxico](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) | Léxico | João, Beatriz e Leonardo | Ian e Ana Beatriz |A descrição de símbolos facilita a leitura e identificação de palavras no projeto, evitando ambiguidades e melhorando a comunicação | 
+| Modelagem | [Especificação suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) |FURPS+ | Ana Beatriz e Kauã | Leonardo e Ian | Requisitos não-funcionais complementam casos de uso, abrangendo características como desempenho, segurança, usabilidade, garantindo a qualidade do software |
+| Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)  | Cenários | Mylena e Leonardo | Kauã e Ian | Breve história retratando evento de utilização do sistema, desenvolvida com o fito de especificar descrição de requisito já elicitado | 
+| Modelagem | [Casos de uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) | Diagrama UML | Ian e Leonardo | Mylena | No detalhamento dos atores de um sistema, são definidos os requisitos, escopo e interações padrão entre o usuário e o sistema. Além disso, é modelado o fluxo de acontecimentos, descrevendo as sequências de interações e ações entre os atores e o sistema | 
+| Modelagem ágil | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) | NFR framework | 	Mylena, Beatriz e Leonardo | Ana Beatriz | Abordagem para representar e analisar requisitos funcionais e não funcionais de modo a auxiliar n desenvolvimento de soluções com maior eficiência | 
+| Modelagem ágil | [User story](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)| Histórias de Usuário | Kauã e João | Mylena | Narrativas construídas de modo a apresentar o usuário em foco e, assim, definir soluções de software a uma problemática do mesmo | 
+| Modelagem ágil | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) | Product Backlog | Ana Beatriz e Ian | João | A lista de funcionalidades desejadas para o produto é priorizada de acordo com o valor que cada requisito representa para o cliente. Isso envolve a definição do escopo, a identificação dos requisitos e a ordenação com base na importância percebida pelo cliente | 
+| Análise de Requisitos | [Verificação] | Inspeção | Beatriz, Leonardo, Kauã, Ian, Ana Beatriz e João | Todos | Artefato desenvolvido como o intuito de revisar e corrigir artefatos criados pela equipe durante o decorrer do proejeto por meio de checklists | 
+| Análise de Requisitos | Validação | [Protótipo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana Beatriz e Mylena | João | Validação de requisitos e especificações |
+| Análise de Requisitos | Validação | [Comprovação informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) |  Ana Beatriz e Mylena | João | Feedbacks a fim de validar os artefatos desenvolvidos |
+| Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Forward-from | Ana, Beatriz e Kauã | João, Leonardo e Mylena | Listagem de documentos obtidos no processo de elicitação e sua respectivas conexões | 
+| Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) | Meta-modelo de Toranzo | João, Leonardo e Mylena | Ana, Beatriz e Kauã | Apresentação dos requisitos elicitados durante o projeto e suas conexões por meio de tabelas, hyperlinks e elos de rastreabilidade |
+| Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Matriz geral | Ian |  João, Beatriz e Leonardo | Represntação geral dos requisitos e ligações provenientes da documentação backward-from e forward-from | 
+| Entrega Final | [Post mortem] | Post mortem | Todos | Todos | Documentação com o intuito de passar feedbacks de como foi o projeto | 
+| Entrega Final | [Documento final] | Inspecção | Mylena, Kauã e Ana Beatriz | Todos | Síntese do que foi produzido para a entrega final |
+| Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) | MKdocs | Mylena e Ana Beatriz | Kauã | Página de documentação |
+| Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) | Atas | Mylena | Todos | Acordos firmados durante as reuniões |
+| Contínua | Gravações | Gravação |  João | Todos | Apresentações das entregas e o que foi feito | 
+| Contínua | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/) | Release |Mylena e Kauã | Todos | Resumo, release e gravação das entregas |
 
 
 
