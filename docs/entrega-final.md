@@ -104,6 +104,7 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 | --- | --- | --- | --- | --- | --- |
 | Planejamento | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma/) | Cronograma | Kauã, Mylena e João | Todos | Planejamento eficiente, gestão do tempo, cumprimento de prazos, sucesso do projeto |
 | Planejamento | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma_realizado/)| Cronograma | Kauã, Mylena e João | Todos | Mostrar o cronograma que realmente foi seguido |
+Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/)|Análise |João|Kauã| Escolha de ferramentas para auxiliar no desenvolvimento do projeto |
 | Planejamento | [Aplicativo selecionado para o projeto da disciplina](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) | Análise | Todos | Todos | Cada um da equipe análisou um aplicativo para decidir qual seria o melhor para elicitar os requisitos |
 | Pré- rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) | Rich Picture | Leonardo | Beatriz | Esclarecer funcionalidades e responsabilidades do sistema |
 | Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana Beatriz e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
@@ -162,7 +163,7 @@ A tabela 2 apresenta os artefatos referentes ao planejamento da equipe durante o
 
 </center>
 
-### 7.2. Pré rastreabilidade
+### 7.2. Pré-rastreabilidade
 
 A tabela 3 apresenta os artefatos referentes ao planejamento da equipe durante o semestre e as ferramentas utilizadas durante o projeto.
 
@@ -227,7 +228,7 @@ A tabela 5 apresenta os artefatos referentes a etapa de modelagem desenvolvida n
 
 </center>
 
-### 7.5. Pos-Rastreabilidade
+### 7.5. Pós-Rastreabilidade
 
 A tabela 6 apresenta os artefatos referentes a etapa de pos-rastreabilidade desenvolvida durante o projeto.
 
@@ -245,7 +246,7 @@ A tabela 6 apresenta os artefatos referentes a etapa de pos-rastreabilidade dese
 
 </center>
 
-### 7.6. Analise
+### 7.6. Análise
 
 A tabela 7 apresenta os artefatos referentes a etapa de analise desenvolvida durante o projeto.
 
