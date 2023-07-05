@@ -126,4 +126,3 @@ Obs: A todos os pesos foi atribuido o valor 1, exceto ao peso relativo de benef�
 |  `1.1` | 29/04/2023 | Confecção da tabela e preenchimento inicial dos requisitos | João e Kauã | Mylena  |
 |  `1.2` | 01/05/2023 |   Finalizando o documento e adicionando tabela ordenada    | Kauã e João | Mylena  |
 |  `1.3` | 15/05/2023 |                Ajustes Feedbacks entrega 2                 | Ana Beatriz | Mylena  |
-
