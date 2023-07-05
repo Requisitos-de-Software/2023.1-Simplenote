@@ -12,15 +12,14 @@ Através da aplicação das personas com seus perfis específicos, foi desenvolv
 
 ### História de Enzo Gabriel
 
-Enzo Gabriel é um estudante de ensino médio que gosta muito de matemática e de resolver problemas lógicos. Seu professor de matemática demostra detalhadamente os teoremas no quadro e envia slides de reforço. Assim, seu caderno de matemática é bastante completo, e o garoto consegue estudar muito bem a matéria fazendo exercícios com seu caderno para auxiliá-lo.
+Enzo Gabriel é um professor de física. Sua afinidade pela ciência o levou a se formar em Física na Universidade de São Paulo, e atualmente, ele também está cursando seu mestrado na mesma área. Enzo acredita que uma comunicação clara e direta com seus alunos é importante para o processo de aprendizado. Ele sempre se esforça para compartilhar seu conhecimento de forma clara e cativante, mas enfrenta desafios em encontrar uma maneira simples e eficiente de se cominicar com eles além das aulas presenciais. 
+Além disso, Enzo estava tendo problemas de organização em seus projetos de pesquisa e em seu mestrado, seu orientador de pesquisa reclama que ele demora demais para conduzir os experimentos, pois esquece de anotar os dados em sua prancheta. Também, ele prometeu ajudar seus dois colegas, Júlia e Alexandre, em disciplinas do mestrado. Porém, ele não anotava quase nada nas aulas, pois tinha muita facilidade com o conteúdo, o que dificultava a ele explicar trechos que seus colegas não entendiam.
 
-Entretando, ele está tendo muita dificuldade nas disciplinas de ciências humanas. Isso acontece, pois os professores não costumam escrever muitas anotações no quadro e porque Enzo tem muita dificuldade em entender os livros. O jovem também não consegue escrever em seu caderno o que os professores falam, pois tem uma escrita muito lenta.
+Enzo começou a explorar diferentes opções de aplicativos que pudessem atender às suas necessidades. Ele sabia que a interface do aplicativo era crucial para motivar os alunos a utilizá-lo, então procurava por algo intuitivo e prático. Um dia, Enzo estava converando com seu irmão, Daniel, que sugeriu o uso do Simplenote para mostrar mais dos conteúdos de física para os alunos. Sua interface minimalista e intuitiva se encaixava perfeitamente em suas expectativas. Com o Simplenote, ele poderia compartilhar anotações, documentos e links de forma rápida e eficiente.
 
-Seu irmão percebeu sua dificuldade e o chamou para fazer um teste de digitação em um site. O resultado foi que Enzo tem uma capacidade de digitação muito rápida. Visto isso, seu irmão recomendou que criasse uma conta no Simplenote e que levasse seu laptop para fazer anotações do que seus professores falam. Os professores falaram que aceitariam que ele usasse o laptop para anotações, desde que não estivesse conectado na internet durante a aula.
+Então, ele passou a usar o Simplenote em suas aulas. Ele começou a compartilhar anotações de suas aulas, desafios e questões interessantes com seus alunos. Seus alunos gostaram da praticidade do aplicativo e a facilidade de acesso aos materiais de estudo, além de usarem para compartilhar anotações entre si. Por isso, houve um grande progresso de seus alunos em relação ao aprendizado.
 
-Após algumas aulas anotando, Enzo percebeu que seu entendimento das matérias melhorou muito, pois conseguia elaborar dúvidas bem melhor com as anotações e conseguia entender a abordagem mais profunda dos livros. Com isso, Enzo passou a ter mais interesse em algumas disciplinas de ciências humanas, especialmente hitória, pois agora possui uma compreensão bem maior do conteúdo.
-
-Enzo recomendou a seus amigos que também fizessem o mesmo. Dessa forma, eles podem compartilhar susas notas e caso uma anotação de Enzo esteja incompleta, ele pode completá-la com as notas de seus amigos. Também, quando seu professor de história passou um trabalho de pesquisa em grupo, Enzo e seus amigos usram o Simplenote devido à funcionalidade de colaboração.
+Além de seu trabalho como professor, Enzo imaginou o quanto isso facilitaria seu estudo no mestrado, e melhoraria seu desempenho na pesquisa. Com o aplicativo, ele faria anotações de dados de experimentos, e compartilharia notas entre seus colegas. Assim, a comunicação com seus colegas de faculdade, e seus estudos se tornaram mais produtivos. Ele pôde trocar ideias, discutir tópicos complexos e colaborar em projetos de pesquisa de forma mais eficiente, graças ao compartilhamento de anotações e documentos.
 
 ### História de Alicia Kane
 
@@ -34,11 +33,11 @@ Então, seguindo a recomendação de sua amiga, ela baixou o Simplenote em eu ce
 
 ### História de Valentina Becker
 
-Valentina Becker é uma criança de 10 anos que tem desenhar como um de seus hobbies preferidos. Toda terça e quinta feira pela manhã, sua mãe a leva para ter aulas de desenho, para incentivar a paixão da garota.
+Valentina Becker é uma adolescente de 17 anos que tem desenhar como um de seus hobbies preferidos. Toda semana ela tenta desenhar algo que uma de suas amigas pediu para que elas colecionem seus desenhos.
 
-Durante as aulas, a professora escreve dicas para algumas técnicas de desenho, e Valentina não quer escrever no caderno de desenhos as dicas, pois quer que o caderno seja apenas para desenhos. Ela vê que Clara, uma de suas amigas, leva um tablet para fazer as anotações. Dessa forma, o caderno de desenhos fica apenas para desenhos. Valentina instala o aplicativo do Simplenote em seu tablet e passa a levá-lo para as aulas. Assim, ela consegue fazer desenhos em casa utilizando as técnicas que aprendeu na aula com mais facilidade do que se tivesse que memorizar as dicas da professora.
+Um dia, Valentina estava indo para a aula e esqueceu seu guarda-chuva. Como consequência, sua mochila ficou muito molhada, e danificou um desenho que entregaria para sua amiga. Por causa disso, ela decidiu não usar mais papel para entregar seus desenhos a suas amigas. Um dia, viu uma colega de sala da qual não era muito próxima usando um tablet para fazer desenhos, porém esqueceu de perguntar qual o apicativo. Na noite desse dia, Valentina decidiu usar o tablet que tinha em casa para desenhar e compartilhar seus desenhos.
 
-Outro dia, Valentina repara no desenho do plano de fundo do tablet de Clara e pergunta onde ela o conseguiu. Clara responde dizendo que foi ela mesma que o desenhou, e que também possui outros desenhos no tablet para ajudá-la a desenhar no papel. Valentina tenta encontrar no Simplenote uma funcionalidade de desenho, porém percebe que não existe. Isso a deixa frustrada, pois queria ser capaz de desenhar rascunhos das técnicas de desenho junto com as anotações. Ela tenta usar o Samsung Notes, que permite desenhar e escrever anotações, porém ela prefere a interface do Simplenote, além de querer uma funcionalidade de colaboração dos desenhos com outras pessoas, assim como faz com as notas do Simplenote.
+Valentina usava o Simplenote para realizar anotações de afazeres rotineiros, como compras, ou para lembrar quanto devia a uma amiga que pagou seu ingresso no cinema. Como ela, não estava disposta a usar um aplicativo novo, ela tentou usar o Simplenote para escrita livre com uma caneta para tablet. Entretanto, descobriu que isso não é possível. No dia seguinte, Valentina foi até a colega de sala do perguntar qual o aplicativo que usava para desenhar. Sua colega respondeu que usava o Sketchbook para desenhar. A partir daí, Valentina passou a usar esse aplicativo para seus desenhos.
 
 ## Elicitação de Requisitos
 
@@ -85,3 +84,4 @@ RNF: Requisito não funcional
 | `1.0`  | 30/04/2023 | Criação do documento de Storytelling | Leonardo    | Ian         |
 | `1.1`  | 15/05/2023 | Ajustes Feedbacks entrega 2          | Ana Beatriz | Mylena      |
 | `2.0`  | 03/07/2023 | Ajustes entrega final                | Mylena      | Ana Beatriz |
+|`2.1`|05/07/2023| Reformulação das narrativas após a correção das personas | Leonardo | Mylena |
