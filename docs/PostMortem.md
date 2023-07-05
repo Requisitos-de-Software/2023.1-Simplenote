@@ -10,20 +10,6 @@ Neste post mortem, analisaremos o projeto do Simplenote para a disciplina de req
 - Muitos detalhes
 ## Feedback pessoal
 
-### Kauã Vinícius
-No decorrer do semestre, aprendi bastante sobre o processo de obter requisitos de software e consegui desmistificar muitas coisas que ainda não estavam claras no meu entender. Foi relativamente divertido entender como que deve ser feito o processo e a interação com o usuário durante o mesmo.
-
-Uma dificuldade que acabei sentindo foi a questão dos prazos serem muito curtos que obrigam os membros do grupo a trabalharem pesado desde o início de uma sprint. Outro problema enfrentado foi a questão das bibliografias e falta de referência relativo aos conteúdos finais, acabou tornando o final da matéria ainda mais desafiador.
-
-No geral, foi uma matéria tranquila de se cursar e fácil de aprender.
-
-### Mylena Angélica
-Durante o trabalho de requisitos, enfrentei um desafio significativo devido aos prazos curtos estabelecidos. Foi um período bastante cansativo, mas considero essa experiência extremamente valiosa, pois pude aprender muito com ela.
-
-Ao lidar com prazos apertados, fui desafiado a otimizar meu tempo de forma eficiente. Tive que priorizar as tarefas, definir metas diárias e criar um plano de trabalho detalhado para garantir que todas as demandas fossem atendidas dentro do prazo estipulado. Essa pressão constante me obrigou a ser mais organizada e disciplinada, o que resultou em um melhor gerenciamento do meu tempo e aumento da minha produtividade.
-
-Lidar com prazos apertados me obrigou a agir de forma ágil e tomar decisões rápidas. Aprendi a identificar os requisitos mais críticos e concentrar meus esforços neles, sem deixar de considerar a qualidade do trabalho. Essa habilidade de tomar decisões eficientes sob pressão é algo que pretendo levar para outros projetos futuros.
-
 ### Ana Beatriz Norberto
 Durante o desenvolvimento do projeto, pude adquirir muitos conhecimentos importantes sobre a elicitação, priorização, modelagem de requisitos de software e a importância da comunicação eficiente entre os membros da equipe.
 
@@ -34,6 +20,10 @@ Confesso que lidar com alguns imprevistos foi desafiador, mas a satisfação de 
 
 Contudo, a experiência como um todo foi gratificante. Aprendi bastante com a matéria, a ouvir as opiniões dos colegas, a me comunicar melhor e a buscar soluções para os desafios encontrados. Também considero muito importante a oportunidade de explorar diversas metodologias e ferramentas de documentação, o que ampliou minha visão a respeito do assunto.
 
+### Beatriz Vieira
+
+### Ian Da Costa
+
 ### João Pedro Nóbrega
 
 Com a matéria de requisitos de software, pude aprender uma parte da burocracia e de documentação de software que nunca sequer ouvi falar. Pude aprender o processo de documentação e elicitação do zero, e já consegui aplicar alguns tópicos usados na disciplina em outras matérias e em atividades de extensão.
@@ -43,6 +33,23 @@ Entretanto, o andamento da fase final se mostrou deveras estressante, devido ao 
 Dito isso, entendo que isso seria consideravelmente trabalhoso e até contra a ementa da disciplina, mas seria de grande ajuda para semestres posteriores. 
 
 De resto, a ajuda do meu grupo foi fundamental para o andamento e sucesso do projeto, e me considero satisfeito com o resultado até então.
+
+### Kauã Vinícius
+No decorrer do semestre, aprendi bastante sobre o processo de obter requisitos de software e consegui desmistificar muitas coisas que ainda não estavam claras no meu entender. Foi relativamente divertido entender como que deve ser feito o processo e a interação com o usuário durante o mesmo.
+
+Uma dificuldade que acabei sentindo foi a questão dos prazos serem muito curtos que obrigam os membros do grupo a trabalharem pesado desde o início de uma sprint. Outro problema enfrentado foi a questão das bibliografias e falta de referência relativo aos conteúdos finais, acabou tornando o final da matéria ainda mais desafiador.
+
+No geral, foi uma matéria tranquila de se cursar e fácil de aprender.
+
+### Leonardo Gonçalves
+
+### Mylena Angélica
+Durante o trabalho de requisitos, enfrentei um desafio significativo devido aos prazos curtos estabelecidos. Foi um período bastante cansativo, mas considero essa experiência extremamente valiosa, pois pude aprender muito com ela.
+
+Ao lidar com prazos apertados, fui desafiado a otimizar meu tempo de forma eficiente. Tive que priorizar as tarefas, definir metas diárias e criar um plano de trabalho detalhado para garantir que todas as demandas fossem atendidas dentro do prazo estipulado. Essa pressão constante me obrigou a ser mais organizada e disciplinada, o que resultou em um melhor gerenciamento do meu tempo e aumento da minha produtividade.
+
+Lidar com prazos apertados me obrigou a agir de forma ágil e tomar decisões rápidas. Aprendi a identificar os requisitos mais críticos e concentrar meus esforços neles, sem deixar de considerar a qualidade do trabalho. Essa habilidade de tomar decisões eficientes sob pressão é algo que pretendo levar para outros projetos futuros.
+
 
 ## Histórico de versão
 
