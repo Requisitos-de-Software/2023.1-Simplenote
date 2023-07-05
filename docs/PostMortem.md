@@ -60,6 +60,12 @@ No geral, foi uma matéria tranquila de se cursar e fácil de aprender.
 
 ### Leonardo Gonçalves
 
+Uma questão que gostei muito na disciplina de Requisitos de Software foi o desenvolvimento de um projeto ao longo do semestre, que era desenvolvido em etapas. Entretanto, recomendo que seja revisto o cronograma de entregas, pois algumas possuem muito conteúdo e o tempo não é suficiente, enquanto outras possuem pouco conteúdo e tempo em excesso.
+
+Além disso, creio que os materias de referência da disciplina no plano de ensino abordam de maneira um tanto superficial alguns artefatos, no caso, o Storytelling, que foi um dos artefatos que fiquei responsável. 
+
+Postas essas duas questões, a disciplina, de maneira geral não possui muitas complicações no tocante ao entendimento do conteúdo, ou ao desenvolvimento do projeto. Além do conteúdo em si, essa disciplina foi importante para um melhor gerenciamento do trabalho em equipe, em especial a divisão de tarefas, visto que a avaliação final é individual.
+
 ### Mylena Angélica
 Durante o trabalho de requisitos, enfrentei um desafio significativo devido aos prazos curtos estabelecidos. Foi um período bastante cansativo, mas considero essa experiência extremamente valiosa, pois pude aprender muito com ela.
 
