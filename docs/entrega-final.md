@@ -365,10 +365,11 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 | Elicitação de Requisitos - <br> [Entrevista 2](https://youtu.be/x1gkQIUbq_k)                      | Ana Beatriz e Entrevistado 1                             |
 
 
-Bibliografia
-> [1] Simplenote. Disponível em: https://simplenote.com/
+### Bibliografia
+
+> [1] Simplenote. Disponível em: https://simplenote.com/. Acesso em: 05 jun de 2023.
 > 
-> [2] DAN. iOS, Android, and macOS Apps Now Open Source. 25 Ago 2016. Disponivel em: https://simplenote.com/blog/?s=open%20source
+> [2] DAN. iOS, Android, and macOS Apps Now Open Source. 25 Ago 2016. Disponivel em: https://simplenote.com/blog/?s=open%20source. Acesso em: 05 jun de 2023.
 
 
 ## Histórico de versão
