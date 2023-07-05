@@ -96,4 +96,5 @@ RNF -> Requisito não funcional
 | Versão | Data       | Autor        | Descrição     | Revisor     |
 | :----: | ---------- | ------------ | ------------- | ----------- |
 |  1.0   | 01/05/2023 | Ian da Costa | Brainstorming | Ana Beatriz |
+| `1.1`  | 13/06/2023 | Ajustes pós entrega               | Beatriz | Ana Beatriz      |
 
