@@ -215,12 +215,12 @@ A tabela 5 apresenta os artefatos referentes a etapa de modelagem desenvolvida n
 
 | Artefato                                                                                                                     | Autor(es)                 | Revisor(es) |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------- |
-| [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)                                | Ana                       | João        |
-| [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/)                           | Ian                       | Mylena      |
-| [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)                              | Mylena e Leonardo         | Kauã        |
+| [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)                                | Ana B. e Ian                       | João        |
+| [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/)                           | Ian, Leonardo e João                       | Mylena      |
+| [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)                              | Beatriz, Mylena e Leonardo         | Kauã        |
 | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) | Ana e Kauã                | Leonardo    |
-| [Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)                | Kauã e João               | Mylena      |
-| [Léxicos](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)                                      | Beatriz e João            | Ana         |
+| [Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)                | Kauã, João e Ana B.              | Mylena e Kauã      |
+| [Léxicos](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/)                                      | Beatriz, João e Leonardo            | Ana e Ian      |
 | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)                                             | Beatriz,Leonardo e Mylena | Ana         |
 
 <div style="text-align: center">
