@@ -107,32 +107,32 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/)|Análise |João|Kauã| Escolha de ferramentas para auxiliar no desenvolvimento do projeto |
 | Planejamento | [Aplicativo selecionado para o projeto da disciplina](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) | Análise | Todos | Todos | Cada um da equipe análisou um aplicativo para decidir qual seria o melhor para elicitar os requisitos |
 | Pré- rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) | Rich Picture | Beatriz | Leonardo | Esclarecer funcionalidades e responsabilidades do sistema |
-| Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana Beatriz e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
+| Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana B. e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
 | Elicitação | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/) | Questionário | Ian | Mylena| Arquétipo hipotético desenvolvido a fim de retratar principais usuários do sistema e, assim, elicitar requisitos condizentes com sus necessidades |
 | Elicitação | [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/) | Questionário | Mylena| Kauã e Beatriz| Fazer uma checagem do público alvo para a construção das personas |
 | Elicitação | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) | Introspecção | Beatriz | Leonardo e João| Idealizar o sistema ideal com base nas necessidades e desejos do usuário, definindo propriedades e funcionalidades para o desenvolvimento bem-sucedido do produto.|
 | Elicitação | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) | Glossário |Leonardo| Kauã |  Proporcionar uma compreensão clara e consistente dos termos usados, evitando ambiguidades e melhorando a comunicação entre as partes interessadas|
-| Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana Beatriz | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
-| Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian | Ana Beatriz | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
-| Priorização | [First things first](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)  | First things first |Kauã, Ana Beatriz e João | Mylena | A ponderação entre benefícios, custos e riscos de cada requisito permite a classificação e priorização dos requisitos com base nas necessidades dos usuários |
-| Priorização | [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/) | MoScoW |  Ana Beatriz e Beatriz  |  Mylena | A priorização de tarefas contribui para a eficiência do fluxo de entregas do projeto, garantindo que as atividades mais importantes sejam concluídas primeiro, otimizando o uso dos recursos disponíveis e maximizando a produtividade da equipe |
-| Priorização | [Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) | Escala de 3 níveis | Ana Beatriz e Kauã | Mylena | Priorizar os requisitos mais importantes |
-| Modelagem | [Léxico](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) | Léxico | João, Beatriz e Leonardo | Ian e Ana Beatriz |A descrição de símbolos facilita a leitura e identificação de palavras no projeto, evitando ambiguidades e melhorando a comunicação | 
-| Modelagem | [Especificação suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) |FURPS+ | Ana Beatriz e Kauã | Leonardo e Ian | Requisitos não-funcionais complementam casos de uso, abrangendo características como desempenho, segurança, usabilidade, garantindo a qualidade do software |
+| Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana B. | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
+| Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian | Ana B. | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
+| Priorização | [First things first](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)  | First things first |Kauã, Ana B. e João | Mylena | A ponderação entre benefícios, custos e riscos de cada requisito permite a classificação e priorização dos requisitos com base nas necessidades dos usuários |
+| Priorização | [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/) | MoScoW |  Ana B. e Beatriz  |  Mylena | A priorização de tarefas contribui para a eficiência do fluxo de entregas do projeto, garantindo que as atividades mais importantes sejam concluídas primeiro, otimizando o uso dos recursos disponíveis e maximizando a produtividade da equipe |
+| Priorização | [Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) | Escala de 3 níveis | Ana B. e Kauã | Mylena | Priorizar os requisitos mais importantes |
+| Modelagem | [Léxico](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) | Léxico | João, Beatriz e Leonardo | Ian e Ana B. |A descrição de símbolos facilita a leitura e identificação de palavras no projeto, evitando ambiguidades e melhorando a comunicação | 
+| Modelagem | [Especificação suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) |FURPS+ | Ana B. e Kauã | Leonardo e Ian | Requisitos não-funcionais complementam casos de uso, abrangendo características como desempenho, segurança, usabilidade, garantindo a qualidade do software |
 | Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)  | Cenários | Mylena e Leonardo | Kauã e Ian | Breve história retratando evento de utilização do sistema, desenvolvida com o fito de especificar descrição de requisito já elicitado | 
 | Modelagem | [Casos de uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) | Diagrama UML | Ian e Leonardo | Mylena | No detalhamento dos atores de um sistema, são definidos os requisitos, escopo e interações padrão entre o usuário e o sistema. Além disso, é modelado o fluxo de acontecimentos, descrevendo as sequências de interações e ações entre os atores e o sistema | 
-| Modelagem ágil | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) | NFR framework | 	Mylena, Beatriz e Leonardo | Ana Beatriz | Abordagem para representar e analisar requisitos funcionais e não funcionais de modo a auxiliar n desenvolvimento de soluções com maior eficiência | 
+| Modelagem ágil | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) | NFR framework | 	Mylena, Beatriz e Leonardo | Ana B. | Abordagem para representar e analisar requisitos funcionais e não funcionais de modo a auxiliar n desenvolvimento de soluções com maior eficiência | 
 | Modelagem ágil | [User story](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)| Histórias de Usuário | Kauã e João | Mylena | Narrativas construídas de modo a apresentar o usuário em foco e, assim, definir soluções de software a uma problemática do mesmo | 
-| Modelagem ágil | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) | Product Backlog | Ana Beatriz e Ian | João | A lista de funcionalidades desejadas para o produto é priorizada de acordo com o valor que cada requisito representa para o cliente. Isso envolve a definição do escopo, a identificação dos requisitos e a ordenação com base na importância percebida pelo cliente | 
-| Análise de Requisitos | [Verificação] | Inspeção | Beatriz, Leonardo, Kauã, Ian, Ana Beatriz e João | Todos | Artefato desenvolvido como o intuito de revisar e corrigir artefatos criados pela equipe durante o decorrer do proejeto por meio de checklists | 
-| Análise de Requisitos | Validação | [Protótipo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana Beatriz e Mylena | João | Validação de requisitos e especificações |
-| Análise de Requisitos | Validação | [Comprovação informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) |  Ana Beatriz e Mylena | João | Feedbacks a fim de validar os artefatos desenvolvidos |
+| Modelagem ágil | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) | Product Backlog | Ana B. e Ian | João | A lista de funcionalidades desejadas para o produto é priorizada de acordo com o valor que cada requisito representa para o cliente. Isso envolve a definição do escopo, a identificação dos requisitos e a ordenação com base na importância percebida pelo cliente | 
+| Análise de Requisitos | [Verificação] | Inspeção | Beatriz, Leonardo, Kauã, Ian, Ana B. e João | Todos | Artefato desenvolvido como o intuito de revisar e corrigir artefatos criados pela equipe durante o decorrer do proejeto por meio de checklists | 
+| Análise de Requisitos | Validação | [Protótipo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana B. e Mylena | João | Validação de requisitos e especificações |
+| Análise de Requisitos | Validação | [Comprovação informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) |  Ana B. e Mylena | João | Feedbacks a fim de validar os artefatos desenvolvidos |
 | Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Forward-from | Ana, Beatriz e Kauã | João, Leonardo e Mylena | Listagem de documentos obtidos no processo de elicitação e sua respectivas conexões | 
 | Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) | Meta-modelo de Toranzo | João, Leonardo e Mylena | Ana, Beatriz e Kauã | Apresentação dos requisitos elicitados durante o projeto e suas conexões por meio de tabelas, hyperlinks e elos de rastreabilidade |
 | Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Matriz geral | Ian |  João, Beatriz e Leonardo | Represntação geral dos requisitos e ligações provenientes da documentação backward-from e forward-from | 
 | Entrega Final | [Post mortem] | Post mortem | Todos | Todos | Documentação com o intuito de passar feedbacks de como foi o projeto | 
-| Entrega Final | [Documento final] | Inspecção | Mylena, Kauã e Ana Beatriz | Todos | Síntese do que foi produzido para a entrega final |
-| Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) | MKdocs | Mylena e Ana Beatriz | Kauã | Página de documentação |
+| Entrega Final | [Documento final] | Inspecção | Mylena, Kauã e Ana B. | Todos | Síntese do que foi produzido para a entrega final |
+| Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) | MKdocs | Mylena e Ana B. | Kauã | Página de documentação |
 | Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) | Atas | Mylena | Todos | Acordos firmados durante as reuniões |
 | Contínua | Gravações | Gravação |  João | Todos | Apresentações das entregas e o que foi feito | 
 | Contínua | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/) | Release |Mylena e Kauã | Todos | Resumo, release e gravação das entregas |
@@ -299,14 +299,14 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 |[Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/entrevista/) | João | Kauã |
 | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming/) | João | Kauã| 
 | [Moscow](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/moscow/) | Kauã | João |
-|[First things First](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/FTF/) | Beatriz | Ana Beatriz |
-|[Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/TLS/) | Beatriz | Ana Beatriz |
-|[Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/HistoriasDeUsuario/) |Beatriz | Ana Beatriz |
+|[First things First](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/FTF/) | Beatriz | Ana B. |
+|[Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/prioriza%C3%A7%C3%A3o/TLS/) | Beatriz | Ana B. |
+|[Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/HistoriasDeUsuario/) |Beatriz | Ana B. |
 | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/backlog/) | Beatriz | Kauã |
  | [NFR Framework](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/nfr/) | Leonardo | Beatriz |
  | [Léxicos](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/lexicos/) |Leonardo | Kauã |
  | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/Cenarios/) | Leonardo | Beatriz |
- | [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/) | Beatriz | Ana Beatriz |
+ | [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/) | Beatriz | Ana B. |
  | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/especificacao_suplementar/) | Leonardo | Beatriz |
  | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/cronograma/) | Ian | Kauã |
  | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/cronograma_realizado/) | Ian | Kauã | 
@@ -320,8 +320,8 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 ### 8.2 Tabela da Validação
 | Artefatos | Autor | Revisor |
 | --------- | ----- | ------- | 
-| [Comprovação Informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) | Ana Beatriz e Mylena | João |
-| [Prototipação](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana Beatriz e Mylena | João |
+| [Comprovação Informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) | Ana B. e Mylena | João |
+| [Prototipação](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana B. e Mylena | João |
 
 
 ## 9. Síntese das Ferramentas
@@ -347,22 +347,22 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 
 | Etapa                                                                                             | Participantes                                            |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [Entrega 1](https://www.youtube.com/watch?v=nXzaoptwyAE)                                          | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 2](https://www.youtube.com/watch?v=vCXc620S378)                                          | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 3](https://www.youtube.com/watch?v=ezyo9w8Pc14)                                          | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 4](https://youtu.be/aXE6jrN7GOM)                                                         | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 5.1](https://youtu.be/imGMXbuWMsQ)                                                       | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 5.2](https://www.youtube.com/watch?v=CEK9yAVYg7g)                                        | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Entrega 6](https://www.youtube.com/watch?v=jzbskGjNgxk)                                          | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| Gravação de Reunião<br>[Ajustes finais entrega 1](https://youtu.be/xmTG8MMpY8Y)                   | Ana Beatriz, Ian, João, Kauã e Mylena                    |
-| Gravação de Reunião<br>[Início da etapa 3](https://youtu.be/El_cwOEWp14)                          | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| Gravação de Reunião<br>[Verificação e validação pt2](https://www.youtube.com/watch?v=t4xvg6oHiZI) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
-| [Reunião com PO](https://youtu.be/LjZ1S_u8vkw) - Prototipação                                     | Ana Beatriz e Product Owner                              |
-| [Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog             | Ana Beatriz, Kauã e Product Owner                        |
+| [Entrega 1](https://www.youtube.com/watch?v=nXzaoptwyAE)                                          | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 2](https://www.youtube.com/watch?v=vCXc620S378)                                          | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 3](https://www.youtube.com/watch?v=ezyo9w8Pc14)                                          | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 4](https://youtu.be/aXE6jrN7GOM)                                                         | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 5.1](https://youtu.be/imGMXbuWMsQ)                                                       | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 5.2](https://www.youtube.com/watch?v=CEK9yAVYg7g)                                        | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Entrega 6](https://www.youtube.com/watch?v=jzbskGjNgxk)                                          | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| Gravação de Reunião<br>[Ajustes finais entrega 1](https://youtu.be/xmTG8MMpY8Y)                   | Ana B., Ian, João, Kauã e Mylena                    |
+| Gravação de Reunião<br>[Início da etapa 3](https://youtu.be/El_cwOEWp14)                          | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| Gravação de Reunião<br>[Verificação e validação pt2](https://www.youtube.com/watch?v=t4xvg6oHiZI) | Ana B., Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Reunião com PO](https://youtu.be/LjZ1S_u8vkw) - Prototipação                                     | Ana B. e Product Owner                              |
+| [Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog             | Ana B., Kauã e Product Owner                        |
 | [Reunião com a Equipe<br> de Desenvolvimento](https://youtu.be/RKZUsCj00us) - FTF                 | Kauã e Equipe de Desenvolvimento                         |
 | [Reunião com PO](https://youtu.be/D4a7vA9LOOg) - FTF                                              | Kauã e Product Owner                                     |
-| Elicitação de Requisitos - <br> [Entreviata 1](https://youtu.be/9wbc4-v2vWc)                      | Ana Beatriz e Entrevistado 1                             |
-| Elicitação de Requisitos - <br> [Entrevista 2](https://youtu.be/x1gkQIUbq_k)                      | Ana Beatriz e Entrevistado 1                             |
+| Elicitação de Requisitos - <br> [Entreviata 1](https://youtu.be/9wbc4-v2vWc)                      | Ana B. e Entrevistado 1                             |
+| Elicitação de Requisitos - <br> [Entrevista 2](https://youtu.be/x1gkQIUbq_k)                      | Ana B. e Entrevistado 1                             |
 
 
 ### Bibliografia
@@ -378,7 +378,7 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 | ------ | ---------- | ----------------------------------- | ----------- | ----------- |
 | `1.0`  | 04/07/2023 | Criação do artefato                 | Mylena      | Kaua        |
 | `1.1`  | 04/07/2023 | Adição dos artefactos e revisores   | Kauã        | Ana         |
-| `1.2`  | 04/07/2023 | Síntese dos Videos                  | Ana Beatriz | Kauã        |
+| `1.2`  | 04/07/2023 | Síntese dos Videos                  | Ana B. | Kauã        |
 | `1.3`  | 04/07/2023 | Conclusão e atualização das tabelas | João        | Kauã        |
 | `2.0`  | 05/07/2023 | Versão final | Mylena      | Beatriz      |
 
