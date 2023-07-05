@@ -89,10 +89,9 @@ Na Tabela 1, apresentamos os principais resultados alcançados com a análise do
 
 ### 5.3. Facilidades e Dificuldades
 
-
+Ao final do projeto, a equipe desenvolveu um documento [Post Mortem](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/PostMortem.md) que refere-se ao entender individual de cada membro do grupo de quais foram as suas dificuldades e facilidades no projeto.
 
 ### 5.4. Conclusão 
-
 
 
 ## 6. Síntese de Técnicas Utilizadas
@@ -107,18 +106,84 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 
 ### 7.1. Planejamento
 
-
-A tabela 1 apresenta os artefatos referentes ao planejamento da equipe durante o semestre e as ferramentas utilizadas durante o projeto.
+A tabela 2 apresenta os artefatos referentes ao planejamento da equipe durante o semestre e as ferramentas utilizadas durante o projeto.
 
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---- | ---- | ---- |
-
-
+| [Aplicativo selecionado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) |Beatriz e Leonardo|Ian|
+| [Cronograma](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma/)| Kauã e João| Beatriz|
+| [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma_realizado/)| Kauã ,Mylena e João| Beatriz|
+| [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/)|João|Kauã|
+| [Metodologias](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/metodologias/)| Kauã | João|
 
 <div style="text-align: center">
-<p> Tabela 1: Síntese dos artefatos de Planejamento <br/>Fonte: Autores.</p>
+<p> Tabela 2: Síntese dos artefatos de Planejamento <br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.2. Elicitação
+
+A tabela 3 apresenta os artefatos referentes a etapa de elicitação e priorização utilizadas durante o projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+| [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Ian | Ana|
+| [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) | Ana | Beatriz|
+| [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/)  | Leonardo | Kauã |
+| [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) | Beatriz |Leonardo|
+| [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/)     | Ian     | João   |
+| [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/) | Mylena  | Kauã   |
+| [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/) | Leonardo| Ian    |
+| [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)          | Kauã    | Mylena |
+| [TLE](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)          | Kauã    | Mylena |
+| [Moscow ](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)      | Ana e Beatriz |  Mylena|
+
+<div style="text-align: center">
+<p> Tabela 3: Síntese dos artefatos de Elicitação e Priorização<br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.3. Modelagem
+
+A tabela 4 apresenta os artefatos referentes a etapa de modelagem desenvolvida no projeto.
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+| [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/)| Ana | João|
+| [Casos de Uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) | Ian | Mylena|
+| [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)     | Mylena e Leonardo|Kauã |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) | Ana e Kauã | Leonardo|
+| [Histórias de Usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/) | Kauã e João | Mylena |
+| [Léxicos](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) | Beatriz e João | Ana |
+| [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)     | Beatriz,Leonardo e Mylena| Ana|
+
+<div style="text-align: center">
+<p> Tabela 4: Síntese dos artefatos de Modelagem <br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.4. Pos-Rastreabilidade
+
+A tabela 5 apresenta os artefatos referentes a etapa de pos-rastreabilidade desenvolvida durante o projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+|[Backward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/)| 	João,Leonardo e Mylena|Ana, Beatriz e Kauã|
+| [Forward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Ana, Beatriz e Kauã|	João,Leonardo e Mylena|
+| [Matriz Geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Ian| Kauã|
+
+<div style="text-align: center">
+<p> Tabela 5: Síntese dos artefatos de Pos-Rastreabilidade <br/>Fonte: Autores.</p>
 </div>
 
 </center>
@@ -144,14 +209,16 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 | Ferramenta | Artefatos | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- | --- | 
 
-## Histórico de versão
-
-| Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
-| ------ | ---------- | ------------------- | -------------------- | ----------- |
-| `1.0`  | 04/07/2023 | Criação do artefato | Mylena |Kaua       |
-
 
 ## 10. Síntese dos Vídeos
 
 | Etapa | Participantes |
 | ----  | ------------- |
+
+## Histórico de versão
+
+| Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
+| ------ | ---------- | ------------------- | -------------------- | ----------- |
+| `1.0`  | 04/07/2023 | Criação do artefato | Mylena               |  Kaua       |
+| `1.1`  | 04/07/2023 | Adição dos artefactos e revisores | Kauã   |  Ana        |
+
