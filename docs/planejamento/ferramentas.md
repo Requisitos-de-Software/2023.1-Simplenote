@@ -36,6 +36,7 @@ Vale ressaltar que certas ferramentas foram incluídas ao longo do projeto, mas 
 ## Bibliografia
 
 > [1] Repositorio Requisitos - Planejamento - Ferramentas. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/edit/main/docs/planejamento/ferramentas.md>. Acesso em: 9 de abril de 2023. <br/>
+> [2] Simplenote, Grupo 5. Atas de Reuniões. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/atas.md
 
 ## Histórico de Versão
 
