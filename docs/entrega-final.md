@@ -100,6 +100,15 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 
 | Etapa | Artefato | Técnica | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- | --- | --- |
+| Pré- rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) | Rich Picture | Leonardo | Beatriz | Esclarecer funcionalidades e responsabilidades do sistema |
+| Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana Beatriz e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
+| Elicitação | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/) | Questionário | Ian | Mylena| Arquétipo hipotético desenvolvido a fim de retratar principais usuários do sistema e, assim, elicitar requisitos condizentes com sus necessidades |
+| Elicitação | [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/) | Questionário | Mylena| Kauã e Beatriz| Fazer uma checagem do público alvo para a construção das personas |
+| Elicitação | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) | Introspecção | Beatriz | Leonardo e João| Idealizar o sistema ideal com base nas necessidades e desejos do usuário, definindo propriedades e funcionalidades para o desenvolvimento bem-sucedido do produto.|
+| Elicitação | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) | Glossário |Leonardo| Kauã |  Proporcionar uma compreensão clara e consistente dos termos usados, evitando ambiguidades e melhorando a comunicação entre as partes interessadas|
+| Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana Beatriz | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
+| Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian | Ana Beatriz | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
+
 
 
 ## 7. Síntese dos Artefatos
