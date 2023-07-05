@@ -124,9 +124,27 @@ A tabela 2 apresenta os artefatos referentes ao planejamento da equipe durante o
 
 </center>
 
-### 7.2. Elicitação
+### 7.2. Pré rastreabilidade
 
-A tabela 3 apresenta os artefatos referentes a etapa de elicitação e priorização utilizadas durante o projeto.
+A tabela 3 apresenta os artefatos referentes ao planejamento da equipe durante o semestre e as ferramentas utilizadas durante o projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+| [Escolha do aplicativo](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/escolha_rp/)| Mylena | Ana|
+| [RichPicture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) |Beatriz |Leonardo e Ian|
+
+
+<div style="text-align: center">
+<p> Tabela 3: Síntese dos artefatos de Pré Rastreabilidade <br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.3. Elicitação
+
+A tabela 4 apresenta os artefatos referentes a etapa de elicitação e priorização utilizadas durante o projeto.
 
 <center>
 
@@ -144,14 +162,14 @@ A tabela 3 apresenta os artefatos referentes a etapa de elicitação e prioriza�
 | [Moscow ](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)      | Ana e Beatriz |  Mylena|
 
 <div style="text-align: center">
-<p> Tabela 3: Síntese dos artefatos de Elicitação e Priorização<br/>Fonte: Autores.</p>
+<p> Tabela 4: Síntese dos artefatos de Elicitação e Priorização<br/>Fonte: Autores.</p>
 </div>
 
 </center>
 
-### 7.3. Modelagem
+### 7.4. Modelagem
 
-A tabela 4 apresenta os artefatos referentes a etapa de modelagem desenvolvida no projeto.
+A tabela 5 apresenta os artefatos referentes a etapa de modelagem desenvolvida no projeto.
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
@@ -165,14 +183,14 @@ A tabela 4 apresenta os artefatos referentes a etapa de modelagem desenvolvida n
 | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/)     | Beatriz,Leonardo e Mylena| Ana|
 
 <div style="text-align: center">
-<p> Tabela 4: Síntese dos artefatos de Modelagem <br/>Fonte: Autores.</p>
+<p> Tabela 5: Síntese dos artefatos de Modelagem <br/>Fonte: Autores.</p>
 </div>
 
 </center>
 
-### 7.4. Pos-Rastreabilidade
+### 7.5. Pos-Rastreabilidade
 
-A tabela 5 apresenta os artefatos referentes a etapa de pos-rastreabilidade desenvolvida durante o projeto.
+A tabela 6 apresenta os artefatos referentes a etapa de pos-rastreabilidade desenvolvida durante o projeto.
 
 <center>
 
@@ -183,7 +201,25 @@ A tabela 5 apresenta os artefatos referentes a etapa de pos-rastreabilidade dese
 | [Matriz Geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Ian| Kauã|
 
 <div style="text-align: center">
-<p> Tabela 5: Síntese dos artefatos de Pos-Rastreabilidade <br/>Fonte: Autores.</p>
+<p> Tabela 6: Síntese dos artefatos de Pos-Rastreabilidade <br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.6. Analise
+
+A tabela 7 apresenta os artefatos referentes a etapa de analise desenvolvida durante o projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+|[Backward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/)| 	João,Leonardo e Mylena|Ana, Beatriz e Kauã|
+| [Forward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Ana, Beatriz e Kauã|	João,Leonardo e Mylena|
+| [Matriz Geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Ian| Kauã|
+
+<div style="text-align: center">
+<p> Tabela 7: Síntese dos artefatos de analise <br/>Fonte: Autores.</p>
 </div>
 
 </center>
@@ -204,18 +240,29 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 
 ## 9. Síntese das Ferramentas
 
-### 9.1. Tebela de Ferramentas 
+### 9.1. Tabela de Ferramentas 
 
 | Ferramenta | Artefatos | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- | --- | 
-
+| Github | Todo o projeto | - | - | Ferramenta de versionamento de projeto|
+| Youtube | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/)|Mylena| Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena| Ferramenta utilizada para armazenar os vídeos das entregas|
+| Visual Studio Code | Todo o projeto | - |- | Editor de texto |
+| Lucidchart | [RichPicture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) e [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) | Beatriz em ambos | Ana em ambos|Ferramenta utilizada para fazer a diagramação de partes do projeto|
+| This person doesnt exist | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/)| Ian |João| Ia utilizada para gerar rostos de pessoas inexistentes|
+| Figma | [Protótipo](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/validacao/prototipo.md)| Ana e Mylena | João|Ferramenta utilizada para fazer a prototipação do site|
+| OBS Studio | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/)|Mylena| Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|Ferramenta utilizada para realizar a gravação das entregas|
+| Whatsapp | - | - |- |Ferramenta para comunicação da equipe|
+| Authentique | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) | Mylena | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena| Site utilizado para realizar o controle de presença nas reuniões|
+| Discord | - | - | - | Ferramenta utilizada para reunião dos grupos|
+| Canva   | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) | Mylena | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena| Site utilizado para confeccionar as atas|
+| Google Forms | [Questionário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/questionario/) | Mylena  | Kauã   | Site utilizado para hostear o questionário ditribuido na etapa de elicitação|
 
 ## 10. Síntese dos Vídeos
 
 | Etapa | Participantes |
 | ----  | ------------- |
 
-## Histórico de versão
+#|# Histórico de versão
 
 | Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
 | ------ | ---------- | ------------------- | -------------------- | ----------- |
