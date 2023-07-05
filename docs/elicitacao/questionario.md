@@ -123,5 +123,6 @@ Para mais informações, verificar: [personas](https://requisitos-de-software.gi
 | Versão | Data | Descrição| Autor(es) | Revisor(es)
 |--|--|--|--|--|
 |`1.0` | 30/04/2023 | Criação da documentação| Mylena |Kauã |
+| `1.1` | 13/05/2023 | Ajustes pós entrega  | Beatriz | Ana Beatriz      |
 |`2.0` | 26/06/2023 | Arrumando a documentação| Beatriz |Kauã |
 
