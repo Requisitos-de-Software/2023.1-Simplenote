@@ -161,10 +161,12 @@ nav:
           - Metodologias: analise/verificacao/verificacao-Grupo5/planejamento/metodologias.md
           - Aplicativo Selecionado: analise/verificacao/verificacao-Grupo5/planejamento/app.md
           - Rich Picture: analise/verificacao/verificacao-Grupo5/planejamento/rich_picture.md 
-    - Validação: 
-      - Protótipo: analise/validacao/prototipo.md
-      - Comprovação informal: analise/validacao/comprovacao_informal.md
-  - Entrega Final: entrega-final.md
+      - Validação: 
+        - Protótipo: analise/validacao/prototipo.md
+        - Comprovação informal: analise/validacao/comprovacao_informal.md
+  - Entrega Final: 
+    - Post mortem: PostMortem.md
+    - Documentação final: entrega-final.md
 
   
 
