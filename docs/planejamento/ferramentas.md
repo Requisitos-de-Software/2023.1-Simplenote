@@ -27,7 +27,7 @@ Vale ressaltar que certas ferramentas foram incluídas ao longo do projeto, mas 
 | <img src="../img/Discord.png" width="150px" /> | [Discord](https://discord.com/) |Ambiente usado para realizar as reuniões |
 | <img src="../img/canva.png" width="150px" />| [Canva](https://www.canva.com) | Ferramenta para edição rápida de imagens e composições |
 | <img src="../img/forms.png" width="150px" /> | [Google Forms](https://docs.google.com/forms/u/0/) | Ferramenta de elaboração de formulários |
-| <img src="../img/meet.png" width="150px" />| [Google Meet](https://meet.google.com/) | Ferramenta utilizadas para reuniões colaborativas |
+| <img src="../img/meet.jpg" width="150px" />| [Google Meet](https://meet.google.com/) | Ferramenta utilizadas para reuniões colaborativas |
 | <img src="../img/teams.png" width="150px" /> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) | Ferramenta utilizada para chamadas, reuniões e compartilhamento de arquivos |
 <div>
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
