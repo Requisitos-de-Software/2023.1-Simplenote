@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A Especificação Suplementar é uma tecnica de modelagem que captura os requisitos de sistema que não foram identificados nos casos de uso, como por exemplo: requisitos reguladores, atributos de qualidade do sistema, sistemas operacionais, requisitos de compatiblidade e restrições de design.
+A Especificação Suplementar[²](#referencias-bibliograficas) é uma tecnica de modelagem que captura os requisitos de sistema que não foram identificados nos casos de uso, como por exemplo: requisitos reguladores, atributos de qualidade do sistema, sistemas operacionais, requisitos de compatiblidade e restrições de design.
 
 ## Metodologia
 
-Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual definimos os requisitos não funcionais elicitados no projeto de acordo com o método FURPS+ no qual é expandido em:
+Para a produção deste artefacto, foi utilizado o modelo FURPS+[¹](#referencias-bibliograficas), na qual definimos os requisitos não funcionais elicitados no projeto de acordo com o método FURPS+ no qual é expandido em:
 
 - Funcionalidade;
 - Usabilidade;
@@ -20,7 +20,7 @@ Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual defini
 ### Funcionalidade
 
 Representa os aspectos funcionais do software, aqui, temos diversos subtópicos que variam de acordo com a aplicação.</br>
-Os requisitos funcionais podem ser encontrados nos [casos de uso](https://github.com/Requisitos-de-Software/2023.1-Simplenote/tree/main/docs/modelagem/casos_de_uso.md).
+Os requisitos funcionais podem ser encontrados nos [casos de uso](../modelagem/casos_de_uso.md).
 
 - Recursos.
 - Segurança.
@@ -108,19 +108,19 @@ Para melhor entendimento da tabela 1, temos a tabela 2 que mostra os simbolos re
 
 |ID| Significado|
 |--|------------|
-|B|Brainstorming|
-|ENT|Entrevista|
-|ES|Especificação Suplementar|
-|GLO|Glossário|
-|INT| Introspecção|
+|B|[Brainstorming](../elicitacao/brainstorming.md)|
+|ENT|[Entrevista](../elicitacao/entrevista.md)|
+|ES|[Especificação Suplementar](../modelagem/especificacao_suplementar.md)|
+|GLO|[Glossário](../elicitacao/glossario.md)|
+|INT| [Introspecção](../elicitacao/Introspec%C3%A7%C3%A3o.md)|
 
 Tabela 2: Tabela de significados da tabela 1. (Fonte: Dos autores,2023)
 
-## Bibliografia
+## Referências Bibliográficas
 
-> [1] FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/
+> [1] FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 03 maio 2023
 >
-> [2] SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor
+> [2] SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor.
 
 ## Histórico de versão
 
@@ -131,3 +131,4 @@ Tabela 2: Tabela de significados da tabela 1. (Fonte: Dos autores,2023)
 | `1.2`  | 08/05/2023 | Finalizando documento             | Ana e Kauã | Leonardo    |
 | `1.3`  | 04/06/2023 | Correções após a entrega 3        | Leonardo   | Ian         |
 | `1.4`  | 17/06/2023 | Correções após entrega 5.1        | Kauã       |      -      |
+| `1.5`  | 05/07/2023 | Ajustes Finais                    | Ana Beatriz| Kauã        |
