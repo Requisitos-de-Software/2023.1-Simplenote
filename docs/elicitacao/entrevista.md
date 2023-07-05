@@ -287,5 +287,5 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
 | `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | João        |
 | `1.5`  | 03/07/2023 | Ajustes Verificação 2.0                 | Ana Beatriz | Mylena      |
-| `1.6`  | 03/07/2023 | Ajustes Finais                          | Ana Beatriz | Mylena      |
+| `1.6`  | 05/07/2023 | Ajustes Finais                          | Ana Beatriz | Mylena      |
 

@@ -20,7 +20,7 @@ Em geral, para a classificação de cada requisito foi baseada na importância d
 
 ## Metodologia
 
-A classificação dos requisitos utilizando a técnica MoSCoW, bem como a justificativa geral apresentada, foi embasada em conhecimentos e conceitos abordados em sala disponível na referência [[1]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas), especificamente na aula 07 sobre requisitos ministrada por Milene Serano. Essa referência serviu como base teórica para compreender a aplicação da técnica de priorização MoSCoW e sua relevância na definição das necessidades e prioridades do projeto Simplenote. Ao utilizar essa referência, buscamos garantir uma abordagem coerente e fundamentada na prática de gerenciamento de requisitos.
+A classificação dos requisitos utilizando a técnica MoSCoW, bem como a justificativa geral apresentada, foi embasada em conhecimentos e conceitos abordados em sala disponível na referência [¹](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas), especificamente na aula 07 sobre requisitos ministrada por Milene Serano. Essa referência serviu como base teórica para compreender a aplicação da técnica de priorização MoSCoW e sua relevância na definição das necessidades e prioridades do projeto Simplenote. Ao utilizar essa referência, buscamos garantir uma abordagem coerente e fundamentada na prática de gerenciamento de requisitos.
 
 A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotamente, através do Discord, para discutir o levantamento dos requisitos obtidos por meio das técnicas aplicadas. Durante a discussão, foi avaliada a importância de cada requisito e decidimos onde eles se encaixariam melhor no contexto do projeto. É válido ressaltar que a decisão foi baseada em personas, storytelling e introspecção, sem a influência de usuários reais.
 
@@ -34,17 +34,17 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 
 | Tipo  |                         Requisito                          |  Elicitação  |
 | :---: | :--------------------------------------------------------: | :----------: |
-| RF01  |            O usúario deve poder fazer anotação             | Questionário |
-| RF02  |            O usúario deve poder editar Anotação            | Introspecção |
-| RF03  |          O usúario deve poder vizualizar Anotação          | Introspecção |
-| RF04  |           O usúario deve poder excluir anotação            | Introspecção |
-| RF05  |             O usúario deve poder usar Markdown             | Questionário |
-| RF06  |    O usúario deve poder buscar notas por palavras-chave    | Questionário |
-| RNF07 |           O sistema deve ser simples e intuitivo           | Questionário |
-| RF08  |           O usuário deve poder sincronizar notas           |  Entrevista  |
-| RF09  |     O usuário deve poder criar uma conta e fazer login     |  Entrevista  |
-| RF10  | O sistema deve permitir a exportação e importação de notas |   Persona    |
-| RF11  |        O usuário deve poder criar notas com imagens        |   Persona    |
+| RF01  |            O usúario deve poder fazer anotação             | [Questionário](../questionario.md) |
+| RF02  |            O usúario deve poder editar Anotação            | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/) |
+| RF03  |          O usúario deve poder vizualizar Anotação          | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+| RF04  |           O usúario deve poder excluir anotação            | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+| RF05  |             O usúario deve poder usar Markdown             | [Questionário](../questionario.md) |
+| RF06  |    O usúario deve poder buscar notas por palavras-chave    | [Questionário](../questionario.md) |
+| RNF07 |           O sistema deve ser simples e intuitivo           | [Questionário](../questionario.md) |
+| RF08  |           O usuário deve poder sincronizar notas           |  [Entrevista](../entrevista.md) |
+| RF09  |     O usuário deve poder criar uma conta e fazer login     |  [Entrevista](../entrevista.md) |
+| RF10  | O sistema deve permitir a exportação e importação de notas |   [Personas](../personas.md)    |
+| RF11  |        O usuário deve poder criar notas com imagens        |   [Personas](../personas.md)    |
 
 <p align="center"> Tabela 1: Must have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
@@ -52,15 +52,15 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 
 | Tipo  |                           Requisito                           |  Elicitação  |
 | :---: | :-----------------------------------------------------------: | :----------: |
-| RF12  |      O usúario deveria poder recuperar anotação excluida      |  Entrevista  |
-| RNF13 |         O sistema deveria salvar a anotação em até 1s         | Introspecção |
-| RNF14 |       O usúario deveria poder fazer notas sem internet        | Introspecção |
-| RF15  |     O usúario deveria poder pesquisar por suas anotações      | Questionário |
-| RNF16 |  O aplicativo deveria ser compatível com dispositivos móveis  |  Entrevista  |
-| RF17  |     O sistema deveria permitir a sincronização automática     |   Persona    |
-| RF18  |     O usuário deveria poder definir cores para suas tags      |  Entrevista  |
-| RNF19 |   O sistema deveria ser otimizado para dispositivos móveis    |   Persona    |
-| RF20  | O usuário deveria poder compartilhar notas com outras pessoas |   Persona    |
+| RF12  |      O usúario deveria poder recuperar anotação excluida      |  [Entrevista](../entrevista.md) |
+| RNF13 |         O sistema deveria salvar a anotação em até 1s         | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+| RNF14 |       O usúario deveria poder fazer notas sem internet        | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+| RF15  |     O usúario deveria poder pesquisar por suas anotações      | [Questionário](../questionario.md) |
+| RNF16 |  O aplicativo deveria ser compatível com dispositivos móveis  |  [Entrevista](../entrevista.md) |
+| RF17  |     O sistema deveria permitir a sincronização automática     |   [Personas](../personas.md)    |
+| RF18  |     O usuário deveria poder definir cores para suas tags      |  [Entrevista](../entrevista.md) |
+| RNF19 |   O sistema deveria ser otimizado para dispositivos móveis    |   [Personas](../personas.md)    |
+| RF20  | O usuário deveria poder compartilhar notas com outras pessoas |   [Personas](../personas.md)    |
 
 <p align="center"> Tabela 2: Should have <br> Fonte: autoras <br> Autores: Ana e Beatriz </p>
 
@@ -69,10 +69,10 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | Tipo  |                         Requisito                          |  Elicitação  |
 | :---: | :--------------------------------------------------------: | :----------: |
 | RF21  |      O usuario poderia ver informações sobre sua nota      |      --      |
-| RF22  |    O usuario poderia definir templates para suas notas     | Introspecção |
-| RF23  |       O usuario poderia separar suas notas em pastas       | Introspecção |
+| RF22  |    O usuario poderia definir templates para suas notas     | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
+| RF23  |       O usuario poderia separar suas notas em pastas       | [Introspecção](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/)|
 | RF24  |  O usuario poderia importar ou exportar modelos de layout  |      --      |
-| RNF25 | O aplicativo poderia ter integração com outros aplicativos |  Entrevista  |
+| RNF25 | O aplicativo poderia ter integração com outros aplicativos |  [Entrevista](../entrevista.md) |
 | RF26  |   O usuário poderia definir um lembrete para suas notas    |      --      |
 | RNF27 |   O sistema poderia fornecer estatísticas sobre as notas   |      --      |
 | RNF28 | O sistema poderia oferecer sugestões de notas relacionadas |      --      |
@@ -112,3 +112,5 @@ A equipe encarregada da atividade se reuniu tanto presencialmente quanto remotam
 | `1.2`  | 29/04/2023 | Finalizando requisitos        | Beatriz e Ana Beatriz | Mylena      |
 | `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2   | Ana Beatriz           | Mylena      |
 | `1.4`  | 18/06/2023 | Ajustes Verificação           | Ana Beatriz           | Kauã        |
+| `1.5`  | 05/07/2023 | Ajustes Finais                | Ana Beatriz           | Beatriz     |
+

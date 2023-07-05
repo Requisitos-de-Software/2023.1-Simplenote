@@ -29,21 +29,21 @@ Com essas dimensões, podemos montar propriamente a estrutura das histórias de 
 ## Metodologia
 A princípio, durante o projeto foram elicitados os requisitos do aplicativo através de tecnicas como:
 
-- [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
-- [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
-- [Glossário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/glossario.md)
-- [Instrospecção](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)
-- [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md)
-- [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md)
-- [Storytelling](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/storytelling.md)
-  
+- [Brainstorming](../../elicitacao/brainstorming.md)
+- [Entrevista](../../elicitacao/entrevista.md)
+- [Glossário](../../elicitacao/glossario.md)
+- [Instrospecção](../../elicitacao/Introspec%C3%A7%C3%A3o.md)
+- [Personas](../../elicitacao/personas.md)
+- [Questionário](../../elicitacao/questionario.md)
+- [Storytelling](../../elicitacao/storytelling.md)
+
 Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
 
-- [FTF](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
-- [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
-- [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
+- [FTF](../../elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
+- [MosCow](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
+- [TLE](../../elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
 
-Então, as funcionalidades foram escritas de maneira rápida e padronizada seguindo as especificações presentes no [Backlog](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/backlog.md).E por fim, foi efetuado uma validação do documento através de uma reunião com o pseudo-PO do projeto.
+Então, as funcionalidades foram escritas de maneira rápida e padronizada seguindo as especificações presentes no [Backlog](backlog.md).E por fim, foi efetuado uma validação do documento através de uma reunião com o pseudo-PO do projeto.
 
 ## Padrão de história de usuário
 Para escrever as histórias de usuário, devemos seguir as dimensões já especificadas neste documento, assim, para a modelagem da histórias de usuário deste projeto, devemos ter as seguintes informações:
@@ -456,3 +456,5 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 |`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena |
 |`1.2`|24/05/2023|Mudanças pontuais |Kauã|Mylena|
 |`1.3`|13/06/2023|Mudanças nas histórias de usuário e textos|Kauã|Mylena|
+|`1.4`|05/07/2023|Ajustes Finais|Ana Beatriz|Kauã|
+

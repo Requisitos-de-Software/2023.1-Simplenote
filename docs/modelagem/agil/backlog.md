@@ -10,26 +10,26 @@ Ao priorizar as necessidades e desejos do cliente, o backlog do produto no proje
 
 ## Metodologia
 
-A elaboração do Backlog do Produto foi baseada em referências relevantes na área de gerenciamento de projetos ágeis. O site [[1]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) da Atlassian forneceu informações valiosas sobre a definição de histórias de usuário e sua utilização no contexto de um backlog ágil. O vídeo [[2]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) disponível no YouTube 
+A elaboração do Backlog do Produto foi baseada em referências relevantes na área de gerenciamento de projetos ágeis. O site [¹](#referencias-bibliograficas) da Atlassian forneceu informações valiosas sobre a definição de histórias de usuário e sua utilização no contexto de um backlog ágil. O vídeo [²](#referencias-bibliograficas) disponível no YouTube 
 apresentado por Agile Coach Diego Gomes também trouxe insights sobre o tema. Além disso, o vídeo 
-[[3]](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md#referencias-bibliograficas) do mesmo autor 
+[³](#referencias-bibliograficas) do mesmo autor 
 sobre a introdução ao Product Backlog foi utilizado como base para entender a importância e o 
 propósito desse artefato. Em seguida, esses requisitos foram agrupados em temas e épicos, que 
 foram utilizados como base para criação das [histórias de usuário](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/).
 
-- [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
-- [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
-- [Glossário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/glossario.md)
-- [Instrospecção](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)
-- [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md)
-- [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md)
-- [Storytelling](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/storytelling.md)
+- [Brainstorming](../../elicitacao/brainstorming.md)
+- [Entrevista](../../elicitacao/entrevista.md)
+- [Glossário](../../elicitacao/glossario.md)
+- [Instrospecção](../../elicitacao/Introspec%C3%A7%C3%A3o.md)
+- [Personas](../../elicitacao/personas.md)
+- [Questionário](../../elicitacao/questionario.md)
+- [Storytelling](../../elicitacao/storytelling.md)
 
 Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
 
-- [FTF](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
-- [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
-- [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
+- [FTF](../../elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
+- [MosCow](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
+- [TLE](../../elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
 
 Os épicos e temas foram escritos de maneira ágil e padronizada, garantindo consistência com os requisitos funcionais identificados. Para garantir a qualidade do documento, uma validação foi realizada por meio de uma reunião com o pseudo-Product Owner (PO) do projeto. Nessa reunião, foi discutido e revisado o conteúdo, buscando alinhar as expectativas e garantir que as necessidades do projeto fossem adequadamente refletidas no backlog do produto ([Tabela 7 e Tabela 8](../../modelagem/agil/backlog.md#product-backlog)).
 
@@ -375,7 +375,7 @@ Nas tabelas 6 e 7 possui o Backlog completo com os temas, épicos, Histórias de
 
 ## Validação das histórias de usuário e Backlog
 
-Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
+Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que esta disponivel clicando [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às ,após a entrevista, foram feitas as alterações necessárias.
 
 ## Referências Bibliográficas
 
@@ -383,7 +383,7 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 >
 > [2] DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 11 jul. 2022. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>. Acesso em: 13 maio 2023
 
-> [3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 14 maio 2023.
+> [3] GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 23 jun. 2020. Disponível em: <https://youtu.be/z4ubaBwjCsU>. Acesso em: 14 maio 2023.
 
 
 
@@ -396,3 +396,4 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 | `1.2`  | 12/06/2023 | Ana Beatriz       | Ajustes                     | João    |
 | `1.3`  | 13/06/2023 | Ana Beatriz       | Ajustes                     | João    |
 | `1.4`  | 18/06/2023 | Ana Beatriz       | Ajustes Verificação         | Beatriz |
+| `1.5`  | 05/07/2023 | Ana Beatriz       | Ajustes Finais              | Kauã    |
