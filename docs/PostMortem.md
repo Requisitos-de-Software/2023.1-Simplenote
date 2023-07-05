@@ -32,7 +32,7 @@ Durante a fase de trabalho com requisitos, enfrentei um desafio considerável de
 
 ### Ian Da Costa
 
-Ao longo do semestre, tive oportunidade de adquirir um amplo conhecimento a respeito das diferentes áreas relacionadas a requisitos de software, bem como compreender o quanto comunicação eficiente entre os membros da equipe é crucial para o sucesso colaborativo.
+Ao longo do semestre, tive oportunidade de adquirir um amplo conhecimento a respeito das diferentes áreas relacionadas a requisitos de software, bem como compreender que a boa comunicação entre os membros da equipe é um pilar fundamental para o sucesso do projeto.
 
 Uma das principais lições que tirei dessa experiência foi a valorização da colaboração em equipe. Ao longo do projeto, aprimorei minha habilidade de ouvir as opiniões dos colegas e a trabalhar em conjunto para encontrar soluções para os desafios encontrados. A troca de ideias e a diversidade de perspectivas enriqueceram o processo de desenvolvimento, permitindo-nos alcançar melhores resultados
 
