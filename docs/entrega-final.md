@@ -130,6 +130,8 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 | Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) |
 | Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) |
 | Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) |
+| Entrega Final | [Post mortem] |
+| Entrega Final | [Documento final] |
 | Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) |
 | Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) |
 | Contínua | Gravações |
