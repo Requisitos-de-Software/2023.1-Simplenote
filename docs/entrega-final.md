@@ -382,5 +382,6 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 | `1.2`  | 04/07/2023 | Síntese dos Videos                  | Ana | Kauã        |
 | `1.3`  | 04/07/2023 | Conclusão e atualização das tabelas | João        | Kauã        |
 | `2.0`  | 05/07/2023 | Versão final | Mylena      | Beatriz      |
+| `2.1`  | 05/07/2023 | Ajustes de Revisão | Beatriz      | Mylena      |
 
 
