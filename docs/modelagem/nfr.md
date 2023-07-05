@@ -292,7 +292,7 @@ Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz
 </div>
 
 <div align="center">
-Figura 7: NFR-3 Portabilidade, Autor(a): Beatriz  </figcaption>
+Figura 7: NFR-3 Portabilidade, Autor(a): Leonardo e Beatriz  </figcaption>
 </div>
 
  ### Com Propagação
