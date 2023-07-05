@@ -112,6 +112,7 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 | :----------------------------------------: | :--------------------: | :-----------------: | :---------------------: | :----------: |
 |               Backward From                |       17/06/2023       |     19/06/2023      | João,Leonardo e Mylena  | Ana, Beatriz e Kauã             |
 |                Forward From                |       17/06/2023       |     19/06/2023      |Ana, Beatriz e Kauã      |João,Leonardo e Mylena        |
+| Matriz geral |17/06/2023 | 19/06/2023 | Ian | Kauã|
 |          Gravação da apresentação          |       20/06/2023       |          -          |  Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena   |      -       |
 | Ajuste com base nos feedbacks              | 22/06/2023             | 25/06/2023          |-                        | -            |
 
@@ -121,6 +122,8 @@ Para o melhor detalhamento das atividades, foi criado um cronograma para cada po
 
 |                   Atividade                   | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :-------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
+| Post Mortem                                   | 04/07/2023             | 05/07/2023          |Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|-|
+| Relatório Final | 04/07/2023|05/07/2023| Ana, Kauã e Mylena |-|
 |   Planejamento de verificação dos artefatos   |       03/07/2023       |     05/07/2023      | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena | -            |
 |           Gravação da apresentação            |       06/07/2023       |          -          | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena |      -      |
 
