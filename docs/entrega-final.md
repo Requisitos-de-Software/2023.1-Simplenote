@@ -90,7 +90,7 @@ Na Tabela 1, apresentamos os principais resultados alcançados com a análise do
 
 ### 5.3. Facilidades e Dificuldades
 
-Ao final do projeto, a equipe desenvolveu um documento [Post Mortem](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/PostMortem.md) que refere-se ao entender individual de cada membro do grupo de quais foram as suas dificuldades e facilidades no projeto.
+Ao final do projeto, a equipe desenvolveu um documento [Post Mortem](https://requisitos-de-software.github.io/2023.1-Simplenote/PostMortem/) que refere-se ao entender individual de cada membro do grupo de quais foram as suas dificuldades e facilidades no projeto.
 
 ### 5.4. Conclusão 
 
@@ -130,8 +130,8 @@ Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Sim
 | Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Forward-from | Ana, Beatriz e Kauã | João, Leonardo e Mylena | Listagem de documentos obtidos no processo de elicitação e sua respectivas conexões | 
 | Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) | Meta-modelo de Toranzo | João, Leonardo e Mylena | Ana, Beatriz e Kauã | Apresentação dos requisitos elicitados durante o projeto e suas conexões por meio de tabelas, hyperlinks e elos de rastreabilidade |
 | Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Matriz geral | Ian |  João, Beatriz e Leonardo | Represntação geral dos requisitos e ligações provenientes da documentação backward-from e forward-from | 
-| Entrega Final | [Post mortem] | Post mortem | Todos | Todos | Documentação com o intuito de passar feedbacks de como foi o projeto | 
-| Entrega Final | [Documento final] | Inspecção | Mylena, Kauã e Ana | Todos | Síntese do que foi produzido para a entrega final |
+| Entrega Final | [Post mortem](https://requisitos-de-software.github.io/2023.1-Simplenote/PostMortem/) | Post mortem | Todos | Todos | Documentação com o intuito de passar feedbacks de como foi o projeto | 
+| Entrega Final | [Documento final](https://requisitos-de-software.github.io/2023.1-Simplenote/entrega-final/) | Inspecção | Mylena, Kauã e Ana | Todos | Síntese do que foi produzido para a entrega final |
 | Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) | MKdocs | Mylena e Ana | Kauã | Página de documentação |
 | Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) | Atas | Mylena | Todos | Acordos firmados durante as reuniões |
 | Contínua | Gravações | Gravação |  João | Todos | Apresentações das entregas e o que foi feito | 
