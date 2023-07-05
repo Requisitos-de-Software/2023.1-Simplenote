@@ -321,5 +321,6 @@ Ao coletar dados, é perceptível a existência de mais de um perfil predominant
 | `1.0`  | 09/04/2023 | Criação do documento e inicio da criação das personas.                                             |Kauã        | João |
 | `2.0`  | 09/04/2023 | Atualização de todas as personas e criação do perfil de usuário.                                             |Ian        | Mylena |
 | `2.1`  | 01/05/2023 | Add ajustes de entrega                                             |Mylena      | Ian|
-|`2.2`|04/07/2023|Correções após elaboração da verificação| Leonardo|Beatriz|
+| `2.2`  | 13/05/2023 | Ajustes pós entrega 2              | Beatriz | Ana Beatriz      |
+|`2.3`|04/07/2023|Correções após elaboração da verificação| Leonardo|Beatriz|
 
