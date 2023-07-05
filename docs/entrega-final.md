@@ -261,8 +261,25 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 
 | Etapa | Participantes |
 | ----  | ------------- |
+| [Entrega 1](https://www.youtube.com/watch?v=nXzaoptwyAE) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 2](https://www.youtube.com/watch?v=vCXc620S378) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 3](https://www.youtube.com/watch?v=ezyo9w8Pc14) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 4](https://youtu.be/aXE6jrN7GOM) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 5.1](https://youtu.be/imGMXbuWMsQ) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 5.2](https://www.youtube.com/watch?v=CEK9yAVYg7g) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| [Entrega 6](https://www.youtube.com/watch?v=jzbskGjNgxk) | Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena  |
+| Gravação de Reunião<br>[Ajustes finais entrega 1](https://youtu.be/xmTG8MMpY8Y)| Ana Beatriz, Ian, João, Kauã e Mylena |
+| Gravação de Reunião<br>[Início da etapa 3](https://youtu.be/El_cwOEWp14)| Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| Gravação de Reunião<br>[Verificação e validação pt2](https://www.youtube.com/watch?v=t4xvg6oHiZI)| Ana Beatriz, Beatriz, Ian, João, Kauã, Leonardo e Mylena |
+| [Reunião com PO](https://youtu.be/LjZ1S_u8vkw) - Prototipação | Ana Beatriz e Product Owner|
+|[Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog||
+|[Reunião com PO]() - FTF||
+| Elicitação de Requisitos - <br> [Entreviata 1]() / [Entrevista 2]() ||
 
-#|# Histórico de versão
+
+
+
+## Histórico de versão
 
 | Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
 | ------ | ---------- | ------------------- | -------------------- | ----------- |
