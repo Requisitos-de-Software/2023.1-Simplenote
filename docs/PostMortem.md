@@ -1,6 +1,6 @@
 # Post Mortem
 ## Introdução
-Neste post mortem, analisaremos o projeto do Simplenote para a disciplina de requisitos com o objetivo de identificar os pontos fortes, as áreas de melhoria e as lições aprendidas durante sua execução.
+Neste post mortem, analisaremos o projeto do Simplenote para a disciplina de requisitos para identificar os pontos fortes, as áreas de melhoria e as lições aprendidas durante sua execução.
 
 ## Pontos positivos
 - Aprender a lidar com metodologia orientada a processos;
@@ -62,7 +62,7 @@ No geral, foi uma matéria tranquila de se cursar e fácil de aprender.
 
 Uma questão que gostei muito na disciplina de Requisitos de Software foi o desenvolvimento de um projeto ao longo do semestre, que era desenvolvido em etapas. Entretanto, recomendo que seja revisto o cronograma de entregas, pois algumas possuem muito conteúdo e o tempo não é suficiente, enquanto outras possuem pouco conteúdo e tempo em excesso.
 
-Além disso, creio que os materias de referência da disciplina no plano de ensino abordam de maneira um tanto superficial alguns artefatos, no caso, o Storytelling, que foi um dos artefatos que fiquei responsável. 
+Além disso, creio que os materiais de referência da disciplina no plano de ensino abordam de maneira um tanto superficial alguns artefatos, no caso, o Storytelling, que foi um dos artefatos que fiquei responsável. 
 
 Postas essas duas questões, a disciplina, de maneira geral não possui muitas complicações no tocante ao entendimento do conteúdo, ou ao desenvolvimento do projeto. Além do conteúdo em si, essa disciplina foi importante para um melhor gerenciamento do trabalho em equipe, em especial a divisão de tarefas, visto que a avaliação final é individual.
 
