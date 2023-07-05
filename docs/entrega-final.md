@@ -160,6 +160,7 @@ A tabela 4 apresenta os artefatos referentes a etapa de elicitação e prioriza�
 | [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)          | Kauã    | Mylena |
 | [TLE](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)          | Kauã    | Mylena |
 | [Moscow ](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)      | Ana e Beatriz |  Mylena|
+| [Priorização Final](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final/)| Mylena | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|
 
 <div style="text-align: center">
 <p> Tabela 4: Síntese dos artefatos de Elicitação e Priorização<br/>Fonte: Autores.</p>
@@ -214,12 +215,30 @@ A tabela 7 apresenta os artefatos referentes a etapa de analise desenvolvida dur
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---- | ---- | ---- |
-|[Backward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/)| 	João,Leonardo e Mylena|Ana, Beatriz e Kauã|
-| [Forward-From](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) | Ana, Beatriz e Kauã|	João,Leonardo e Mylena|
-| [Matriz Geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) | Ian| Kauã|
+| [Comprovação Informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) | Ana e Mylena| João|
+| [Prototipação](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) | Ana e Mylena| João|
 
 <div style="text-align: center">
 <p> Tabela 7: Síntese dos artefatos de analise <br/>Fonte: Autores.</p>
+</div>
+
+</center>
+
+### 7.7. Outros
+
+A tabela 8 apresenta a sinteze dos artefatos que não foram especificados nas etapas passadas.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---- | ---- | ---- |
+| [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/)| Mylena |Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|
+| [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/) | Mylena | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|
+| [Post Mortem](https://requisitos-de-software.github.io/2023.1-Simplenote/postmortem/)| Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena| -| 
+| [Read Me](https://requisitos-de-software.github.io/2023.1-Simplenote/) | Kauã | Ana, Beatriz, Ian, João, Kauã, Leonardo e Mylena|
+
+<div style="text-align: center">
+<p> Tabela 8: Síntese dos artefatos que não se encaixaram nos topicos passados <br/>Fonte: Autores.</p>
 </div>
 
 </center>
@@ -275,8 +294,6 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 |[Reunião com PO](https://youtu.be/XFLfx9RYVpg) - <br> Histórias de Usuário e  Backlog||
 |[Reunião com PO]() - FTF||
 | Elicitação de Requisitos - <br> [Entreviata 1]() / [Entrevista 2]() ||
-
-
 
 
 ## Histórico de versão
