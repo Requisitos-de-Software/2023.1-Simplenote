@@ -57,6 +57,7 @@ No entanto, é importante ressaltar que enfrentamos alguns desafios que afetaram
 | Análise de Requisitos: Verificaçao e Validação 2 | Com base na experiência adquirida com checklists de verificação de artefatos utilizados na entrega anterior, esta etapa envolve a elaboração de checklists direcionados para a avaliação do trabalho realizado pelo próprio grupo. |
 | Pós-Rastreabilidade | Com o objetivo de demonstrar a rastreabilidade da documentação do projeto, esta entrega compreende o desenvolvimento do "backward from", "forward from" e uma matriz geral do projeto, que engloba os dois primeiros documentos mencionados. |
 | Entrega Final | A entrega final do projeto inclui uma variedade de tabelas que sintetizam as técnicas empregadas ao longo do projeto, bem como os artefatos produzidos, apresentações realizadas, verificações efetuadas, ferramentas utilizadas e os resultados alcançados por meio do desenvolvimento do projeto. Essas tabelas proporcionam uma visão consolidada das atividades executadas e dos principais elementos produzidos ao longo do projeto. |
+| Contínua | Essa é a parte do projeto que aconteceu durante todo o seu ciclo, como as reuniões, atas, deploy da gitpage, gravação de apresentações, resumo das entregas|
 
 ## 5. Resultados Alcançados
 
@@ -100,6 +101,11 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 
 | Etapa | Artefato | Técnica | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- | --- | --- |
+| Planejamento | [Cronograma pretendido](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma/) |
+| Planejamento | [Cronograma realizado](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/cronograma_realizado/)|
+| Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/ferramentas/) |
+| Planejamento | [Metodologias](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/metodologias/) |
+| Planejamento | [Aplicativo selecionado para o projeto da disciplina](https://requisitos-de-software.github.io/2023.1-Simplenote/planejamento/Aplicativo%20Selecionado/) |
 | Pré- rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.1-Simplenote/pr%C3%A9-rastreabilidade/rich_picture/) | Rich Picture | Leonardo | Beatriz | Esclarecer funcionalidades e responsabilidades do sistema |
 | Elicitação | [Storytelling](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/)| Role-Playing | Leonardo | Ian, Ana Beatriz e Mylena| Faz-se o uso da contagem de histórias a fim de elicitar funcionalidades do produto a partir da linguagem usual|
 | Elicitação | [Personas](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/) | Questionário | Ian | Mylena| Arquétipo hipotético desenvolvido a fim de retratar principais usuários do sistema e, assim, elicitar requisitos condizentes com sus necessidades |
@@ -108,6 +114,28 @@ A Síntese de Técnicas Utilizadas visa apresentar as técnicas utilizadas no de
 | Elicitação | [Glossário](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/) | Glossário |Leonardo| Kauã |  Proporcionar uma compreensão clara e consistente dos termos usados, evitando ambiguidades e melhorando a comunicação entre as partes interessadas|
 | Elicitação | [Entrevista](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/) |Entrevista |  Ana Beatriz | Beatriz, Mylena e João| Entrevista fechada: perguntas pré-definidas, requisitos específicos. Desenvolvimento de funcionalidades direcionado e consistente |
 | Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/) | Brainstorming | Ian | Ana Beatriz | Discussões que permitem uma abordagem colaborativa na elicitação de requisitos, resultando em maior compreensão e identificação de necessidades, desafios e soluções para o projeto|
+| Priorização | [First things first](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)  |
+| Priorização | [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/) |
+| Priorização | [Three Level Scale](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/) |
+| Modelagem | [Léxico](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/) |
+| Modelagem | [Especificação suplementar](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/especificacao_suplementar/) |
+| Modelagem | [Cenários](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/)  |
+| Modelagem | [Casos de uso](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/) |
+| Modelagem ágil | [NFR](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/nfr/) |
+| Modelagem ágil | [User story](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/)|
+| Modelagem ágil | [Backlog](https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/) |
+| Análise de Requisitos | [Verificação] |
+| Análise de Requisitos | Validação | [Protótipo](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/prototipo/) |
+| Análise de Requisitos | Validação | [Comprovação informal](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/validacao/comprovacao_informal/) |
+| Pós-rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/) |
+| Pós-rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/backward-from/) |
+| Pós-rastreabilidade | [ Matriz geral](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/matriz/) |
+| Contínua | [Gitpage](https://requisitos-de-software.github.io/2023.1-Simplenote/) |
+| Contínua | [Atas](https://requisitos-de-software.github.io/2023.1-Simplenote/atas/) |
+| Contínua | Gravações |
+| Contínua | [Entregas](https://requisitos-de-software.github.io/2023.1-Simplenote/entregas/) |
+
+
 
 
 
