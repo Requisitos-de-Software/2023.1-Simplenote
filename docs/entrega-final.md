@@ -19,10 +19,10 @@ A rich picture do SimpleNote pode ser acessada na parte [RICH PICTURE](https://r
 ### 1.2. Aplicativo SimpleNote
 
 O Simplenote é uma plataforma de anotações com suporte a Markdown e está disponível em diversas plataformas, incluindo Android, Linux, Windows, iOS e macOS. 
-Ademais, as anotações podem ser facilmente acessadas através da maioria dos navegadores da web.
+Ademais, as anotações podem ser facilmente acessadas através da maioria dos navegadores da web. [¹](#ancora1)
 
 O Simplenote foi desenvolvido pela Simperium em 2008 e teve uma versão premium lançada em 2009, que foi posteriormente suspensa quando a Automattic adquiriu o serviço em 2013.
-Em maio de 2016, foi lançado um cliente oficial do Simplenote para Linux e, em agosto de 2016, a Automattic disponibilizou o código-fonte dos seus aplicativos Simplenote para Android, Linux, iOS e macOS como código aberto.
+Em maio de 2016, foi lançado um cliente oficial do Simplenote para Linux e, em agosto de 2016, a Automattic disponibilizou o código-fonte dos seus aplicativos Simplenote para Android, Linux, iOS e macOS como código aberto. [²](#ancora2)
 
 ### 1.3 Motivação da escolha do aplicativo
 
@@ -363,6 +363,12 @@ No links abaixo é possível verificar a tabela de verificação do nosso grupo.
 | [Reunião com PO](https://youtu.be/D4a7vA9LOOg) - FTF                                              | Kauã e Product Owner                                     |
 | Elicitação de Requisitos - <br> [Entreviata 1](https://youtu.be/9wbc4-v2vWc)                      | Ana Beatriz e Entrevistado 1                             |
 | Elicitação de Requisitos - <br> [Entrevista 2](https://youtu.be/x1gkQIUbq_k)                      | Ana Beatriz e Entrevistado 1                             |
+
+
+Bibliografia
+> [1] Simplenote. Disponível em: https://simplenote.com/
+> 
+> [2] DAN. iOS, Android, and macOS Apps Now Open Source. 25 Ago 2016. Disponivel em: https://simplenote.com/blog/?s=open%20source
 
 
 ## Histórico de versão
