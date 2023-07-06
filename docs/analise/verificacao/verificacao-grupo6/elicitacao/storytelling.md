@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é destinado para a revisão do artefato de [Storytelling](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Elicita%C3%A7%C3%A3o/storytelling.md>) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
+Este documento é destinado para a revisão do artefato de [Storytelling](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/storytelling/) do grupo 6 - [Letterbox](https://github.com/Requisitos-de-Software/2023.1-Letterboxd), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.
 <br> Foi feita a vericação da versão 1.0 do artefato no dia 26/05/2023.
 
 ## Metodologia
@@ -56,9 +56,9 @@ Outra sugestão é trazer mais informações sobre o storytelling na introduçã
 
 ## Bibliografia
 
-[1] COOPER, Alan et al. About Face: The Essentials of Interaction Design. 4. ed. Indianapolis: John Wiley & Sons, Inc., 2014. p. 102-106
+> [1] COOPER, Alan et al. About Face: The Essentials of Interaction Design. 4. ed. Indianapolis: John Wiley & Sons, Inc., 2014. p. 102-106
 
-[2] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
+> [2] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
 
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor | Revisor |

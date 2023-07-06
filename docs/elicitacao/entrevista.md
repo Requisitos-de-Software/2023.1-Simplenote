@@ -1,27 +1,47 @@
 # Entrevista
 
 ## Introdução
-  
-  Utilizamos a técnica de entrevista com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
-  
+
+Utilizamos a técnica de entrevista[¹](#referencias-bibliograficas) com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
+
 ## Metodologia
 
-  A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, realizada no Campus FGA. Os entrevistados são profissionais da área de TI e atuam no Ministério da Justiça-DF.
+A entrevista ocorreu de forma virtual no dia 28/04/2023, via Teams, 
+realizada no Campus FGA. Os entrevistados são profissionais da área de TI e 
+atuam no Ministério da Justiça-DF e são relevantes e adequados para o 
+projeto do aplicativo Simplenote devido à sua experiência na área de TI e ao
+seu conhecimento sobre os requisitos e regulamentos do setor governamental. 
 
-  Foi utilizada a metodologia 5W2H, é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+Durante a entrevista, foi utilizado principalmente perguntas abertas para 
+permitir que os entrevistados expressassem livremente suas opiniões, 
+experiências e sugestões. Suas opiniões e insights podem contribuir 
+significativamente para o desenvolvimento de um aplicativo robusto, seguro e 
+que atenda às necessidades dos usuários. 
+
+A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://youtu.be/9wbc4-v2vWc)
+ e [Entrevistado 2](https://youtu.be/x1gkQIUbq_k), o cronograma da entrevista e termo
+de consentimento pode ser conferida no Toggle abaixo:
+
+<details>
+   <summary>Cronograma da entrevista e Termo de Consentimento</summary>
+      <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2U-6AevGXt2S44w-BTpVMDEtaWkHgij7S2_uSHQk7ALTVSGzQagKsOKsLXC9GSxdP1dv6dD5ISk_T/pub?embedded=true" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+</details>
+
+<br.>
+
+Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H[²](#referencias-bibliograficas) consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
 
 <center>
 
-
-  | Acrônimo | Pergunta |
-  | -------- | -------- |
-  | What     | O quê    |
-  | Why      | Por quê  |
-  | Who      | Quem     |
-  | When     | Quando   |
-  | Where    | Onde     |
-  | How      | Como     |
-  | How much | Quanto   |
+| Acrônimo | Pergunta |
+| -------- | -------- |
+| What     | O quê    |
+| Why      | Por quê  |
+| Who      | Quem     |
+| When     | Quando   |
+| Where    | Onde     |
+| How      | Como     |
+| How much | Quanto   |
 
 </center>
 
@@ -30,7 +50,6 @@
 </div>
 
 ## Perguntas feitas na entrevista utilizando a técnica 5W2H:
-
 
 | Tipo          | Perguntas                                                                                                                                            |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +64,6 @@
 <div style="text-align: center">
    <p> Tabela 2: Perguntas realizadas na entrevista (Fonte: Autor, 2023).</p>
 </div>
-
 
 <details>
    <summary>Respostas entrevistado 1</summary>
@@ -145,6 +163,8 @@
          <title>Entrevista Simplenote</title>
       </head>
       <body>
+         <p>Apresentação do Termo de Consentimento...</p>
+         <p>Início da gravação...</p><br>
          <h1>Introdução</h1>
          <p>Ana Beatriz: Olá, meu nome é Ana Beatriz e eu sou estudante de Engenharia de Software na Universidade de Brasília. Estou realizando uma entrevista para elicitar requisitos do aplicativo Simplenote, para a disciplina Requisitos de Software ministrada pelo professor André Barros. Gostaria de enfatizar que suas respostas são confidenciais e usadas apenas para fins acadêmicos. Além disso, não há respostas certas ou erradas, estou apenas interessada em saber a sua opinião sincera sobre o uso do aplicativo. Por fim, a entrevista deve durar em torno de 5 a 10 minutos. Obrigada por aceitar participar da entrevista!</p>
          <h2>Perguntas</h2>
@@ -168,6 +188,8 @@
 #
 
 ## Dados Demográficos
+
+Como abordado no termo de consentimento os entrevistados não se sentiram confortáveis oferecer informações completas sobre seus dados, portanto, segue os Dados demográficos que foram possíveis de obter.
 
 <table>
     <tr>
@@ -207,17 +229,20 @@
     </p>
 </div>
 
-## Entrevista 1: 
+## Entrevista 1:
 
      Data: 28/04/2023
      Local: Teams
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wbc4-v2vWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br> Vídeo 1: Entrevista 1. <br> Fonte: Autor (2023).
 
-## Entrevista 2: 
+## Entrevista 2:
+
      Data: 28/04/2023
      Local: Teams
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x1gkQIUbq_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
      
 <br> Vídeo 2: Entrevista 2. <br> Fonte: Autor (2023).
@@ -241,20 +266,26 @@
 | ENT07         | O aplicativo deve permitir a criação de backups automáticos ou manuais das notas para evitar perda de informação                                                         | RNF  |
 | ENT08         | O aplicativo deve ter uma interface simples e fácil de usar, sem muitas opções desnecessárias                                                                            | RNF  |
 | ENT09         | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo | RNF  |
+
 <div style="text-align: center">
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
 </div>
 
-# Bibliografia
+# Referências Bibliograficas
 
-[1] VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+> [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 abril 2023.
 
-
+> [2] VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
 
 ### Histórico de versão
+
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
 | `1.0`  | 27/04/2023 | Adicionando perguntas                   | Ana Beatriz | Beatriz     |
 | `1.1`  | 29/04/2023 | Adicionando respostas dos entrevistados | Ana Beatriz | Beatriz     |
 | `1.2`  | 29/04/2023 | Adicionando Vídeos das entrevistas      | Ana Beatriz | Beatriz     |
-| `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena     |
+| `1.3`  | 15/05/2023 | Ajustes Feedbacks entrega 2             | Ana Beatriz | Mylena      |
+| `1.4`  | 18/06/2023 | Ajustes Verificação                     | Ana Beatriz | João        |
+| `1.5`  | 03/07/2023 | Ajustes Verificação 2.0                 | Ana Beatriz | Mylena      |
+| `1.6`  | 05/07/2023 | Ajustes Finais                          | Ana Beatriz | Mylena      |
+

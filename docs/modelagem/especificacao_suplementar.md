@@ -2,24 +2,25 @@
 
 ## Introdução
 
-A Especificação Suplementar é uma tecnica de modelagem que captura os requisitos de sistema que não foram identificados nos casos de uso, como por exemplo: requisitos reguladores, atributos de qualidade do sistema, sistemas operacionais, requisitos de compatiblidade e restrições de design.
+A Especificação Suplementar[²](#referencias-bibliograficas) é uma tecnica de modelagem que captura os requisitos de sistema que não foram identificados nos casos de uso, como por exemplo: requisitos reguladores, atributos de qualidade do sistema, sistemas operacionais, requisitos de compatiblidade e restrições de design.
 
 ## Metodologia
 
-Para a produção deste artefacto, foi utilizado o modelo FURPS+, na qual definimos os requisitos de sistema com base em:
+Para a produção deste artefacto, foi utilizado o modelo FURPS+[¹](#referencias-bibliograficas), na qual definimos os requisitos não funcionais elicitados no projeto de acordo com o método FURPS+ no qual é expandido em:
 
 - Funcionalidade;
 - Usabilidade;
 - Confiabilidade;
 - Performance;
 - Suportabilidade;
+- +;
 
 ## Definições da especificação suplementar
 
 ### Funcionalidade
 
 Representa os aspectos funcionais do software, aqui, temos diversos subtópicos que variam de acordo com a aplicação.</br>
-Os requisitos funcionais podem ser encontrados nos [casos de uso](https://github.com/Requisitos-de-Software/2023.1-Simplenote/tree/main/docs/modelagem/casos_de_uso.md).
+Os requisitos funcionais podem ser encontrados nos [casos de uso](../modelagem/casos_de_uso.md).
 
 - Recursos.
 - Segurança.
@@ -77,31 +78,49 @@ O modelo FURPS+ inclui um "+" que representa requisitos adicionais, tais como:
 - Físico: determinação de restrições de hardware e implantação, por exemplo, espaço em disco (HD) e memória RAM.
 
 ## Especificação suplementar
+A tabela 1 apresenta os resultados da especificação suplementar, contendo o id do requisito, o texto do requisito, sua categoria e sua classificação (Requisito funcional e não funcional). Seguem os resultados:
 
-| ID    | Requisito   | Categoria | Requisito Funcional (RF) ou Requisito não Funcional (RNF) |
-| ----- | ----------- | --------- | ----------------------------------------------------- |
-| INT07 | O aplicativo salvará a nota em até 1 segundo  | P       | RNF |
-| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos  | P         | RNF |
-| INT10 | Deve ser possível fazer notas sem internet   | U         | RF |
-| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.  | C         | RNF |
-| B20   | O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.  | U         | RNF |
-| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.  | S         | RNF |
-| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom. | S    | RNF |
-| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | P         | RNF |
-| B25   | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. | U         | RNF |
-| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.   | P    | RNF |
-| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.      | S         | RNF |
-| ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas   | U         | RNF |
-| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         | RF |
-| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes       | U       | RF |
+| ID    | Requisito   | Categoria | 
+| ----- | ----------- | --------- | 
+| INT07 | O aplicativo salvará a nota em até 1 segundo  | P       |
+| INT09 | O aplicativo abrirá em um tempo limite de até 2 segundos  | P         | 
+| INT10 | Deve ser possível fazer notas sem internet   | U         | 
+| B19   | O aplicativo deve ser confiável e estável, evitando falhas ou perda de dados.  | C         | 
+| B20   | O aplicativo deve ser intuitivo e fácil de usar, com uma interface clara e simples.  | U         | 
+| B22   | O aplicativo deve garantir a segurança e privacidade das notas dos usuários, protegendo-as contra acesso não autorizado ou perda de dados.  | S         |
+| B23   | O aplicativo deve ser acessível para usuários com deficiências visuais ou motoras, com recursos como suporte a leitores de tela e opções de zoom. | U    |
+| B24   | O aplicativo deve estar disponível em várias plataformas, como iOS, Android, Windows e Mac, para garantir que os usuários possam acessar suas notas em qualquer dispositivo. | P         |
+| B25   | O aplicativo deve estar disponível para uso sempre que o usuário precisar, sem interrupções ou indisponibilidades não planejadas. | U         | 
+| B26   | O aplicativo deve ser otimizado para usar recursos do dispositivo de forma eficiente, como CPU, memória e bateria.   | P    | 
+| B27   | O aplicativo deve ser facilmente mantido e atualizado, com um código limpo e bem documentado.      | S         | 
+| ENT01 | O aplicativo deve permitir a criação de notas de forma fácil e rápida, sem muitas etapas   | U         | 
+| ENT09 | O aplicativo deve permitir o login com diferentes opções, como e-mail, Google ou Facebook, para facilitar o acesso ao aplicativo após formatação ou troca de dispositivo     | S         | 
+| GLO03 | Ser capaz de ler e editar arquivos de texto de outras fontes       | U       |
+| ES01  | O aplicativo deve ser de fácil entendimento para pessoas mais leigas com tecnologia | U|
+| ES02  | O aplicativo deve conter uma cor que estimula calma para trazer a sensação de bem estar ao utilizar o aplicativo| U| 
+| ES03  | O aplicativo deve sempre guardar as notas que o usuário cria | C |
+| ES04  | O MTBF(Mean Time Between Failures) do aplicativo deve ser de pelo menos 300 horas| C |
+| ES05  | O MTTR(Mean Time To Repair) do aplicativo que é o tempo máximo permitido para reparo de uma falha do sistema deve ser 4 horas | C |
 
-Tabela 1: Resultado da especificação suplementar.
-Autores: Ana e Kauã
+Tabela 1: Resultado da especificação suplementar. (Fonte: Dos autores,2023)
 
-## Bibliografia
+Para melhor entendimento da tabela 1, temos a tabela 2 que mostra os simbolos referentes aos IDs dos requisitos:
 
-[1] <https://aprender3.unb.br/pluginfile.php/2523104/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf> </br>
-[2] <https://qualidadebr.wordpress.com/2008/07/10/furps/>
+|ID| Significado|
+|--|------------|
+|B|[Brainstorming](../elicitacao/brainstorming.md)|
+|ENT|[Entrevista](../elicitacao/entrevista.md)|
+|ES|[Especificação Suplementar](../modelagem/especificacao_suplementar.md)|
+|GLO|[Glossário](../elicitacao/glossario.md)|
+|INT| [Introspecção](../elicitacao/Introspec%C3%A7%C3%A3o.md)|
+
+Tabela 2: Tabela de significados da tabela 1. (Fonte: Dos autores,2023)
+
+## Referências Bibliográficas
+
+> [1] FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 03 maio 2023
+>
+> [2] SERRANO, Milene - Slides da aula 11. Disponibilizados pelo Professor.
 
 ## Histórico de versão
 
@@ -111,3 +130,5 @@ Autores: Ana e Kauã
 | `1.1`  | 06/05/2023 | Adição de informações e do quadro | Ana e Kauã | Leonardo    |
 | `1.2`  | 08/05/2023 | Finalizando documento             | Ana e Kauã | Leonardo    |
 | `1.3`  | 04/06/2023 | Correções após a entrega 3        | Leonardo   | Ian         |
+| `1.4`  | 17/06/2023 | Correções após entrega 5.1        | Kauã       |      -      |
+| `1.5`  | 05/07/2023 | Ajustes Finais                    | Ana Beatriz| Kauã        |

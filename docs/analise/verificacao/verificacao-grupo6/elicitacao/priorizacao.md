@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre Priorização, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
+Neste documento, será realizado a verificação do artefato sobre [Priorização](https://requisitos-de-software.github.io/2023.1-Letterboxd/Prioriza%C3%A7%C3%A3o/priorizacao/), desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém. 
 <br>Versão do arquivo analisada foi a 1.0 no dia 14/06/2023.
 ## Metodologia
 
@@ -57,6 +57,10 @@ Separar os documentos sendo um para cada tecnica, pois torna a leitura menos can
 Criar uma tabela para a tecnica FTF mostrando as prioridades dos requisitos.</br>
 Apresentar a justificativa dos pesos utilizados na tecnica FTF </br>
 Utilizar uma terceira tecnica de priorização seria ótimo. </br>
+
+## Bibliografia
+
+> [1] KARL EUGENE WIEGERS; BEATTY, J. Software requirements. Redmond, Washington: Microsoft Press, 2015.
 
 ## Histórico de Versão
 

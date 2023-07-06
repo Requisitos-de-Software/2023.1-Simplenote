@@ -60,6 +60,29 @@ nav:
   - Home: index.md
   - Atas: atas.md
   - Entregas: entregas.md
+  - Elicitação:
+    - Técnicas Planejadas:
+      - StoryTelling: elicitacao/storytelling.md
+      - Personas: elicitacao/personas.md
+      - Questionário: elicitacao/questionario.md
+      - Introspecção: elicitacao/Introspecção.md
+      - Glossário: elicitacao/glossario.md
+      - Entrevista: elicitacao/entrevista.md
+      - Brainstorm: elicitacao/brainstorming.md
+    - Priorização:
+      - MosCoW: elicitacao/Priorização/MoScoW.md
+      - First Things First (FTF): elicitacao/Priorização/FirstthingsFirst.md
+      - Escala de Três Níveis: elicitacao/Priorização/ThreeLevelScale.md
+      - Priorização final: elicitacao/Priorização/priorizacao_final.md
+  - Modelagem:
+    - Modelagem Ágil:
+      - História de Usuário: modelagem/agil/User_story.md
+      - Backlog: modelagem/agil/backlog.md
+      - NFR: modelagem/nfr.md
+    - Léxicos: modelagem/lexico.md
+    - Cenários: modelagem/cenários.md
+    - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
   - Planejamento:
     - Cronograma pretendido: planejamento/cronograma.md
     - Cronograma realizado: planejamento/cronograma_realizado.md

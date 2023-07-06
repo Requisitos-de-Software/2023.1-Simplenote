@@ -1,11 +1,11 @@
 # Cenários
 
 ## Introdução
-Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos . Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. Portanto, é uma estratégia para elicitar a parte comportamental do software.
+Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos . Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. Portanto, é uma estratégia para elicitar a parte comportamental do software. [¹](#ancora1)
 
-## Modelo de Cenário
+## Metodologia
 
-Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma escolhida utiliza a linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente.
+Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma escolhida utiliza a linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente. [²](#ancora2)
 
 <center>
 
@@ -25,9 +25,9 @@ Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma 
 
 ## Cenários identificados
 
-Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelos métodos MoSCoW, FTF e 3 Levels documentado na [Priorização](docs/elicitacao/Priorização). 
-A escolha dos cenários foram feitas com base no artefato [Requisitos prioritários](docs/elicitacao/Priorização/priorizacao_final.md). Devido a similaridade de alguns cenários, somente a forma mais abrangente foi modelada. 
-A seguir, eles podem ser observados por meio das tabelas abaixo. 
+Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelos métodos MoSCoW, FTF e 3 Levels documentado na [Priorização](../elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final.md). 
+A escolha dos cenários foram feitas com base no artefato [Requisitos prioritários](../elicitacao/Prioriza%C3%A7%C3%A3o/priorizacao_final.md). Devido a similaridade de alguns cenários, somente a forma mais abrangente foi modelada. 
+A seguir, eles podem ser observados por meio das tabelas 2 a 14 abaixo. 
 
 ### C01- Criar uma nota
 
@@ -142,7 +142,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 <p> Tabela 9: Cenário 08 <br> Autor: Leonardo</p>
 
 
-### C9- O usuário deveria poder recuperar anotação excluída
+### C09- O usuário deveria poder recuperar anotação excluída
 
 |  Elemento  |         Descição      |
 |------------|-----------------------|
@@ -151,7 +151,7 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 | Contexto   | - Pré condição: Deletar uma nota <br> - Local: Em casa <br> - Tempo: Dia antes de uma prova (noite) |
 | Recursos   | - Celular <br> - Aplicativo                                          |
 | Ator       | Usuário                                                          |
-| Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" |
+| Episódios  | - Usuário deleta uma nota <br> - Usuário clica na barra de tarefas <br> - Usuário clica no ícone de lixeira (trash) <br> - Usuário seleciona nota que deseja recuperar <br> - Usuário clica em "restaurar nota" <br> - O aplicativo reestaura a nota e ela volta a aparecer ao usuário |
 | Restrições | - Usuário não encontrar nota na lixeira <br> - Usuário ter esvaziado a lixeira antes de recuperar a nota  |
 | Exceção    | - Lixeira vazia <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - Aplicativo travou |
 <p> Tabela 10: Cenário 09 <br> Autor: Leonardo</p>
@@ -214,15 +214,14 @@ A seguir, eles podem ser observados por meio das tabelas abaixo.
 
 ## Bibliografia
 
-[1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
-
-[2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
-
-[3] Repositório de disciplina: [Lichess](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/cenarios/)
+> [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> 
+> [2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)   |
-| ------ | ---------- | --------------------       | ------------- | ------------- |
-| `1.0`  | 06/05/2023 | Criação do documento       | Mylena e Leonardo | Kauã      |
-| `1.1` | 04/06/2023  | Correções após a entrega 3 | Leonardo          | Ian       |
+| Versão | Data       | Descrição                  | Autor(es)     | Revisor(es)     |
+| ------ | ---------- | --------------------       | ------------- | -------------   |
+| `1.0`  | 06/05/2023 | Criação do documento       | Mylena e Leonardo | Kauã        |
+| `1.1` | 04/06/2023  | Correções após a entrega 3 | Leonardo          | Ian         |
+| `1.2` | 18/06/2023  | Ajustes no documento       | Beatriz           | Ana Beatriz |

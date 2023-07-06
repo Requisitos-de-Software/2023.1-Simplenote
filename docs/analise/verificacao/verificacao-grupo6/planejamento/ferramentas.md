@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre as [Ferramentas](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Planejamento/ferramentas.md) utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
+Neste documento, será realizado a verificação do artefato sobre as [Ferramentas](https://requisitos-de-software.github.io/2023.1-Letterboxd/Planejamento/ferramentas/) utilizadas, desenvolvido pelo grupo 6 - [Letterboxd](<https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master>).
 <br> Foi feita a vericação da versão 3.0 do artefato no dia 20/05/2023.
 
 ## Metodologia
@@ -53,7 +53,7 @@ Nenhum problema crítico foi encontrado.
 Não há nenhuma sugestão a ser feita.
 
 ## Bibliografia
-[1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf 
+> [1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
 
 
 ## Histórico de Versão

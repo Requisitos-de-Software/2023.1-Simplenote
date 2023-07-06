@@ -53,6 +53,11 @@ Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefato que e
 
 Apenas sugerir para que adicionem legenda na tabela de [Cronograma](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/entrevista/#cronograma-das-entrevistas), os demais pontos do documento estão ótimos.
 
+# Bibliografia
+
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
+
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |

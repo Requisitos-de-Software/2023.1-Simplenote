@@ -7,7 +7,7 @@ Este documento é destinado para a revisão do [Git Page](https://requisitos-de-
 
 ## Metodologia
 
-A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. Neste artefato, diferente dos outros, temos apenas um checklist que irá abranger o documento como um todo, sendo assim, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válido.
+A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina[¹](#referencias-bibliografica) de requisitos de software. Neste artefato, diferente dos outros, temos apenas um checklist que irá abranger o documento como um todo, sendo assim, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válido.
 
 - Sim : caso um critério for atendido.
 - Não : caso um critério não for atendido.
@@ -34,7 +34,7 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 
 Antes de tudo, gostaria de parabenizar o empenho a respeito deste artefacto que está bem escrito e detalhado, além disso, é notório que foi feito com muita seriedade. Para ficar ainda melhor é recomendável fazer alguns ajustes:
 
-### [ID04](gitpage.md#checklist-de-documento) - Têm referências bibliográficas e/ou bibliografia em todos os artefatos?
+### [ID04](gitpage.md#checklist) - Têm referências bibliográficas e/ou bibliografia em todos os artefatos?
 
 - A parte de [Cronograma Executado](https://requisitos-de-software.github.io/2023.1-Letterboxd/cronogramaExecutado/) não contem referências bibliográficas.
 
@@ -44,12 +44,14 @@ Para melhorar ainda mais o artefato é possivel a adição:
 
 - Adicionar Referências Bibliográficas no artefato.
 
-## Bibliografia
+## Referências Bibliográfica
 
-> [1] https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf
+> [1] BARROS. Plano de Ensino. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/28/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf> Acesso em: 08 jun. 2023. Aprender3.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)            | Revisor(es) |
 | ------ | ---------- | -------------------- | -------------------- | ----------- |
 | `1.0`  | 10/06/2023 | Criação do documento | Ana Beatriz e Mylena | -           |
+| `1.1`  | 05/76/2023 | Ajustes Finais       | Ana Beatriz          | Mylena      |
+

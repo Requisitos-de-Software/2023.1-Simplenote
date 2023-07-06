@@ -23,7 +23,7 @@ Devido a sua importância, as atas devem ser assinadas pelos participantes da re
 
 
 ## Bibliografia
-[1] SILVA, Leonardo. **Ata de Reunião**: O Que É, Como Fazer e Modelo Pronto. [_S. l._], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
+> [1] SILVA, Leonardo. **Ata de Reunião**: O Que É, Como Fazer e Modelo Pronto. [_S. l._], 2022. Disponível em: https://e-diariooficial.com/tudo-sobre-ata-de-reuniao/. Acesso em: 15 abr. 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição| Autor(es)| Revisor(es)

@@ -11,7 +11,11 @@ Depois da utilização de 3 técninas de priorização (MoScoW, First things Fir
 - Three Level Scale: Foram escolhidos os de alta e média prioridade.
 
 Depois dessa seleção, fez-se uma comparação com os escolhidos, para determinar quais aparecem em pelo menos em 2 técnicas e assim foram escolhidos os prioritários.
+
+<center>
+
 ## Requisitos escolhidos
+
 
 |**Código**|                                  **Requisito**                                           |
 |----------|------------------------------------------------------------------------------------------|
@@ -35,6 +39,8 @@ Depois dessa seleção, fez-se uma comparação com os escolhidos, para determin
 |  RF013   |  O usuário deveria poder compartilhar notas com outras pessoas                           |
 |  RF014   | O aplicativo deve permitir a adição de etiquetas nas notas para facilitar a organização  |
 
+</center>
+
 <p align="center"> Tabela 1: Requisitos prioritários <br>  Autora: Mylena </p>
 
 ### Legenda
@@ -43,9 +49,9 @@ Depois dessa seleção, fez-se uma comparação com os escolhidos, para determin
 
 ## Bibliografia
 
-[1] Técnica de priorização- [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)
-[2] Ténica de priorização: [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)
-[3] Ténica de priorização: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)
+> [1] Técnica de priorização- [MoScoW](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/)
+> [2] Ténica de priorização: [FTF](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst/)
+> [3] Ténica de priorização: [TLS](https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale/)
 
 
 ## Histórico de versão

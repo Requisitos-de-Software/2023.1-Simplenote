@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre [Léxico](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/blob/master/docs/Modelagem/lexicos.md), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
+Neste documento, será realizado a verificação do artefato sobre [Léxico](https://requisitos-de-software.github.io/2023.1-Letterboxd/Modelagem/lexicos/), desenvolvido pelo grupo 6 - [Letterboxd](https://github.com/Requisitos-de-Software/2023.1-Letterboxd/tree/master).
 Que consiste na identificação de defeitos dentro do sistema e também se cumprem aos requisitos funcionais e não funcionais.
 <br> Foi feita a vericação da versão 1.0 do artefato no dia 20/05/2023.
 
@@ -96,9 +96,9 @@ Arrumar os erros ortográficos nos léxicos identificados com tais erros.
 
 ## Bibliografia
 
-[1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
+> [1] SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023
 
-[2] SERRANO, M. SERRANO, M. Requisitos - Aula 10, Modelagem de Requisitos. p. 12-20
+> [2] SERRANO, M. SERRANO, M. Requisitos - Aula 10, Modelagem de Requisitos. p. 12-20
 
 ## Histórico de Versão
 

@@ -86,14 +86,15 @@ RNF -> Requisito não funcional
 
 
 ## Referências
-[1] OSBORN, A. F. Applied imagination: principles and procedures of creative problem solving. New York: Charles Scribner's Sons, 1953.
+> [1] OSBORN, A. F. Applied imagination: principles and procedures of creative problem solving. New York: Charles Scribner's Sons, 1953.
 
-[2] Milene Serrano, Requisitos - Aula 07. Acesso em: 10 de jul. de 2022. Disponível em: Aprender3.
+> [2] Milene Serrano, Requisitos - Aula 07. Acesso em: 10 de jul. de 2022. Disponível em: Aprender3.
 
-[3] Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
+> [3] Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
 
 ## Histórico de versão
 | Versão | Data       | Autor        | Descrição     | Revisor     |
 | :----: | ---------- | ------------ | ------------- | ----------- |
 |  1.0   | 01/05/2023 | Ian da Costa | Brainstorming | Ana Beatriz |
+| `1.1`  | 13/05/2023 | Ajustes pós entrega               | Beatriz | Ana Beatriz      |
 

@@ -4,11 +4,11 @@
 
 Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
 
-| Nome        | Cargo                     |
-| ----------- | ------------------------- |
-| Júlio César | PO                        |
-| Kauã        | Equipe de desenvolvimento |
-| Ana Beatriz | Equipe de desenvolvimento |
+| Nome                                          | Cargo                     |
+| --------------------------------------------- | ------------------------- |
+| [Júlio César](https://github.com/JulioDinizN) | PO                        |
+| Kauã                                          | Equipe de desenvolvimento |
+| Ana Beatriz                                   | Equipe de desenvolvimento |
 
 ## Introdução
 
@@ -43,11 +43,11 @@ A princípio, durante o projeto foram elicitados os requisitos do aplicativo atr
 
 Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
 
-- [FTF](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
-- [MosCow](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
-- [TLE](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
+- [FTF](../../elicitacao/Prioriza%C3%A7%C3%A3o/FirstthingsFirst.md)
+- [MosCow](../../elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW.md)
+- [TLE](../../elicitacao/Prioriza%C3%A7%C3%A3o/ThreeLevelScale.md)
 
-Então, as funcionalidades foram escritas de maneira rápida e padronizada seguindo as especificações presentes no [Backlog](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/backlog.md).E por fim, foi efetuado uma validação do documento através de uma reunião com o pseudo-PO do projeto.
+Então, as funcionalidades foram escritas de maneira rápida e padronizada seguindo as especificações presentes no [Backlog](backlog.md).E por fim, foi efetuado uma validação do documento através de uma reunião com o pseudo-PO do projeto.
 
 ## Padrão de história de usuário
 
@@ -174,7 +174,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US05 - Sincronização entre dispositivos</summary>
+   <summary>US05 - Sincronizar notas em todos os dispositivos</summary>
    <table>
       <thead>
          <tr>
@@ -255,7 +255,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US08 - Utilizar tags em notas</summary>
+   <summary>US08 - Separar notas em tags</summary>
    <table>
       <thead>
          <tr>
@@ -449,14 +449,17 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 
 ### Bibliografia
 
-[1] https://www.atlassian.com/br/agile/project-management/user-stories </br>
-[2] https://www.youtube.com/watch?v=pLJ3LxR292w
+> [1] ATLASSIAN. Histórias de usuários | Exemplos e template | Atlassian. Disponível em: <https://www.atlassian.com/br/agile/project-management/user-stories>. Acesso em: 13 maio 2023.
+>
+> [2] DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 11 jul. 2022. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>. Acesso em: 13 maio 2023
+
 
 ### Histórico de versão
-
 | Versão | Data       | Descrição                                  | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------------------------------ | ----------- | ----------- |
 | `1.0`  | 11/05/2023 | Criação do documento                       | Kauã e João | Mylena      |
 | `1.1`  | 13/05/2023 | Adição das user stories                    | Kauã e João | Mylena      |
 | `1.2`  | 24/05/2023 | Mudanças pontuais                          | Kauã        | Mylena      |
 | `1.3`  | 13/06/2023 | Mudanças nas histórias de usuário e textos | Kauã        | Mylena      |
+| `1.4`  | 05/07/2023 | Ajustes Finais                             | Ana Beatriz | Kauã        |
+

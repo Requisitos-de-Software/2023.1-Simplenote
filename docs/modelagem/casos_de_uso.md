@@ -10,7 +10,7 @@ Para realizar o caso de uso, contamos com a Persona [Alicia Kane](../elicitacao/
 
 ## Componentes
 ### Atores
-Representam as pessoas que realmente executam os casos de uso. São representados por bonecos palito.
+Representam as pessoas que realmente executam os casos de uso. São representados por bonecos palito, conforme a Figura 1 abaixo.
 
 <div style="text-align: center">
 <p>Figura 1: Ator</p>
@@ -24,7 +24,7 @@ Representam as pessoas que realmente executam os casos de uso. São representado
 </div>
 
 ### Caso de uso
-Representam os diferentes usos que um usuário pode ter. São representados por um formato oval rotulado.
+Representam os diferentes usos que um usuário pode ter. São representados por um formato oval rotulado, conforme a Figura 2 abaixo.
 
 <div style="text-align: center">
 <p>Figura 2: Caso de uso</p>
@@ -38,7 +38,7 @@ Representam os diferentes usos que um usuário pode ter. São representados por 
 </div>
 
 ### Comunicação
-Ação que comunica o usuário ao caso de uso. Pode ser definida como inclusão ou exclusão.
+Ação que comunica o usuário ao caso de uso. Pode ser definida como inclusão ou exclusão, conforme a Figura 3 abaixo.
 
 Inclusão: Refere-se à relação em que um caso de uso requer a funcionalidade de outro caso de uso para ser executado. Em termos simples, quando um caso de uso A inclui um caso de uso B, significa que sempre que o caso de uso A for executado, o caso de uso B também será executado obrigatoriamente.
 
@@ -48,7 +48,7 @@ Extensão: Por outro lado, a extensão implica que o caso de uso atual funcionar
 - Notação no diagrama: *<<extends\>\>*
 
 <div style="text-align: center">
-<p>Figura 2: Caso de uso</p>
+<p>Figura 3: Comunicação</p>
 </div>
 <center>
 <img width="220px" src="../../img/comunicacao-usecase.png">
@@ -59,10 +59,10 @@ Extensão: Por outro lado, a extensão implica que o caso de uso atual funcionar
 </div>
 
 ### Limite do Sistema
-Define um escopo do sistema para os casos de uso. É representado por um retângulo englobando os Casos de  Uso (forma oval rotulada)
+Define um escopo do sistema para os casos de uso. É representado por um retângulo englobando os Casos de  Uso (forma oval rotulada), conforme a Figura 4 abaixo.
 
 <div style="text-align: center">
-<p>Figura 2: Limite do Sistema</p>
+<p>Figura 4: Limite do Sistema</p>
 </div>
 <center>
 <img width="230px" src="../../img/sistema-usecase.png">
@@ -74,7 +74,7 @@ Define um escopo do sistema para os casos de uso. É representado por um retâng
 
 ## Diagrama de Caso de Uso
 <div style="text-align: center">
-<p>Figura 6: Diagrama UML</p>
+<p>Figura 5: Diagrama UML</p>
 </div>
 
 <center>
@@ -90,18 +90,18 @@ Especificação dos casos de uso identificados:
 
 ### UC01. Cria nota
 
-| UC01 | Criar uma nota |
-| -: | :- |
-| **Atores** | Usuário |
-|**Local**| Escola |
-|**Data e Hora**| Segunda-feira pela manhã antes da aula |
-| **Requisitos** | Aplicativo instalado |
-| **Condição de entrada** | O usuário toca o ícone para criar nova nota |
-| **Fluxo principal** | O sistema cria uma nova nota para o usuário|
-| **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | Não é possível criar nova nota pois o armazenamento está cheio |
-| **Pós condições** | O usuário tem uma nova nota em sua coleção de notas|
-| **Rastreabilidade** | [B01](../elicitacao/brainstorming.md) |
+|                    UC01 | Criar uma nota                                                 |
+| ----------------------: | :------------------------------------------------------------- |
+|              **Atores** | Usuário                                                        |
+|               **Local** | Escola                                                         |
+|         **Data e Hora** | Segunda-feira pela manhã antes da aula                         |
+|          **Requisitos** | Aplicativo instalado                                           |
+| **Condição de entrada** | O usuário toca o ícone para criar nova nota                    |
+|     **Fluxo principal** | O sistema cria uma nova nota para o usuário                    |
+| **Fluxos alternativos** | Não há                                                         |
+|   **Fluxos de exceção** | Não é possível criar nova nota pois o armazenamento está cheio |
+|       **Pós condições** | O usuário tem uma nova nota em sua coleção de notas            |
+|     **Rastreabilidade** | [B01](../elicitacao/brainstorming.md)                          |
 
 <div style="text-align: center">
 <p> Tabela 1: Especificação do caso de uso: Criar nova nota. (Fonte: Ian, 2023).</p>
@@ -109,18 +109,18 @@ Especificação dos casos de uso identificados:
 
 ### UC02. Modificar Nota
 
-| UC02 | Modificar nota |
-| -: | :- |
-| **Atores** | Usuário |
-|**Local**| No quarto de casa |
-|**Data e Hora**| Quarta-feira de noite após o trabalho |
-| **Requisitos** | Ter uma nota já existente. |
-| **Condição de entrada** | O usuário seleciona a nota desejada e a modifica. |
-| **Fluxo principal** | O usuário altera o conteúdo do título ou do corpo da nota.|
-| **Fluxos alternativos** | O usuário exclui a nota |
-| **Fluxos de exceção** | A nota que o usuário quer modificar não existe ou já foi excluída |
-| **Pós condições** | Ter uma nota criada previamente |
-| **Rastreabilidade** | [B02, B03, B10, B18](../elicitacao/brainstorming.md) |
+|                    UC02 | Modificar nota                                                    |
+| ----------------------: | :---------------------------------------------------------------- |
+|              **Atores** | Usuário                                                           |
+|               **Local** | No quarto de casa                                                 |
+|         **Data e Hora** | Quarta-feira de noite após o trabalho                             |
+|          **Requisitos** | Ter uma nota já existente.                                        |
+| **Condição de entrada** | O usuário seleciona a nota desejada e a modifica.                 |
+|     **Fluxo principal** | O usuário altera o conteúdo do título ou do corpo da nota.        |
+| **Fluxos alternativos** | O usuário exclui a nota                                           |
+|   **Fluxos de exceção** | A nota que o usuário quer modificar não existe ou já foi excluída |
+|       **Pós condições** | Ter uma nota criada previamente                                   |
+|     **Rastreabilidade** | [B02, B03, B10, B18](../elicitacao/brainstorming.md)              |
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Modificar nota. (Fonte: Ian, 2023).</p>
@@ -128,18 +128,18 @@ Especificação dos casos de uso identificados:
 
 ### UC03. Organizar notas
 
-| UC03 | Organizar notas |
-| -: | :- |
-| **Atores** | Usuário  |
-|**Local**| No escritório de trabalho |
-|**Data e Hora**| Sexta feira pela manhã antes de uma reunião |
-| **Requisitos** | Ter uma ou mais notas criadas |
+|                    UC03 | Organizar notas                                                |
+| ----------------------: | :------------------------------------------------------------- |
+|              **Atores** | Usuário                                                        |
+|               **Local** | No escritório de trabalho                                      |
+|         **Data e Hora** | Sexta feira pela manhã antes de uma reunião                    |
+|          **Requisitos** | Ter uma ou mais notas criadas                                  |
 | **Condição de entrada** | O usuário seleciona a opção adicionar etiqueta à nota desejada |
-| **Fluxo principal** | É adicionado uma etiqueta (tag) à nota escolhida |
-| **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | A nota já possui a etiqueta que se tenta adicionar |
-| **Pós condições** | A nota fica etiquetada e fácil de encontrar |
-| **Rastreabilidade** | [B04, B05](../elicitacao/brainstorming.md) |
+|     **Fluxo principal** | É adicionado uma etiqueta (tag) à nota escolhida               |
+| **Fluxos alternativos** | Não há                                                         |
+|   **Fluxos de exceção** | A nota já possui a etiqueta que se tenta adicionar             |
+|       **Pós condições** | A nota fica etiquetada e fácil de encontrar                    |
+|     **Rastreabilidade** | [B04, B05](../elicitacao/brainstorming.md)                     |
 
 <div style="text-align: center">
 <p> Tabela 3: Especificação do caso de uso: Organizar notas. (Fonte: Ian Costa, 2023).</p>
@@ -147,13 +147,14 @@ Especificação dos casos de uso identificados:
 
 ## Bibliografia
 
-[1] LUCIDCHART - Diagrama de Caso de Uso UML - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml.</br>
-[2] UML DIAGRAMS - Use Case Diagrams - https://www.uml-diagrams.org/use-case-diagrams.html <br>
-[3] IBM. Diagramas de Caso de Uso. IBM. Disponível em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case
+> [1] LUCIDCHART - Diagrama de Caso de Uso UML - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml.</br>
+> [2] UML DIAGRAMS - Use Case Diagrams - https://www.uml-diagrams.org/use-case-diagrams.html <br>
+> [3] IBM. Diagramas de Caso de Uso. IBM. Disponível em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                         | Autor(es)  | Revisor(es) |
-| ------ | ---------- | --------------------------------- | ---------- | ----------- |
-| `1.0`  | 13/05/2023 | Criação do Diagrama de Casos de uso              | Ian | Mylena    |
-| `1.1`  | 04/06/2023 | Correções após a entrega 3              | Leonardo | Ian    |
+| Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
+| ------ | ---------- | ----------------------------------- | :-------: | :---------: |
+| `1.0`  | 13/05/2023 | Criação do Diagrama de Casos de uso |    Ian    |   Mylena    |
+| `1.1`  | 04/06/2023 | Correções após a entrega 3          | Leonardo  |     Ian     |
+| `1.2`  | 04/07/2023 | Correções após verificação          |   João    |      -      |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste documento, será realizado a verificação do artefato sobre Personas, desenvolvido pelo grupo 6 - [Letterboxd](https://requisitos-de-software.github.io/2023.1-Letterboxd/), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.<br> Foi analisado a versão 1.3 do documento, no dia 13/06/2023.
+Neste documento, será realizado a verificação do artefato sobre [Personas](https://requisitos-de-software.github.io/2023.1-Letterboxd/Elicita%C3%A7%C3%A3o/personas/), desenvolvido pelo grupo 6 - [Letterboxd](https://requisitos-de-software.github.io/2023.1-Letterboxd/), vale ressaltar que a avaliação é feita de maneira imparcial, sem a intenção de atacar ninguém.<br> Foi analisado a versão 1.3 do documento, no dia 13/06/2023.
 ## Metodologia
 
 A verificação foi feita por meio da insperção, utilizando uma checklist com base em [repositórios antigos](https://github.com/Requisitos-de-Software) e no plano de ensino da disciplina de requisitos de software. A principio, foram criadas duas tabelas nas quais, temos 3 campos, "Questão": pergunta que será respondida, "Resposta" na qual como resultados válidos, podemos ter: 
@@ -47,6 +47,10 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 Estrutura bem organizada do artefato, que apresenta ótima abordagem do tema, convidando os leitores a conhecerem de forma imersiva cada persona do elenco. 
 ## Sugestão
 Nenhuma sugestão a ser feita.
+
+## Bibliografia
+
+> [1] BARBOSA, S.; SILVA, B. Interação Humano-Computador. [s.l.] Elsevier Brasil, 2010. p. 176–180
 
 ## Histórico de Versão
 
