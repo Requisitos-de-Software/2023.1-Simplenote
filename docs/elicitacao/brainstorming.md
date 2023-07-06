@@ -23,8 +23,66 @@ Participantes:
 - Murilo Perazzo
 - Lucka Fagundes
 
+## Palavras-chave utilizadas na sessão de Brainstorming
 
-## Brainstorm
+<font size="3"><p style="text-align: center">Tabela 1: Palavras-chave.</p></font>
+
+<center>
+
+| Palavra-chave   |
+| --------------- |
+| Escrever          |
+| Notas |
+| Aplicativo |
+| Conteúdo     |
+| Texto     |
+
+## Perguntas & Respostas
+
+Abaixo serão apresentados alguns exemplos de perguntas que foram realizadas durante a reunião e suas respectivas respostas.
+
+
+
+### Quais recursos e funcionalidades você espera encontrar no aplicativo Simplenote?
+
+<span> Gabriel Lobato </span>– "Eu espero poder criar notas rapidamente e ter sincronização em tempo real entre dispositivos."
+
+<span> Ruan Castro </span>– "Ter facilidade de busca e edição colaborativa às notas."
+
+
+
+### Quais são os principais problemas ou desafios que você enfrenta ao usar aplicativos de anotações existentes?
+
+<span> Lucka Fagundes</span>– "Tenho dificuldade para encontrar notas muito antigas e também quero poder acessar minhas notas offline."
+
+<span> Gustavo Martins </span>– "Sinto falta de um recurso de marcação de texto importante."
+
+
+### Com que frequência você precisa sincronizar suas notas em diferentes dispositivos?
+
+<span> Matheus Campos </span>– "Eu uso vários dispositivos ao longo do dia, então seria ideal ter sincronização em tempo real para que as atualizações sejam refletidas imediatamente."
+
+### Você precisa de suporte para anexar arquivos, como imagens ou documentos, nas suas notas?
+
+<span> Matheus Campos </span>– "Não é uma necessidade crucial para mim, mas seria útil poder anexar imagens em algumas notas."
+
+### Você tem alguma preocupação com relação à segurança e privacidade das suas notas no aplicativo Simplenote?
+
+<span> Murilo Perazzo </span>– "Eu valorizo muito a segurança e a privacidade dos meus dados. Seria importante que o Simplenote oferecesse criptografia de ponta a ponta e opções de autenticação para proteger minhas notas."
+
+### Há algum recurso específico que você gostaria que o Simplenote tivesse para melhorar sua produtividade?
+
+<span> Gabriel Lobato</span>– "Seria incrível se o aplicativo tivesse uma função de lembrete integrada para que eu pudesse definir lembretes de tarefas diretamente nas notas."
+
+### Quais são as suas preferências em relação à organização e categorização de notas?
+
+<span> Murilo Perazzo </span>– "Eu prefiro ter a opção de criar pastas para organizar minhas notas e poder pesquisar com base nessas categorias."
+<span> Lucka Fagundes </span>– "Eu costumo colocar ou etiquetas em minhas notas para ter facilidade de busca e organização criativa."
+
+
+
+
+## Brainstorming
 
 ### Requisitos Funcionais
 
@@ -90,11 +148,11 @@ RNF -> Requisito não funcional
 
 > [2] Milene Serrano, Requisitos - Aula 07. Acesso em: 10 de jul. de 2022. Disponível em: Aprender3.
 
-> [3] Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
 
 ## Histórico de versão
 | Versão | Data       | Autor        | Descrição     | Revisor     |
 | :----: | ---------- | ------------ | ------------- | ----------- |
 |  1.0   | 01/05/2023 | Ian da Costa | Brainstorming | Ana Beatriz |
 | `1.1`  | 13/05/2023 | Ajustes pós entrega               | Beatriz | Ana Beatriz      |
+| `1.2`  | 13/05/2023 | Ajustes finais  | Ian da Costa | Mylena      |
 
