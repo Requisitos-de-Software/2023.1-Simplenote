@@ -1,14 +1,17 @@
 # Histórias de Usuário
+
 ## Participantes
+
 Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
 
-|Nome|Cargo|
-|----|-----|
-|[Júlio César](https://github.com/JulioDinizN)|PO|
-|Kauã|Equipe de desenvolvimento|
-|Ana Beatriz|Equipe de desenvolvimento|
+| Nome                                          | Cargo                     |
+| --------------------------------------------- | ------------------------- |
+| [Júlio César](https://github.com/JulioDinizN) | PO                        |
+| Kauã                                          | Equipe de desenvolvimento |
+| Ana Beatriz                                   | Equipe de desenvolvimento |
 
 ## Introdução
+
 Neste artefacto será realizado as histórias de usuário do aplicativo Simplenote. Histórias de usuário é uma tecnica de modelagem ágil que permite que a equipe entenda a necessidade do usuário e trabalhe em cima dessas necessidades de maneira eficiente.
 
 ## O que são histórias de usuário ?
@@ -27,15 +30,16 @@ Com essas dimensões, podemos montar propriamente a estrutura das histórias de 
 - Dentre vários outros beneficios.
 
 ## Metodologia
+
 A princípio, durante o projeto foram elicitados os requisitos do aplicativo através de tecnicas como:
 
-- [Brainstorming](../../elicitacao/brainstorming.md)
-- [Entrevista](../../elicitacao/entrevista.md)
-- [Glossário](../../elicitacao/glossario.md)
-- [Instrospecção](../../elicitacao/Introspec%C3%A7%C3%A3o.md)
-- [Personas](../../elicitacao/personas.md)
-- [Questionário](../../elicitacao/questionario.md)
-- [Storytelling](../../elicitacao/storytelling.md)
+- [Brainstorming](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/brainstorming.md)
+- [Entrevista](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/entrevista.md)
+- [Glossário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/glossario.md)
+- [Instrospecção](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md)
+- [Personas](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/personas.md)
+- [Questionário](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/questionario.md)
+- [Storytelling](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/elicitacao/storytelling.md)
 
 Posteriormente, foi efetuado a priorização dos requisitos elicitados com as tecnicas de:
 
@@ -46,6 +50,7 @@ Posteriormente, foi efetuado a priorização dos requisitos elicitados com as te
 Então, as funcionalidades foram escritas de maneira rápida e padronizada seguindo as especificações presentes no [Backlog](backlog.md).E por fim, foi efetuado uma validação do documento através de uma reunião com o pseudo-PO do projeto.
 
 ## Padrão de história de usuário
+
 Para escrever as histórias de usuário, devemos seguir as dimensões já especificadas neste documento, assim, para a modelagem da histórias de usuário deste projeto, devemos ter as seguintes informações:
 
 - ID : Identificador das histórias de usuário, como o documento foi organizado em toggles, estão presentes no titulo dos mesmos.
@@ -56,6 +61,7 @@ Para escrever as histórias de usuário, devemos seguir as dimensões já especi
 - Dificuldade de Implementaçao(DI): relacionado a dificultade de implementar, podemos defini-la em baixa, média e alta.
 
 ## Histórias de Usuário
+
 Em seguida, temos as histórias de usuário:
 
 <details>
@@ -87,7 +93,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US02 - Visualizar minhas notas</summary>
+   <summary>US02 - Visualizar nota</summary>
    <table>
       <thead>
          <tr>
@@ -248,7 +254,6 @@ Em seguida, temos as histórias de usuário:
    </div>
 </details>
 
-
 <details>
    <summary>US08 - Separar notas em tags</summary>
    <table>
@@ -304,7 +309,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US10 - Escrever em latex nas notas</summary>
+   <summary>US10 - Utilizar latex nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -331,7 +336,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US11 - Escrever em markdown nas notas</summary>
+   <summary>US11 - Utilizar markdown nas notas</summary>
    <table>
       <thead>
          <tr>
@@ -385,7 +390,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US13 - Baixar cópia das notas</summary>
+   <summary>US13 - Baixar cópias de notas no dispositivo</summary>
    <table>
       <thead>
          <tr>
@@ -412,7 +417,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US14 - Salvar notas automaticamente</summary>
+   <summary>US14 - Salvamento automático de notas</summary>
    <table>
       <thead>
          <tr>
@@ -438,8 +443,8 @@ Em seguida, temos as histórias de usuário:
    </div>
 </details>
 
-
 ## Validação das histórias de usuário
+
 Para a validação das histórias de usuário, foi feita uma entrevista com o product owner(PO) [Júlio César](https://github.com/JulioDinizN) que está disponivel [neste link](https://youtu.be/XFLfx9RYVpg). A reunião foi feita pelo Teams no dia 13/06/2023 às 21 horas,após a entrevista, foram feitas as alterações necessárias.
 
 ### Bibliografia
@@ -450,11 +455,11 @@ Para a validação das histórias de usuário, foi feita uma entrevista com o pr
 
 
 ### Histórico de versão
-| Versão | Data | Descrição| Autor(es)| Revisor(es)
-|--|--|--|--|--|
-| `1.0` |11/05/2023|Criação do documento| Kauã e João | Mylena |
-|`1.1` |13/05/2023|Adição das user stories| Kauã e João | Mylena |
-|`1.2`|24/05/2023|Mudanças pontuais |Kauã|Mylena|
-|`1.3`|13/06/2023|Mudanças nas histórias de usuário e textos|Kauã|Mylena|
-|`1.4`|05/07/2023|Ajustes Finais|Ana Beatriz|Kauã|
+| Versão | Data       | Descrição                                  | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ------------------------------------------ | ----------- | ----------- |
+| `1.0`  | 11/05/2023 | Criação do documento                       | Kauã e João | Mylena      |
+| `1.1`  | 13/05/2023 | Adição das user stories                    | Kauã e João | Mylena      |
+| `1.2`  | 24/05/2023 | Mudanças pontuais                          | Kauã        | Mylena      |
+| `1.3`  | 13/06/2023 | Mudanças nas histórias de usuário e textos | Kauã        | Mylena      |
+| `1.4`  | 05/07/2023 | Ajustes Finais                             | Ana Beatriz | Kauã        |
 

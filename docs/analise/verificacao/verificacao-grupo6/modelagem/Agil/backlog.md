@@ -21,8 +21,8 @@ Também temos o campo "Observação", um campo no qual pode ser feito algum come
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------ |
 | 01  | O artefato possui Introdução?                                                                          | Sim        | -                                                      |
 | 02  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Sim        | -                                                      |
-| 03  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Imcompleto | [ID03](backlog.md#observacoes-e-problemas-encontrados) |
-| 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -                                                      |
+| 03  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Incompleto | [ID03](backlog.md#observacoes-e-problemas-encontrados) |
+| 04  | Todos os textos estão na norma padrão?                                                                 | Sim        | -                                          
 | 05  | As tabelas são chamadas no texto?                                                                      | Sim        | -                                                      |
 | 06  | Os revisores são pessoas diferentes dos autores?                                                       | Sim        | -                                                      |
 
@@ -76,5 +76,5 @@ Para melhorar ainda mais o artefato é possivel fazer algumas alterações:
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es) |
 | ------ | ---------- | -------------------- | ----------- | ----------- |
 | `1.0`  | 27/05/2023 | Criação do documento | Ana Beatriz | -           |
-| `1.1`  | 09/06/2023 | Ajsutes              | Ana Beatriz | Mylena      |
-| `1.2`  | 05/07/2023 | Ajsutes Finais       | Ana Beatriz | Beatriz     |
+| `1.1`  | 09/06/2023 | Ajustes              | Ana Beatriz | Mylena      |
+| `1.2`  | 05/07/2023 | Ajustes Finais       | Ana Beatriz | Beatriz     |

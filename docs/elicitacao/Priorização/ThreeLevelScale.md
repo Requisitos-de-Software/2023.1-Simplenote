@@ -1,4 +1,7 @@
 # Three Level Scale ou TLS
+## Introdução
+
+Este é o documento de Three Level Scale do projeto de requisitos do grupo 5 referente ao Simplenote. A princípio, o documento tem a finalidade de definir quais requisitos serão priorizados pela equipe de desenvolvimento através das tabelas dos requisitos.
 
 ## Introdução
 Este artefacto é referente ao documento da tecnica de priorização First things first relativo aos requisitos elicitados pelo [grupo 5](https://github.com/Requisitos-de-Software/2023.1-Simplenote) da turma de requisitos de software da Universidade de Brasília 2023/1.
