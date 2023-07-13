@@ -103,22 +103,37 @@ Na sexta entrega buscou-se produzir os artefactos de pos-rastreabilidade
 - Matriz Geral
 
 
+
 ### 🔗 Links
 [Gravação](https://www.youtube.com/watch?v=jzbskGjNgxk)
 
 [Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/Simplenote6)
 
 
+## Entrega Final (05/07/2023)
+### 📖 Descrição: 
+Na Enrega Final foi elaborado um Post Mortem e o resumo geral do projeto
+### ⚙️ Documentação
+- Entrega Final
+- Post Mortem
+
+
+### 🔗 Links
+[Gravação](https://youtu.be/LXq3VFgYJVg)
+
+[Release](https://github.com/Requisitos-de-Software/2023.1-Simplenote/releases/tag/SimplenoteFinal)
+
 
 ## Histórico de versão
 
-| Versão | Data | Descrição| Autor(es)| Revisor(es)
-|--|--|--|--|--|
-| `1.0`|17/04/2022|Entrega 1| Mylena| Todos
-| `2.0`|01/05/2022|Entrega 2 | Mylena| Todos
-| `3.0`| 25/05/2023| Entrega 3 e 4| Mylena | Todos
-| `4.0`| 17/06/2023| Entrega 5.1| Mylena | Todos
-| `5.0`| 02/07/2023| Entrega 5.2 e entrega 6| Mylena | Todos
+| Versão | Data       | Descrição               | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ----------------------- | ----------- | ----------- |
+| `1.0`  | 17/04/2022 | Entrega 1               | Mylena      | Todos       |
+| `2.0`  | 01/05/2022 | Entrega 2               | Mylena      | Todos       |
+| `3.0`  | 25/05/2023 | Entrega 3 e 4           | Mylena      | Todos       |
+| `4.0`  | 17/06/2023 | Entrega 5.1             | Mylena      | Todos       |
+| `5.0`  | 02/07/2023 | Entrega 5.2 e entrega 6 | Mylena      | Todos       |
+| `6.0`  | 12/07/2023 | Entrega Final           | Ana Beatriz | Todos       |
 
 
 
