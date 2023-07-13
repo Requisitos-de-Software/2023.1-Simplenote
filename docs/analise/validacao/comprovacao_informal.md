@@ -30,14 +30,22 @@ para a equipe do Simplenote. Pode ser visualizada na Figura 1, uma captura de te
  
 <img src="../../../img/informal_validation.png">
 <figcaption>Figura 1 - Mensagem enviada para equipe do Simplenote. Fonte Autor (2023). </figcaption>
+
+<img src="../../../img/informal_validation_response.png">
+<figcaption>Figura 2 - Resposta enviada pela equipe do Simplenote. Fonte Autor (2023). </figcaption>
  
 </div>
 
 </center>
 
+
+
 ## Resultados
 
-Até a data de criação deste artefato, ainda não obtivemos retorno dos desenvolvedores, assim que obtvermos o artefato sera autalizado.
+Os resultados obtidos até o momento mostram que a equipe do Simplenote recebeu a solicitação de feedback sobre a documentação do
+projeto. A equipe expressou interesse em fornecer feedback, porém, destacaram que o link do projeto está em português e eles 
+podem não ter os recursos necessários para traduzir e revisar. Eles solicitaram a documentação em inglês e o link para uma 
+página específica que deseja que seja revisada. É importante ressaltar que enviaremos uma mensagem de resposta, na qual serão apresentados alguns dos nossos artefatos traduzidos.
 
 ## Referências
 
@@ -45,8 +53,13 @@ Até a data de criação deste artefato, ainda não obtivemos retorno dos desenv
 
 [2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
+[3] Simplenote Support Forums. Disponível em: <https://forums.simplenote.com/>. Acesso em: 19 jun. 2023.
+
+‌
+
 ## Histórico de versão
 
-| Versão | Data       | Descrição           | Autor(es)            | Revisor(es) |
-| ------ | ---------- | ------------------- | -------------------- | ----------- |
-| `1.0`  | 21/06/2023 | Criação do artefato | Ana Beatriz e Mylena | João        |
+| Versão | Data       | Descrição            | Autor(es)            | Revisor(es) |
+| ------ | ---------- | -------------------- | -------------------- | ----------- |
+| `1.0`  | 21/06/2023 | Criação do artefato  | Ana Beatriz e Mylena | João        |
+| `1.1`  | 12/07/2023 | Adicionando resposta | Ana Beatriz          | Mylena      |
