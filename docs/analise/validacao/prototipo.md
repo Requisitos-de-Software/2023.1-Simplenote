@@ -164,11 +164,11 @@ experiência de uso. Com base nisso, e estamos comprometidos em levar em conside
 
 ## Referências
 
-[1] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 20 jun. 2023
+> [1] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 20 jun. 2023
 
-[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> [2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-[3] Figma. Disponível em: <https://www.figma.com/file/oAmOTvKcjLRS654uMoQSPN/SimpleNote?type=design&node-id=0-1&t=tySorZ07TBuMIrjO-0>. Acesso em: 21 jun. 2023.
+> [3] Figma. Disponível em: <https://www.figma.com/file/oAmOTvKcjLRS654uMoQSPN/SimpleNote?type=design&node-id=0-1&t=tySorZ07TBuMIrjO-0>. Acesso em: 21 jun. 2023.
 
 
 ## Histórico de versão

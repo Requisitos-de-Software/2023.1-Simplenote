@@ -49,11 +49,11 @@ página específica que deseja que seja revisada. É importante ressaltar que en
 
 ## Referências
 
-[1] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 20 jun. 2023
+> [1] UNIVESP. Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. YouTube, 21 jun. 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s>. Acesso em: 20 jun. 2023
 
-[2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> [2] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-[3] Simplenote Support Forums. Disponível em: <https://forums.simplenote.com/>. Acesso em: 19 jun. 2023.
+> [3] Simplenote Support Forums. Disponível em: <https://forums.simplenote.com/>. Acesso em: 19 jun. 2023.
 
 ‌
 

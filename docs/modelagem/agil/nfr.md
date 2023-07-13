@@ -95,7 +95,7 @@ Tabela 3: Participantes, Autor(a): Mylena
 
 <div align="center">
   
-<img src="../img/legenda.png">
+<img src="../../../img/legenda.png">
   
 </div>
 
@@ -108,7 +108,7 @@ Tabela 3: Participantes, Autor(a): Mylena
 
 <div align="center">
   
-<img src="../img/RótulosNFR.png">
+<img src="../../../img/RótulosNFR.png">
   
 </div>
 
@@ -150,7 +150,7 @@ Tabela 4: Requisitos de Usabilidade , Autor(a): Beatriz
 ### Sem Propagação
 
 <div align="center">
-<img src="../img/NFR_USABILIDADEV2.png">
+<img src="../../../img/NFR_USABILIDADEV2.png">
 </div>
 
 <div align="center">
@@ -160,7 +160,7 @@ Figura 3: NFR-1 Usabilidade Sem Propagação, Autor(a): Beatriz
 ### Com Propagação
 
  <div align="center">
-<img src="../img/Propag_USABILIDADE.png">
+<img src="../../../img/Propag_USABILIDADE.png">
 </div>
 
 <div align="center">
@@ -220,7 +220,7 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 ### Sem Propagação
 <div align="center">
  
-<img src="../img/disponibilidade.png">
+<img src="../../../img/disponibilidade.png">
 <figcaption>Figura 5: NFR-2 Disponibilidade, Autor(a): Mylena </figcaption>
  
 </div>
@@ -229,7 +229,7 @@ Tabela 7: Requisitos de Disponibilidade, Autor(a): Beatriz
 
  <div align="center">
  
-<img src="../img/PropDisponibilidade.png">
+<img src="../../../img/PropDisponibilidade.png">
 <figcaption>Figura 6: NFR-1 Disponibilidade com Propagação, Autor(a): Beatriz </figcaption>
  
 </div>
@@ -288,7 +288,7 @@ Tabela 10: Requisitos de Portabilidade, Autor(a): Beatriz
 
 ### Sem Propagação
 <div align="center">
-<img src="../img/portabilidade.png">
+<img src="../../../img/portabilidade.png">
 </div>
 
 <div align="center">
@@ -298,7 +298,7 @@ Figura 7: NFR-3 Portabilidade, Autor(a): Leonardo e Beatriz  </figcaption>
  ### Com Propagação
 
  <div align="center">
-<img src="../img/PropagPortabilidade.png">
+<img src="../../../img/PropagPortabilidade.png">
  </div>
  
  <div align="center">
@@ -343,7 +343,7 @@ Tabela 12: Requisitos de Performance, Autor(a): Beatriz
 ### Sem Propagação
 
  <div align="center"> 
-  <img src="../img/performance.png">
+  <img src="../../../img/performance.png">
   </div>
  
   <div align="center">
@@ -353,7 +353,7 @@ Tabela 12: Requisitos de Performance, Autor(a): Beatriz
   ### Com Propagação
 
  <div align="center">
-<img src="../img/PropagPerformance.png">
+<img src="../../../img/PropagPerformance.png">
 </div>
 
 <div align="center">

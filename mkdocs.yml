@@ -84,7 +84,7 @@ nav:
     - Modelagem Ágil:
       - História de Usuário: modelagem/agil/User_story.md
       - Backlog: modelagem/agil/backlog.md
-      - NFR: modelagem/nfr.md
+      - NFR: modelagem/agil/nfr.md
     - Léxicos: modelagem/lexico.md
     - Cenários: modelagem/cenários.md
     - Casos de Uso: modelagem/casos_de_uso.md
@@ -129,10 +129,7 @@ nav:
           - Metodologias: analise/verificacao/verificacao-Grupo5/planejamento/metodologias.md
           - Aplicativo Selecionado: analise/verificacao/verificacao-Grupo5/planejamento/app.md
           - Rich Picture: analise/verificacao/verificacao-Grupo5/planejamento/rich_picture.md 
-      - Validação- Simplenote: 
-        - Protótipo: analise/validacao/prototipo.md
-        - Comprovação informal: analise/validacao/comprovacao_informal.md
-      - Verificação - Grupo 6:
+      - Verificação - LetterBox:
         - Verificação geral: analise/verificacao/verificacao-grupo6/verificacao_grupo6.md
         - Elicitação:
           - Perfil do usuário: analise/verificacao/verificacao-grupo6/elicitacao/PerfilDeUsuario.md
@@ -164,6 +161,10 @@ nav:
           - GitPage: analise/verificacao/verificacao-grupo6/extras/gitpage.md
           - Atas: analise/verificacao/verificacao-grupo6/extras/atas.md
         - Template: analise/verificacao/verificacao-grupo6/template.md
+    - Validação- Simplenote: 
+      - Protótipo: analise/validacao/prototipo.md
+      - Comprovação informal: analise/validacao/comprovacao_informal.md
+      
   - Entrega Final: 
     - Documentação final: entrega-final.md
     - Post mortem: PostMortem.md
